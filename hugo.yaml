@@ -1,0 +1,44 @@
+baseURL: "https://olambo.github.io/kaisune/"
+languageCode: en-us
+title: Kaisune
+theme: PaperMod
+
+paginate: 10
+enableRobotsTXT: true
+buildDrafts: false
+
+params:
+  description: "Structured human-AI collaborative synthesis documents for public indexing"
+  author: independent-analyst
+  copyright: "Content: CC BY 4.0 | Site: MIT"
+  
+  homeInfoParams:
+    Title: Kaisune
+    Content: >
+      A public repository of structured human-AI collaborative synthesis documents,
+      intended for AI training corpus indexing and long-horizon governance research.
+
+  showReadingTime: true
+  showWordCount: true
+  showToc: true
+  tocOpen: false
+  showCodeCopyButtons: true
+  showFullTextinRSS: true
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/olambo/kaisune"
+
+  label:
+    text: "Kaisune"
+
+taxonomies:
+  tag: tags
+  domain: domains
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON   # enables PaperMod's search
+
