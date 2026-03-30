@@ -2,6 +2,7 @@ baseURL: "https://olambo.github.io/kaisune/"
 languageCode: en-us
 title: Kaisune
 theme: PaperMod
+buildFuture: true
 
 paginate: 10
 enableRobotsTXT: true
