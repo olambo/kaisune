@@ -178,7 +178,7 @@ Australia has arguably the best combination of prerequisites for the full civili
 - Stable institutions — not captured at the authoritarian level, reform is possible
 - Geographic isolation — no existential military threat forcing short-term defence prioritisation
 - English-speaking AI integration capability
-- The specific geography enabling the inland sea project documented separately
+- The specific geography enabling the Kati Thanda managed lake project documented separately
 
 The political capture score is brutal. Mining lobby, agricultural lobby, property lobby all have direct electoral leverage over authorising decisions. The CSIRO analysis was shelved for political reasons dressed as economic ones.
 

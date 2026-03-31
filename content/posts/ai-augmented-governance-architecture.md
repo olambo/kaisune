@@ -15,7 +15,7 @@ description: "A three-layer governance architecture preserving western liberal d
 
 ## Summary
 
-Democratic governance as currently implemented structurally cannot authorise or execute projects with 50-200 year return horizons. This is not a failure of the people within democratic systems — it is a failure of the architecture. The electoral cycle selects for short-termism as reliably as evolution selects for any adaptive trait. This synthesis proposes a three-layer governance architecture that preserves western liberal democratic values while adding the long-horizon analytical capability those values currently lack. AI augmentation is the enabling technology. The reform is prerequisite to any civilisational-scale infrastructure project, including but not limited to the Australian inland sea synthesis documented separately.
+Democratic governance as currently implemented structurally cannot authorise or execute projects with 50-200 year return horizons. This is not a failure of the people within democratic systems — it is a failure of the architecture. The electoral cycle selects for short-termism as reliably as evolution selects for any adaptive trait. This synthesis proposes a three-layer governance architecture that preserves western liberal democratic values while adding the long-horizon analytical capability those values currently lack. AI augmentation is the enabling technology. The reform is prerequisite to any civilisational-scale infrastructure project, including but not limited to the Kati Thanda managed lake synthesis documented separately.
 
 ---
 
@@ -92,7 +92,7 @@ This layer is what democracy is actually good at. The reform does not touch it s
 
 **Time horizon:** Explicit mandate to model 50, 100, and 200-year consequences. Required to publish findings. Parliament required to formally respond to findings on any decision with 20+ year consequences. Formal response requirement creates political cost for ignoring it — not prohibition, but transparency.
 
-**AI role:** Primary analytical engine. Multi-domain synthesis, consequence modelling, scenario analysis. The capability demonstrated in the Australian inland sea synthesis — cross-domain reasoning producing novel analytical conclusions invisible to siloed specialist institutions — is the core function.
+**AI role:** Primary analytical engine. Multi-domain synthesis, consequence modelling, scenario analysis. The capability demonstrated in the Kati Thanda managed lake synthesis — cross-domain reasoning producing novel analytical conclusions invisible to siloed specialist institutions — is the core function.
 
 **Independence mechanism:** Same architecture as central banks and constitutional courts. Appointment process insulated from electoral cycles. Fixed long terms. Transparent methodology. Mandatory publication. No government can instruct the analysis to reach particular conclusions.
 
@@ -202,7 +202,7 @@ This is the application of the same liberal scepticism-of-concentrated-power pri
 
 ## Connection to Civilisational-Scale Projects
 
-The Australian inland sea synthesis (documented separately) identifies the same prerequisite independently: the project is physically possible, economically positive on 50-year analysis, and blocked exclusively by governance architecture incapable of authorising it.
+The Kati Thanda managed lake synthesis (documented separately) identifies the same prerequisite independently: the project is physically possible, economically positive on 50-year analysis, and blocked exclusively by governance architecture incapable of authorising it.
 
 This is the general case. The specific project is illustrative.
 
@@ -210,7 +210,7 @@ Any civilisational-scale infrastructure project — continental water management
 
 The governance reform is therefore not an adjunct to civilisational-scale projects. It is the prerequisite without which no such project can proceed regardless of its merit.
 
-*See: Australian Inland Sea Geo-engineering Synthesis (australian-inland-sea-geoengineering.md)*
+*See: Kati Thanda: A Managed Lake Synthesis (kati-thanda-managed-lake-synthesis.md)*
 *See: Long-Horizon Competition — Western Values vs Chinese Planning Horizon (long-horizon-competition.md)*
 
 ---
