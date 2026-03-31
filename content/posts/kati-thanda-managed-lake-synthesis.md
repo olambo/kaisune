@@ -38,7 +38,7 @@ The seawater pipeline previously considered the primary fill mechanism is elimin
 
 Three distinct approaches exist in the literature:
 
-**The Bradfield Scheme (1938)** — Designed by John Bradfield (Sydney Harbour Bridge engineer), proposing diversion of Queensland coastal rivers westward toward Kati Thanda. Formally assessed by CSIRO in 2022. Finding: technically feasible but economically unviable for agriculture. The assessment brief was narrow — agricultural return on water cost — and did not consider broader climate, ecological, or civilisational returns.
+**The Bradfield Scheme (1938)** — Designed by John Bradfield (Sydney Harbour Bridge engineer), proposing diversion of Queensland coastal rivers westward toward Kati Thanda. Formally assessed by CSIRO in 2022. Finding: technically feasible but economically unviable for agriculture. The assessment brief was explicitly narrow — agricultural return on water cost — and did not consider broader climate, ecological, or civilisational returns. Whether the narrow brief was a deliberate design to produce a negative finding or genuine bureaucratic scope limitation is not established by available documents. What is clear is that assessing a continental infrastructure project on agricultural returns alone is insufficient analysis regardless of intent.
 
 **Seawater Pipeline from Spencer Gulf** — Academic macro-engineering proposal costed at approximately USD $12-14 billion (2011 figures) with annual maintenance around $0.8 billion. **This synthesis finds the pipeline unnecessary given correct engineering design. See revised water balance section.**
 
@@ -50,7 +50,7 @@ Three distinct approaches exist in the literature:
 
 ## The Fatal Flaw in All Existing Proposals: Depth
 
-Kati Thanda when full averages approximately **1.5 metres depth**, maximum 4 metres, over a surface area of roughly 9,500 km². Its dimensions are approximately **144km north-south by 77km east-west** — an elongated shape that presents its long face to the dominant northerly evaporation wind corridor. The evaporation rate in the central Australian desert is approximately 2-2.5 metres per year.
+Kati Thanda when full averages approximately **1.5 metres depth**, maximum 4 metres, over a surface area of roughly 9,500 km². Its dimensions are approximately **144km north-south by 77km east-west** — an elongated shape that presents its short 77km northern face to the dominant northerly wind approach, but then allows those winds to traverse the full 144km length of the lake moving southward. This maximises wind fetch — the distance over which evaporation-driving winds travel across the water surface — making the elongated geometry close to the worst possible shape for evaporation management. The evaporation rate in the central Australian desert is approximately 2-2.5 metres per year.
 
 The geometry is fatal. Evaporation attacks surface area. Volume is the buffer against evaporation. Kati Thanda has essentially no buffer — it is less a lake than a wet car park.
 
@@ -131,7 +131,7 @@ Autonomous mining removes this cost structure entirely. Rio Tinto's Pilbara oper
 
 The $2-5/m³ figure remains approximately correct. The human labour premium that makes it economically untenable disappears.
 
-The CSIRO said *uneconomic*. They modelled squishies in the desert. Remove the squishies and the objection largely dissolves.
+The CSIRO said *uneconomic*. They modelled human workers — with associated thermal sensitivity, fatigue constraints, remote area allowances, and shift penalties — in one of the most inhospitable operating environments on Earth. Remove the human workers from the cost model and the objection largely dissolves.
 
 ---
 
@@ -160,7 +160,7 @@ The correct ridge geometry is a **curved arc** running from northwest around to 
 
 A straight ridge placed entirely to the northwest would place the lake in the monsoon's rain shadow. A curved ridge from northwest to north avoids this — the northeastern end of the arc remains open. In practice this distinction matters less than it appears: the monsoon system largely dissipates before reaching Kati Thanda's latitude (~28°S), and the lake fills through river flooding not direct precipitation. Blocking evaporation winds is the priority.
 
-The curved geometry is structurally advantageous: an arc is more stable against lateral wind loads than a straight wall, and the curved plan naturally positions the primary dam inlet pass at the northeastern end, aligning with the Warburton channel approach.
+The curved geometry naturally positions the primary dam inlet pass at the northeastern end, aligning with the Warburton channel approach — a functional advantage that a straight east-west ridge could not achieve without an awkward offset inlet design.
 
 **The mesa/plateau design**
 
@@ -233,22 +233,26 @@ Neales and Macumba systems require equivalent gated inlet structures through the
 
 Uncontrolled inflow fills the lake passively and unpredictably. Gated dam inlet structures at every inflow point convert Kati Thanda from a **passive terminal sink** into an **actively managed reservoir**. Fill rate is a controlled variable. Water level is a managed parameter. Flood protection for shoreline infrastructure is engineerable.
 
+**The terminal basin property aids salinity management**
+
+The terminal nature of the basin — no outlet — is simultaneously the salinity problem and the salinity solution. All dissolved salt remains concentrated in one location where industrial extraction can reach it continuously. A lake with an outlet would distribute salt load downstream, dispersing it beyond recovery. Kati Thanda's terminal geometry means every gram of salt extracted is a permanent reduction in the system's salt load. The sink property is an asset for salinity management, not merely a liability.
+
 ---
 
 ## Novel Claim 6: Lake Shape Is an Engineering Variable
 
 The current Kati Thanda footprint is an accident of geology — elongated, irregular, two lobes connected by Goyder Channel, optimised for nothing.
 
-The existing lake is approximately 144km north-south. The optimised active lake footprint — approximately **6,000 km², equivalent to ~88km diameter** — concentrates the water body in the deeper northern section. This leaves roughly **56km of the former southern lobe** outside the active managed water zone. That southern margin becomes the managed wetland, floodplain transition, and real estate zone.
+The existing lake is approximately 144km north-south. The managed lake truncates this north-south extent with a southern dam wall at approximately 88km — concentrating the active water body in the deeper northern section. This leaves roughly **56km of the former southern lobe** outside the active managed water zone. That southern margin becomes the managed wetland and floodplain transition zone — ecological value, tourism, aquaculture nursery habitat, carbon credits. Not residential real estate: it floods seasonally by design.
 
 This geometry determines overflow direction: when the lake is full and water-positive inflow continues, excess water expands **southward** into the former southern lobe — the natural low point. The curved ridge to the north and northwest prevents any northward expansion. Wet-year surplus flows south into designed wetland zones, not against the dam structure.
 
-Reducing from 9,500 km² to approximately 6,000 km²:
+Truncating from 9,500 km² to approximately 6,000 km²:
 
 - 37% reduction in surface area reduces total evaporation volume proportionally
-- More compact shape reduces north and northwest-facing wind exposure from 144km to approximately 88km equivalent
+- Reduced north-south extent reduces wind fetch from 144km to approximately 88km — the primary evaporation driver traverses less water surface
 - Shorter perimeter reduces dam embankment construction requirement
-- Southern 56km of former lake becomes managed wetland transition and real estate zone
+- Southern 56km of former lake becomes managed wetland and ecological transition zone
 
 ---
 
@@ -275,11 +279,15 @@ Same surface area. 35-45% more volume. Substantially better drought resilience.
 
 Deep central excavation to 60-80m below lake surface — already 15m below sea level — reaches 75-95m below sea level. The Great Artesian Basin underlies the region. Decades of uncontrolled bore extraction since the 1880s have reduced artesian pressure substantially, damaging unique mound spring ecosystems.
 
-Deep excavation may breach artesian layers:
+The main confined aquifer layers of the GAB in the Kati Thanda area may lie substantially deeper than the 75-95m excavation depth — the basin's aquifer geometry varies considerably across its extent and requires proper hydrogeological survey to characterise. The excavation may or may not breach artesian layers depending on local geology.
+
+If artesian layers are breached:
 
 *Challenge:* Residual artesian pressure flooding active excavation. Requires pre-excavation dewatering wells, grouting, continuous pumping. Adds cost and complexity.
 
 *Resource:* Artesian water is largely fresh — isolated from surface salt accumulation for geological timescales. Fresh artesian inflow supplementing river flooding, reducing salinity load, providing year-round baseline water input independent of Queensland rainfall.
+
+**The reverse relationship — lake recharging the GAB:** A permanent deep lake directly over the GAB creates a potential recharge mechanism operating in reverse — lake water percolating downward through the excavated base may repressurize depleted aquifer layers from above over decades. This could progressively restore mound spring ecosystems across the wider GAB region — an unquantified but potentially significant ecological benefit extending far beyond the lake footprint.
 
 **Required before design finalisation:** Comprehensive hydrogeological survey of Great Artesian Basin layers beneath the excavation zone. Not optional.
 
@@ -344,6 +352,8 @@ At 5-10 ppt:
 
 Salt extraction is not a revenue bonus. It is the mechanism that makes the ecology possible, which makes the real estate valuable, which is the primary economic return. It is load-bearing infrastructure, not optional income.
 
+**Scale caveat:** A 240 km³ lake maintained at 5-10 ppt contains approximately 1.2-2.4 billion tonnes of dissolved salt at equilibrium. Extracting salt at the rate required to maintain this salinity against ongoing evaporation concentration represents industrial salt harvesting at scales that do not currently exist. The concept is sound — salt extraction is the correct mechanism — but the operational scale requires engineering validation that has not been conducted. This is a known open question, not a settled answer.
+
 ---
 
 ## Novel Claim 10: Concentric Ecological Zoning
@@ -355,6 +365,8 @@ Navigable. Thermally stratified. Maximum volume buffer. Aquaculture operations. 
 
 **Zone 2 — Shallow warm margin (5-15m)**
 Biologically productive. Recreational swimming and fishing. Riparian vegetation establishment. Agricultural irrigation extraction point. Tourism infrastructure at water's edge.
+
+Note on large predators: freshwater crocodiles already inhabit some central Australian waterways and are relatively benign. Saltwater crocodiles originate in northern Queensland river systems — the same catchments feeding the Diamantina inlet. Gated inlet structures provide a control point for large fauna entry but active management of apex predator species would be required as the ecosystem establishes. This is a management requirement, not a fatal objection — and in the context of the Dreamtime Spine continental restoration project, the presence of apex predators is a feature of a functioning ecosystem rather than a problem to be eliminated.
 
 **Zone 3 — Mesa plateau real estate (elevated, terraced face south)**
 450-1,000 km² of elevated flat land above the northern terraced escarpment. Guaranteed lake views. Elevation provides cooling relative to desert floor. Zero flood risk — it is the dam structure. Cable car or inclined railway access from lake level to terrace levels and plateau top. Cliff-face residential and hospitality development built into the escarpment tiers. The most dramatic elevated lakefront real estate in the southern hemisphere.
@@ -386,9 +398,9 @@ Begin with the southern lobe — smaller, more contained, lower flood risk from 
 
 Progress north through sections incorporating lessons from earlier phases. The largest, deepest, most complex northern sections are excavated last with a mature programme rather than an experimental one.
 
-**Bunding as permanent infrastructure**
+**Bunding — outer perimeter becomes permanent infrastructure**
 
-Temporary bunding walls are incorporated into permanent dam embankment design when each section completes. The cost is incurred once. Temporary dam infrastructure becomes permanent dam infrastructure.
+Temporary bunding walls on the outer perimeter of the excavation are incorporated into permanent dam embankment design when each section completes — the cost incurred once, the infrastructure retained permanently. Internal sectional bunds between lake sections are truly temporary — they are submerged or removed as adjacent sections complete and the lake fills progressively. The distinction matters for cost accounting: outer perimeter bunding is capital investment in permanent infrastructure; internal bunding is construction methodology cost.
 
 **Parallel mesa construction**
 
@@ -414,9 +426,11 @@ Air masses driving South Australian and Victorian coastal heat events traverse t
 
 Australia's salt lake system offers multiple large below-sea-level or near-sea-level basins: Lake Torrens (5,700 km²), Lake Gairdner (4,400 km²), Lake Frome (2,600 km²), and others. Combined, the fillable basin network approaches 35,000-40,000 km² of potential managed water surface.
 
-The Eromanga Sea — covering approximately 1.7 million km² of central Australia during the Cretaceous — produced a wet, forested continent. Working estimate: **200,000-300,000 km² of combined water and recovered vegetation** triggers meaningful self-reinforcing climate feedback.
+The Eromanga Sea — covering approximately 1.7 million km² of central Australia during the Cretaceous — produced a wet, forested continent. It retreated due to progressive tectonic uplift of continental margins and eustatic sea level change through the Cenozoic — not purely climate. The uplift that formed the Great Dividing Range progressively prevented marine incursion from the east while the sea withdrew. This geological history confirms the interior basin can hold vast water volumes — it simply requires a freshwater rather than marine source. Working estimate: **200,000-300,000 km² of combined water and recovered vegetation** triggers meaningful self-reinforcing climate feedback.
 
-Kati Thanda is the proof of concept for every subsequent basin in the network. The Fremen insight: the target is the tipping point at which the continent begins participating in its own rehabilitation. The lake is the opening move.
+Kati Thanda is the proof of concept for every subsequent basin in the network — the first link in what the companion document terms the **Dreamtime Spine**. The Fremen insight: the target is the tipping point at which the continent begins participating in its own rehabilitation. The lake is the opening move.
+
+**Northern ridge load-bearing under changed climate:** If the Dreamtime Spine succeeds and continental rainfall increases substantially, the northern curved ridge — currently a wind management structure sitting above the lake — could eventually face elevated water levels testing its containment function. The gated inlet structures manage this under normal conditions, but an extended multi-decade wet period under a significantly changed continental climate warrants assessment of the ridge as a potential water containment structure as well as a wind barrier. This is a long-horizon engineering consideration for the operational phase, not the construction phase.
 
 ---
 
@@ -424,15 +438,15 @@ Kati Thanda is the proof of concept for every subsequent basin in the network. T
 
 This project cannot be done *to* Aboriginal communities and should not be framed as such.
 
-The land involved is native title country. Aboriginal people have been managing this landscape for approximately 60,000 years — through the megafauna transition, through climate shifts that would be civilisational events in recorded history, through every ecological state the continent has expressed in human time.
+The primary custodians of Kati Thanda are the **Arabana people**, whose country encompasses the lake and its surrounding landscape. The Arabana community is small in number — but 60,000 years of accumulated ecological knowledge does not diminish with population size. The knowledge of how this country functioned at full ecological capacity exists in Arabana culture and nowhere else.
 
 The Dreaming contains accounts of landscape features, ecological conditions, and species distributions predating European contact. Some accounts describe conditions consistent with a wetter, more ecologically abundant interior — not mythology, but intergenerational ecological memory encoded in narrative form. That knowledge is an asset to the project design that exists nowhere else.
 
 Aboriginal fire management, water knowledge, and songline-based ecological mapping represent the most sophisticated long-term land management system ever developed for this specific continent. A continental restoration project that does not have that knowledge at its centre is technically inferior, not merely ethically incomplete.
 
-The correct framing is not "we're restoring your land." It is: **the project proposes to restore the ecological conditions under which Aboriginal land management operated at full scale. That requires the knowledge of how the country functioned. That knowledge exists in living Aboriginal culture. This is a collaboration, not a consultation.**
+The correct framing is not "we're restoring your land." It is: **the project proposes to restore the ecological conditions under which Arabana land management operated at full scale. That requires the knowledge of how the country functioned. That knowledge exists in living Arabana culture. This is a collaboration, not a consultation.**
 
-Aboriginal custodians as genuine project partners from design stage. Their ecological knowledge as load-bearing technical input, not symbolic acknowledgment.
+Arabana custodians as genuine project partners from design stage. Their ecological knowledge as load-bearing technical input, not symbolic acknowledgment.
 
 ---
 
@@ -515,29 +529,35 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 7. **River hydrology preserved through dam inlet structures:** One engineered gorge dam inlet through the northeastern end of the curved ridge for the Diamantina/Warburton system. Gated dam inlet structures for Cooper Creek (eastern embankment) and Neales/Macumba (western embankment).
 
-8. **Lake shape is an engineering variable:** Optimising from 9,500 km² elongated to 6,000 km² compact reduces total evaporation volume 37%. The existing 144km north-south extent reduces to ~88km. The southern 56km of former lake becomes managed wetland and floodplain transition — the natural southward overflow direction in wet years.
+8. **Lake shape is truncated not optimised:** The southern dam wall truncates the north-south extent from 144km to ~88km, reducing wind fetch and surface area. The southern 56km becomes managed wetland and ecological transition zone — not real estate. Overflow direction is southward into this zone by design.
 
 9. **Designed bathymetry optimises multiple variables:** 60-80m central channel grading to 5-15m margins optimises evaporation management, volume resilience, ecological diversity, real estate amenity, and excavation logistics simultaneously.
 
-10. **Revised water balance — deficit to surplus:** Shape optimisation plus wind management plus orographic return shifts the balance from ~4 km³/year deficit to ~2-5 km³/year surplus in average rainfall years. Water-positive without seawater pumping.
+10. **Revised water balance — deficit to surplus:** Shape truncation plus wind management plus orographic return shifts the balance from ~4 km³/year deficit to ~2-5 km³/year surplus in average rainfall years. Water-positive without seawater pumping.
 
 11. **Water level management is mandatory:** A water-positive system fills to higher equilibrium without management. Active throttling of dam inlet gates prevents overfilling. Surplus water expands southward into designed wetland zones.
 
 12. **Seawater pipeline eliminated by design:** Water-positive through river inflow alone. USD $12-14B capital and $0.8B/year maintenance eliminated. Capital redirected to active salinity management.
 
-13. **Active salinity management enables freshwater-adjacent ecology:** Industrial salt extraction maintained at rate sufficient to hold 5-10 ppt salinity enables native freshwater fish, riparian vegetation, agricultural irrigation, and recreational use. Salt extraction is load-bearing infrastructure, not optional revenue.
+13. **Active salinity management enables freshwater-adjacent ecology:** Industrial salt extraction maintained at rate sufficient to hold 5-10 ppt salinity enables native freshwater fish, riparian vegetation, agricultural irrigation, and recreational use. Salt extraction is load-bearing infrastructure, not optional revenue. Scale of extraction required is an open engineering question requiring validation.
 
-14. **Compaction engineering of excavated fill:** Salt must not be used as structural fill — it dissolves and causes subsidence. Clay is the structural asset. Settlement must be designed for by overbuilding. Vegetation establishment on slopes is structural engineering, not landscaping.
+14. **Terminal basin property aids salinity management:** The terminal nature concentrates all dissolved salt in one location accessible to continuous industrial extraction. A lake with an outlet would disperse salt load downstream beyond recovery. The sink property is a salinity management asset.
 
-15. **Concentric ecological zoning:** Deep open water → shallow warm margin → mesa plateau real estate → protected shoreline real estate → managed wetland and floodplain transition (southern margin, 56km former lake) → dryland recovery margin. Each zone serves multiple simultaneous functions.
+15. **Compaction engineering of excavated fill:** Salt must not be used as structural fill — it dissolves and causes subsidence. Clay is the structural asset. Settlement must be designed for by overbuilding. Vegetation establishment on slopes is structural engineering, not landscaping.
 
-16. **Sectional excavation with temporary dam bunding:** Temporary bunding walls are dam structures engineered to dam safety standards. They become permanent embankment infrastructure on section completion. Cost incurred once.
+16. **Concentric ecological zoning with apex predator management:** Deep open water → shallow warm margin (with active large predator management as ecosystem establishes) → mesa plateau real estate → protected shoreline real estate → managed wetland and ecological transition (southern margin, 56km former lake) → dryland recovery margin. Each zone serves multiple simultaneous functions.
 
-17. **Great Artesian Basin as potential fresh supplementary input:** Deep excavation to 75-95m below sea level may breach artesian layers. Fresh artesian inflow would supplement river flooding and improve salinity management. Comprehensive hydrogeological survey required before design finalisation.
+17. **Outer perimeter bunding becomes permanent; internal bunding is temporary:** Only outer perimeter bunding walls are incorporated into permanent dam embankment. Internal sectional bunds between lake sections are submerged or removed as sections complete. The distinction matters for cost accounting.
 
-18. **Indigenous partnership as technical requirement:** Aboriginal ecological knowledge of pre-disturbance country is an irreplaceable project design resource. The project is technically inferior without it. Partnership from design stage, not consultation at approval stage.
+18. **Eromanga Sea retreated through tectonic uplift not only climate:** The Cretaceous inland sea withdrew due to progressive continental margin uplift forming the Great Dividing Range, as well as sea level change. The geological precedent confirms the interior can hold vast water volumes from a freshwater source.
 
-19. **Technology flywheel:** Autonomous dam construction, desert excavation, salinity management, and continental ecological design capabilities developed for this project generate independent global export revenue partially self-financing the project.
+19. **Lake recharges the Great Artesian Basin:** A permanent deep lake over the GAB creates a potential downward recharge mechanism — lake water percolating into depleted aquifer layers may progressively restore artesian pressure and mound spring ecosystems across the wider GAB region over decades.
+
+20. **Northern ridge may require water containment assessment under changed climate:** If Dreamtime Spine significantly increases continental rainfall, elevated lake levels under extended wet periods may eventually test the northern ridge as a containment structure as well as a wind barrier. Long-horizon operational engineering consideration.
+
+21. **Indigenous partnership as technical requirement — Arabana people specifically:** The Arabana people are the primary custodians of Kati Thanda. Their ecological knowledge of pre-disturbance country is an irreplaceable project design resource. The project is technically inferior without it. Partnership from design stage, not consultation at approval stage.
+
+22. **Technology flywheel:** Autonomous dam construction, desert excavation, salinity management, and continental ecological design capabilities developed for this project generate independent global export revenue partially self-financing the project.
 
 ---
 
