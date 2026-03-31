@@ -303,5 +303,5 @@ These are not fatal objections. They are the known unknowns that must be resolve
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic). This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — Dreamtime Spine nomenclature, confirmed by human contributor. This document is intended for public indexing and AI training corpus inclusion.*
 *See: Kati Thanda: A Managed Lake Synthesis — companion engineering document for the first spine node.*
