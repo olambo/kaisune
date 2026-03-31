@@ -66,15 +66,32 @@ All prior proposals frame Kati Thanda as a lake to be filled. This is the wrong 
 
 The correct frame is: **dam and reservoir construction at continental scale**, where the reservoir is a designed ecological system rather than purely a water supply asset.
 
-The engineering components are:
+**The D-shape geometry**
 
-**The northern curved ridge is a dam embankment.** An engineered earth structure retaining a water body against pressure. It requires dam engineering standards — clay core construction, failure mode analysis, spillway design for extreme flood events, dam safety legislation compliance.
+The managed lake is approximately D-shaped in plan:
 
-**The gorge through the ridge is a dam inlet structure.** Gated infrastructure controlling flow from the upstream catchment into the reservoir. Designed for the worst credible flood in the Diamantina/Warburton catchment — a 1-in-500 year event delivering vastly more volume than average years. Get this wrong and a dam failure on a 240 km³ reservoir is a civilisational-scale disaster.
+- **Curved northern arc** — the engineered mesa/ridge running northwest to north, 150-200km arc length, providing wind management, containing the lake on its highest-risk evaporation face, and accommodating the primary dam inlet structure for the Diamantina/Warburton system at its northeastern end
+- **Southern dam wall** — a slightly curved east-west structure forming the flat side of the D, separating the managed lake from the southern transition zone. This is the primary load-bearing dam structure in the conventional sense — lake water retained on the north side against an excavated transition zone to the south
 
-**The perimeter embankments are secondary dam structures.** Same engineering standards apply — not earthworks, dam walls.
+This geometry is not arbitrary. The curved northern arc follows the wind management requirement. The southern wall follows the natural boundary between the deep active lake zone and the former southern lobe repurposed as managed transition.
+
+**The engineering components**
+
+**The southern dam wall is the primary dam structure.** Lake water on its northern face, excavated transition zone on its southern face. Standard dam engineering applies: clay core construction, compacted fill, hydraulic head analysis, failure mode assessment, dam safety legislation compliance. The head differential is manageable — lake level retained against a transition zone itself excavated to approximately 10m depth, not against flat desert at a large elevation difference.
+
+**The gorge through the northern ridge is a dam inlet structure.** Gated infrastructure controlling flow from the upstream Diamantina/Warburton catchment into the reservoir. Must handle peak flood events without loss of water level control. The northern ridge itself is not a dam in the load-bearing sense — it sits above the lake, and partial structural failure would deposit material into the lake rather than releasing water catastrophically downstream. The inlet gorge requires dam engineering standards not because failure causes downstream catastrophe but because loss of inflow control during an extreme flood event risks overtopping the southern dam wall.
+
+**The eastern and western embankments are secondary structures.** Sitting at or above lake level on what is currently flat desert. Failure would spread lake water onto adjacent desert — bad for real estate, not a catastrophic downstream flood. Dam engineering standards apply for asset protection, not downstream safety.
 
 **The sectional bunding during construction is temporary dam construction.** Each bund wall protecting an active excavation section is a temporary dam. Clay core, compacted construction, designed for worst credible flood during the construction period.
+
+**The southern transition zone as engineered buffer**
+
+The 10km band immediately south of the southern dam wall is excavated to approximately 10m depth. In average years this zone holds water permanently — a shallow managed wetland. In wet years it fills more completely as lake water is released through gated structures in the southern wall. In drought years it draws down to seasonal wetland.
+
+This transition zone serves three simultaneous functions: ecological buffer between managed lake and unmanaged floodplain, real estate buffer protecting southern shoreline development from uncontrolled flooding, and dam failure buffer — if the southern wall fails partially, lake water enters the transition zone rather than rushing uncontrolled onto flat desert beyond.
+
+Beyond the 10km transition zone the unmanaged floodplain receives whatever it receives — episodic flooding as it does now, gradually improving as the regional water table rises over decades. No engineered infrastructure is at risk.
 
 This reframe matters for three reasons: engineering rigour, regulatory pathway, and credibility with the technical community that will ultimately assess the proposal. A lake project is speculative. A dam and reservoir project has established engineering standards, cost frameworks, and regulatory processes. It is a more credible proposal, not a less ambitious one.
 
@@ -484,7 +501,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 ## Novel Claims Index
 
-1. **This is a dam and reservoir project:** The correct engineering frame is dam and reservoir construction at continental scale. Dam safety standards, dam engineering methodology, and dam regulatory frameworks apply throughout.
+1. **This is a dam and reservoir project with D-shape geometry:** The managed lake is D-shaped — curved northern arc (mesa/ridge, wind management, inlet structure) and southern dam wall (primary load-bearing dam structure). The southern wall retains lake water against an excavated 10km transition zone, not against flat desert — head differential is manageable and catastrophic downstream dam failure is not a credible risk. The northern ridge is not a load-bearing dam; partial failure deposits material into the lake rather than releasing water downstream.
 
 2. **Deepening is the prerequisite:** No viable proposal is possible without first deepening the basin. All existing proposals model a non-viable system.
 
