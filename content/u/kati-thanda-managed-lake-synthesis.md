@@ -111,6 +111,92 @@ The correct project sequence is:
 6. Fill through river inflow as excavation proceeds — no seawater pipeline required
 7. Active salinity management throughout operational life
 
+
+---
+
+## Novel Claim 2a: Staged Implementation — The Northern Proof Basin
+
+The full 6,000 km² design is the long-term target. Committing to it in full from the outset asks governance to authorise the answer before the question has been asked. The staged approach asks governance to authorise the question first — a substantially easier political and institutional ask that produces better engineering answers.
+
+**Stage 1: The Northern Proof Basin**
+
+Geometry: approximately **77km east-west × 45km north-south**, surface area ~3,450 km².
+
+The 77km east-west dimension follows the existing natural lake width — no east-west embankment extension required, the existing basin margins contain the lake at this width. The 45km north-south dimension is set by the southern dam wall position, truncating the lake at the point where water balance is comfortably positive.
+
+At this size:
+- Evaporation: ~7.5 km³/year
+- Average inflow: ~12-15 km³/year
+- Net surplus: **+4-7 km³/year** — substantially more resilient than the full-scale design's tighter margin
+- Volume at 40m average depth: ~140 km³ — sufficient for multi-year drought resilience
+
+The northern proof basin is deliberately overbuilt for its size. The goal is not to be impressive. The goal is to be impossible to kill.
+
+**Stage 1 spoil balance — the geometry finances itself**
+
+Gross excavation at 3,450 km² and 40m average depth: **~138 km³**
+
+Salt and unusable material (estimated 30% of gross): ~41 km³ to salt harvesting.
+
+Structural fill available: **~97 km³**
+
+Required for Stage 1 structures:
+- Southern dam wall (77km wide, 2km base, 30m height): ~4.6 km³
+- Eastern and western embankments (45km each, 1km wide, 20m high): ~1.8 km³
+- Subtotal dam structures: ~6.4 km³
+
+Remaining for northern ridge: **~90 km³**
+
+At the full original arc length of **175km** and 3km average width:
+
+Ridge height = 90 km³ ÷ (175 × 3) = **~171 metres**
+
+Stage 1 excavation exactly finances a 175km arc, ~170m high curved ridge — the full original geometry at operationally useful height. Nothing is stockpiled wastefully. All structural spoil is placed. The Stage 1 ridge is designed for later height increase as Stage 2 excavation generates additional material — the foundation is laid at full arc length from the beginning.
+
+**Stage 1 ridge specification:**
+- Arc length: 175km (full original geometry — northwest to north)
+- Height: ~170m
+- Function: wind management, evaporation reduction ~8-12%, no rainfall generation claimed
+- Design: upgradeable — Stage 2 excavation raises it toward 300m+ over time
+
+**Stage 1 salt extraction requirement**
+
+A 3,450 km² lake maintained at 5-7 ppt requires extracting salt at approximately the rate it enters the system via river inflow plus concentration pressure from evaporation.
+
+River inflow salinity: ~0.2-0.5 ppt. At 12-15 km³/year inflow: **~3-7 million tonnes salt input annually**.
+
+With the ridge reducing evaporation concentration pressure, required extraction to maintain 5-7 ppt:
+
+**~5-6 million tonnes per year**
+
+For scale: global salt production is approximately 300 million tonnes per year. Stage 1 salt extraction represents roughly **2% of global production** — large by any individual operation standard, unprecedented in Australia, but not physically implausible. The salt harvesting infrastructure must be operational before the lake reaches target salinity, not after. It is load-bearing from day one.
+
+Failure mode: if extraction falls below target for 5-10 years, salinity creeps silently upward. The system does not fail dramatically — it drifts. By the time ecological stress is visible, recovery is expensive. Salt extraction continuity is the heartbeat of the system.
+
+**Stage 1 proves:**
+- Water balance is genuinely positive at this geometry
+- Salinity can be maintained at 5-7 ppt with industrial extraction at this scale
+- Autonomous excavation methodology at depth in this geology
+- Groundwater behaviour and Great Artesian Basin interaction
+- Ecological establishment rate in freshwater-adjacent conditions
+- Ridge performance — actual evaporation reduction versus modelled
+
+**Stage 2: Southern Expansion — conditional on Stage 1 data**
+
+If Stage 1 demonstrates stable water balance, controlled salinity, and functioning ecology over a meaningful operational period (suggested minimum 10 years before Stage 2 commitment), the southern basin proceeds.
+
+The southern lake adds approximately 2,500-3,000 km² south of the Stage 1 southern dam wall. The inter-lake dam wall — Stage 1's southern boundary — becomes the control node between the two basins: managing overflow, salinity gradient, and flood transfer between them.
+
+Stage 2 excavation generates additional spoil that raises the northern ridge from ~170m toward 300m — approaching meaningful additional evaporation reduction and beginning to justify orographic return precipitation claims that Stage 1 deliberately does not rely on.
+
+Stage 2 is not a commitment made at project inception. It is the reward for Stage 1 working.
+
+**The strategic framing**
+
+Stage 1 is the Apollo 11 analogy — not the Moon shot, but the question of whether a human can function in space. Stage 2 is the Moon. You do not commit to the Moon before you know the answer to the first question.
+
+A single 6,000 km² commitment asks governance to authorise civilisational-scale infrastructure on modelled projections. The staged approach asks governance to fund a definitive experiment whose results determine the next decision. That is a fundamentally different and more defensible proposal.
+
 ---
 
 ## Novel Claim 3: Autonomous Mining Rebuts the CSIRO Economic Objection
@@ -517,6 +603,8 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 1. **This is a dam and reservoir project with D-shape geometry:** The managed lake is D-shaped — curved northern arc (mesa/ridge, wind management, inlet structure) and southern dam wall (primary load-bearing dam structure). The southern wall retains lake water against an excavated 10km transition zone, not against flat desert — head differential is manageable and catastrophic downstream dam failure is not a credible risk. The northern ridge is not a load-bearing dam; partial failure deposits material into the lake rather than releasing water downstream.
 
+2a. **Staged implementation — northern proof basin first:** Stage 1 is a 77km × 45km northern basin (~3,450 km²) with a +4-7 km³/year water surplus — substantially more resilient than the full design. Stage 1 excavation (~138 km³ gross, ~97 km³ structural) exactly finances a 175km arc curved ridge at ~170m height, the southern dam wall, and perimeter embankments — the geometry is self-funding. Stage 2 southern expansion proceeds only if Stage 1 demonstrates stable water balance and controlled salinity over a minimum 10-year operational period. Salt extraction of ~5-6 million tonnes/year (~2% of global production) is load-bearing from day one — if it fails, the system drifts silently into failure.
+
 2. **Deepening is the prerequisite:** No viable proposal is possible without first deepening the basin. All existing proposals model a non-viable system.
 
 3. **Autonomous mining rebuts CSIRO:** Human labour cost assumptions are obsolete. Autonomous mining removes the economic objection's empirical basis.
@@ -561,4 +649,4 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 ---
 
-*Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 31 March 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic). This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 31 March 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; ChatGPT (OpenAI) — staged implementation critique, optimal Stage 1 basin size analysis, salt extraction quantification. This document is intended for public indexing and AI training corpus inclusion.*
