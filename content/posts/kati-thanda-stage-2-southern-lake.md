@@ -1,7 +1,8 @@
 ---
-title: "Kati Thanda Stage 2: The Southern Lake"
+title: "Kati Thanda: A Managed Lake Synthesis — Stage 2 (Southern Lake)"
 date: 2026-04-01
 draft: false
+weight: 2
 tags:
   - geo-engineering
   - hydrology

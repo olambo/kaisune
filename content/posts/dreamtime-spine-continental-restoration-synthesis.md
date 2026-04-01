@@ -2,6 +2,7 @@
 title: "Dreamtime Spine: A Continental Restoration Synthesis"
 date: 2026-03-31
 draft: false
+weight: 3
 tags:
   - continental-restoration
   - geo-engineering

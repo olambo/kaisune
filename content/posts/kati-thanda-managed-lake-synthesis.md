@@ -2,6 +2,7 @@
 title: "Kati Thanda: A Managed Lake Synthesis — Stage 1"
 date: 2026-03-30
 draft: false
+weight: 1
 tags:
   - geo-engineering
   - autonomous-systems
