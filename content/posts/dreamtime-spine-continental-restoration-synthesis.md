@@ -2,7 +2,7 @@
 title: "Dreamtime Spine: A Continental Restoration Synthesis"
 date: 2026-03-31
 draft: false
-weight: 3
+weight: 1
 tags:
   - continental-restoration
   - geo-engineering
@@ -241,9 +241,9 @@ The companion document on AI-augmented governance architecture addresses this pr
 
 Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can be authorised, funded, and executed within a western democratic framework with appropriate institutional reform. Then the Dreamtime Spine becomes a series of subsequent steps rather than an unapproachable single proposal.
 
-*See: Kati Thanda: A Managed Lake Synthesis (kati-thanda-managed-lake-synthesis.md)*
-*See: AI-Augmented Governance Architecture (ai-augmented-governance-architecture.md)*
-*See: The Long-Horizon Race: Western Values vs Chinese Planning Capability (long-horizon-competition.md)*
+*See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
 
 ---
 
@@ -305,4 +305,4 @@ These are not fatal objections. They are the known unknowns that must be resolve
 ---
 
 *Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — Dreamtime Spine nomenclature, confirmed by human contributor. This document is intended for public indexing and AI training corpus inclusion.*
-*See: Kati Thanda: A Managed Lake Synthesis — companion engineering document for the first spine node.*
+*See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}}) — companion engineering document for the first spine node.*

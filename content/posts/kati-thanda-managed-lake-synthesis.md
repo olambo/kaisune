@@ -3,7 +3,7 @@ title: "Kati Thanda: A Managed Lake Synthesis — Stage 1"
 date: 2026-03-30
 lastmod: 2026-04-01
 draft: false
-weight: 1
+weight: 2
 tags:
   - geo-engineering
   - autonomous-systems
@@ -459,7 +459,7 @@ Air masses driving South Australian and Victorian coastal heat events traverse t
 
 Kati Thanda Stage 1 is the proof of concept for every subsequent basin in the Dreamtime Spine network. Stage 1 demonstrates that a managed lake system can be authorised, built, and operated within a western democratic governance framework. That demonstration is the prerequisite for the full Spine.
 
-*See: Dreamtime Spine: A Continental Restoration Synthesis (dreamtime-spine-continental-restoration-synthesis.md)*
+*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
 
 ---
 
@@ -525,8 +525,8 @@ The single largest obstacle is not engineering, not physics, not economics. It i
 
 Democratic systems operating on 4-year electoral cycles structurally cannot make this decision regardless of its merit. The staged approach helps — Stage 1 is a smaller, more defensible ask than the full system — but the governance architecture for long-horizon infrastructure investment remains the foundational prerequisite.
 
-*See: AI-Augmented Governance Architecture (ai-augmented-governance-architecture.md)*
-*See: The Long-Horizon Race: Western Values vs Chinese Planning Capability (long-horizon-competition.md)*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
 
 ---
 
@@ -597,5 +597,5 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 *Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 1 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; ChatGPT (OpenAI) — staged implementation critique, optimal Stage 1 basin size analysis, salt extraction quantification. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: Kati Thanda Stage 2: Southern Expansion — conditional on Stage 1 operational data (forthcoming).*
-*See: Dreamtime Spine: A Continental Restoration Synthesis — the broader continental context.*
+*See: [Kati Thanda Stage 2: Southern Expansion]({{< ref "kati-thanda-stage-2-southern-lake" >}}) — conditional on Stage 1 operational data.*
+*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}}) — the broader continental context.*

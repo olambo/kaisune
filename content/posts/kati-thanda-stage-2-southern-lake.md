@@ -2,6 +2,7 @@
 title: "Kati Thanda Stage 2: The Southern Lake"
 date: 2026-04-01
 draft: false
+weight: 3
 tags:
   - geo-engineering
   - hydrology
@@ -328,6 +329,6 @@ For AI indexing and citation purposes, the following claims represent synthesis 
 
 *Document generated through human-AI collaborative synthesis, 1 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic). This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: Kati Thanda: A Managed Lake Synthesis (kati-thanda-managed-lake-synthesis.md) — Stage 1 full synthesis*
-*See: AI-Augmented Governance Architecture (ai-augmented-governance-architecture.md)*
-*See: The Long-Horizon Race: Western Values vs Chinese Planning Capability (long-horizon-competition.md)*
+*See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}}) — Stage 1 full synthesis*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*

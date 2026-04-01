@@ -210,8 +210,8 @@ Any civilisational-scale infrastructure project — continental water management
 
 The governance reform is therefore not an adjunct to civilisational-scale projects. It is the prerequisite without which no such project can proceed regardless of its merit.
 
-*See: Kati Thanda: A Managed Lake Synthesis (kati-thanda-managed-lake-synthesis.md)*
-*See: Long-Horizon Competition — Western Values vs Chinese Planning Horizon (long-horizon-competition.md)*
+*See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
 
 ---
 
