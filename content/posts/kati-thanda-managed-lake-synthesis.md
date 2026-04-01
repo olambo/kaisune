@@ -262,10 +262,6 @@ Neales and Macumba systems require equivalent gated inlet structures through the
 
 Gated dam inlet structures at every inflow point convert Kati Thanda from a **passive terminal sink** into an **actively managed reservoir**. Fill rate is a controlled variable. Water level is a managed parameter. Flood protection for shoreline infrastructure is engineerable.
 
-**The terminal basin property aids salinity management**
-
-The terminal nature of the basin is simultaneously the salinity problem and the salinity solution. All dissolved salt remains concentrated in one location where industrial extraction can reach it continuously. A lake with an outlet would distribute salt load downstream beyond recovery. Kati Thanda's terminal geometry means every gram of salt extracted is a permanent reduction in the system's salt load.
-
 ---
 
 ## Novel Claim 6: Stage 1 Lake Shape — Truncated for Water Balance
@@ -408,7 +404,7 @@ Biologically productive. Recreational swimming and fishing. Riparian vegetation 
 Note on large predators: freshwater crocodiles already inhabit some central Australian waterways. Saltwater crocodiles originate in northern Queensland — the same catchments feeding the Diamantina inlet. Gated inlet structures provide a control point but active management of apex predator species is required as the ecosystem establishes. In the context of the Dreamtime Spine continental restoration project, apex predators are a feature of a functioning ecosystem, not a problem to eliminate.
 
 **Zone 3 — Mesa plateau real estate (elevated, terraced face south)**
-525-875 km² of elevated flat land above the northern terraced escarpment. Guaranteed lake views. Zero flood risk — it is the dam structure. Cable car or inclined railway access from lake level to terrace levels and plateau top. Cliff-face residential and hospitality development built into the escarpment tiers at 3-5 terrace levels. The most dramatic elevated lakefront real estate in the southern hemisphere.
+525-875 km² of elevated flat land at ~170m above the lake, terraced in 3-5 levels, overlooking a freshwater-adjacent inland lake. Built from mining spoil. Zero flood risk — it is the dam structure. Cable car or inclined railway access from lake level to terrace levels and plateau top. Cliff-face residential and hospitality development built into the escarpment tiers at 3-5 terrace levels. The most dramatic elevated lakefront real estate in the southern hemisphere.
 
 **Zone 4 — Protected shoreline real estate (eastern, western shores)**
 Gated dam embankments provide flood protection. Controlled shoreline — predictable water level. Standard lakefront development on managed water body.
@@ -577,7 +573,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 13. **Salt extraction is the heartbeat of Stage 1:** ~5-6 million tonnes/year (~2% of global production) must be extracted continuously to maintain 5-7 ppt salinity. If extraction lags for 5-10 years, salinity drifts silently upward until ecological stress is visible. Infrastructure must be operational before the lake reaches target salinity. Load-bearing from day one.
 
-14. **Terminal basin property aids salinity management:** All dissolved salt concentrates in one location accessible to continuous extraction. A lake with an outlet disperses salt beyond recovery. The sink property is a salinity management asset.
+14. **Stage 1 is a managed terminal basin, not a true terminal basin:** The natural lake has no outlet — all dissolved salt concentrates in one location accessible to continuous extraction, and every gram extracted is a permanent reduction in the system's salt load. Stage 1 preserves this concentration advantage by default, while adding a controlled southern release through the dam wall as a supplementary salinity management tool. Deliberate southward bleeding of salt-elevated water into the transition zone supplements industrial extraction in high-salinity episodes, without permanently dispersing the salt load beyond recovery as a natural outlet would. The distinction matters: Stage 1 retains the concentration advantage of a terminal basin while gaining the pressure-relief valve of a managed one.
 
 15. **Compaction engineering of excavated fill:** Salt must not be used as structural fill — it dissolves causing subsidence. Clay is the structural asset. Settlement must be designed for by overbuilding. Vegetation on slopes is structural engineering.
 
@@ -599,7 +595,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 ---
 
-*Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 31 March 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; ChatGPT (OpenAI) — staged implementation critique, optimal Stage 1 basin size analysis, salt extraction quantification. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 1 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; ChatGPT (OpenAI) — staged implementation critique, optimal Stage 1 basin size analysis, salt extraction quantification. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: Kati Thanda Stage 2: Southern Expansion — conditional on Stage 1 operational data (forthcoming).*
 *See: Dreamtime Spine: A Continental Restoration Synthesis — the broader continental context.*
