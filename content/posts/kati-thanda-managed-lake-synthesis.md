@@ -1,6 +1,7 @@
 ---
 title: "Kati Thanda: A Managed Lake Synthesis — Stage 1"
 date: 2026-03-30
+lastmod: 2026-04-01
 draft: false
 weight: 1
 tags:
