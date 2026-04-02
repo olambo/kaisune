@@ -205,7 +205,7 @@ Previous conceptions conflated two distinct engineering functions into one struc
 
 **Wind management** is provided by: a separate engineered ridge, built from excavated spoil, positioned wherever atmospheric modelling identifies maximum reduction in evaporation-driving northerly and northwesterly winds. This ridge does not need to be a dam. It does not need clay core or dam safety certification for water containment. It needs to be high enough to deflect wind and stable enough to remain in place.
 
-Because the wind management ridge is not a containment structure, the engineering standard for its interior material is lower — salt-bearing spoil that cannot go into the dam wall can go into the ridge body, provided the outer surface is capped with stable material.
+Because the wind management ridge is not a containment structure, it does not require a clay core designed for hydraulic pressure. It needs to be a stable compacted hill that stays where it is placed and does not erode. That is a lower standard than a dam — but salt-free structural fill, proper compaction, settlement management, and vegetation binding on the surface are all still required.
 
 **The evaporation problem**
 
@@ -249,7 +249,7 @@ The wind management ridge, perimeter embankments, and finger fill are engineered
 
 **Material classification**
 
-*Salt:* Does not compact reliably. Dissolves progressively causing subsidence. **Salt must not be used in structural dam fills or load-bearing embankments.** For the wind management ridge — not a containment structure — salt-bearing material can be used in the interior body if the surface is capped with stable material. Salt goes primarily to harvesting operations.
+*Salt:* Does not compact reliably. Dissolves progressively causing subsidence. **Salt must not be used in any structural fill — dam wall, embankments, or wind management ridge.** Salt goes to harvesting operations.
 
 *Clay:* Compacts well at correct moisture content. Structural asset for dam wall core and embankment construction.
 
@@ -329,15 +329,17 @@ Real estate and amenity zone. Warm, biologically productive, recreational. Ripar
 
 **Great Artesian Basin groundwater**
 
-Deep central excavation to 60-80m below lake surface reaches 60-80m below sea level at a 0m managed surface. The Great Artesian Basin underlies the region. Main confined aquifer layers may lie substantially deeper — requires proper hydrogeological survey.
+Deep central excavation to 60-80m below lake surface reaches 60-80m below sea level at a 0m managed surface. The Great Artesian Basin underlies the region. Main confined aquifer layers in this area are generally thought to lie at 200m or more below sea level — well below the maximum excavation depth — but the basin's aquifer geometry varies considerably and requires proper hydrogeological survey to characterise before design is finalised.
 
 If artesian layers are breached:
 
-*Challenge:* Residual artesian pressure flooding active excavation. Requires pre-excavation dewatering wells, grouting, continuous pumping.
+*Construction challenge:* Residual artesian pressure flooding active excavation. Requires pre-excavation dewatering wells, grouting, continuous pumping.
 
-*Resource:* Artesian water is largely fresh — year-round baseline water input independent of Queensland rainfall, supplementing river flooding and reducing salinity load.
+*Ecological risk:* Breaching a confined aquifer can depressurise the system well beyond the excavation zone. The GAB feeds mound spring ecosystems across a vast area of central Australia — unique, endemic, and already stressed by over-extraction. Depressurisation from excavation could damage these systems independently of any direct disturbance. This risk must be assessed and mitigated before excavation proceeds, not managed reactively during construction.
 
-**The reverse relationship:** A permanent deep lake over the GAB may percolate downward into depleted aquifer layers, progressively restoring artesian pressure and mound spring ecosystems across the wider GAB region over decades.
+*Resource if managed correctly:* Artesian water is largely fresh — year-round baseline water input independent of Queensland rainfall, supplementing river flooding and reducing salinity load.
+
+**The reverse relationship:** A permanent deep lake over the GAB may percolate downward into depleted aquifer layers over decades, progressively restoring artesian pressure and mound spring ecosystems across the wider GAB region — the opposite of the damage risk above, and a reason to manage the excavation carefully rather than avoid the project.
 
 **Required before design finalisation:** Comprehensive hydrogeological survey beneath the excavation zone. Not optional.
 
@@ -608,7 +610,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 15. **Stage 1 is a managed terminal basin, not a true terminal basin:** Natural lake has no outlet — salt concentrates for efficient extraction. Stage 1 adds controlled southern release through the dam wall as supplementary salinity management. Concentration advantage retained; pressure-relief valve added.
 
-16. **Compaction engineering of excavated fill:** Salt must not be used in structural dam fills. Clay is the structural asset. Salt usable in wind management ridge interior with stable surface capping. Settlement designed for by overbuilding. Vegetation on slopes is structural engineering.
+16. **Compaction engineering of excavated fill:** Salt must not be used in any structural fill — dam wall, embankments, or wind management ridge. It dissolves causing subsidence regardless of where placed. Clay is the structural asset throughout. Settlement designed for by overbuilding. Vegetation on slopes is structural engineering.
 
 17. **Concentric ecological zoning:** Deep open water → shallow warm margin (apex predator management required) → flat northern shore (operational and water-level development) → wind management ridge escarpment real estate → protected shoreline real estate → managed wetland transition → dryland recovery margin.
 
