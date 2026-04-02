@@ -66,7 +66,9 @@ The eastern and western extents of Stage 2 follow the natural terrain at managea
 
 **Depth:**
 
-Stage 2 does not require the same depth as Stage 1. The rationale for Stage 1's deep central channel was volume buffer against evaporation and multi-year drought resilience. Stage 2 operates at higher salinity — higher salinity water evaporates more slowly, reducing the volume buffer requirement. A target average depth of **15-25 metres** with a maximum of 35-40 metres is appropriate.
+Stage 2 does not require the same depth as Stage 1. The rationale for Stage 1's deep target was volume buffer against evaporation, multi-year drought resilience, and critically, thermal stratification — a cool deep reservoir suppressing surface temperature and reducing evaporation. Stage 2 operates at higher salinity — higher salinity water evaporates more slowly, providing independent evaporation reduction that partially compensates for shallower depth.
+
+At a target average depth of **15-25 metres**, Stage 2 sits near the thermocline threshold (typically 10-15m) but does not develop the strong cold deep reservoir that makes Stage 1's thermal stratification effect significant. Stage 2's evaporation reduction comes primarily from salinity rather than thermal stratification — a different mechanism producing a comparable but less powerful result. A target average depth of **20m maximum** is appropriate given the different salinity regime and the diminishing returns on stratification at this scale.
 
 Critically, the Lake Eyre South basin floor averages only approximately **−2m AHD** — dramatically shallower than the northern basin's −12.7m average. Stage 2 operates at a managed surface of **−2.5m AHD** (lower than Stage 1's 0m to create the cascade hydraulic gradient). At −2.5m managed surface and a floor averaging −2m AHD, the natural depth inherited is approximately **0.5m** — essentially zero. Stage 2 must excavate nearly the full target depth from scratch, unlike Stage 1 which inherited 12.7m of natural depth.
 

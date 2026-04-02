@@ -136,12 +136,16 @@ The excavation target is depth below the natural basin floor, not depth from the
 
 The natural basin floor averages **−12.7m AHD** across the northern basin — derived from the 1974 bathymetric data (surface at −9.5m AHD, average depth 3.2m). The excavation target is additional depth **below the natural basin floor**.
 
-**Target total managed average depth: 40m**
+**Target total managed average depth: 40m minimum, 50m+ preferred**
 
 Natural depth at 0m surface: ~12.7m (derived from 1974 bathymetric data: average floor at −12.7m AHD)
-Additional excavation below natural floor: **~27m**
+Additional excavation below natural floor: **~27m** at 40m minimum target
 
-This reduces the excavation requirement by approximately **33%** compared to surface-origin proposals — the single largest cost reduction in the project design.
+40m is the minimum design target — sufficient for thermal stratification, drought resilience, and volume buffer. It is the floor, not the optimum. At 50m+ average depth, thermal stratification strengthens significantly, surface temperature suppression increases, evaporation drops further, and additional spoil raises the ridge to approximately **150m+ in Stage 1 alone** — without waiting for Stage 2.
+
+The preferred depth is therefore **50m+ average**, subject to hydrogeological survey confirming the GAB interaction is manageable at that depth. If survey indicates acceptable risk, design to 50m+. If geology constrains the project to 40m, the system remains viable — 40m is sufficient, not merely adequate.
+
+This reduces the excavation requirement by approximately **33%** compared to surface-origin proposals at the 40m target. At 50m+ the excavation increases but the combined thermal stratification, evaporation reduction, and ridge height benefits justify it.
 
 **Lake surface as design variable**
 
@@ -462,6 +466,18 @@ Estimated 6-10% additional reduction: **~7.1-7.3 km³/year effective evaporation
 
 A robustly positive system. 140 km³ volume at +5-8 km³/year surplus provides approximately 5-10 years of severe drought resilience before significant ecological stress — comparable to major natural freshwater lakes globally.
 
+**Thermal stratification as an additional evaporation reducer**
+
+The standard evaporation figure of ~2-2.5m/year is derived from pan evaporation measurements — a small, fully sunlit, fully heated water body that reaches air temperature rapidly. This systematically overestimates evaporation from a large deep lake with thermal stratification.
+
+At 40m average depth, the managed lake stratifies: a warm surface layer above the thermocline (typically 10-15m down), and a cold stable deep layer below it. The deep water — potentially 15-20°C year-round regardless of season — continuously moderates surface temperature through convective mixing. A cooler surface means lower vapour pressure at the lake surface, which means a smaller evaporation gradient into the dry air above. Evaporation rate is directly related to surface temperature — a surface running 5-8°C cooler than a shallow equivalent could reduce evaporation by 10-20% beyond the geometry and wind corrections already applied.
+
+The natural 3m fill provides no stratification — the entire water column heats to near-air temperature within days of filling. The managed deep lake is a fundamentally different system.
+
+**Depth optimisation — an open modelling question**
+
+This creates a genuinely interesting optimisation. Greater excavation depth produces: stronger thermal stratification, cooler surface temperature, lower evaporation, better water balance — and more spoil, meaning a taller ridge, meaning better wind management, meaning further evaporation reduction. The system compounds positively with depth. The optimal depth is not simply "deeper is better" — spoil placement constraints, geotechnical limits, and GAB interaction all set a ceiling — but the optimisation almost certainly produces a deeper target than the current 40m average and a ridge materially taller than 116m. This warrants dedicated hydrological and thermal modelling before design is finalised.
+
 **Water level management**
 
 Water level is managed primarily through the southern dam wall sluices, not the northern inflow gorges. River flooding is episodic and valuable — it is captured when it arrives, not throttled at the gorge. The surplus bleeds southward through the southern sluices.
@@ -610,6 +626,14 @@ Air masses driving South Australian and Victorian coastal heat events traverse t
 - Cool and moisten passing air measurably — substantially more thermal mass than any shallow saline system previously modelled
 - The ridge intercepts and deflects both northerly and northwesterly hot air flow before it crosses the lake surface
 - Potentially reduce peak temperature of worst Adelaide events by 1-3°C at Stage 1 scale
+
+**Why depth matters for Adelaide heat events**
+
+The natural Kati Thanda fill — 3m average depth — heats completely within days of filling. By the time a northerly heat event traverses the basin, the lake surface is at or near air temperature. Hot dry air crossing 35-40°C water gains little cooling and modest moisture. The thermal moderating effect of the natural lake on Adelaide heat events is therefore minimal.
+
+The managed deep lake is categorically different. At 40m average depth, thermal stratification maintains a cool deep water reservoir year-round. The surface temperature is continuously moderated by mixing with cold deep water — potentially running 5-8°C cooler than a shallow equivalent during summer. Hot dry air crossing a 25-28°C surface loses heat to the lake rather than gaining it, and picks up significant moisture through evaporation. The thermal mass of 140 km³ resists temperature change — the lake is a heat sink, not a heat amplifier.
+
+Whether the lake was ever full during a 45°C+ Adelaide heat event is an answerable question — the BOM temperature record and Lake Eyre fill history both exist — but no published study has performed this analysis. If natural fills show no Adelaide heat reduction, that is consistent with the depth argument: 3m of warm water provides negligible protection. The managed deep lake is a different experiment entirely.
 
 **Connection to the Dreamtime Spine**
 
