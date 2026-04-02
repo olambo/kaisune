@@ -184,7 +184,7 @@ Ridge height = 71 ÷ (175 × 3) = **~135 metres**
 Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~135m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
 
 **Stage 1 ridge specification:**
-- Arc length: 175km (northwest to north)
+- Arc length: 175km (west, curving around north to northeast)
 - Height: ~135m
 - Plateau top: 175km × 3-5km wide = approximately **525-875 km² of elevated flat land**
 - Function: wind management and evaporation reduction — not lake containment
@@ -215,9 +215,9 @@ The natural lake shape maximises wind fetch. Stage 1 addresses this by filling i
 
 Wind fetch in the managed system: approximately **50-60km** north-south — a significant improvement over the 144km natural lake length.
 
-**The curved ridge — northwest to north**
+**The curved ridge — west, around north, to northeast**
 
-The correct ridge geometry is a **curved arc** running from northwest around to north, covering approximately the 300° to 360° compass sector. This geometry:
+The correct ridge geometry is a **curved arc** running from the west, around the north, to the northeast — covering approximately the 240° to 360° compass sector. This geometry protects the lake on its western and northern faces, which together present the largest evaporation-vulnerable fetch given the basin's roughly equidimensional shape after finger filling. This geometry:
 
 - Blocks northwesterly desert winds from the continental interior
 - Blocks northerly winds moving directly south across the lake surface
@@ -606,7 +606,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 8. **Engineered topography as integrated system:** Lake, dam wall, filled fingers, wind management ridge, and flat northern shore zone are one integrated design. Each element serves designed functions in the others.
 
-9. **Curved ridge covers northwest and north:** Blocks northwesterly and northerly evaporation-driving winds. Leaves northeastern quadrant open for Diamantina/Warburton river inflow. Rain shadow falls into existing desert.
+9. **Curved ridge runs west, around north, to northeast:** Protects the lake on its western and northern faces — the primary evaporation-vulnerable fetch given the basin's roughly equidimensional shape. Leaves the northeastern quadrant open for Diamantina/Warburton river inflow. Rain shadow falls into existing desert. Actual optimal geometry determined by atmospheric modelling of dominant wind directions.
 
 10. **River hydrology preserved through dam inlet structures:** Engineered gorge dam inlet for the Diamantina/Warburton system. Gated inlet structures for Cooper Creek (eastern) and Neales/Macumba (western).
 
