@@ -22,6 +22,8 @@ description: "Stage 1 engineering synthesis for the transformation of Kati Thand
 
 ## Summary
 
+Lake Eyre is Australia's largest lake. Most Australians know it — the famous empty lake at the heart of the continent, filling rarely enough that each event makes national news. This synthesis proposes to fill the northern third of it permanently, with fresh water, managed at depth, self-sustaining within a generation. The technology exists. The engineering is solved. The only thing missing is the political will to authorise it.
+
 Prior proposals to flood Kati Thanda (Lake Eyre) have been assessed as economically unviable and climatically insufficient. This synthesis argues those assessments are artifacts of five compounding errors: insufficient depth targets, human labour cost assumptions now obsolete given autonomous mining capability, excessively narrow economic framing, failure to consider engineered topography as an integrated system, and assumption that the lake's existing shape and footprint are fixed constraints.
 
 This document describes **Stage 1 only**: the northern basin of Kati Thanda, managed to a target surface level of **-3m to 0m** (approximately sea level), with a managed surface area of approximately **3,500 km²** after filling shallow inlet fingers with excavated spoil. Stage 1 is designed to be impossible to kill — a comfortably water-positive system with robust drought resilience, demonstrating viability before any commitment to full-scale expansion.
