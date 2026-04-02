@@ -64,7 +64,9 @@ The geometry is fatal. Evaporation attacks surface area. Volume is the buffer ag
 
 At natural fill depth of 1.5 metres, no inflow volume is sufficient to maintain the lake. The depth question is not a refinement — it is the prerequisite that makes the entire project viable.
 
-**The natural basin as an asset:** Topographic survey confirms the Kati Thanda northern basin floor averages **5-8m below sea level**, with a deepest point of approximately -18m. This is not recognised in existing proposals, all of which treat the basin as essentially flat. A managed lake surface at 0m (sea level) inherits 5-8m of average depth before any excavation commences.
+**The natural basin as an asset:** The Kati Thanda northern basin contains the deepest point on the Australian continent at −15.2m AHD, located in Belt Bay and Madigan Gulf (Kotwicki and Allan, 1998; Leon and Cohen, 2012). In the largest recorded historical filling of 1974, the lake reached a surface level of −9.5m AHD with a total volume of 30.1 km³ across approximately 9,500 km² — an average depth of approximately 3.2m (Kotwicki, 1986). The lake is extremely flat and shallow across much of its area, with deep water confined to small central pockets in the northern basin.
+
+For the Stage 1 managed area of approximately 3,500 km² — which concentrates on the deeper northern portion of the basin — the average natural floor elevation at a managed surface of 0m AHD is estimated at approximately **−3m to −5m AHD**, providing roughly **3-5m of average natural depth before any excavation commences**. This is a more conservative estimate than earlier versions of this document claimed, and is appropriately uncertain pending detailed topographic survey. The "depth for free" contribution is real but modest — its significance is not the absolute number but the principle: excavation targets additional depth *below the natural floor*, not from the surface.
 
 **Palaeoclimatic confirmation:** Paleolake Dieri filled the Eyre basin to approximately 25 metres during wetter epochs. It supported megafauna and a substantially different central Australian ecology. The basin geology can support significant depth. The precedent exists.
 
@@ -128,10 +130,10 @@ The natural basin floor averages **5-8m below sea level** across the northern ba
 
 **Target total managed average depth: 40m**
 
-Natural depth at 0m surface: ~6.5m (midpoint estimate)
-Additional excavation below natural floor: **~33.5m**
+Natural depth at 0m surface: ~4m (midpoint estimate for northern basin)
+Additional excavation below natural floor: **~36m**
 
-This compares to earlier estimates that incorrectly assumed excavation from the surface, requiring the full 40m. The natural basin reduces excavation by approximately **15%**.
+This compares to earlier estimates that incorrectly assumed excavation from the surface requiring the full 40m. The natural basin reduces excavation by approximately **10%** — a more modest saving than earlier versions claimed, but meaningful and novel.
 
 **Lake surface as design variable**
 
@@ -164,15 +166,15 @@ The Stage 1 excavation generates exactly the spoil required to build all Stage 1
 **Excavation volume:**
 
 - Managed surface area: ~3,500 km²
-- Additional excavation below natural floor: ~33.5m average
-- Gross excavation: approximately **~117 km³**
+- Additional excavation below natural floor: ~36m average
+- Gross excavation: approximately **~126 km³**
 
-For scale: the Panama Canal excavated roughly 0.2 billion m³. Stage 1 requires approximately 585 Panama Canal equivalents.
+For scale: the Panama Canal excavated roughly 0.2 billion m³. Stage 1 requires approximately 630 Panama Canal equivalents.
 
 **Spoil classification:**
 
-- Salt and unusable material (~30% of gross): ~35 km³ to salt harvesting operations
-- Structural fill available: **~82 km³**
+- Salt and unusable material (~30% of gross): ~38 km³ to salt harvesting operations
+- Structural fill available: **~88 km³**
 
 **Structure requirements:**
 
@@ -181,17 +183,17 @@ For scale: the Panama Canal excavated roughly 0.2 billion m³. Stage 1 requires 
 - Eastern and western perimeter embankments (modest, terrain-following): ~0.5 km³
 - Subtotal: ~5.6 km³
 
-**Remaining for wind management ridge: ~76 km³**
+**Remaining for wind management ridge: ~82 km³**
 
 At 175km arc length and 3km average width:
 
-Ridge height = 76 ÷ (175 × 3) = **~145 metres**
+Ridge height = 82 ÷ (175 × 3) = **~156 metres**
 
-Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~145m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
+Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~156m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
 
 **Stage 1 ridge specification:**
 - Arc length: 175km (west, curving around north to northeast)
-- Height: ~145m
+- Height: ~156m
 - Plateau top: 175km × 3-5km wide = approximately **525-875 km² of elevated flat land**
 - Function: wind management and evaporation reduction — not lake containment
 - No orographic rainfall generation claimed at this height — that is a Stage 2 benefit
@@ -235,7 +237,7 @@ The correct ridge geometry is a **curved arc** running from the west, around the
 The wind management ridge is engineered as a **mesa** — flat-topped plateau with a steep terraced face toward the lake on its southern side and a gradual slope on its northern side.
 
 *Southern face — steep, terraced:*
-A steep southern face deflects northerly and northwesterly winds upward over the lake. At ~145m, a genuinely vertical face is geotechnically problematic for compacted fill. The solution is a **steep terraced face** — cut benches at 30-40m vertical intervals, each bench providing a stable platform and buildable surface area. At 145m with 30-40m terrace intervals, the face has 3-4 buildable terrace levels. Cable car or inclined railway access links lake level to each terrace and the plateau top.
+A steep southern face deflects northerly and northwesterly winds upward over the lake. At ~156m, a genuinely vertical face is geotechnically problematic for compacted fill. The solution is a **steep terraced face** — cut benches at 30-40m vertical intervals, each bench providing a stable platform and buildable surface area. At 156m with 30-40m terrace intervals, the face has 3-4 buildable terrace levels. Cable car or inclined railway access links lake level to each terrace and the plateau top.
 
 *Flat plateau top:*
 175km arc length, 3-5km wide — **525-875 km² of elevated flat land**. Guaranteed views south over the water. No flood risk. The most dramatic elevated lakefront real estate in the southern hemisphere.
@@ -263,7 +265,7 @@ The wind management ridge, perimeter embankments, and finger fill are engineered
 
 **Settlement management**
 
-A 145m ridge from compacted fill will settle over decades. Predictable and designable: overbuild by the settlement margin, manage differential settlement, monitor continuously with autonomous sensor networks.
+A 156m ridge from compacted fill will settle over decades. Predictable and designable: overbuild by the settlement margin, manage differential settlement, monitor continuously with autonomous sensor networks.
 
 **Vegetation as structural component**
 
@@ -376,7 +378,7 @@ Evaporation: ~24 × (3,500/9,500) = **~8.8 km³/year**
 *Wind fetch reduction — 50-60km versus 144km:*
 Additional 8-12% reduction: **~7.8 km³/year**
 
-*Ridge wind management — 145m curved arc:*
+*Ridge wind management — 156m curved arc:*
 Estimated 6-10% additional reduction: **~7.1-7.3 km³/year effective evaporation**
 
 **Stage 1 water balance:**
@@ -451,7 +453,7 @@ Note on large predators: freshwater crocodiles already inhabit some central Aust
 Solar farms, salt processing infrastructure, construction logistics, autonomous fleet operations. Eventually lakeside development at water level — accessible without cable cars, different character from the escarpment real estate. The operational heart of the project during construction, amenity zone thereafter.
 
 **Zone 4 — Wind management ridge escarpment real estate (elevated, terraced face east and south)**
-525-875 km² of elevated flat land at ~145m above the lake, terraced in 3-4 levels. Built from excavated spoil. No flood risk. Cable car or inclined railway access from lake level to terrace levels and plateau top.
+525-875 km² of elevated flat land at ~156m above the lake, terraced in 3-4 levels. Built from excavated spoil. No flood risk. Cable car or inclined railway access from lake level to terrace levels and plateau top.
 
 The ridge has two distinct real estate characters depending on position:
 
@@ -594,7 +596,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 - Eromanga Sea: geological record, Cretaceous period
 - Rio Tinto autonomous operations (Pilbara): operational since 2008, expanded through 2020s
 - Lake Eyre salt crust estimate: geological survey literature
-- Kati Thanda dimensions, basin topography and river systems: Wikipedia Lake Eyre Basin; topographic elevation data; Diamantina River ETA Unknown expedition documentation; Lake Eyre Basin landscape study (Taylor & Francis, 2021); CNN reporting on 2025 fill event; We Are Explorers aerial documentation 2025
+- Kati Thanda bathymetry and hydrology: Kotwicki, V. (1986) *Floods of Lake Eyre*; Kotwicki, V. and Allan, R.J. (1998) La Niña link; Leon, J.X. and Cohen, T.J. (2012) *An improved bathymetric model for the modern and palaeo Lake Eyre*, Geomorphology; Bye, J.A.T. et al. (1978) bathymetric survey from 1974 filling episode
 - Great Artesian Basin: existing literature on over-extraction and remediation programmes
 - Stage 1 basin size optimisation and salt extraction quantification: ChatGPT (OpenAI) critique, March 2026
 
@@ -610,7 +612,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 4. **Inlet fingers filled with spoil, not bunded:** Filling produces flat land at lake level — operationally useful. Reduces managed surface area to ~3,500 km². Modest spoil cost (~5 km³). Proportional evaporation reduction. Cleaner geometry than bunding.
 
-5. **Stage 1 geometry is self-financing:** ~3,500 km² excavation at 33.5m below natural floor generates ~82 km³ structural fill — sufficient to fill inlet fingers, build a 175km arc curved ridge at ~145m, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
+5. **Stage 1 geometry is self-financing:** ~3,500 km² excavation at 36m below natural floor generates ~82 km³ structural fill — sufficient to fill inlet fingers, build a 175km arc curved ridge at ~156m, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
 
 6. **Wind management ridge separated from lake containment:** Ridge is a pure wind management and real estate structure. Not a dam. Not coincident with the lake boundary. Positioned by atmospheric modelling. Salt must not be used in the ridge any more than in the dam wall — it dissolves causing subsidence. Different engineering standard from the dam wall only in that no clay core for hydraulic containment is required.
 
