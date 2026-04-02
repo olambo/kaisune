@@ -78,7 +78,7 @@ The correct frame is: **dam and reservoir construction using the natural basin g
 
 **The natural northern basin as container**
 
-The Kati Thanda northern basin is highly irregular — lobed, with shallow inlet fingers extending outward from the main body, shaped by geology over millions of years. At a managed surface level of -3m to 0m, the natural terrain contains the water on its northern, eastern, and western margins without any major engineered structures. The existing topography is the northern wall.
+The Kati Thanda northern basin is highly irregular — lobed, with shallow inlet fingers extending outward from the main body, shaped by geology over millions of years. At a managed surface level of -3m to 0m, the natural terrain contains the water on its northern margin without any engineered structures. On the eastern and western margins, natural terrain provides partial containment where it rises above the target water level — modest embankments fill the gaps where it dips below. The existing topography does most of the work.
 
 This is fundamentally different from previous conceptions of an engineered northern boundary. The natural terrain performs containment. The wind management ridge — built from excavated spoil — is a separate structure, positioned wherever atmospheric modelling indicates maximum evaporation reduction. It does not need to coincide with the lake boundary.
 
@@ -103,6 +103,8 @@ Finger fill volume at ~2-3m average depth: approximately **5 km³ of spoil place
 **The engineering components**
 
 **The southern dam wall is the primary dam structure.** Lake water on its northern face, excavated transition zone on its southern face. Standard dam engineering: clay core construction, compacted fill, hydraulic head analysis, failure mode assessment, dam safety legislation compliance. Head differential is the lake depth at the wall — 20-30m of water column. Same engineering problem as any major dam.
+
+At approximately **77km in length**, the southern dam wall would be the longest dam wall ever constructed by a significant margin. The Three Gorges Dam — currently the world's largest dam — has a crest length of 2.3km. The Kati Thanda southern dam wall is approximately **33 times longer**. This is not an incremental record — it is a different category of engineering entirely. It is also, it should be noted, a very different engineering problem: the Three Gorges wall retains a 110m head of water against a river; the Kati Thanda wall retains 20-30m of water against an excavated transition zone on flat desert. The length is the challenge, not the head.
 
 **The eastern and western perimeter embankments** are modest structures following the natural terrain at the target water level. Where natural ground rises above target lake level, no embankment is needed. Where it dips below, a modest fill structure closes the gap. Substantially lower engineering requirement than the southern dam wall.
 
@@ -444,8 +446,14 @@ Note on large predators: freshwater crocodiles already inhabit some central Aust
 **Zone 3 — Flat northern shore (lake level, between natural shoreline and ridge)**
 Solar farms, salt processing infrastructure, construction logistics, autonomous fleet operations. Eventually lakeside development at water level — accessible without cable cars, different character from the escarpment real estate. The operational heart of the project during construction, amenity zone thereafter.
 
-**Zone 4 — Wind management ridge escarpment real estate (elevated, terraced face south)**
-525-875 km² of elevated flat land at ~135m above the lake, terraced in 3-4 levels, overlooking a freshwater-adjacent inland lake. Built from excavated spoil. No flood risk. Cable car or inclined railway access from lake level to terrace levels and plateau top. Cliff-face residential and hospitality development built into the escarpment tiers. The most dramatic elevated lakefront real estate in the southern hemisphere.
+**Zone 4 — Wind management ridge escarpment real estate (elevated, terraced face east and south)**
+525-875 km² of elevated flat land at ~135m above the lake, terraced in 3-4 levels. Built from excavated spoil. No flood risk. Cable car or inclined railway access from lake level to terrace levels and plateau top.
+
+The ridge has two distinct real estate characters depending on position:
+
+*Northern escarpment face — looks south over Stage 1:* Classic elevated lakefront. One deep blue freshwater-adjacent lake filling the foreground. The most dramatic single-lake elevated real estate in the southern hemisphere.
+
+*Western escarpment face — looks east over both lakes:* The superior view. Morning sun behind, lake lit from the east all day. Stage 1 blue water in the foreground. The inter-lake dam wall as a visible horizontal feature mid-distance. Stage 2 pink water beyond it. The northern ridge curving away to the right. Two differently coloured managed inland lakes on a continental scale, seen simultaneously from a terraced escarpment in the middle of the Australian desert. This view does not exist anywhere else on Earth — not naturally, not engineered. The western ridge was designed for wind management. The real estate is a consequence of that geometry, not a contrivance.
 
 **Zone 5 — Protected shoreline real estate (eastern, western shores)**
 Perimeter embankments provide flood protection. Controlled shoreline — predictable water level. Standard lakefront development on managed water body.
@@ -590,7 +598,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 ## Novel Claims Index
 
-1. **Dam and reservoir project using the natural basin as primary container:** Natural terrain provides the northern, eastern, and western lake boundaries at target water level. No engineered northern boundary required. The wind management ridge is a separate structure positioned for atmospheric effect, not coincident with the lake boundary.
+1. **Dam and reservoir project using the natural basin as primary container:** Natural terrain provides the northern lake boundary at target water level without construction. Eastern and western margins require modest embankments only where terrain dips below target water level. No engineered northern boundary required. The wind management ridge is a separate structure positioned for atmospheric effect, not coincident with the lake boundary.
 
 2. **Natural basin provides depth for free:** Basin floor averages 5-8m below sea level. At 0m managed surface, this depth is inherited without excavation. Excavation targets depth below the natural floor, reducing required excavation by ~15%.
 
@@ -600,7 +608,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 5. **Stage 1 geometry is self-financing:** ~3,500 km² excavation at 33.5m below natural floor generates ~82 km³ structural fill — sufficient to fill inlet fingers, build a 175km arc curved ridge at ~135m, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
 
-6. **Wind management ridge separated from lake containment:** Ridge is a pure wind management and real estate structure. Not a dam. Not coincident with the lake boundary. Positioned by atmospheric modelling. Salt-bearing material usable in ridge interior with stable surface capping. Different engineering standard from containment structures.
+6. **Wind management ridge separated from lake containment:** Ridge is a pure wind management and real estate structure. Not a dam. Not coincident with the lake boundary. Positioned by atmospheric modelling. Salt must not be used in the ridge any more than in the dam wall — it dissolves causing subsidence. Different engineering standard from the dam wall only in that no clay core for hydraulic containment is required.
 
 7. **Flat northern shore zone as operational and development asset:** Between the natural northern shoreline and the ridge base — flat land at lake level for solar infrastructure, salt processing, construction logistics, and lakeside development at water level. Different character from the escarpment real estate.
 
