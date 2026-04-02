@@ -329,17 +329,27 @@ Real estate and amenity zone. Warm, biologically productive, recreational. Ripar
 
 **Great Artesian Basin groundwater**
 
-Deep central excavation to 60-80m below lake surface reaches 60-80m below sea level at a 0m managed surface. The Great Artesian Basin underlies the region. Main confined aquifer layers in this area are generally thought to lie at 200m or more below sea level — well below the maximum excavation depth — but the basin's aquifer geometry varies considerably and requires proper hydrogeological survey to characterise before design is finalised.
+Deep central excavation to 60-80m below lake surface reaches 60-80m below sea level at a 0m managed surface. The Great Artesian Basin underlies the region.
 
-If artesian layers are breached:
+**The GAB is already damaged.** Uncontrolled artesian bores, agricultural extraction, and over-allocation since the 1880s have substantially reduced artesian pressure across much of the basin. Mound spring ecosystems that depend on that pressure have already contracted or disappeared in many locations. The question is not whether this project risks damaging a pristine system — it does not. The question is whether excavation could cause additional depressurisation of an already stressed system, and whether the long-term lake recharge relationship outweighs that risk.
 
-*Construction challenge:* Residual artesian pressure flooding active excavation. Requires pre-excavation dewatering wells, grouting, continuous pumping.
+**Probability of hitting artesian layers across the lake area:**
 
-*Ecological risk:* Breaching a confined aquifer can depressurise the system well beyond the excavation zone. The GAB feeds mound spring ecosystems across a vast area of central Australia — unique, endemic, and already stressed by over-extraction. Depressurisation from excavation could damage these systems independently of any direct disturbance. This risk must be assessed and mitigated before excavation proceeds, not managed reactively during construction.
+The GAB's main confined aquifer (the Hooray Sandstone) lies generally 200m or more below sea level in the Kati Thanda area — well below the 60-80m maximum excavation depth. The probability of breaching the primary artesian system is therefore low across most of the lake, estimated at 5-15% concentrated where local geological structure brings aquifer layers closer to the surface.
+
+The more realistic risk is shallower semi-confined or sub-artesian layers — secondary aquifer lenses that exist at 40-80m below sea level in parts of the basin. These are less predictable, less well mapped, and could produce localised inflows during excavation without being the main GAB system. Probability of encountering these in at least some excavation sections: moderate, approximately 30-40%.
+
+The risk is spatially variable — highest in the deep central channel excavation (60-80m), lowest at the shallow margins. Pre-excavation hydrogeological survey resolves this before construction commences.
+
+If artesian or sub-artesian layers are breached:
+
+*Construction challenge:* Residual pressure flooding active excavation. Requires pre-excavation dewatering wells, grouting, continuous pumping.
+
+*Ecological risk:* Breaching a confined aquifer can depressurise the system beyond the excavation zone. Given the GAB's already-stressed state, additional depressurisation is a real but contextualised risk — serious enough to require proper assessment and mitigation, not serious enough to be a fatal objection to a project that may ultimately restore pressure.
 
 *Resource if managed correctly:* Artesian water is largely fresh — year-round baseline water input independent of Queensland rainfall, supplementing river flooding and reducing salinity load.
 
-**The reverse relationship:** A permanent deep lake over the GAB may percolate downward into depleted aquifer layers over decades, progressively restoring artesian pressure and mound spring ecosystems across the wider GAB region — the opposite of the damage risk above, and a reason to manage the excavation carefully rather than avoid the project.
+**The reverse relationship:** A permanent deep lake over the GAB percolating downward into depleted aquifer layers represents a partial reversal of 140 years of extraction damage — potentially restoring artesian pressure and mound spring ecosystems across the wider GAB region over decades. This long-term recharge benefit is likely more significant than the excavation risk, and is a reason to manage the project carefully rather than avoid it.
 
 **Required before design finalisation:** Comprehensive hydrogeological survey beneath the excavation zone. Not optional.
 
