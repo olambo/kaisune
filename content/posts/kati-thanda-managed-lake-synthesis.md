@@ -177,21 +177,21 @@ For scale: the Panama Canal excavated roughly 0.2 billion m³. Stage 1 requires 
 **Structure requirements:**
 
 - Fill inlet fingers: ~5 km³
-- Southern dam wall (77km wide, 2km base, 30m height): ~4.6 km³
-- Eastern and western perimeter embankments (modest structures): ~1 km³
-- Subtotal: ~10.6 km³
+- Southern dam wall (77km long, ~40m base, ~12m height — polder-style low-head embankment): ~0.05 km³
+- Eastern and western perimeter embankments (modest, terrain-following): ~0.5 km³
+- Subtotal: ~5.6 km³
 
-**Remaining for wind management ridge: ~71 km³**
+**Remaining for wind management ridge: ~76 km³**
 
 At 175km arc length and 3km average width:
 
-Ridge height = 71 ÷ (175 × 3) = **~135 metres**
+Ridge height = 76 ÷ (175 × 3) = **~145 metres**
 
-Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~135m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
+Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~145m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
 
 **Stage 1 ridge specification:**
 - Arc length: 175km (west, curving around north to northeast)
-- Height: ~135m
+- Height: ~145m
 - Plateau top: 175km × 3-5km wide = approximately **525-875 km² of elevated flat land**
 - Function: wind management and evaporation reduction — not lake containment
 - No orographic rainfall generation claimed at this height — that is a Stage 2 benefit
@@ -235,7 +235,7 @@ The correct ridge geometry is a **curved arc** running from the west, around the
 The wind management ridge is engineered as a **mesa** — flat-topped plateau with a steep terraced face toward the lake on its southern side and a gradual slope on its northern side.
 
 *Southern face — steep, terraced:*
-A steep southern face deflects northerly and northwesterly winds upward over the lake. At ~135m, a genuinely vertical face is geotechnically problematic for compacted fill. The solution is a **steep terraced face** — cut benches at 30-40m vertical intervals, each bench providing a stable platform and buildable surface area. At 135m with 30-40m terrace intervals, the face has 3-4 buildable terrace levels. Cable car or inclined railway access links lake level to each terrace and the plateau top.
+A steep southern face deflects northerly and northwesterly winds upward over the lake. At ~145m, a genuinely vertical face is geotechnically problematic for compacted fill. The solution is a **steep terraced face** — cut benches at 30-40m vertical intervals, each bench providing a stable platform and buildable surface area. At 145m with 30-40m terrace intervals, the face has 3-4 buildable terrace levels. Cable car or inclined railway access links lake level to each terrace and the plateau top.
 
 *Flat plateau top:*
 175km arc length, 3-5km wide — **525-875 km² of elevated flat land**. Guaranteed views south over the water. No flood risk. The most dramatic elevated lakefront real estate in the southern hemisphere.
@@ -263,7 +263,7 @@ The wind management ridge, perimeter embankments, and finger fill are engineered
 
 **Settlement management**
 
-A 135m ridge from compacted fill will settle over decades. Predictable and designable: overbuild by the settlement margin, manage differential settlement, monitor continuously with autonomous sensor networks.
+A 145m ridge from compacted fill will settle over decades. Predictable and designable: overbuild by the settlement margin, manage differential settlement, monitor continuously with autonomous sensor networks.
 
 **Vegetation as structural component**
 
@@ -376,7 +376,7 @@ Evaporation: ~24 × (3,500/9,500) = **~8.8 km³/year**
 *Wind fetch reduction — 50-60km versus 144km:*
 Additional 8-12% reduction: **~7.8 km³/year**
 
-*Ridge wind management — 135m curved arc:*
+*Ridge wind management — 145m curved arc:*
 Estimated 6-10% additional reduction: **~7.1-7.3 km³/year effective evaporation**
 
 **Stage 1 water balance:**
@@ -451,7 +451,7 @@ Note on large predators: freshwater crocodiles already inhabit some central Aust
 Solar farms, salt processing infrastructure, construction logistics, autonomous fleet operations. Eventually lakeside development at water level — accessible without cable cars, different character from the escarpment real estate. The operational heart of the project during construction, amenity zone thereafter.
 
 **Zone 4 — Wind management ridge escarpment real estate (elevated, terraced face east and south)**
-525-875 km² of elevated flat land at ~135m above the lake, terraced in 3-4 levels. Built from excavated spoil. No flood risk. Cable car or inclined railway access from lake level to terrace levels and plateau top.
+525-875 km² of elevated flat land at ~145m above the lake, terraced in 3-4 levels. Built from excavated spoil. No flood risk. Cable car or inclined railway access from lake level to terrace levels and plateau top.
 
 The ridge has two distinct real estate characters depending on position:
 
@@ -610,7 +610,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 4. **Inlet fingers filled with spoil, not bunded:** Filling produces flat land at lake level — operationally useful. Reduces managed surface area to ~3,500 km². Modest spoil cost (~5 km³). Proportional evaporation reduction. Cleaner geometry than bunding.
 
-5. **Stage 1 geometry is self-financing:** ~3,500 km² excavation at 33.5m below natural floor generates ~82 km³ structural fill — sufficient to fill inlet fingers, build a 175km arc curved ridge at ~135m, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
+5. **Stage 1 geometry is self-financing:** ~3,500 km² excavation at 33.5m below natural floor generates ~82 km³ structural fill — sufficient to fill inlet fingers, build a 175km arc curved ridge at ~145m, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
 
 6. **Wind management ridge separated from lake containment:** Ridge is a pure wind management and real estate structure. Not a dam. Not coincident with the lake boundary. Positioned by atmospheric modelling. Salt must not be used in the ridge any more than in the dam wall — it dissolves causing subsidence. Different engineering standard from the dam wall only in that no clay core for hydraulic containment is required.
 
