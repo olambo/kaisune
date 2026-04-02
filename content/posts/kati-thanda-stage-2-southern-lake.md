@@ -26,7 +26,9 @@ Stage 2 of the Kati Thanda managed lake system occupies the former Kati Thanda S
 The two lakes are not the same lake at different scales. They are designed as a cascade system with distinct characters:
 
 - **Stage 1**: 5-7 ppt salinity, freshwater-adjacent ecology, residential and amenity real estate, deep managed reservoir
-- **Stage 2**: 15-25 ppt salinity, brackish/brine ecology, industrial salt extraction zone, halophytic vegetation, distinctive tourism character
+- **Stage 2**: 15-25 ppt salinity, brackish/brine ecology, industrial salt extraction zone, halophytic vegetation, distinctive tourism character — under the current design
+
+If Stage 1 operational data confirms that thermal stratification at greater depth produces sufficiently positive water balance to sustain a southern bleed at freshwater-adjacent salinity, Stage 2 could be redesigned as a second freshwater-adjacent lake — with brine concentration moving to a purpose-built Stage 3. This design evolution is contingent on operational data, not committed at inception.
 
 Stage 1 overflows into Stage 2 through controlled inter-lake sluices, carrying concentrated salt load with it. Stage 2 concentrates that load further. Industrial salt extraction from higher-salinity water is more efficient per tonne. The two lakes manage each other's salinity simultaneously.
 
@@ -257,6 +259,18 @@ Stage 2 is economically positive as a standalone investment given the sunk costs
 **Stage 2 is not committed at project inception.** The 10-year operational minimum for Stage 1 before Stage 2 commitment is a design feature, not a political hedge. The engineering variables that Stage 2 depends on — confirmed inflow surplus, confirmed salinity management at scale, confirmed groundwater behaviour — are not knowable from modelling alone. They require operational data that only exists after Stage 1 is running.
 
 **Stage 2 is not a smaller version of the main project.** It is the completion of a designed system. Stage 1 without Stage 2 is a functioning managed lake. Stage 1 with Stage 2 is a continental cascade water management system with a salinity gradient, two distinct ecologies, and infrastructure that cannot exist without the deliberate two-stage sequence.
+
+**A contingent design evolution: Stage 2 as freshwater-adjacent, Stage 3 as the brine lake**
+
+The current Stage 2 design assumes 15-25 ppt salinity — brackish, ecologically distinct from Stage 1, with brine ecology and industrial salt extraction as its primary economic character. This assumption is based on Stage 2's shallower depth (20m average) and correspondingly weaker thermal stratification effect.
+
+If thermal stratification modelling from Stage 1 operational data demonstrates that a deeper Stage 2 — say 30-35m average — produces sufficient evaporation reduction to sustain a strongly positive water balance, the same southern bleed logic that keeps Stage 1 at 5-7 ppt could keep Stage 2 at freshwater-adjacent salinity. Two freshwater-adjacent lakes in cascade rather than one freshwater and one brine.
+
+In that scenario, the brine concentration function moves to a **Stage 3** — a smaller, purpose-built lake south of Stage 2, receiving controlled overflow from Stage 2, designed specifically for Artemia aquaculture, halophilic algae, and industrial salt extraction at high concentration. Stage 3 is the pink lake. Stage 1 and Stage 2 are both blue.
+
+The tourism proposition improves: two blue freshwater-adjacent lakes visible to the north, one pink brine lake to the south — three distinct managed systems on a continental scale, each with a different ecological and economic character.
+
+This design evolution is conditional on Stage 1 and Stage 2 operational data confirming the water balance supports it. It is noted here as a possibility that the current design does not foreclose, not as a commitment. The staged approach — each phase conditional on the previous phase's data — handles this naturally. Stage 3 is designed when Stage 2 is operational, not before.
 
 ---
 
