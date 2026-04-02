@@ -182,6 +182,10 @@ Australia has arguably the best combination of prerequisites for the full civili
 
 The political capture score is brutal. Mining lobby, agricultural lobby, property lobby all have direct electoral leverage over authorising decisions. The CSIRO analysis was shelved for political reasons dressed as economic ones.
 
+Australia has spent the last century exporting its mineral wealth as raw materials while importing ambition as consumer goods. The one exception — the Snowy Mountains Scheme, built under genuine political will in the 1950s — remains the last continental infrastructure commitment Australia has made. Everything since has been proposed, debated, lobbied against, and shelved. The Bradfield Scheme: 80 years of debate, a narrow CSIRO brief, shelved. Fast rail between Sydney and Melbourne: proposed for 40 years, never started. The Murray-Darling Basin Plan: 30 years of political warfare over a relatively modest water management framework still not fully implemented. AUKUS submarines: $368B for vessels of contested strategic utility while the continent's water systems deteriorate.
+
+This is not a failure of resources or capability. It is a failure of governance architecture — the same failure this document proposes to fix.
+
 Australia has the longest window of any major candidate — no empire to lose, stable base, resources don't disappear. The political reform required is significant but not impossible. The governance architecture document describes what reform would be sufficient.
 
 Australia might not be the first mover. It might be the best long-term outcome — the nation that gets the governance reform right rather than fastest.
