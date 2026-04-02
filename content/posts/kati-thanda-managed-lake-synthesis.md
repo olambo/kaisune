@@ -404,21 +404,32 @@ The lake surface rises from commissioning level (-3m) toward operational level (
 
 **The seawater pipeline is eliminated**
 
-Water-positive through river inflow alone. USD $12-14B capital and $0.8B/year maintenance eliminated. Capital redirected to active salinity management.
+Water-positive through river inflow alone. USD $12-14B capital and $0.8B/year maintenance eliminated.
 
 ---
 
-## Novel Claim 9: Active Salinity Management — The Heartbeat of the System
+## Novel Claim 9: Salinity Self-Regulation Through the Managed Southern Release
 
-**The terminal basin problem**
+**The apparent terminal basin problem**
 
-Kati Thanda is a terminal basin. Evaporation removes pure water, leaving dissolved minerals behind. The existing surface salt crust is estimated at 400 million tonnes, with substantially more in surrounding geology.
+Kati Thanda in its natural state is a terminal basin — evaporation removes pure water, dissolved minerals accumulate, and the lake becomes hypersaline. The existing surface salt crust is estimated at 400 million tonnes. Every prior proposal treated this as a permanent structural problem requiring either massive industrial extraction or acceptance of a hypersaline system.
 
-**The active management solution**
+**Stage 1 is not a true terminal basin**
 
-Fresh river inflow continuously dilutes the dissolved salt load. Industrial salt extraction becomes **load-bearing salinity management infrastructure** — extract salt faster than evaporation concentrates it and salinity is a controlled variable.
+The managed southern release through the dam wall changes everything. Stage 1 has a controlled outlet — and outlets are how every natural freshwater lake manages salinity. The outlet removes water proportionally carrying dissolved salt with it. The lake is not terminal; it is managed.
 
-**Target salinity: 5-7 parts per thousand** (versus ocean's 35 ppt, versus current Kati Thanda brine at 200+ ppt when it occasionally fills naturally).
+**The salt balance**
+
+River inflow: ~12-15 km³/year at 0.2-0.5 ppt → approximately **3-7 million tonnes salt input annually**
+
+Water surplus after evaporation: **+5-8 km³/year** — this surplus bleeds southward through the dam wall.
+
+Salt removed via southern bleed at target salinity of 5-7 ppt:
+5-8 km³ × 5-7 ppt = **25-56 million tonnes salt removed annually**
+
+Salt exits the system **4-8 times faster than it enters**. The southern bleed at target salinity is overwhelmingly sufficient to maintain that salinity without industrial extraction. Evaporation concentrates the salt — but the surplus inflow that replaces evaporated water then carries that concentrated load southward. The net salt balance is strongly negative at target salinity.
+
+**Target salinity: 5-7 parts per thousand**
 
 At 5-7 ppt:
 - Murray cod and native freshwater fish: viable
@@ -427,21 +438,19 @@ At 5-7 ppt:
 - Drinking water with standard treatment: achievable
 - Waterbirds at permanent population scale rather than boom-bust events
 
-**Stage 1 salt extraction requirement**
+**Commissioning: the one genuine salt management challenge**
 
-River inflow salinity: ~0.2-0.5 ppt. At 12-15 km³/year inflow: approximately 3-7 million tonnes salt input annually.
+The existing basin contains an estimated 400 million tonnes of surface salt crust with substantially more in surrounding geology. Getting from 200+ ppt (current natural state when filled) down to 5-7 ppt requires flushing the existing salt load through the system during commissioning — a one-time challenge, not an ongoing operational requirement. As the lake fills progressively through sectional excavation, each section flushes its salt southward naturally. The commissioning sequence manages this automatically.
 
-Required extraction to maintain 5-7 ppt: **~5-6 million tonnes per year**
+**Operational salinity tuning**
 
-For scale: global salt production is approximately 300 million tonnes per year. Stage 1 salt extraction represents roughly **2% of global production** — large by any individual operation standard, unprecedented in Australia, but not physically implausible.
+Once at target salinity, the southern bleed rate controls salinity. If modelling shows the bleed alone is insufficient, the correct response is reducing lake size slightly — moving the dam wall north by a few kilometres increases the water surplus, increases the bleed rate, and improves self-regulation. A smaller, more water-positive lake self-regulates more effectively than a larger marginal one. Size is the tuning lever.
 
-**The failure mode**
+Industrial salt extraction from Stage 1 is available as a supplementary revenue stream — salt harvested from the transition zone and southern bleed outflow — but it is not load-bearing infrastructure for salinity management. The southern bleed handles that.
 
-If extraction falls below target for 5-10 years, salinity creeps silently upward. The system does not fail dramatically — it drifts. By the time ecological stress is visible, recovery is expensive. Salt extraction continuity is the heartbeat of Stage 1. Infrastructure must be operational before the lake reaches target salinity, not after.
+**The failure mode is drought, not extraction failure**
 
-Salt extraction is not a revenue bonus. It is the mechanism that makes the ecology possible, which makes the real estate valuable, which is the primary economic return. It is load-bearing infrastructure, not optional income.
-
-**Scale caveat:** Operating at 5-6 million tonnes/year requires industrial salt harvesting at scales not currently demonstrated in Australia. The concept is sound but operational scale requires engineering validation before design is finalised.
+In extended drought, inflow drops, surplus drops, southern bleed drops, and salinity rises. This is the same failure mode as any natural lake with reduced inflow — not a unique structural weakness of this design. The 140 km³ volume buffer absorbs multiple consecutive low-rainfall years before salinity rises to ecologically significant levels. The gated inlet structures manage recovery as inflow resumes.
 
 ---
 
@@ -553,7 +562,7 @@ Against a Stage 1 project cost of approximately **$260-340 billion over 18-20 ye
 | Flat northern shore development (lakeside at water level, operational zone) | $50-150B |
 | Technology export — autonomous mining, dam engineering, ecological design | $100-300B |
 | Aquaculture — freshwater and low-salinity species range | $50-150B |
-| Salt and mineral extraction — load-bearing operational infrastructure | $50-100B |
+| Salt and mineral extraction — supplementary revenue from transition zone outflow | $25-75B |
 | Agricultural irrigation from lake margins | $100B+ |
 | Climate damage avoided (insurance, health, agricultural losses) | $200-500B |
 | Tourism — inland lake, mesa escarpment, wetland ecology, Aboriginal cultural landscape | $50-100B |
@@ -638,9 +647,9 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 13. **Seawater pipeline eliminated by design:** Water-positive through river inflow alone. USD $12-14B capital and $0.8B/year maintenance eliminated.
 
-14. **Salt extraction is the heartbeat of Stage 1:** ~5-6 million tonnes/year (~2% of global production) extracted continuously to maintain 5-7 ppt. Drift failure mode: silent salinity creep over 5-10 years. Infrastructure load-bearing from day one.
+14. **Stage 1 is not a true terminal basin — salinity self-regulates via southern bleed:** The managed southern release removes water and dissolved salt proportionally — exactly as natural lake outlets do. At target salinity of 5-7 ppt, the annual southern bleed of 5-8 km³ removes 25-56 million tonnes of salt — 4-8 times the annual river inflow salt load of 3-7 million tonnes. Industrial extraction is not required for operational salinity management. The failure mode is drought reducing the surplus and bleed rate — the same failure mode as any natural lake with reduced inflow, not a unique structural weakness.
 
-15. **Stage 1 is a managed terminal basin, not a true terminal basin:** Natural lake has no outlet — salt concentrates for efficient extraction. Stage 1 adds controlled southern release through the dam wall as supplementary salinity management. Concentration advantage retained; pressure-relief valve added.
+15. **Commissioning is the one genuine salt management challenge:** Getting from 200+ ppt (current natural state) to 5-7 ppt requires flushing the existing salt crust through the system during the progressive sectional fill. This is a one-time challenge managed naturally by the excavation sequence — each section flushes southward as it fills. Industrial salt extraction during commissioning accelerates this but is not structurally required. Once at target salinity, the southern bleed maintains it without extraction.
 
 16. **Compaction engineering of excavated fill:** Salt must not be used in any structural fill — dam wall, embankments, or wind management ridge. It dissolves causing subsidence regardless of where placed. Clay is the structural asset throughout. Settlement designed for by overbuilding. Vegetation on slopes is structural engineering.
 
