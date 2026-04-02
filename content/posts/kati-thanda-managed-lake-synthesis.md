@@ -26,11 +26,11 @@ Lake Eyre is Australia's largest lake. Most Australians know it — the famous e
 
 Prior proposals to flood Kati Thanda (Lake Eyre) have been assessed as economically unviable and climatically insufficient. This synthesis argues those assessments are artifacts of five compounding errors: insufficient depth targets, human labour cost assumptions now obsolete given autonomous mining capability, excessively narrow economic framing, failure to consider engineered topography as an integrated system, and assumption that the lake's existing shape and footprint are fixed constraints.
 
-This document describes **Stage 1 only**: the northern basin of Kati Thanda, managed to a target surface level of **-3m to 0m** (approximately sea level), with a managed surface area of approximately **3,500 km²** after filling shallow inlet fingers with excavated spoil. Stage 1 is designed to be impossible to kill — a comfortably water-positive system with robust drought resilience, demonstrating viability before any commitment to full-scale expansion.
+This document describes **Stage 1 only**: the northern basin of Kati Thanda, managed to a target surface level of **-3m to 0m** (approximately sea level), with a managed surface area of approximately **3,000 km²** after filling shallow inlet fingers with excavated spoil. Stage 1 is designed to be impossible to kill — a comfortably water-positive system with robust drought resilience, demonstrating viability before any commitment to full-scale expansion.
 
 The Stage 1 system is:
 
-- **Water-positive** with a +5-8 km³/year surplus in average rainfall years — substantially more resilient than full-scale proposals
+- **Water-positive** with a +6-9 km³/year surplus in average rainfall years — substantially more resilient than full-scale proposals
 - **Self-financing** — Stage 1 excavation generates exactly the spoil required to fill inlet fingers, build the wind management ridge, dam wall, and embankments
 - **Freshwater-adjacent** rather than hypersaline — supporting native fish, riparian vegetation, and agricultural irrigation
 - A **dam and reservoir system**, not merely a flooded depression
@@ -108,15 +108,15 @@ Filling is preferable to bunding because:
 
 Finger fill volume at ~2-3m average depth: approximately **5 km³ of spoil placed**. Modest against the available structural fill budget.
 
-**Managed surface area after filling: ~3,500 km²**
+**Managed surface area after filling: ~3,000 km²**
 
 **The engineering components**
 
-**The southern dam wall is the primary control structure.** Lake water on its northern face at approximately 10m depth — the shallow southern margin of the managed lake. The transition zone on its southern face is excavated to approximately 10m depth but is not a static managed water body — it ranges from dry in drought years, to partially filled by controlled releases in average years, to Stage 2 lake level if that proceeds. The head differential across the wall therefore varies from **0m** when the transition zone is at lake level, to a maximum of **10m** when the transition zone is dry. The design case is the maximum: 10m of head against a dry southern face. Modest by dam engineering standards, but the design must account for it. The wall's primary function is to control the boundary between the managed lake and the transition zone, and to house the gated sluice structures managing overflow southward.
+**The southern dam wall is the primary control structure.** Lake water on its northern face at approximately 15m depth — the southern margin of the managed lake. The transition zone on its southern face is excavated to approximately 15m depth but is not a static managed water body — it ranges from dry in drought years, to partially filled by controlled releases in average years, to Stage 2 lake level if that proceeds. The head differential across the wall therefore varies from **0m** when the transition zone is at lake level, to a maximum of **15m** when the transition zone is dry. The design case is the maximum: 15m of head against a dry southern face. Modest by dam engineering standards, but the design must account for it. The wall's primary function is to control the boundary between the managed lake and the transition zone, and to house the gated sluice structures managing overflow southward.
 
-This is fundamentally closer to **Dutch polder engineering** than conventional dam engineering. The Dutch have been building long, low embankments managing modest water level differentials across flat terrain for 500 years — the Afsluitdijk closure dam across the Zuiderzee (32km, completed 1932) is the closest historical precedent. The Afsluitdijk manages a normal operating head of approximately 0-2m between the IJsselmeer and the Wadden Sea tidal range — its crest rises to 7.25m above sea level for storm surge protection, not for routine head management. The Kati Thanda southern wall manages 0-10m variable head in the same polder tradition. The engineering challenge in both cases is not hydraulic head but **seepage management across a very long wall length**, gate structure reliability, and maintaining integrity over decades. Dutch water engineering firms — Rijkswaterstaat and equivalents — have directly applicable expertise that conventional high-head dam engineers do not.
+This is fundamentally closer to **Dutch polder engineering** than conventional dam engineering. The Dutch have been building long, low embankments managing modest water level differentials across flat terrain for 500 years — the Afsluitdijk closure dam across the Zuiderzee (32km, completed 1932) is the closest historical precedent. The Afsluitdijk manages a normal operating head of approximately 0-2m between the IJsselmeer and the Wadden Sea tidal range — its crest rises to 7.25m above sea level for storm surge protection, not for routine head management. The Kati Thanda southern wall manages 0-15m variable head in the same polder tradition. The engineering challenge in both cases is not hydraulic head but **seepage management across a very long wall length**, gate structure reliability, and maintaining integrity over decades. Dutch water engineering firms — Rijkswaterstaat and equivalents — have directly applicable expertise that conventional high-head dam engineers do not.
 
-At approximately **77km in length**, the southern dam wall would be the longest dam wall ever constructed by a significant margin. The Three Gorges Dam — the world's largest dam and an extraordinary engineering achievement — has a crest length of 2.3km. The Kati Thanda southern wall is approximately **33 times longer**. The comparison conveys scale; the engineering problems are not directly comparable — Three Gorges retains 110m of hydraulic head against a major river, Kati Thanda manages a 10m water body against flat desert. Length is the challenge here, not pressure.
+At approximately **55km in length**, the southern dam wall would be the longest dam wall ever constructed by a significant margin. The Three Gorges Dam — the world's largest dam and an extraordinary engineering achievement — has a crest length of 2.3km. The Kati Thanda southern wall is approximately **24 times longer**. The comparison conveys scale; the engineering problems are not directly comparable — Three Gorges retains 110m of hydraulic head against a major river, Kati Thanda manages a 15m water body against flat desert. Length is the challenge here, not pressure.
 
 Standard dam engineering applies for design, safety legislation, and regulatory compliance. The technical lineage for execution is Dutch.
 
@@ -126,7 +126,7 @@ Standard dam engineering applies for design, safety legislation, and regulatory 
 
 **The southern transition zone as engineered buffer**
 
-The 10km band immediately south of the southern dam wall is excavated to approximately 10m depth. In average years this zone holds water permanently — a shallow managed wetland. In wet years it fills more completely as lake water is released through gated structures in the southern wall. In drought years it draws down to seasonal wetland. Serves simultaneously as ecological buffer, real estate buffer, and dam failure buffer.
+The 10km band immediately south of the southern dam wall is excavated to approximately 15m depth. In average years this zone holds water permanently — a managed wetland. In wet years it fills more completely as lake water is released through gated structures in the southern wall. In drought years it draws down to seasonal wetland. Serves simultaneously as ecological buffer, real estate buffer, and dam failure buffer.
 
 ---
 
@@ -136,16 +136,14 @@ The excavation target is depth below the natural basin floor, not depth from the
 
 The natural basin floor averages **−12.7m AHD** across the northern basin — derived from the 1974 bathymetric data (surface at −9.5m AHD, average depth 3.2m). The excavation target is additional depth **below the natural basin floor**.
 
-**Target total managed average depth: 40m minimum, 50m+ preferred**
+**Target total managed average depth: 50m**
 
 Natural depth at 0m surface: ~12.7m (derived from 1974 bathymetric data: average floor at −12.7m AHD)
-Additional excavation below natural floor: **~27m** at 40m minimum target
+Additional excavation below natural floor: **~37m**
 
-40m is the minimum design target — sufficient for thermal stratification, drought resilience, and volume buffer. It is the floor, not the optimum. At 50m+ average depth, thermal stratification strengthens significantly, surface temperature suppression increases, evaporation drops further, and additional spoil raises the ridge to approximately **150m+ in Stage 1 alone** — without waiting for Stage 2.
+This is the best job possible on a project that can only be done once. The autonomous fleet is on site, the geology is exposed, the spoil infrastructure is operational — the marginal cost of excavating to 50m during construction is vastly lower than any future attempt to deepen an operating lake. Every metre of depth not excavated during construction is permanently foregone. 50m average depth delivers strong thermal stratification, a cold deep water reservoir year-round, and meaningful surface temperature suppression — all permanent benefits that compound over the life of the project.
 
-The preferred depth is therefore **50m+ average**, subject to hydrogeological survey confirming the GAB interaction is manageable at that depth. If survey indicates acceptable risk, design to 50m+. If geology constrains the project to 40m, the system remains viable — 40m is sufficient, not merely adequate.
-
-This reduces the excavation requirement by approximately **33%** compared to surface-origin proposals at the 40m target. At 50m+ the excavation increases but the combined thermal stratification, evaporation reduction, and ridge height benefits justify it.
+This reduces the excavation requirement by approximately **20%** compared to surface-origin proposals — the natural basin provides 12.7m of depth before excavation commences.
 
 **Lake surface as design variable**
 
@@ -177,41 +175,39 @@ The Stage 1 excavation generates exactly the spoil required to build all Stage 1
 
 **Excavation volume:**
 
-- Managed surface area: ~3,500 km²
-- Additional excavation below natural floor: ~27m average
-- Gross excavation: approximately **~95 km³**
+- Managed surface area: ~3,000 km²
+- Additional excavation below natural floor: ~37m average
+- Gross excavation: approximately **~111 km³**
 
-For scale: the Panama Canal excavated roughly 0.2 billion m³. Stage 1 requires approximately 475 Panama Canal equivalents.
+For scale: the Panama Canal excavated roughly 0.2 billion m³. Stage 1 requires approximately 555 Panama Canal equivalents.
 
 **Spoil classification:**
 
-- Salt and unusable material (~30% of gross): ~29 km³ to salt harvesting operations
-- Structural fill available: **~67 km³**
+- Salt and unusable material (~30% of gross): ~33 km³ to salt harvesting operations
+- Structural fill available: **~78 km³**
 
 **Structure requirements:**
 
-- Fill inlet fingers: ~5 km³
-- Southern dam wall (77km long, ~40m base, ~12m height — polder-style low-head embankment): ~0.05 km³
-- Eastern and western perimeter embankments (modest, terrain-following): ~0.5 km³
-- Subtotal: ~5.6 km³
+- Fill inlet fingers: ~4 km³
+- Southern dam wall (55km long, ~45m base, ~15m height — polder-style low-head embankment): ~0.05 km³
+- Eastern and western perimeter embankments (modest, terrain-following): ~0.4 km³
+- Subtotal: ~4.5 km³
 
-**Remaining for wind management ridge: ~61 km³**
+**Remaining for wind management ridge: ~73.5 km³**
 
 At 175km arc length and 3km average width:
 
-Ridge height = 61 ÷ (175 × 3) = **~116 metres**
+Ridge height = 73.5 ÷ (175 × 3) = **~140 metres**
 
-Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~116m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
-
-Stage 2 excavation raises the ridge to approximately **~188m** — approaching orographic territory.
+Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~140m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted. Stage 2 excavation raises the ridge to approximately **~210m** — well into orographic territory.
 
 **Stage 1 ridge specification:**
 - Arc length: 175km (west, curving around north to northeast)
-- Height: ~116m
+- Height: ~140m
 - Plateau top: 175km × 3-5km wide = approximately **525-875 km² of elevated flat land**
 - Function: wind management and evaporation reduction — not lake containment
 - No orographic rainfall generation claimed at this height — that is a Stage 2 benefit
-- Design: upgradeable — Stage 2 excavation raises the ridge to ~188m
+- Design: upgradeable — Stage 2 excavation raises the ridge to ~210m
 
 **Why the CSIRO economic framework is obsolete:**
 
@@ -251,7 +247,7 @@ The correct ridge geometry is a **curved arc** running from the west, around the
 The wind management ridge is engineered as a **mesa** — flat-topped plateau with a steep terraced face toward the lake on its southern side and a gradual slope on its northern side.
 
 *Southern face — steep, terraced:*
-A steep southern face deflects northerly and northwesterly winds upward over the lake. At ~116m, a genuinely vertical face is geotechnically problematic for compacted fill. The solution is a **steep terraced face** — cut benches at 30-40m vertical intervals, each bench providing a stable platform and buildable surface area. At 116m with 30-40m terrace intervals, the face has 3-4 buildable terrace levels. Cable car or inclined railway access links lake level to each terrace and the plateau top.
+A steep southern face deflects northerly and northwesterly winds upward over the lake. At ~140m, a genuinely vertical face is geotechnically problematic for compacted fill. The solution is a **steep terraced face** — cut benches at 30-40m vertical intervals, each bench providing a stable platform and buildable surface area. At 140m with 30-40m terrace intervals, the face has 4-5 buildable terrace levels. Cable car or inclined railway access links lake level to each terrace and the plateau top.
 
 *Flat plateau top:*
 175km arc length, 3-5km wide — **525-875 km² of elevated flat land**. Guaranteed views south over the water. No flood risk. The most dramatic elevated lakefront real estate in the southern hemisphere.
@@ -279,7 +275,7 @@ The wind management ridge, perimeter embankments, and finger fill are engineered
 
 **Settlement management**
 
-A 116m ridge from compacted fill will settle over decades. Predictable and designable: overbuild by the settlement margin, manage differential settlement, monitor continuously with autonomous sensor networks.
+A 140m ridge from compacted fill will settle over decades. Predictable and designable: overbuild by the settlement margin, manage differential settlement, monitor continuously with autonomous sensor networks.
 
 **Vegetation as structural component**
 
@@ -382,7 +378,7 @@ The current Kati Thanda footprint is an accident of geology — elongated, irreg
 Inlet fingers are shallow — typically 2-3m deep at target fill level. Filling uses approximately 5 km³ of structural fill and produces:
 
 - Flat land at lake level — useful for operational infrastructure
-- Reduction in managed surface area from the natural basin footprint to approximately **~3,500 km²**
+- Reduction in managed surface area from the natural basin footprint to approximately **~3,000 km²**
 - Proportional evaporation reduction
 - Cleaner lake geometry
 
@@ -411,7 +407,7 @@ Real estate and amenity zone. Warm, biologically productive, recreational. Ripar
 
 **Volume**
 
-3,500 km² at 40m average depth: approximately **140 km³**. Substantial drought resilience.
+3,000 km² at 50m average depth: approximately **150 km³**. Substantial drought resilience.
 
 **Great Artesian Basin groundwater**
 
@@ -421,23 +417,19 @@ Deep central excavation to 60-80m below lake surface reaches 60-80m below sea le
 
 **Probability of hitting artesian layers across the lake area:**
 
-The GAB's main confined aquifer (the Hooray Sandstone) lies generally 200m or more below sea level in the Kati Thanda area — completely untouched by our maximum excavation depth. The probability of breaching the primary artesian system is therefore **essentially negligible — approximately 2-5%**, confined to rare local geological anomalies.
+The GAB's main confined aquifer (the Hooray Sandstone) lies generally 200m or more below sea level in the Kati Thanda area — completely untouched by our maximum excavation depth of ~65m below sea level. The probability of breaching the primary artesian system is therefore **essentially negligible — approximately 2-5%**, confined to rare local geological anomalies.
 
-The excavation depth is approximately 27m below the natural floor, which at an average natural floor of −12.7m AHD reaches a maximum of approximately **−40 to −55m below sea level** in the deepest central channel. The secondary sub-artesian layers exist at 40-80m below sea level in parts of the basin — our excavation barely reaches the bottom of that range only in the deepest central sections.
+The secondary sub-artesian layers exist at 40-80m below sea level in parts of the basin — our excavation reaches into that range in the deeper central sections. Probability of encountering these: **~25-35%** in the deeper central excavation.
 
-Probability of encountering secondary sub-artesian layers in some excavation sections: **~15-20%**, confined to the deepest northern central excavation only.
+**This is not a significant risk.** Australian open cut mining regularly excavates to 300-500m depth throughout the GAB region — Olympic Dam, Prominent Hill, and the Pilbara iron ore operations all encounter artesian and sub-artesian pressure as routine construction events. The management response is standard: cap the breach, grout, continue. If a sub-artesian layer is encountered during excavation it is a construction management event, not a project-threatening crisis.
 
 **If artesian or sub-artesian layers are breached:**
 
-*Construction challenge:* Residual pressure flooding active excavation. Requires pre-excavation dewatering wells, grouting, continuous pumping.
+*Construction response:* Cap, grout, and continue. Pre-excavation hydrogeological survey identifies high-probability zones; dewatering wells and grouting programmes are prepared in advance. Standard mining practice.
 
-*Ecological risk:* Breaching a confined aquifer can depressurise the system beyond the excavation zone. Given the GAB's already-stressed state, additional depressurisation is a real but contextualised risk — serious enough to require proper assessment and mitigation, not serious enough to be a fatal objection to a project that may ultimately restore pressure.
+*Long-term benefit:* A capped artesian encounter during construction can be converted to a managed inflow point during lake operation — year-round baseline fresh water input independent of Queensland rainfall. A permanent deep lake over the GAB percolating downward into depleted aquifer layers may also progressively restore artesian pressure and mound spring ecosystems across the wider GAB region over decades.
 
-*Resource if managed correctly:* Artesian water is largely fresh — year-round baseline water input independent of Queensland rainfall, supplementing river flooding and reducing salinity load.
-
-**The reverse relationship:** A permanent deep lake over the GAB percolating downward into depleted aquifer layers represents a partial reversal of 140 years of extraction damage — potentially restoring artesian pressure and mound spring ecosystems across the wider GAB region over decades. This long-term recharge benefit is likely more significant than the excavation risk, and is a reason to manage the project carefully rather than avoid it.
-
-**Required before design finalisation:** Comprehensive hydrogeological survey beneath the excavation zone. Not optional.
+**Required before design finalisation:** Comprehensive hydrogeological survey beneath the excavation zone — not to determine whether the project is viable, but to optimise the construction sequence and grouting programme.
 
 ---
 
@@ -448,43 +440,43 @@ Probability of encountering secondary sub-artesian layers in some excavation sec
 - Maximum river inflow: ~20 km³/year
 - Shortfall: chronic
 
-**Stage 1 equilibrium (~3,500 km², 40m average depth)**
+**Stage 1 equilibrium (~3,000 km², 50m average depth)**
 
-*Surface area reduction to ~3,500 km² (after filling fingers):*
-Evaporation: ~24 × (3,500/9,500) = **~8.8 km³/year**
+*Surface area reduction to ~3,000 km² (after filling fingers):*
+Evaporation: ~24 × (3,000/9,500) = **~7.6 km³/year**
 
 *Wind fetch reduction — 50-60km versus 144km:*
-Additional 8-12% reduction: **~7.8 km³/year**
+Additional 8-12% reduction: **~6.7 km³/year**
 
-*Ridge wind management — 116m curved arc:*
-Estimated 6-10% additional reduction: **~7.1-7.3 km³/year effective evaporation**
+*Ridge wind management — 140m curved arc:*
+Estimated 8-12% additional reduction: **~5.9-6.2 km³/year effective evaporation**
 
 **Stage 1 water balance:**
-- Effective evaporation: ~7 km³/year
+- Effective evaporation: ~6 km³/year
 - River inflow (realistic average): ~12-15 km³/year
-- **Net average balance: approximately +5-8 km³/year surplus**
+- **Net average balance: approximately +6-9 km³/year surplus**
 
-The effective evaporation figure of ~7 km³/year does not account for thermal stratification surface cooling — a deep lake with a suppressed surface temperature will evaporate significantly less than pan-rate estimates suggest. The stated surplus is therefore conservative. The real surplus is almost certainly higher once stratification effects are modelled, strengthening both the water balance and the drought resilience case.
+The effective evaporation figure of ~6 km³/year does not account for thermal stratification surface cooling — a 50m deep lake with a suppressed surface temperature will evaporate significantly less than pan-rate estimates suggest. The stated surplus is therefore conservative. The real surplus is almost certainly higher once stratification effects are modelled, strengthening both the water balance and the drought resilience case.
 
-A robustly positive system. 140 km³ volume at +5-8 km³/year surplus provides approximately 5-10 years of severe drought resilience before significant ecological stress — comparable to major natural freshwater lakes globally.
+A robustly positive system. 150 km³ volume at +6-9 km³/year surplus provides approximately 5-10 years of severe drought resilience before significant ecological stress — comparable to major natural freshwater lakes globally.
 
 **Thermal stratification as an additional evaporation reducer**
 
 The standard evaporation figure of ~2-2.5m/year is derived from pan evaporation measurements — a small, fully sunlit, fully heated water body that reaches air temperature rapidly. This systematically overestimates evaporation from a large deep lake with thermal stratification.
 
-At 40m average depth, the managed lake stratifies: a warm surface layer above the thermocline (typically 10-15m down), and a cold stable deep layer below it. The deep water — potentially 15-20°C year-round regardless of season — continuously moderates surface temperature through convective mixing. A cooler surface means lower vapour pressure at the lake surface, which means a smaller evaporation gradient into the dry air above. Evaporation rate is directly related to surface temperature — a surface running 5-8°C cooler than a shallow equivalent could reduce evaporation by 10-20% beyond the geometry and wind corrections already applied.
+At 50m average depth, the managed lake stratifies strongly: a warm surface layer above the thermocline (typically 10-15m down), and a cold stable deep layer below it. The deep water — potentially 15-20°C year-round regardless of season — continuously moderates surface temperature through convective mixing. A cooler surface means lower vapour pressure at the lake surface, which means a smaller evaporation gradient into the dry air above. Evaporation rate is directly related to surface temperature — a surface running 5-8°C cooler than a shallow equivalent could reduce evaporation by 10-20% beyond the geometry and wind corrections already applied.
 
 The natural 3m fill provides no stratification — the entire water column heats to near-air temperature within days of filling. The managed deep lake is a fundamentally different system.
 
 **Depth optimisation — an open modelling question**
 
-This creates a genuinely interesting optimisation. Greater excavation depth produces: stronger thermal stratification, cooler surface temperature, lower evaporation, better water balance — and more spoil, meaning a taller ridge, meaning better wind management, meaning further evaporation reduction. The system compounds positively with depth. The optimal depth is not simply "deeper is better" — spoil placement constraints, geotechnical limits, and GAB interaction all set a ceiling — but the optimisation almost certainly produces a deeper target than the current 40m average and a ridge materially taller than 116m. This warrants dedicated hydrological and thermal modelling before design is finalised.
+The 50m target reflects this optimisation — deeper than the minimum required for stratification, deep enough to generate substantial spoil for a 140m ridge in Stage 1, and conservative enough to remain within manageable GAB interaction risk pending hydrogeological survey. If survey confirms deeper excavation is safe, the target is upgradeable during construction at modest marginal cost.
 
 **Water level management**
 
 Water level is managed primarily through the southern dam wall sluices, not the northern inflow gorges. River flooding is episodic and valuable — it is captured when it arrives, not throttled at the gorge. The surplus bleeds southward through the southern sluices.
 
-In wet years: surplus flows southward into the transition zone through the southern sluices, maintaining lake level at target. In drought years: southern outflow is reduced or closed, retaining water in the lake. The full 140 km³ volume provides multi-year drought buffer — the lake level drops slowly over consecutive dry years before approaching ecological stress. Backflow prevention at the gorge inlet structures stops reverse drainage during drought.
+In wet years: surplus flows southward into the transition zone through the southern sluices, maintaining lake level at target. In drought years: southern outflow is reduced or closed, retaining water in the lake. The full 150 km³ volume provides multi-year drought buffer — the lake level drops slowly over consecutive dry years before approaching ecological stress. Backflow prevention at the gorge inlet structures stops reverse drainage during drought.
 
 The lake surface rises from commissioning level (-3m) toward operational level (0m) over months to years as water balance is confirmed — the staged approach applied within Stage 1 itself.
 
@@ -508,7 +500,7 @@ The managed southern release through the dam wall changes everything. Stage 1 ha
 
 River inflow: ~12-15 km³/year at 0.2-0.5 ppt → approximately **3-7 million tonnes salt input annually**
 
-Water surplus after evaporation: **+5-8 km³/year** — this surplus bleeds southward through the dam wall.
+Water surplus after evaporation: **+6-9 km³/year** — this surplus bleeds southward through the dam wall.
 
 Salt removed via southern bleed at target salinity of 5-7 ppt:
 5-8 km³ × 5-7 ppt = **25-56 million tonnes salt removed annually**
@@ -532,13 +524,13 @@ Salinity self-regulation through the southern bleed only becomes possible once t
 
 **Drought resilience at operating level**
 
-Once at operating level with 140 km³ volume at 5-7 ppt target salinity, the lake contains approximately 700 million to 1 billion tonnes of dissolved salt. In severe drought with zero inflow, evaporation removes ~7 km³/year while the southern bleed stops — no surplus to drive it. Geology leaching continues to add modest salt (~1-2 million tonnes/year) but at full volume this raises salinity by only ~0.01 ppt/year — negligible.
+Once at operating level with 150 km³ volume at 5-7 ppt target salinity, the lake contains approximately 750 million to 1.05 billion tonnes of dissolved salt. In severe drought with zero inflow, evaporation removes ~6 km³/year while the southern bleed stops — no surplus to drive it. Geology leaching continues to add modest salt (~1-2 million tonnes/year) but at full volume this raises salinity by only ~0.01 ppt/year — negligible.
 
 The constraint is volume drawdown concentrating the existing salt load:
 
-- **After 5 drought years:** ~105 km³ remaining, salinity ~6.7-9.3 ppt — near target, ecology intact
-- **After 10 drought years:** ~70 km³ remaining, salinity ~10-14 ppt — above freshwater target, ecology stressed but recoverable
-- **After 15 drought years:** ~35 km³ remaining, salinity ~20-28 ppt — serious ecological stress
+- **After 5 drought years:** ~120 km³ remaining, salinity ~6.3-8.8 ppt — near target, ecology intact
+- **After 10 drought years:** ~90 km³ remaining, salinity ~8.3-11.7 ppt — above freshwater target, ecology stressed but recoverable
+- **After 15 drought years:** ~60 km³ remaining, salinity ~12.5-17.5 ppt — serious ecological stress
 
 Realistic drought scenarios never deliver zero inflow — the Diamantina system receives some inflow in most years even under severe drought conditions, perhaps 20-30% of average. This extends resilience significantly beyond the zero-inflow calculations above.
 
@@ -552,7 +544,7 @@ Industrial salt extraction from Stage 1 is available as a supplementary revenue 
 
 **The failure mode is drought, not extraction failure**
 
-In extended drought, inflow drops, surplus drops, southern bleed drops, and salinity rises. This is the same failure mode as any natural lake with reduced inflow — not a unique structural weakness of this design. The 140 km³ volume buffer absorbs multiple consecutive low-rainfall years before salinity rises to ecologically significant levels. Recovery occurs naturally as inflow resumes and the southern bleed rate increases with restored surplus.
+In extended drought, inflow drops, surplus drops, southern bleed drops, and salinity rises. This is the same failure mode as any natural lake with reduced inflow — not a unique structural weakness of this design. The 150 km³ volume buffer absorbs multiple consecutive low-rainfall years before salinity rises to ecologically significant levels. Recovery occurs naturally as inflow resumes and the southern bleed rate increases with restored surplus.
 
 ---
 
@@ -571,14 +563,12 @@ Note on large predators: freshwater crocodiles already inhabit some central Aust
 **Zone 3 — Flat northern shore (lake level, between natural shoreline and ridge)**
 Solar farms, salt processing infrastructure, construction logistics, autonomous fleet operations. Eventually lakeside development at water level — different character from the escarpment real estate. The operational heart of the project during construction, amenity zone thereafter.
 
-**Zone 4 — Wind management ridge escarpment real estate (elevated, terraced face east and south)**
-525-875 km² of elevated flat land at ~116m above the lake, terraced in 3-4 levels. Built from excavated spoil. No flood risk. Cable car or inclined railway access from lake level to terrace levels and plateau top.
+**Zone 4 — Wind management ridge (operational infrastructure, Stage 1)**
+The ridge in Stage 1 is operational infrastructure — not real estate. The plateau top serves as the operational heart of the autonomous mining programme: fleet staging, maintenance, remote operations centres, solar generation, and construction logistics for the duration of the excavation programme. The southern escarpment terraces provide access routes and equipment staging at each level.
 
-The ridge has two distinct real estate characters depending on position:
+The ridge is still settling and vegetation is still establishing during Stage 1. Buildings on compacted fill during active settlement require specialist foundation engineering. The plateau sits in the deflected northerly airstream — the hot desert air forced upward by the ridge face — which makes it climatically harsh during heat events. The southern escarpment terraces are better sheltered, with lake-moderated air rising from below, but are not yet stable enough for permanent residential development.
 
-*Northern escarpment face — looks south over Stage 1:* Classic elevated lakefront. One deep blue freshwater-adjacent lake filling the foreground. The most dramatic single-lake elevated real estate in the southern hemisphere.
-
-*Western escarpment face — looks east over both lakes:* The superior view. Stage 1 blue water in the foreground. The inter-lake dam wall as a visible horizontal feature mid-distance. Stage 2 pink water beyond it. The northern ridge curving away to the right. Two differently coloured managed inland lakes on a continental scale, seen simultaneously from a terraced escarpment in the middle of the Australian desert. This view does not exist anywhere else on Earth — not naturally, not engineered. The western ridge was designed for wind management. The real estate is a consequence of that geometry, not a contrivance.
+Ridge real estate potential belongs to Stage 2 and beyond — when the fill has largely settled, vegetation has proven the structural system, the ridge has been raised to ~210m by Stage 2 spoil, and the lake is demonstrably permanent. At that point the southern escarpment terraces — sheltered from northerlies by the ridge above, lake-cooled from below — are the most dramatic and climatically moderated elevated lakefront real estate in the southern hemisphere. Stage 1 builds the asset. Stage 2 matures it.
 
 **Zone 5 — Protected shoreline real estate (eastern, western shores)**
 Perimeter embankments provide flood protection. Controlled shoreline — predictable water level. Standard lakefront development on managed water body.
@@ -633,7 +623,7 @@ Air masses driving South Australian and Victorian coastal heat events traverse t
 
 The natural Kati Thanda fill — 3m average depth — heats completely within days of filling. By the time a northerly heat event traverses the basin, the lake surface is at or near air temperature. Hot dry air crossing 35-40°C water gains little cooling and modest moisture. The thermal moderating effect of the natural lake on Adelaide heat events is therefore minimal.
 
-The managed deep lake is categorically different. At 40m average depth, thermal stratification maintains a cool deep water reservoir year-round. The surface temperature is continuously moderated by mixing with cold deep water — potentially running 5-8°C cooler than a shallow equivalent during summer. Hot dry air crossing a 25-28°C surface loses heat to the lake rather than gaining it, and picks up significant moisture through evaporation. The thermal mass of 140 km³ resists temperature change — the lake is a heat sink, not a heat amplifier.
+The managed deep lake is categorically different. At 50m average depth, thermal stratification maintains a cool deep water reservoir year-round. The surface temperature is continuously moderated by mixing with cold deep water — potentially running 5-8°C cooler than a shallow equivalent during summer. Hot dry air crossing a 25-28°C surface loses heat to the lake rather than gaining it, and picks up significant moisture through evaporation. The thermal mass of 150 km³ resists temperature change — the lake is a heat sink, not a heat amplifier.
 
 Whether the lake was ever full during a 45°C+ Adelaide heat event is an answerable question — the BOM temperature record and Lake Eyre fill history both exist — but no published study has performed this analysis. If natural fills show no Adelaide heat reduction, that is consistent with the depth argument: 3m of warm water provides negligible protection. The managed deep lake is a different experiment entirely.
 
@@ -667,19 +657,20 @@ Against a Stage 1 project cost of approximately **$260 billion over 20 years** (
 
 | Return Category | Estimate |
 |---|---|
-| Ridge plateau real estate (525-875 km² elevated terraced-escarpment lakefront) | $150-400B |
-| Shoreline real estate (managed freshwater-adjacent lakefront) | $150-300B |
-| Flat northern shore development (lakeside at water level, operational zone) | $50-150B |
+| Shoreline real estate (managed permanent freshwater-adjacent lakefront — only such asset in Australia) | $150-300B |
+| Flat northern shore development (lakeside at water level, operational zone) | $50-100B |
+| Agricultural irrigation — permanent water access across a ~10km belt around 3,000 km² lake perimeter | $150-300B |
+| Commercial fisheries — Murray cod, golden perch, native freshwater species at scale | $50-150B |
 | Technology export — autonomous mining, dam engineering, ecological design | $100-300B |
-| Aquaculture — freshwater and low-salinity species range | $50-150B |
-| Agricultural irrigation from lake margins | $100B+ |
-| Climate damage avoided (insurance, health, agricultural losses) | $200-500B |
-| Tourism — inland lake, mesa escarpment, wetland ecology, Aboriginal cultural landscape | $50-100B |
+| Aquaculture — freshwater species across 150 km³ managed lake | $50-150B |
+| Climate damage avoided — Adelaide and SE Australian heat event reduction | $200-500B |
+| Tourism — permanent inland lake, wetland ecology, Aboriginal cultural landscape | $50-100B |
 | Wetland carbon credits and ecological services | $25-50B |
-| Great Artesian Basin remediation value (if excavation enables pressure recovery) | Unquantified |
-| **Total** | **$925B-2.05T+** |
+| Great Artesian Basin remediation value | Unquantified |
+| Ridge real estate (Stage 2 onwards, when fill stable and vegetation established) | Deferred |
+| **Total Stage 1 bankable returns** | **$825B-2T+** |
 
-The spend is distributed over 20 years. The returns compound indefinitely. Stage 2 returns, documented separately, are additional to these figures.
+The spend is distributed over 20 years. The returns compound indefinitely. Ridge real estate and Stage 2 returns are additional to these figures and are documented separately.
 
 ---
 
@@ -732,13 +723,13 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 1. **Dam and reservoir project using the natural basin as primary container:** Natural terrain provides the northern lake boundary at target water level without construction. Eastern and western margins require modest embankments only where terrain dips below target water level. No engineered northern boundary required. The wind management ridge is a separate structure positioned for atmospheric effect, not coincident with the lake boundary.
 
-2. **Natural basin provides depth for free — correctly calculated:** The 1974 bathymetric data shows average floor elevation of −12.7m AHD (surface −9.5m minus average depth 3.2m). At our managed 0m surface, natural depth = 0 − (−12.7) = ~12.7m average. This is not the 2-4m figure cited in critiques, which incorrectly applies the natural fill depth (3.2m at −9.5m surface) to our design surface level (0m). Raising the surface 9.5m above natural maximum fill adds 9.5m of depth across the entire basin floor. Excavation targets depth below the natural floor — reducing the excavation requirement by ~33% compared to surface-origin proposals.
+2. **Natural basin provides depth for free — correctly calculated:** The 1974 bathymetric data shows average floor elevation of −12.7m AHD (surface −9.5m minus average depth 3.2m). At our managed 0m surface, natural depth = 0 − (−12.7) = ~12.7m average. This is not the 2-4m figure cited in critiques, which incorrectly applies the natural fill depth (3.2m at −9.5m surface) to our design surface level (0m). Raising the surface 9.5m above natural maximum fill adds 9.5m of depth across the entire basin floor. Excavation targets depth below the natural floor — reducing the excavation requirement by ~20% compared to surface-origin proposals at 50m target depth.
 
 3. **Lake surface as design variable (-3m to 0m):** Managed through southern dam wall sluices. Commissioning at -3m, rising to 0m as water balance is confirmed. Staged approach applied within Stage 1 itself.
 
-4. **Inlet fingers filled with spoil, not bunded:** Filling produces flat land at lake level — operationally useful. Reduces managed surface area to ~3,500 km². Modest spoil cost (~5 km³). Proportional evaporation reduction. Cleaner geometry than bunding.
+4. **Inlet fingers filled with spoil, not bunded:** Filling produces flat land at lake level — operationally useful. Reduces managed surface area to ~3,000 km². Modest spoil cost (~4 km³). Proportional evaporation reduction. Cleaner geometry than bunding.
 
-5. **Stage 1 geometry is self-financing:** ~3,500 km² excavation at 27m below natural floor generates ~67 km³ structural fill — sufficient to fill inlet fingers, build a 175km arc curved ridge at ~116m, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
+5. **Stage 1 geometry is self-financing:** ~3,000 km² excavation at 37m below natural floor generates ~78 km³ structural fill — sufficient to fill inlet fingers, build a 175km arc curved ridge at ~140m, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted.
 
 6. **Wind management ridge separated from lake containment:** Ridge is a pure wind management and real estate structure. Not a dam. Not coincident with the lake boundary. Positioned by atmospheric modelling. Salt must not be used in the ridge any more than in the dam wall — it dissolves causing subsidence. Different engineering standard from the dam wall only in that no clay core for hydraulic containment is required.
 
@@ -758,7 +749,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 10c. **Outer slope catchment engineering concentrates runoff to gorges:** The outer ridge faces and terrain beyond can be graded to direct rainfall runoff laterally toward gorge catchment zones rather than dispersing into desert. Sediment settling zones inside gorge exits manage increased sediment load.
 
-11. **Stage 1 water balance is robustly positive:** +5-8 km³/year surplus in average rainfall years. Multi-year drought resilience at ~140 km³ volume.
+11. **Stage 1 water balance is robustly positive:** +6-9 km³/year surplus in average rainfall years. Multi-year drought resilience at ~150 km³ volume.
 
 12. **Water level management operates at the southern wall:** Surplus bleeds southward through southern sluices in wet years. Southern outflow reduces in drought, retaining volume. Gorge inlets are open throughways — river flooding is captured when it arrives, not throttled.
 

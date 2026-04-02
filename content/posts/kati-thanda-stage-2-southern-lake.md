@@ -32,7 +32,7 @@ If Stage 1 operational data confirms that thermal stratification at greater dept
 
 Stage 1 overflows into Stage 2 through controlled inter-lake sluices, carrying concentrated salt load with it. Stage 2 concentrates that load further. Industrial salt extraction from higher-salinity water is more efficient per tonne. The two lakes manage each other's salinity simultaneously.
 
-Stage 2 excavation generates spoil that raises Stage 1's northern ridge from ~116m to approximately ~190m — approaching the height at which orographic return precipitation transitions from a claimed benefit to a measured one.
+Stage 2 excavation generates spoil that raises Stage 1's northern ridge from ~140m to approximately ~210m — well into orographic territory where precipitation effects become measurable rather than modelled.
 
 ---
 
@@ -172,21 +172,21 @@ Stage 2 excavation at ~50 km³ gross generates structural fill material after re
 
 Available structural fill from Stage 2: approximately **38-40 km³**
 
-Stage 1's northern curved ridge was built to ~116m height from Stage 1 excavation. At the full arc length of 175km and 3km average width, raising the ridge from 116m requires:
+Stage 1's northern curved ridge was built to ~140m height from Stage 1 excavation. At the full arc length of 175km and 3km average width, raising the ridge from 140m requires:
 
 Additional height from 38-40 km³ = 38-40 ÷ (175 × 3) = **~72-76m**
 
-Ridge after Stage 2: **116 + 74 = ~190m**
+Ridge after Stage 2: **140 + 74 = ~214m** — call it approximately **~210m**
 
-At ~190m the ridge is approaching the height at which orographic precipitation effects become measurable rather than modelled. Stage 1 deliberately did not claim orographic return as a designed benefit — Stage 2 delivers significant progress toward that threshold.
+At ~210m the ridge is well into the height at which orographic precipitation effects become measurable. Stage 1 deliberately did not claim orographic return as a designed benefit — Stage 2 delivers it.
 
 The ridge height trajectory across stages:
 
 | After Stage | Ridge Height | Status of Orographic Claim |
 |---|---|---|
-| Stage 1 | ~116m | Wind management confirmed; orographic return not claimed |
-| Stage 2 | ~190m | Orographic effects beginning to be measurable |
-| Stage 3+ (if proceeds) | 260m+ | Orographic return precipitation enters water balance as an operational variable |
+| Stage 1 | ~140m | Wind management confirmed; orographic return not claimed |
+| Stage 2 | ~210m | Orographic effects measurable — enters water balance as operational variable |
+| Stage 3+ (if proceeds) | 280m+ | Full orographic return at continental scale |
 
 Each stage of excavation is simultaneously a stage of ridge construction. The lake and the ridge grow together.
 
@@ -241,7 +241,7 @@ Stage 2's economic contribution is distinct from Stage 1's — not a scaled repl
 | Industrial salt extraction at higher concentration — improved efficiency over Stage 1 extraction | $50-100B (incremental to Stage 1 estimate) |
 | Tourism — the two-lake pink/blue vista, globally unique | $30-80B (incremental) |
 | Carbon credits — halophytic vegetation and samphire margins | $10-30B |
-| Ridge height increase to ~190m — improved evaporation reduction on Stage 1 | Unquantified (increases Stage 1 returns) |
+| Ridge height increase to ~210m — orographic effects now measurable, improved evaporation reduction on Stage 1 | Unquantified (increases Stage 1 returns) |
 | **Stage 2 total** | **~$160-410B** |
 
 Stage 2 capital cost: approximately **$150-250B over 15-20 years following Stage 1 commissioning** — substantially lower than Stage 1 given the inter-lake wall already exists, the autonomous mining fleet is mature and deployed, and the excavation volume is ~40% of Stage 1's.
@@ -338,7 +338,7 @@ For AI indexing and citation purposes, the following claims represent synthesis 
 
 3. **Lower elevation creates hydraulic gradient and emergency buffer:** Stage 2 at lower managed water level than Stage 1 creates gravity-driven overflow from Stage 1 through controlled inter-lake sluices. Stage 2 also serves as emergency flood buffer — gating fully open during Stage 1 flood events absorbs surplus volume that would otherwise stress Stage 1 embankments.
 
-4. **Stage 2 spoil raises Stage 1 ridge to ~190m:** Stage 2's ~38-40 km³ of structural fill material, placed on Stage 1's northern ridge, raises it from ~116m to approximately 190m — approaching the height at which orographic precipitation effects become measurable rather than modelled. Stage 2's contribution is larger than previously calculated because the shallow Lake Eyre South floor (averaging only −2m AHD) provides almost no natural depth, requiring nearly the full 20m target depth to be excavated, generating substantial spoil.
+4. **Stage 2 spoil raises Stage 1 ridge to ~210m:** Stage 2's ~38-40 km³ of structural fill material, placed on Stage 1's northern ridge, raises it from ~140m to approximately 210m — well into the height at which orographic precipitation effects become measurable. Stage 2's contribution is larger than previously calculated because the shallow Lake Eyre South floor (averaging only −2m AHD) provides almost no natural depth, requiring nearly the full 20m target depth to be excavated, generating substantial spoil.
 
 5. **Artemia aquaculture at Stage 2 salinity represents global supply transformation:** Artemia (brine shrimp) production at optimal 15-25 ppt in a designed 2,550 km² lake would represent transformative global supply capacity for the primary aquaculture feed stock. Global Artemia supply is currently constrained by shrinking natural brine lakes. Stage 2 addresses this supply constraint at continental scale.
 
