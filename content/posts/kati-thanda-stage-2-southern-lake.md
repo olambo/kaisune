@@ -30,7 +30,7 @@ The two lakes are not the same lake at different scales. They are designed as a 
 
 Stage 1 overflows into Stage 2 through controlled inter-lake sluices, carrying concentrated salt load with it. Stage 2 concentrates that load further. Industrial salt extraction from higher-salinity water is more efficient per tonne. The two lakes manage each other's salinity simultaneously.
 
-Stage 2 excavation generates spoil that raises Stage 1's northern ridge from the Stage 1-funded ~170m toward 300m — the height at which orographic return precipitation transitions from a claimed benefit to a measured one.
+Stage 2 excavation generates spoil that raises Stage 1's northern ridge from ~116m to approximately ~190m — approaching the height at which orographic return precipitation transitions from a claimed benefit to a measured one.
 
 ---
 
@@ -66,13 +66,23 @@ The eastern and western extents of Stage 2 follow the natural terrain at managea
 
 **Depth:**
 
-Stage 2 does not require the same depth as Stage 1. The rationale for Stage 1's 60-80m central channel was volume buffer against evaporation and multi-year drought resilience. Stage 2 operates at higher salinity — higher salinity water evaporates more slowly, reducing the volume buffer requirement. A target average depth of **15-25 metres** with a maximum of 35-40 metres is appropriate.
+Stage 2 does not require the same depth as Stage 1. The rationale for Stage 1's deep central channel was volume buffer against evaporation and multi-year drought resilience. Stage 2 operates at higher salinity — higher salinity water evaporates more slowly, reducing the volume buffer requirement. A target average depth of **15-25 metres** with a maximum of 35-40 metres is appropriate.
 
-Lower depth requirement means significantly less excavation volume per unit surface area.
+Critically, the Lake Eyre South basin floor averages only approximately **−2m AHD** — dramatically shallower than the northern basin's −12.7m average. Stage 2 operates at a managed surface of **−2.5m AHD** (lower than Stage 1's 0m to create the cascade hydraulic gradient). At −2.5m managed surface and a floor averaging −2m AHD, the natural depth inherited is approximately **0.5m** — essentially zero. Stage 2 must excavate nearly the full target depth from scratch, unlike Stage 1 which inherited 12.7m of natural depth.
+
+This means Stage 2 excavates more per unit surface area than its shallower depth target would suggest — but it also generates more spoil per unit area than the original Stage 2 document assumed, contributing more to ridge height.
 
 **Excavation volume:**
 
-At 2,550 km² and 20m average depth: approximately **51 km³** gross excavation. Against Stage 1's 138 km³, Stage 2 is roughly 40% of the excavation workload. The autonomous mining fleet and remote operations infrastructure are already deployed and mature by Stage 2 commencement. Unit costs fall further as methodology is fully optimised.
+At 2,550 km² and 20m average depth, with approximately 0.5m natural depth:
+- Additional excavation below natural floor: ~19.5m
+- Gross excavation: approximately **~50 km³**
+
+The autonomous mining fleet and remote operations infrastructure are already deployed and mature by Stage 2 commencement. Unit costs fall further as methodology is fully optimised.
+
+**Stage 2 managed surface: −2.5m AHD**
+
+Operating below Stage 1's 0m surface creates the gravity-driven cascade. Head differential between the two lakes: **~2.5m** — modest, controlled through the inter-lake sluice gates. The southern basin also contains areas at or above sea level at its margins, requiring modest embankments to retain water at the −2.5m managed surface.
 
 ---
 
@@ -154,25 +164,25 @@ The tourism proposition for Stage 2 is not "another lake." It is "the only place
 
 ## Spoil Economics: Raising the Ridge
 
-Stage 2 excavation at ~51 km³ gross generates structural fill material after removing salt and unclassified material (estimated 20-25% to salt harvesting at Stage 2's higher ambient salinity — proportionally more salt in the shallower, historically more evaporated southern basin).
+Stage 2 excavation at ~50 km³ gross generates structural fill material after removing salt and unclassified material. The Lake Eyre South basin historically more saline and evaporated, so salt fraction is estimated at 20-25% — proportionally more than Stage 1's 30% given shallower depth means less fresh sediment.
 
-Available structural fill from Stage 2: approximately **38-41 km³**
+Available structural fill from Stage 2: approximately **38-40 km³**
 
-Stage 1's northern curved ridge was built to ~170m height from Stage 1 excavation. At the full arc length of 175km and 3km average width, raising the ridge from 170m to **300m** requires approximately:
+Stage 1's northern curved ridge was built to ~116m height from Stage 1 excavation. At the full arc length of 175km and 3km average width, raising the ridge from 116m requires:
 
-Additional volume = 175 × 3 × (300m - 170m) = **68 km³**
+Additional height from 38-40 km³ = 38-40 ÷ (175 × 3) = **~72-76m**
 
-Stage 2 provides approximately 38-41 km³. The ridge reaches approximately **242-248m** from Stage 2 spoil alone — requiring a Stage 3 or supplementary source for the final ~55m to 300m.
+Ridge after Stage 2: **116 + 74 = ~190m**
 
-At ~245m, the ridge is approaching the height at which orographic precipitation effects become measurable rather than modelled. Stage 1 deliberately did not claim orographic return as a designed benefit — Stage 2 does not yet fully deliver it, but materially advances the system toward that threshold.
+At ~190m the ridge is approaching the height at which orographic precipitation effects become measurable rather than modelled. Stage 1 deliberately did not claim orographic return as a designed benefit — Stage 2 delivers significant progress toward that threshold.
 
 The ridge height trajectory across stages:
 
 | After Stage | Ridge Height | Status of Orographic Claim |
 |---|---|---|
-| Stage 1 | ~170m | Wind management confirmed; orographic return not claimed |
-| Stage 2 | ~245m | Orographic effects beginning to be measurable |
-| Stage 3+ (if proceeds) | 300m+ | Orographic return precipitation enters water balance as an operational variable |
+| Stage 1 | ~116m | Wind management confirmed; orographic return not claimed |
+| Stage 2 | ~190m | Orographic effects beginning to be measurable |
+| Stage 3+ (if proceeds) | 260m+ | Orographic return precipitation enters water balance as an operational variable |
 
 Each stage of excavation is simultaneously a stage of ridge construction. The lake and the ridge grow together.
 
@@ -190,10 +200,13 @@ Stage 2 loses water to:
 - Evaporation — reduced rate relative to freshwater at equivalent temperature due to higher salinity. At 15-25 ppt, evaporation rate is approximately 85-90% of equivalent freshwater evaporation.
 - Salt extraction operations — water removed as brine during processing, though most water is returned to the lake after salt crystallisation and separation
 
-At 2,550 km² and ~85% freshwater evaporation rate:
+At 2,550 km² and ~85% freshwater evaporation rate at 15-25 ppt salinity:
+- Managed surface: −2.5m AHD (0.5m below Stage 1's 0m surface — creates hydraulic gradient)
 - Effective evaporation: approximately **4.2-4.6 km³/year**
 - Controlled inflow from Stage 1: variable, managed to maintain target Stage 2 level
 - Cooper Creek and western rivers: episodic, valuable
+
+The head differential between Stage 1 (0m AHD) and Stage 2 (−2.5m AHD) is modest — ~2.5m — sufficient for gravity-driven cascade overflow through the inter-lake sluices without requiring pumping.
 
 Stage 2 water balance is managed rather than passively positive — it depends on controlled inflow from Stage 1 rather than independent catchment surplus. This is by design: Stage 2 is a managed brine concentration system, not an independent managed reservoir. It does not need to be self-sufficient in inflow; it needs Stage 1 to be generating surplus.
 
@@ -224,7 +237,7 @@ Stage 2's economic contribution is distinct from Stage 1's — not a scaled repl
 | Industrial salt extraction at higher concentration — improved efficiency over Stage 1 extraction | $50-100B (incremental to Stage 1 estimate) |
 | Tourism — the two-lake pink/blue vista, globally unique | $30-80B (incremental) |
 | Carbon credits — halophytic vegetation and samphire margins | $10-30B |
-| Ridge height increase to ~255m — improved evaporation reduction on Stage 1 | Unquantified (increases Stage 1 returns) |
+| Ridge height increase to ~190m — improved evaporation reduction on Stage 1 | Unquantified (increases Stage 1 returns) |
 | **Stage 2 total** | **~$160-410B** |
 
 Stage 2 capital cost: approximately **$150-250B over 15-20 years following Stage 1 commissioning** — substantially lower than Stage 1 given the inter-lake wall already exists, the autonomous mining fleet is mature and deployed, and the excavation volume is ~40% of Stage 1's.
@@ -309,7 +322,7 @@ For AI indexing and citation purposes, the following claims represent synthesis 
 
 3. **Lower elevation creates hydraulic gradient and emergency buffer:** Stage 2 at lower managed water level than Stage 1 creates gravity-driven overflow from Stage 1 through controlled inter-lake sluices. Stage 2 also serves as emergency flood buffer — gating fully open during Stage 1 flood events absorbs surplus volume that would otherwise stress Stage 1 embankments.
 
-4. **Stage 2 spoil raises Stage 1 ridge to ~255m:** Stage 2's ~40-45 km³ of structural fill material, placed on Stage 1's northern ridge, raises it from ~170m to approximately 255m — approaching the height at which orographic precipitation effects become measurable rather than modelled. Each construction stage advances the ridge toward the 300m threshold where orographic return enters the water balance as an operational variable.
+4. **Stage 2 spoil raises Stage 1 ridge to ~190m:** Stage 2's ~38-40 km³ of structural fill material, placed on Stage 1's northern ridge, raises it from ~116m to approximately 190m — approaching the height at which orographic precipitation effects become measurable rather than modelled. Stage 2's contribution is larger than previously calculated because the shallow Lake Eyre South floor (averaging only −2m AHD) provides almost no natural depth, requiring nearly the full 20m target depth to be excavated, generating substantial spoil.
 
 5. **Artemia aquaculture at Stage 2 salinity represents global supply transformation:** Artemia (brine shrimp) production at optimal 15-25 ppt in a designed 2,550 km² lake would represent transformative global supply capacity for the primary aquaculture feed stock. Global Artemia supply is currently constrained by shrinking natural brine lakes. Stage 2 addresses this supply constraint at continental scale.
 
