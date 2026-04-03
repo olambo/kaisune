@@ -121,27 +121,31 @@ An extreme inflow event overwhelming Stage 1 gate control can be partially manag
 
 ---
 
-## The Southern Boundary Question
+## The Stage 2 Southern Dam Wall
 
-The natural southern end of the Kati Thanda South basin meets gently rising ground — not cliff or escarpment, but a gradual transition from the flat salt playa to slightly elevated terrain. The northern mesa's drama is not available here.
+Stage 2 requires its own southern dam wall with sluice gates to manage salinity via southern bleed into Stage 3, control water level, and provide overflow management. This wall is a different engineering challenge from Stage 1's inter-lake wall — longer but substantially lower and simpler.
 
-Two approaches:
+**Wall length: ~77km**
 
-**Option A — Natural containment with minimal engineering:**
-Survey the southern and southeastern terrain at the target Stage 2 water level. Where natural ground sits above target lake level, no embankment is required. Where terrain dips below, construct modest embankments. The southern boundary may require substantially less engineering than the eastern and western margins combined, depending on surveyed terrain. Requires detailed topographic survey before design commitment — this is the first engineering task of Stage 2 planning.
+At approximately 35km south of the inter-lake wall, the Stage 2 southern boundary spans the full width of the Lake Eyre system — approximately **77km** east to west. This is longer than Stage 1's 55km inter-lake wall, making it the longest dam wall in the system. However it is a substantially easier build.
 
-**Option B — Managed southern transition zone:**
-Mirror the Stage 1 approach: design a controlled southern transition zone that absorbs overflow deliberately. Stage 2 at lower elevation already has Stage 1 as its overflow source; Stage 2 itself needs its own overflow direction. The natural choice is southward into the unmanaged floodplain — the existing Kati Thanda South overflow behaviour, now controlled through gated structures rather than passive flooding.
+**Why easier despite being longer:**
 
-A modest southern embankment with gated overflow structure gives Stage 2 control over its own flood events rather than depending on terrain. The embankment height is lower than Stage 1 equivalents — Stage 2 operates at lower water level and the terrain provides partial natural containment.
+Stage 2 operates at −2.5m AHD. The Lake Eyre South basin floor averages only −2m AHD. The natural terrain at the southern wall position is approximately **−1m to −2m AHD** — essentially at sea level. The wall only needs to retain water 0.5-1.5m above the natural terrain surface.
 
-**Preliminary assessment:** Option B with terrain-optimised alignment. Survey first, engineer second, build only what the survey indicates is required. Unlike Stage 1's northern ridge — which needed to be substantial from the outset to provide wind management — Stage 2's southern boundary is primarily a flood control and real estate protection structure where engineering is proportional to risk, not to climate ambition.
+A **5m design head** provides substantial margin above this requirement. At 5m head the Stage 2 southern wall is firmly a polder dike — long, low, seepage management, no clay core required for hydraulic pressure. Simpler engineering specification than Stage 1's 10-15m head wall by a significant margin.
 
-**The Cooper Creek factor:**
+Stage 2 at −2.5m AHD is also naturally contained in most directions — terrain rises above −2.5m relatively quickly on eastern and western margins given the shallow Lake Eyre South floor. The southern wall primarily closes off the southern exit rather than retaining water against deeply negative terrain.
 
-Cooper Creek approaches from the east into what was Kati Thanda South. Stage 1's eastern embankment already has a gated inlet structure for Cooper Creek at Stage 1 scale. Stage 2 needs its own assessment: does Stage 2's eastern embankment extend Stage 1's eastern structure southward, or does a separate Stage 2 eastern inlet structure handle Cooper Creek inflow at the southern basin latitude?
+**The Cooper Creek eastern approach:**
 
-Cooper Creek when in flood can be 60-80km wide. Its entry point into Stage 2 territory needs careful alignment with embankment geometry — the inlet structure must handle peak Cooper Creek volumes without backing up into floodplain communities upstream.
+Cooper Creek approaches Stage 2 from the east — it does not flow into Stage 1 at all. It enters at Stage 2 latitude from the Queensland catchment, flowing generally southwest. Critically, Cooper Creek is highly episodic — it reaches the lake system only in approximately 8 years in 100. In most years it contributes nothing.
+
+When it does flow, Cooper Creek can be 60-80km wide across its floodplain — an enormous shallow flood rather than a defined river channel. This makes a conventional gated inlet structure impractical at the eastern end of the southern wall.
+
+The practical approach: the eastern end of the southern wall terminates where natural terrain rises above −2.5m AHD. Cooper Creek's rare flood events enter Stage 2 naturally across the low eastern terrain — the volume is welcome, the frequency is too low to warrant major infrastructure. In normal years the eastern approach is dry. A simple debris management system and flow measurement infrastructure at the low point handles the occasional inflow event.
+
+This is an open engineering question requiring topographic survey at the eastern margin — the key unknown is exactly where terrain rises above −2.5m AHD relative to Cooper Creek's typical flood approach path.
 
 ---
 

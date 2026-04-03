@@ -336,8 +336,9 @@ The ridge succeeds not when construction is complete but when biology takes over
 Kati Thanda fills entirely through river flooding, not direct precipitation:
 
 - **Georgina-Diamantina-Warburton system** — originates near NT/Queensland border, flows approximately 1,400km south, entering from the **northeast** via Warburton Inlet. Primary fill mechanism.
-- **Cooper Creek system** — originates in Queensland, flows southwest, entering from the **east**. Rarely reaches the lake. Significant when it does; can be 60-80km wide in flood.
 - **Neales and Macumba rivers** — western tributaries. Rare but significant.
+
+Cooper Creek originates in Queensland and flows southwest — but it enters the Lake Eyre system at Stage 2 latitude, not Stage 1. It does not flow into the Stage 1 northern basin.
 
 **Ridge gorge design**
 
@@ -347,7 +348,7 @@ The wind management ridge runs from the western end of the southern dam wall, up
 
 **Western gorge** — the Neales and Macumba rivers approach from the west, where the ridge runs along the western margin of the lake. An engineered gorge channel cut through the western arm of the ridge, aligned with the river approach. Smaller than the northeastern gorge given the lower flow volumes of these systems, but constructed to the same design standard for peak flood events.
 
-**Cooper Creek** approaches from the east, outside the ridge footprint entirely, entering through the natural eastern terrain. Where terrain dips below target lake level, modest embankment structures with open channel inlets manage entry.
+**Cooper Creek** approaches from the east but enters the Lake Eyre system at Stage 2 latitude — south of the Stage 1 boundary. It does not flow into Stage 1 and requires no inlet structure in Stage 1.
 
 **Water level management operates through the southern dam wall sluices**
 
@@ -800,7 +801,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 9. **Curved ridge runs west, around north, to northeast:** Protects the lake on its western and northern faces — the primary evaporation-vulnerable fetch given the basin's roughly equidimensional shape. Leaves the northeastern quadrant open for Diamantina/Warburton river inflow. Rain shadow falls into existing desert. Actual optimal geometry determined by atmospheric modelling of dominant wind directions.
 
-10. **River hydrology preserved through two ridge gorges:** Northeastern gorge for the Diamantina/Warburton system — uncontrolled open channel, not gated, designed for peak flood volumes. Western gorge for the Neales and Macumba rivers through the western ridge arm. Cooper Creek enters through natural eastern terrain. Gorges are open throughways; water level management operates at the southern dam wall sluices.
+10. **River hydrology preserved through two ridge gorges:** Northeastern gorge for the Diamantina/Warburton system — uncontrolled open channel, not gated, designed for peak flood volumes. Western gorge for the Neales and Macumba rivers through the western ridge arm. Cooper Creek enters Stage 2 not Stage 1 — no inlet structure required in Stage 1. Gorges are open throughways; water level management operates at the southern dam wall sluices.
 
 10a. **Plateau continuity restored by gorge bridges:** Each gorge severs the ridge plateau into three sections. Road bridges at plateau level across each gorge restore access continuity and create dramatic viewpoints over the gorge channel during flood events. The gorge is a feature, not a defect.
 
