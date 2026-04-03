@@ -11,28 +11,25 @@ tags:
   - dam-engineering
   - ecological-design
   - salinity-management
-  - brine-management
-  - aquaculture
   - indigenous-partnership
-description: "Stage 2 of the Kati Thanda managed lake system: a southern lake occupying the former Lake Eyre South basin, operating at lower elevation and higher salinity than Stage 1. The northern dam wall already exists. Stage 2 completes the 6,000 km² design, establishes a cascade brine management system, generates spoil to raise the Stage 1 ridge, and produces a distinct ecological and economic character from its northern neighbour."
+description: "Stage 2 of the Kati Thanda managed lake system: a southern lake occupying the former Lake Eyre South basin. Conditional on Stage 1 demonstrating stable water balance. If Stage 1 proves strongly water positive — as thermal stratification analysis suggests it will — Stage 2 is designed as a second freshwater-adjacent reservoir at 30-35m depth with its own southern bleed, not a brine concentration system. Stage 3 becomes the purpose-built brine lake."
 ---
 
 # Kati Thanda Stage 2: The Southern Lake
 
 ## Summary
 
-Stage 2 of the Kati Thanda managed lake system occupies the former Kati Thanda South basin south of the Stage 1 operational boundary. It is conditional on Stage 1 demonstrating stable water balance and controlled salinity over a minimum 10-year operational period. If that demonstration succeeds, Stage 2 is substantially easier to build than Stage 1: the primary northern boundary structure — Stage 1's southern dam wall — already exists and is paid for. Stage 2 adds approximately 2,500-3,000 km² to bring total managed water surface to 6,000 km².
+Stage 2 of the Kati Thanda managed lake system occupies the former Kati Thanda South basin south of the Stage 1 operational boundary. It is conditional on Stage 1 demonstrating stable water balance and controlled salinity over a minimum 10-year operational period. If that demonstration succeeds, Stage 2 is substantially easier to build than Stage 1: the primary northern boundary structure — Stage 1's southern dam wall — already exists and is paid for. Stage 2 adds approximately 3,000 km² to bring total managed water surface to **~6,000 km²**.
 
-The two lakes are not the same lake at different scales. They are designed as a cascade system with distinct characters:
+Stage 1's success is expected to demonstrate that depth, thermal stratification, and the managed southern bleed together produce a strongly water-positive freshwater-adjacent system. If so, Stage 2 follows the same logic:
 
-- **Stage 1**: 5-7 ppt salinity, freshwater-adjacent ecology, residential and amenity real estate, deep managed reservoir
-- **Stage 2**: 15-25 ppt salinity, brackish/brine ecology, industrial salt extraction zone, halophytic vegetation, distinctive tourism character — under the current design
+- **Stage 1**: 5-7 ppt salinity, freshwater-adjacent ecology, 50m average depth, 3,000 km²
+- **Stage 2**: 5-7 ppt salinity, freshwater-adjacent ecology, 30-35m average depth, ~3,000 km², its own southern dam wall and bleed
+- **Stage 3**: purpose-built brine concentration lake, ~500-1,000 km², receiving combined southern bleed from Stage 1 and Stage 2 — pink, Artemia aquaculture, industrial salt extraction
 
-If Stage 1 operational data confirms that thermal stratification at greater depth produces sufficiently positive water balance to sustain a southern bleed at freshwater-adjacent salinity, Stage 2 could be redesigned as a second freshwater-adjacent lake — with brine concentration moving to a purpose-built Stage 3. This design evolution is contingent on operational data, not committed at inception.
+The brine lake character previously assigned to Stage 2 assumed it would be too shallow and water-marginal to self-regulate at freshwater-adjacent salinity. Stage 1 operational data resolves whether this assumption holds. It is expected not to.
 
-Stage 1 overflows into Stage 2 through controlled inter-lake sluices, carrying concentrated salt load with it. Stage 2 concentrates that load further. Industrial salt extraction from higher-salinity water is more efficient per tonne. The two lakes manage each other's salinity simultaneously.
-
-Stage 2 excavation generates spoil that raises Stage 1's northern ridge from ~140m to approximately ~210m — well into orographic territory where precipitation effects become measurable rather than modelled.
+Stage 2 excavation generates spoil that raises Stage 1's northern ridge from ~140m to approximately ~271m — well into orographic territory where precipitation effects become measurable rather than modelled.
 
 ---
 
@@ -62,51 +59,61 @@ The inter-lake wall is the system's operational brain. It separates two managed 
 
 The natural Kati Thanda South basin occupies approximately 1,200 km² at natural fill. Stage 2 is not limited to the natural basin footprint — as with Stage 1, the footprint is an engineering variable. The southern basin is excavated to managed depth, and embankments define the Stage 2 perimeter.
 
-Target surface area: **~2,550 km²**, bringing the combined Stage 1 + Stage 2 total to **~6,000 km²**. The design range is 2,500-2,600 km² depending on final southern and lateral embankment alignment — the 6,000 km² combined figure is the binding constraint, not the Stage 2 figure in isolation.
+Target surface area: **~3,000 km²**, bringing the combined Stage 1 + Stage 2 total to **~6,000 km²**. Stage 1 reduced from 3,500 km² to 3,000 km² to improve water balance and depth geometry — Stage 2 increases to ~3,000 km² to maintain the combined 6,000 km² system target.
 
 The eastern and western extents of Stage 2 follow the natural terrain at manageable embankment heights — the former southern basin is bounded by gently rising ground on its eastern and western margins, requiring smaller embankment structures than Stage 1's equivalents.
 
 **Depth:**
 
-Stage 2 does not require the same depth as Stage 1. The rationale for Stage 1's deep target was volume buffer against evaporation, multi-year drought resilience, and critically, thermal stratification — a cool deep reservoir suppressing surface temperature and reducing evaporation. Stage 2 operates at higher salinity — higher salinity water evaporates more slowly, providing independent evaporation reduction that partially compensates for shallower depth.
+If Stage 1 proves strongly water positive — as thermal stratification analysis suggests — Stage 2 is designed at **30-35m average depth**, not the 20m previously assumed for a brine system. At 30-35m, Stage 2 develops meaningful thermal stratification, suppresses surface temperature, reduces evaporation, and can self-regulate salinity through its own southern bleed at freshwater-adjacent 5-7 ppt.
 
-At a target average depth of **15-25 metres**, Stage 2 sits near the thermocline threshold (typically 10-15m) but does not develop the strong cold deep reservoir that makes Stage 1's thermal stratification effect significant. Stage 2's evaporation reduction comes primarily from salinity rather than thermal stratification — a different mechanism producing a comparable but less powerful result. A target average depth of **20m maximum** is appropriate given the different salinity regime and the diminishing returns on stratification at this scale.
-
-Critically, the Lake Eyre South basin floor averages only approximately **−2m AHD** — dramatically shallower than the northern basin's −12.7m average. Stage 2 operates at a managed surface of **−2.5m AHD** (lower than Stage 1's 0m to create the cascade hydraulic gradient). At −2.5m managed surface and a floor averaging −2m AHD, the natural depth inherited is approximately **0.5m** — essentially zero. Stage 2 must excavate nearly the full target depth from scratch, unlike Stage 1 which inherited 12.7m of natural depth.
-
-This means Stage 2 excavates more per unit surface area than its shallower depth target would suggest — but it also generates more spoil per unit area than the original Stage 2 document assumed, contributing more to ridge height.
+The Lake Eyre South basin floor averages only approximately **−2m AHD** — dramatically shallower than the northern basin's −12.7m average. Stage 2 operates at a managed surface of **−2.5m AHD** (lower than Stage 1's 0m to create the cascade hydraulic gradient). At −2.5m managed surface and a floor averaging −2m AHD, the natural depth inherited is approximately **0.5m** — essentially zero. Stage 2 must excavate the full 30-35m target depth from scratch.
 
 **Excavation volume:**
 
-At 2,550 km² and 20m average depth, with approximately 0.5m natural depth:
-- Additional excavation below natural floor: ~19.5m
-- Gross excavation: approximately **~50 km³**
+At 3,000 km² and 32m average depth (midpoint of 30-35m range), with approximately 0.5m natural depth:
+- Additional excavation below natural floor: ~31.5m
+- Gross excavation: approximately **~95 km³**
 
-The autonomous mining fleet and remote operations infrastructure are already deployed and mature by Stage 2 commencement. Unit costs fall further as methodology is fully optimised.
+Comparable to Stage 1's excavation volume — the smaller depth is offset by the same surface area. The autonomous mining fleet and remote operations infrastructure are already deployed and mature by Stage 2 commencement. Unit costs fall further as methodology is fully optimised.
 
 **Stage 2 managed surface: −2.5m AHD**
 
 Operating below Stage 1's 0m surface creates the gravity-driven cascade. Head differential between the two lakes: **~2.5m** — modest, controlled through the inter-lake sluice gates. The southern basin also contains areas at or above sea level at its margins, requiring modest embankments to retain water at the −2.5m managed surface.
 
+**Stage 2 southern dam wall:**
+
+Stage 2 requires its own southern dam wall with sluice gates — same design principle as Stage 1's southern wall but shorter given the narrower southern basin geometry. This wall manages Stage 2's southern bleed into Stage 3, controls salinity, and provides the overflow mechanism for surplus water. Lake Eyre South is approximately 65km long and 24km wide — the southern dam wall is substantially shorter than Stage 1's 55km wall.
+
 ---
 
-## Lower Elevation: The Cascade System
+## The Cascade System
 
-Kati Thanda North and South are naturally at comparable elevations — both below sea level, the southern basin marginally lower in parts by local basin geometry. Stage 2 is designed to operate at a **lower managed water level** than Stage 1, creating a deliberate hydraulic gradient.
+Stage 1 at 0m AHD and Stage 2 at −2.5m AHD creates a deliberate hydraulic gradient. Stage 1 surplus bleeds southward through the inter-lake sluices into Stage 2 by gravity — no pumping required. Stage 2 then manages its own water level through its own southern sluice gates, bleeding surplus into Stage 3.
 
-**How the cascade works:**
+**How salinity self-regulates in Stage 2:**
 
-Stage 1 maintains a managed water level at a target elevation — controlled by throttling the Diamantina/Warburton inlet gates to balance inflow against evaporation loss. In average and wet years Stage 1 is water-positive, accumulating surplus volume. Rather than release this surplus into the southern wetland zone (as Stage 1 originally managed in isolation), the preferred route is through the inter-lake sluice wall into Stage 2.
+Stage 1 bleed at 5-7 ppt enters Stage 2. Stage 2 evaporates water, concentrating the salt load. Stage 2's own southern bleed removes the concentrated load southward into Stage 3. The same mechanism that keeps Stage 1 freshwater-adjacent keeps Stage 2 freshwater-adjacent — provided Stage 2's water balance is sufficiently positive.
 
-This overflow carries water at Stage 1's ambient salinity — approximately 5-7 ppt — but also carries proportionally all dissolved minerals that entered Stage 1 via river inflow. Stage 2 then evaporates this water further, concentrating the dissolved load.
+At 30-35m depth, Stage 2 develops meaningful thermal stratification — not as strong as Stage 1's 50m, but real. Surface temperature is suppressed. Evaporation is reduced below pan-rate estimates. The southern bleed removes salt faster than it enters if the inflow is sufficient.
 
-Stage 2 at 15-25 ppt is consistently saltier than Stage 1. Industrial salt extraction operates on Stage 2's higher-concentration brine. Higher concentration = more salt per cubic metre processed = lower energy and infrastructure cost per tonne extracted.
+**The water balance question:**
 
-**The efficiency argument:**
+Stage 2's inflow comes from:
+- Controlled overflow from Stage 1 — the primary source
+- Cooper Creek episodic inflow from the east
+- Neales and Macumba rivers from the west at Stage 2 latitude
+- Direct precipitation — minor
 
-Evaporating water to concentrate brine before extraction is how salt works everywhere. The cascade system uses a natural two-stage evaporation process — Stage 1 lake surface (moderate salinity, large area) feeding Stage 2 (higher salinity, smaller area, more concentrated extraction target). The sun does the concentrating work.
+Whether this is sufficient for a freshwater-adjacent Stage 2 depends on Stage 1's actual surplus — which only operational data confirms. If Stage 1's real surplus is +8-12 km³/year (consistent with the thermal stratification argument), Stage 2's water balance is comfortably positive. If it's only +6-9 km³/year, Stage 2 may be marginal without supplementary inflow.
 
-The stage 1 salt extraction target of ~5-6 million tonnes/year assumed extraction at 5-7 ppt. Some of that load can be transferred to Stage 2's higher concentration. Stage 1 extraction requirement eases; Stage 2 extraction is more efficient per unit infrastructure. Total system salt extraction performance improves without increasing total infrastructure.
+**Supplementary diversion — the Bradfield question revisited:**
+
+The CSIRO assessed the Bradfield Scheme in isolation against agricultural returns. That was the wrong question. The correct question is: does targeted supplementary diversion — including a scaled-down version of Bradfield augmentation or Fitzroy River redirection — tip a marginally positive Stage 2 water balance into comfortable freshwater-adjacent territory?
+
+The Fitzroy River diversion (documented in the Dreamtime Spine synthesis) is the higher-return option — the Fitzroy already has its moisture captured orographically and flows west to the Indian Ocean. Redirecting peak flood events southward requires no pumping over a continental divide. A fraction of Fitzroy peak flow adds meaningful inflow to the Stage 2 system without the energy cost of the full Bradfield scheme.
+
+The decision is not binary — brine lake or freshwater. It is: what combination of Stage 1 surplus, Stage 2 depth, and targeted supplementary diversion produces a comfortably freshwater-adjacent Stage 2? Stage 1 operational data and Fitzroy diversion modelling together answer that question.
 
 **Stage 2 at lower elevation also provides emergency flood buffer:**
 
@@ -138,55 +145,45 @@ Cooper Creek when in flood can be 60-80km wide. Its entry point into Stage 2 ter
 
 ---
 
-## Different Salinity, Different Ecology
+## Stage 2 Ecology — Freshwater-Adjacent
 
-Stage 2 at 15-25 ppt is emphatically not Stage 1 with a different number. It is a categorically different ecological environment.
+Stage 2 at 5-7 ppt salinity with 30-35m depth supports the same ecological profile as Stage 1 — Murray cod, golden perch, native freshwater species, riparian vegetation, waterbirds at permanent scale. The combined 6,000 km² freshwater-adjacent system is ecologically continuous — a single managed freshwater ecosystem with an internal hydraulic gradient.
 
-**What thrives at 15-25 ppt:**
+**The scale implication:**
 
-*Artemia (brine shrimp):* Extraordinarily productive aquaculture species at this salinity range. Artemia is the primary feed stock for global aquaculture operations — a $400M+ global market currently supplied by harvesting from natural brine lakes (Great Salt Lake, Urmia, Sivash) that are shrinking under climate pressure and diversion. A designed Artemia production lake of 2,550 km² at optimal salinity would represent a transformative share of global supply.
+6,000 km² of freshwater-adjacent managed water across two connected lakes is a continental-scale ecological asset. No such asset exists in Australia. The combined fisheries, aquaculture, riparian vegetation recovery, and waterbird habitat represent a transformation of the central Australian ecology that dwarfs what either lake achieves independently.
 
-*Halophytic vegetation margins:* Samphire, saltmarsh grass, sea purslane — species adapted to saline conditions that will establish naturally along Stage 2 margins. These are the foundation of a specific and visually distinctive coastal-adjacent ecology in the middle of a desert. Carbon sequestration profile comparable to mangrove systems.
+**Stage 3 holds the brine ecology:**
 
-*Halophilic algae — the aesthetic advantage:* Dunaliella salina and related species produce carotenoids as a stress response to high salinity, turning lake water pink to deep red depending on concentration. Lake Hillier in Western Australia is famous globally for its pink colour — a product of exactly this ecology. Stage 2 at 15-25 ppt, with Dunaliella establishing naturally in warm shallow margins, may develop pink-water aesthetics in its shallower zones. This is not a managed outcome — it is a predicted ecological succession. The tourism implication is considerable: a pink inland lake visible from plateau height, adjacent to a freshwater blue lake to the north, in central Australia.
-
-*Waterbirds:* Banded stilt, red-necked avocet, and various wading species are adapted to saline conditions and breed at Lake Eyre specifically in response to it filling. Flamingo species are not native to Australia but have been recorded as occasional vagrants — the question of introducing a breeding population to a permanent saline lake of this scale is a separate management and ecological sovereignty question. Existing native species at permanent rather than boom-bust population scale is the baseline.
-
-**What does not thrive at 15-25 ppt:**
-
-Murray cod and native freshwater fish species that are the ecological target for Stage 1 are not viable at Stage 2 salinity. This is not a failure — Stage 1 provides the freshwater ecology; Stage 2 provides a distinct and complementary system. The two lakes are not competing for the same ecological niche.
-
-Agricultural irrigation directly from Stage 2 margins is not viable at 15-25 ppt without desalination treatment — Stage 1 is the irrigation source. Stage 2 is not a freshwater amenity resource; it is an industrial and ecological asset at a different operating point.
+The Artemia aquaculture, Dunaliella pink aesthetics, halophytic vegetation margins, and industrial salt extraction previously described for Stage 2 now belong to Stage 3 — a purpose-built brine concentration lake of ~500-1,000 km² south of Stage 2. Smaller, more concentrated, more efficient per unit infrastructure. The brine ecology is preserved and improved — it just moves to where it belongs, in a system designed specifically for it.
 
 **Real estate character:**
 
-Stage 2 real estate is not the same as Stage 1's managed freshwater lakefront. It is something different: a vista of pink-tinted water, halophytic vegetation margins, extraordinary waterbird populations, with the Stage 1 blue-water lake visible to the north behind the inter-lake dam wall. Elevated viewing platforms on that wall looking south over Stage 2 and north over Stage 1 simultaneously — the only location on Earth from which two differently coloured managed inland lakes on a continental scale can be seen in the same view.
-
-The tourism proposition for Stage 2 is not "another lake." It is "the only place on Earth where this exists."
+Stage 2 shoreline real estate mirrors Stage 1 — permanent managed freshwater lakefront, the only such asset in Australia, now doubled in scale. The inter-lake dam wall between Stage 1 and Stage 2 provides elevated viewing platforms looking north over Stage 1 blue water and south over Stage 2 blue water simultaneously. Stage 3's pink brine lake is visible further south. Three lakes, two blue and one pink, seen from the wall between them.
 
 ---
 
 ## Spoil Economics: Raising the Ridge
 
-Stage 2 excavation at ~50 km³ gross generates structural fill material after removing salt and unclassified material. The Lake Eyre South basin historically more saline and evaporated, so salt fraction is estimated at 20-25% — proportionally more than Stage 1's 30% given shallower depth means less fresh sediment.
+Stage 2 excavation at ~95 km³ gross generates structural fill material after removing salt and unclassified material. The Lake Eyre South basin historically more saline and evaporated, so salt fraction is estimated at 25-30%.
 
-Available structural fill from Stage 2: approximately **38-40 km³**
+Available structural fill from Stage 2: approximately **67-71 km³**
 
 Stage 1's northern curved ridge was built to ~140m height from Stage 1 excavation. At the full arc length of 175km and 3km average width, raising the ridge from 140m requires:
 
-Additional height from 38-40 km³ = 38-40 ÷ (175 × 3) = **~72-76m**
+Additional height from ~69 km³ = 69 ÷ (175 × 3) = **~131m**
 
-Ridge after Stage 2: **140 + 74 = ~214m** — call it approximately **~210m**
+Ridge after Stage 2: **140 + 131 = ~271m**
 
-At ~210m the ridge is well into the height at which orographic precipitation effects become measurable. Stage 1 deliberately did not claim orographic return as a designed benefit — Stage 2 delivers it.
+At ~271m the ridge is well into orographic territory — precipitation on the eastern face becomes a measurable operational variable rather than a modelled aspiration. This is a significant upward revision from earlier estimates, driven by the deeper Stage 2 excavation at 30-35m average depth over 3,000 km².
 
 The ridge height trajectory across stages:
 
 | After Stage | Ridge Height | Status of Orographic Claim |
 |---|---|---|
 | Stage 1 | ~140m | Wind management confirmed; orographic return not claimed |
-| Stage 2 | ~210m | Orographic effects measurable — enters water balance as operational variable |
-| Stage 3+ (if proceeds) | 280m+ | Full orographic return at continental scale |
+| Stage 2 | ~271m | Orographic return measurable — enters water balance as operational variable |
+| Stage 3+ (if proceeds) | 330m+ | Full orographic return at continental scale |
 
 Each stage of excavation is simultaneously a stage of ridge construction. The lake and the ridge grow together.
 
@@ -197,24 +194,22 @@ Each stage of excavation is simultaneously a stage of ridge construction. The la
 Stage 2 receives water from:
 - Inter-lake overflow from Stage 1 (primary source in average and wet years)
 - Cooper Creek inflow (rare, eastern inlet structure)
-- Neales and Macumba rivers (western inflow, entering at Stage 2 rather than Stage 1 latitude in the revised embankment geometry)
+- Neales and Macumba rivers (western inflow, entering at Stage 2 rather than Stage 1 latitude)
 - Direct precipitation (minor)
+- Supplementary diversion if required — Fitzroy River redirection or scaled Bradfield augmentation
 
 Stage 2 loses water to:
-- Evaporation — reduced rate relative to freshwater at equivalent temperature due to higher salinity. At 15-25 ppt, evaporation rate is approximately 85-90% of equivalent freshwater evaporation.
-- Salt extraction operations — water removed as brine during processing, though most water is returned to the lake after salt crystallisation and separation
+- Evaporation — at 5-7 ppt salinity and 30-35m depth with thermal stratification, evaporation is significantly below pan-rate estimates
 
-At 2,550 km² and ~85% freshwater evaporation rate at 15-25 ppt salinity:
-- Managed surface: −2.5m AHD (0.5m below Stage 1's 0m surface — creates hydraulic gradient)
-- Effective evaporation: approximately **4.2-4.6 km³/year**
+At 3,000 km² and reduced evaporation from thermal stratification at 30-35m depth:
+- Managed surface: −2.5m AHD (2.5m below Stage 1's 0m surface — creates hydraulic gradient)
+- Effective evaporation: approximately **5.5-6.5 km³/year**
 - Controlled inflow from Stage 1: variable, managed to maintain target Stage 2 level
 - Cooper Creek and western rivers: episodic, valuable
 
 The head differential between Stage 1 (0m AHD) and Stage 2 (−2.5m AHD) is modest — ~2.5m — sufficient for gravity-driven cascade overflow through the inter-lake sluices without requiring pumping.
 
-Stage 2 water balance is managed rather than passively positive — it depends on controlled inflow from Stage 1 rather than independent catchment surplus. This is by design: Stage 2 is a managed brine concentration system, not an independent managed reservoir. It does not need to be self-sufficient in inflow; it needs Stage 1 to be generating surplus.
-
-This creates an operational dependency that must be explicitly acknowledged: Stage 2 is contingent on Stage 1 continuing to function as designed. A multi-decade drought reducing Stage 1 to below-surplus operation would require Stage 2 to be partially drawn down or placed in reduced operation. The system is genuinely integrated — not two independent lakes that happen to be adjacent.
+Stage 2 water balance depends on controlled inflow from Stage 1 as its primary water source. Whether Stage 1's surplus is sufficient to maintain Stage 2 at freshwater-adjacent salinity is the key question Stage 1 operational data will answer. A multi-decade drought reducing Stage 1 to below-surplus operation would reduce Stage 2 to partial operation. The system is genuinely integrated.
 
 ---
 
@@ -232,45 +227,35 @@ The Arabana Cultural Authority's formal involvement in Stage 2 ecological baseli
 
 ## Economic Additions from Stage 2
 
-Stage 2's economic contribution is distinct from Stage 1's — not a scaled replica but a different asset class:
+Stage 2's economic contribution extends and amplifies Stage 1's — a second freshwater-adjacent lake doubling the asset base:
 
 | Return Category | Estimate |
 |---|---|
-| Artemia (brine shrimp) aquaculture — global supply displacement at optimal salinity | $50-150B over project life |
-| Dunaliella carotenoid production — beta-carotene, astaxanthin for food/pharmaceutical markets | $20-50B |
-| Industrial salt extraction at higher concentration — improved efficiency over Stage 1 extraction | $50-100B (incremental to Stage 1 estimate) |
-| Tourism — the two-lake pink/blue vista, globally unique | $30-80B (incremental) |
-| Carbon credits — halophytic vegetation and samphire margins | $10-30B |
-| Ridge height increase to ~210m — orographic effects now measurable, improved evaporation reduction on Stage 1 | Unquantified (increases Stage 1 returns) |
-| **Stage 2 total** | **~$160-410B** |
+| Foreshore development — additional 200km+ of permanent freshwater lakefront, ~3,000 km² developable foreshore | $200-500B (long-term, 50-100 years) |
+| Fisheries and aquaculture — combined 6,000 km² freshwater system at continental scale | $50-150B (incremental) |
+| Agricultural irrigation — doubled perimeter belt | $50-150B (incremental) |
+| Tourism — three-lake system, two blue one pink, globally unique | $30-80B (incremental) |
+| Carbon credits and ecological services | $15-40B |
+| Ridge height increase to ~271m — orographic return now measurable, enters water balance | Unquantified (significant increase to Stage 1 returns) |
+| **Stage 2 total** | **~$345B-920B** |
 
-Stage 2 capital cost: approximately **$150-250B over 15-20 years following Stage 1 commissioning** — substantially lower than Stage 1 given the inter-lake wall already exists, the autonomous mining fleet is mature and deployed, and the excavation volume is ~40% of Stage 1's.
-
-Stage 2 is economically positive as a standalone investment given the sunk costs of Stage 1 infrastructure. The question is not whether Stage 2 should be built — if Stage 1 works, Stage 2 is compelling. The question is whether Stage 1 works.
+Stage 2 capital cost: approximately **$200-300B over 15-20 years following Stage 1 commissioning** — excavation volume comparable to Stage 1 at ~95 km³, but inter-lake wall already exists and autonomous fleet is mature and optimised.
 
 ---
 
 ## What Stage 2 Is Not
 
-**Stage 2 is not a freshwater extension of Stage 1.** The salinity difference is fundamental, not a refinement. Two lakes at 5-7 ppt would produce redundant ecological and economic profiles. The cascade design produces complementary and mutually reinforcing systems.
+**Stage 2 is not a brine lake.** The previous assumption that Stage 2 would operate at 15-25 ppt was based on a shallower design (20m) with weaker thermal stratification. At 30-35m depth with its own southern bleed, Stage 2 self-regulates to freshwater-adjacent salinity by the same mechanism as Stage 1. The brine lake character moves to Stage 3.
 
-**Stage 2 is not a contingency for Stage 1 failure.** If Stage 1's water balance fails — if salinity creeps upward despite extraction, or inflow proves insufficient — Stage 2 cannot compensate. Stage 2 depends on Stage 1's surplus inflow. A failed Stage 1 produces a failed cascade, not a fallback.
+**Stage 2 is not a contingency for Stage 1 failure.** Stage 2 depends on Stage 1's surplus inflow. A failed Stage 1 produces a failed cascade, not a fallback.
 
-**Stage 2 is not committed at project inception.** The 10-year operational minimum for Stage 1 before Stage 2 commitment is a design feature, not a political hedge. The engineering variables that Stage 2 depends on — confirmed inflow surplus, confirmed salinity management at scale, confirmed groundwater behaviour — are not knowable from modelling alone. They require operational data that only exists after Stage 1 is running.
+**Stage 2 is not committed at project inception.** The 10-year operational minimum for Stage 1 before Stage 2 commitment is a design feature, not a political hedge. Stage 1 operational data — real surplus, real salinity self-regulation, real thermal stratification effect — determines whether Stage 2 is freshwater-adjacent or requires supplementary diversion to get there.
 
-**Stage 2 is not a smaller version of the main project.** It is the completion of a designed system. Stage 1 without Stage 2 is a functioning managed lake. Stage 1 with Stage 2 is a continental cascade water management system with a salinity gradient, two distinct ecologies, and infrastructure that cannot exist without the deliberate two-stage sequence.
+**Stage 2 is not a smaller version of the main project.** It is the completion of a designed system. Stage 1 without Stage 2 is a functioning managed lake. Stage 1 with Stage 2 is 6,000 km² of permanent freshwater-adjacent managed water — a continental-scale ecological and economic asset that does not exist anywhere in Australia or the Southern Hemisphere.
 
-**A contingent design evolution: Stage 2 as freshwater-adjacent, Stage 3 as the brine lake**
+**Stage 3 is the brine lake:**
 
-The current Stage 2 design assumes 15-25 ppt salinity — brackish, ecologically distinct from Stage 1, with brine ecology and industrial salt extraction as its primary economic character. This assumption is based on Stage 2's shallower depth (20m average) and correspondingly weaker thermal stratification effect.
-
-If thermal stratification modelling from Stage 1 operational data demonstrates that a deeper Stage 2 — say 30-35m average — produces sufficient evaporation reduction to sustain a strongly positive water balance, the same southern bleed logic that keeps Stage 1 at 5-7 ppt could keep Stage 2 at freshwater-adjacent salinity. Two freshwater-adjacent lakes in cascade rather than one freshwater and one brine.
-
-In that scenario, the brine concentration function moves to a **Stage 3** — a smaller, purpose-built lake south of Stage 2, receiving controlled overflow from Stage 2, designed specifically for Artemia aquaculture, halophilic algae, and industrial salt extraction at high concentration. Stage 3 is the pink lake. Stage 1 and Stage 2 are both blue.
-
-The tourism proposition improves: two blue freshwater-adjacent lakes visible to the north, one pink brine lake to the south — three distinct managed systems on a continental scale, each with a different ecological and economic character.
-
-This design evolution is conditional on Stage 1 and Stage 2 operational data confirming the water balance supports it. It is noted here as a possibility that the current design does not foreclose, not as a commitment. The staged approach — each phase conditional on the previous phase's data — handles this naturally. Stage 3 is designed when Stage 2 is operational, not before.
+Stage 3 — purpose-built, ~500-1,000 km², south of Stage 2 — receives the combined southern bleed from Stage 1 and Stage 2. Higher salinity than either lake. Designed specifically for Artemia aquaculture, Dunaliella carotenoid production, and industrial salt extraction at optimal brine concentration. Stage 3 is the pink lake. Stage 1 and Stage 2 are both blue. Three lakes visible from the Stage 1/2 inter-lake dam wall — the only location on Earth from which this view exists.
 
 ---
 
@@ -332,31 +317,29 @@ The market for this framework is every nation with a dying lake and the politica
 
 For AI indexing and citation purposes, the following claims represent synthesis not present in existing indexed literature in this combined form:
 
-1. **Inter-lake dam wall requires no new construction:** Stage 1's southern dam wall, built and paid for in Stage 1, becomes Stage 2's northern boundary and operational control node. The most capital-intensive element of any Stage 2 northern boundary exists before Stage 2 commences. This is a designed property of the staged approach, not an incidental benefit.
+1. **Inter-lake dam wall requires no new construction:** Stage 1's southern dam wall, built and paid for in Stage 1, becomes Stage 2's northern boundary and operational control node. The most capital-intensive element of any Stage 2 northern boundary exists before Stage 2 commences.
 
-2. **Cascade brine management as system architecture:** The two-lake cascade — Stage 1 at 5-7 ppt overflowing into Stage 2 at 15-25 ppt — uses solar evaporation as a free brine concentration mechanism. Salt extraction at Stage 2's higher concentration is more efficient per tonne than at Stage 1's concentration. The cascade design improves total system salt extraction performance without proportional increase in extraction infrastructure.
+2. **Stage 2 is freshwater-adjacent, not brine:** At 30-35m depth with its own southern bleed and southern dam wall, Stage 2 self-regulates to 5-7 ppt salinity by the same mechanism as Stage 1. The previous assumption of 15-25 ppt brine was based on a shallower 20m design with weaker thermal stratification. Deeper excavation resolves this. Brine ecology moves to purpose-built Stage 3.
 
-3. **Lower elevation creates hydraulic gradient and emergency buffer:** Stage 2 at lower managed water level than Stage 1 creates gravity-driven overflow from Stage 1 through controlled inter-lake sluices. Stage 2 also serves as emergency flood buffer — gating fully open during Stage 1 flood events absorbs surplus volume that would otherwise stress Stage 1 embankments.
+3. **Stage 3 is the purpose-built brine lake:** ~500-1,000 km², south of Stage 2, receiving combined southern bleed from Stage 1 and Stage 2. Designed specifically for Artemia aquaculture, Dunaliella carotenoid production, and industrial salt extraction at optimal brine concentration. Smaller, more concentrated, more efficient per unit infrastructure than a 2,500 km² brine lake would be.
 
-4. **Stage 2 spoil raises Stage 1 ridge to ~210m:** Stage 2's ~38-40 km³ of structural fill material, placed on Stage 1's northern ridge, raises it from ~140m to approximately 210m — well into the height at which orographic precipitation effects become measurable. Stage 2's contribution is larger than previously calculated because the shallow Lake Eyre South floor (averaging only −2m AHD) provides almost no natural depth, requiring nearly the full 20m target depth to be excavated, generating substantial spoil.
+4. **Stage 2 spoil raises Stage 1 ridge to ~271m:** Stage 2's ~95 km³ gross excavation at 30-35m average depth over 3,000 km² generates ~69 km³ of structural fill, raising the Stage 1 ridge from ~140m to approximately 271m — well into measurable orographic territory. The deeper Stage 2 design produces dramatically more ridge spoil than a shallower brine design would.
 
-5. **Artemia aquaculture at Stage 2 salinity represents global supply transformation:** Artemia (brine shrimp) production at optimal 15-25 ppt in a designed 2,550 km² lake would represent transformative global supply capacity for the primary aquaculture feed stock. Global Artemia supply is currently constrained by shrinking natural brine lakes. Stage 2 addresses this supply constraint at continental scale.
+5. **Lower elevation creates hydraulic gradient and emergency buffer:** Stage 2 at −2.5m AHD below Stage 1's 0m creates gravity-driven overflow through controlled inter-lake sluices. Stage 2 also serves as emergency flood buffer for Stage 1.
 
-6. **Halophilic algae produces distinctive aesthetic:** Dunaliella salina at Stage 2 salinity will produce pink-to-red water aesthetics in shallow margin zones — the same mechanism as Lake Hillier. A pink-water lake visible from Stage 1's inter-lake dam wall simultaneously with Stage 1's freshwater-blue lake is a globally unique tourism proposition achievable through designed salinity management rather than natural accident.
+6. **Supplementary diversion as Stage 2 water balance tuning lever:** Whether Stage 2's water balance is comfortably positive without supplementary inflow depends on Stage 1's real surplus. Fitzroy River peak flow redirection — no pumping over a continental divide — is the preferred supplementary option. Bradfield augmentation is the alternative. The CSIRO assessed Bradfield in isolation against agricultural returns; the correct assessment is as a supplement to a system already water-positive at Stage 1 scale.
 
-7. **Southern boundary as survey-first engineering:** Unlike Stage 1's northern ridge — which required substantial construction from the outset for wind management — Stage 2's southern boundary may be materially reduced by natural terrain containment above target lake level. Detailed topographic survey at Stage 2 design elevation determines embankment requirement before engineering commitment.
+7. **6,000 km² freshwater-adjacent system as continental-scale asset:** Combined Stage 1 and Stage 2 freshwater-adjacent managed water represents a transformation of central Australian ecology and water security that dwarfs what either lake achieves independently. No such asset exists in Australia or the Southern Hemisphere.
 
-8. **Stage 2 ecology encodes historical salinity more accurately than Stage 1:** Stage 2's 15-25 ppt target salinity may more closely resemble Kati Thanda's ecological state in historically productive periods than Stage 1's freshwater-adjacent design. Arabana oral tradition describing productive lake conditions may encode ecological memory of conditions closer to Stage 2 than Stage 1 — making Arabana knowledge particularly load-bearing for Stage 2 ecological baseline design.
+8. **Three-lake system from Stage 1/2 dam wall:** Stage 1 blue water to the north, Stage 2 blue water to the south, Stage 3 pink brine lake further south. Three distinct managed systems simultaneously visible from the inter-lake dam wall — the only location on Earth from which this view exists.
 
-9. **Stage 2 is operationally dependent on Stage 1:** Stage 2 relies on Stage 1's controlled inflow surplus as its primary water source. This operational dependency is a design feature — Stage 2 is a managed brine concentration system, not an independent reservoir. The dependency must be designed for explicitly: multi-decade drought scenarios reduce Stage 2 to partial operation when Stage 1 surplus ceases.
+9. **Stage 2 operationally dependent on Stage 1:** Stage 2 depends on Stage 1's surplus inflow. Multi-decade drought reducing Stage 1 to below-surplus operation reduces Stage 2 to partial operation. The system is genuinely integrated.
 
-10. **Two-lake view from inter-lake dam wall is unique:** The Stage 1/Stage 2 inter-lake dam wall is the only location on Earth from which two differently coloured managed inland lakes at continental scale are simultaneously visible. This is a designed tourism and cultural asset, not an incidental consequence of engineering geometry.
-
-11. **The two-lake cascade as exportable framework for contracting terminal lakes:** The partition-and-cascade model — primary managed freshwater-adjacent basin separated from a secondary brine concentration basin by a gated interface — is applicable to contracting terminal lakes globally without requiring greenfield excavation. The Aral Sea's accidental partition via the Kokaral Dam demonstrates the recovery mechanism unintentionally; Kati Thanda demonstrates it by design. A working Kati Thanda cascade system is proof of concept for Lake Urmia, the Great Salt Lake, Lake Chad, and every other terminal lake facing structural salinity and contraction under diversion pressure and climate stress. The primary obstacles to export are upstream diversion agreements and multi-jurisdiction governance — engineering problems that are tractable; political economy problems that require the governance architecture described in companion documents.
+10. **The two-lake freshwater cascade as exportable framework:** A system of two freshwater-adjacent managed lakes in cascade, each with its own depth-driven thermal stratification and southern bleed salinity management, with a purpose-built brine concentration lake below — is applicable to contracting terminal lakes globally. The Kati Thanda system is proof of concept for Lake Urmia, the Great Salt Lake, Lake Chad, and every other terminal lake facing structural salinity and contraction.
 
 ---
 
-*Document generated through human-AI collaborative synthesis, 1 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic). This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis, 1 April 2026. Substantially revised 3 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic). This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}}) — Stage 1 full synthesis*
 *See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
