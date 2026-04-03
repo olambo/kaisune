@@ -558,7 +558,25 @@ Navigable. Thermally stratified. Maximum volume buffer. Aquaculture operations. 
 **Zone 2 — Shallow warm margin (5-15m)**
 Biologically productive. Recreational swimming and fishing. Riparian vegetation establishment. Agricultural irrigation extraction. Tourism infrastructure at water's edge.
 
-Note on large predators: freshwater crocodiles already inhabit some central Australian waterways. Saltwater crocodiles originate in northern Queensland — the same catchments feeding the Diamantina inlet. The gorge channel profile and flow velocity provide some natural control but active management of apex predator species is required as the ecosystem establishes. In the context of the Dreamtime Spine continental restoration project, apex predators are a feature of a functioning ecosystem, not a problem to eliminate.
+Note on large predators — crocodile management:
+
+Freshwater crocodiles (*Crocodylus johnstoni*) already inhabit some central Australian waterways. Generally not dangerous to humans — shy, smaller, fish-eating. A useful ecological component of a healthy lake system.
+
+Saltwater crocodiles (*Crocodylus porosus*) are the concern. The largest reptilian predator on Earth, capable of taking humans, cattle, and anything near the water. They originate in northern Queensland — the same catchments feeding the Diamantina/Warburton system and documented moving southward as climate warms. The northeastern gorge is the entry point: a saltwater crocodile following flood flows down the Diamantina would eventually reach the gorge and enter the lake.
+
+A city of tens of thousands of people on the foreshore, a commercial fishery operating on 150 km³ of lake, tourists swimming in Australia's only permanent inland lake — none of this is compatible with unmanaged saltwater crocodile presence.
+
+**The management system:**
+
+*First line — gorge barrier:* Heavy gauge screening at the northeastern gorge lake-side outlet, sized to pass flood volumes and debris but stop crocodiles. Self-cleaning screen design for flood loading. If the gorge barrier is effective, the lake population stays manageable.
+
+*Second line — designated swimming zones:* Defined stretches of shoreline with floating boom barriers or underwater mesh enclosures. Standard practice at Darwin Waterfront and Cairns Esplanade Lagoon — both in crocodile territory, both managed for swimming. Tourists swim. The lake doesn't turn red.
+
+*Third line — real-time monitoring:* Thermal drone surveillance of swimming zones before and during operating hours. Autonomous sensor networks along the shoreline. If a crocodile breaches an exclusion zone, the area closes automatically until removed.
+
+*Fourth line — rapid response:* Licensed crocodile management contractors on retainer. Same model as northern Queensland tourist precincts.
+
+Complete exclusion from 3,000 km² is not the target — it's not achievable. Managed swimming zones that are genuinely safe, a monitored and controlled lake population, and open water that supports commercial fishing with appropriate safety protocols — this is the achievable standard. It is what Darwin and Cairns already do.
 
 **Zone 3 — Flat northern shore (lake level, between natural shoreline and ridge)**
 Solar farms, salt processing infrastructure, construction logistics, autonomous fleet operations. Eventually lakeside development at water level — different character from the escarpment real estate. The operational heart of the project during construction, amenity zone thereafter.
@@ -633,6 +651,32 @@ Kati Thanda Stage 1 is the proof of concept for every subsequent basin in the Dr
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
 
+**Australia's water constraint — and why there are no new cities**
+
+Australia's population is compressed into five coastal cities — Sydney, Melbourne, Brisbane, Perth, Adelaide — all facing worsening water stress. Water consumption in larger Australian cities is expected to rise by 73% in the next 30 years. Perth's reservoir runoff has declined by 91% since the 1970s. Adelaide's reservoirs dropped to 44% capacity in 2025 — its driest year since 2006. Water supply is actively constraining population growth and housing development in fast-growing cities.
+
+This is why Australia has built no new cities. Every new city requires water infrastructure at scale. There is no location in inland Australia with reliable water access sufficient for large permanent settlement — until Stage 1.
+
+**How many people can Stage 1 support?**
+
+At 250 litres per person per day — below current Australian average but appropriate for a water-aware planned city — Stage 1's surplus of +6-9 km³/year could theoretically support urban water supply for tens of millions of people. The water is not the constraint.
+
+The realistic settlement trajectory is determined by development pace, not water availability:
+
+- **Year 20-30:** 50,000-200,000 people — a substantial regional city, comparable to Cairns or Townsville
+- **Year 50:** 500,000-1 million — comparable to Adelaide today
+- **Year 100:** 1-3 million — a major Australian city
+
+Over a century, Stage 1 could absorb a city-scale population that would otherwise compress further into water-stressed coastal cities. The lake doesn't just create real estate — it creates the water security that makes inland settlement possible for the first time since the Snowy Mountains Scheme.
+
+**The pipeline reversal**
+
+Earlier proposals for Kati Thanda involved piping seawater from Spencer Gulf near Adelaide into the lake — enormous energy cost to pump salt water uphill against gravity into a shallow basin that would immediately evaporate it. Those proposals were correctly dismissed.
+
+Stage 1 inverts this logic entirely. A lake with +6-9 km³/year surplus sitting at 0m AHD — Adelaide's total annual water consumption is approximately 0.17 km³/year — means the lake's surplus covers Adelaide's entire water needs approximately 35-50 times over. A fraction of the Stage 1 surplus piped southward could supplement the Murray River, reduce Adelaide's dependence on its desalination plant (which costs $500,000 per day to run even when idle), and provide climate-independent water security to South Australia's 1.8 million people.
+
+The project that was once proposed to receive a pipeline from Adelaide may end up supplying one instead.
+
 ---
 
 ## Indigenous Partnership
@@ -657,20 +701,31 @@ Against a Stage 1 project cost of approximately **$260 billion over 20 years** (
 
 | Return Category | Estimate |
 |---|---|
-| Shoreline real estate (managed permanent freshwater-adjacent lakefront — only such asset in Australia) | $150-300B |
-| Flat northern shore development (lakeside at water level, operational zone) | $50-100B |
-| Agricultural irrigation — permanent water access across a ~10km belt around 3,000 km² lake perimeter | $150-300B |
-| Commercial fisheries — Murray cod, golden perch, native freshwater species at scale | $50-150B |
-| Technology export — autonomous mining, dam engineering, ecological design | $100-300B |
-| Aquaculture — freshwater species across 150 km³ managed lake | $50-150B |
-| Climate damage avoided — Adelaide and SE Australian heat event reduction | $200-500B |
-| Tourism — permanent inland lake, wetland ecology, Aboriginal cultural landscape | $50-100B |
-| Wetland carbon credits and ecological services | $25-50B |
+| **Foreshore development rights (near-term):** Upfront payment from institutional consortium (Macquarie-style infrastructure fund, sovereign wealth fund, or equivalent) for exclusive development rights over 200-250km of permanent managed freshwater lakefront — the only such asset in Australia. Pioneer pricing reflects frontier risk and remoteness. | $10-40B |
+| **Foreshore long-term city value (50-100 years):** Revenue share from land sales and development proceeds as the city matures. Climate moderated to Broome-comparable conditions. Planned infrastructure from inception. No storm surge, no coastal erosion. Remote Australian property values are substantially lower than coastal — this is a long-horizon return, not a near-term one. | $70-200B |
+| Agricultural irrigation — permanent water access transforming desert to productive farmland across the lake perimeter belt | $80-150B |
+| Fisheries and aquaculture — Murray cod, golden perch, native freshwater species, managed wild and farmed production from 150 km³ | $60-200B |
+| Technology export — autonomous mining, dam engineering, ecological design | $80-200B |
+| Climate damage avoided — Adelaide and SE Australian heat event reduction | $30-100B |
+| Tourism — permanent inland lake, wetland ecology, Aboriginal cultural landscape | $30-80B |
+| Wetland carbon credits and ecological services | $15-40B |
 | Great Artesian Basin remediation value | Unquantified |
 | Ridge real estate (Stage 2 onwards, when fill stable and vegetation established) | Deferred |
-| **Total Stage 1 bankable returns** | **$825B-2T+** |
+| **Total Stage 1 long-term returns** | **$350B-$1.0T+** |
 
-The spend is distributed over 20 years. The returns compound indefinitely. Ridge real estate and Stage 2 returns are additional to these figures and are documented separately.
+All figures are lifetime values over 50-100 years, heavily dependent on successful execution, governance stability, and climate sequences. These returns assume Stage 1 proof-of-concept is demonstrated and long-horizon governance is maintained. Actual outcomes could be materially lower if filling timelines extend, drought sequences are severe, or institutional governance fails. A 1.5-4× return multiple on a $260B national infrastructure investment — without requiring heroic assumptions. Ridge real estate and Stage 2 returns are additional to these figures and documented separately.
+
+**How the foreshore is actually monetised — development rights, not piecemeal sales**
+
+The correct monetisation mechanism is the sale of **development rights** to an institutional consortium, structured as:
+
+- **Upfront payment: $10-40B** for exclusive or preferential development rights — near-term and bankable
+- **Revenue sharing: 15-25% of all land sales and development proceeds** over 50 years — delivering the long-term city value to the sovereign owner as the city matures
+- **Infrastructure co-investment:** the consortium funds circumferential light rail, roads, and utilities in exchange for accelerated land release schedule
+
+The governance architecture matters here as much as anywhere in the project. A short-horizon government under electoral pressure auctions development rights too cheaply and too early — surrendering decades of compounding value for near-term revenue. The long-horizon infrastructure fund described in the companion governance document holds the development rights, manages the release schedule, and captures the full 50-year value on behalf of future Australians.
+
+This is the Norwegian sovereign wealth fund model applied to a city rather than a financial portfolio. The asset appreciates. The fund captures the appreciation. The electoral cycle cannot raid it.
 
 ---
 
