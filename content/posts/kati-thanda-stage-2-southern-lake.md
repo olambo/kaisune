@@ -101,8 +101,7 @@ At 30-35m depth, Stage 2 develops meaningful thermal stratification — not as s
 
 Stage 2's inflow comes from:
 - Controlled overflow from Stage 1 — the primary source
-- Cooper Creek episodic inflow from the east
-- Neales and Macumba rivers from the west at Stage 2 latitude
+- Supplementary diversion if required
 - Direct precipitation — minor
 
 Whether this is sufficient for a freshwater-adjacent Stage 2 depends on Stage 1's actual surplus — which only operational data confirms. If Stage 1's real surplus is +8-12 km³/year (consistent with the thermal stratification argument), Stage 2's water balance is comfortably positive. If it's only +6-9 km³/year, Stage 2 may be marginal without supplementary inflow.
@@ -125,9 +124,9 @@ An extreme inflow event overwhelming Stage 1 gate control can be partially manag
 
 Stage 2 requires its own southern dam wall with sluice gates to manage salinity via southern bleed into Stage 3, control water level, and provide overflow management. This wall is a different engineering challenge from Stage 1's inter-lake wall — longer but substantially lower and simpler.
 
-**Wall length: ~77km**
+**Wall length: ~37km**
 
-At approximately 35km south of the inter-lake wall, the Stage 2 southern boundary spans the full width of the Lake Eyre system — approximately **77km** east to west. This is longer than Stage 1's 55km inter-lake wall, making it the longest dam wall in the system. However it is a substantially easier build.
+At approximately 35km south of the inter-lake wall, the Stage 2 southern boundary crosses the western constriction of the southern basin — approximately **37km** east to west. Natural terrain provides containment on the eastern side at this latitude. The Stage 2 southern wall is shorter than Stage 1's 61km inter-lake wall and substantially lower — a simpler build — shorter, lower, and no clay core required.
 
 **Why easier despite being longer:**
 
@@ -137,15 +136,7 @@ A **5m design head** provides substantial margin above this requirement. At 5m h
 
 Stage 2 at −2.5m AHD is also naturally contained in most directions — terrain rises above −2.5m relatively quickly on eastern and western margins given the shallow Lake Eyre South floor. The southern wall primarily closes off the southern exit rather than retaining water against deeply negative terrain.
 
-**The Cooper Creek eastern approach:**
-
-Cooper Creek approaches Stage 2 from the east — it does not flow into Stage 1 at all. It enters at Stage 2 latitude from the Queensland catchment, flowing generally southwest. Critically, Cooper Creek is highly episodic — it reaches the lake system only in approximately 8 years in 100. In most years it contributes nothing.
-
-When it does flow, Cooper Creek can be 60-80km wide across its floodplain — an enormous shallow flood rather than a defined river channel. This makes a conventional gated inlet structure impractical at the eastern end of the southern wall.
-
-The practical approach: the eastern end of the southern wall terminates where natural terrain rises above −2.5m AHD. Cooper Creek's rare flood events enter Stage 2 naturally across the low eastern terrain — the volume is welcome, the frequency is too low to warrant major infrastructure. In normal years the eastern approach is dry. A simple debris management system and flow measurement infrastructure at the low point handles the occasional inflow event.
-
-This is an open engineering question requiring topographic survey at the eastern margin — the key unknown is exactly where terrain rises above −2.5m AHD relative to Cooper Creek's typical flood approach path.
+This is an open engineering question requiring topographic survey at the eastern margin to confirm where natural terrain provides containment above −2.5m AHD.
 
 ---
 
@@ -197,8 +188,7 @@ Each stage of excavation is simultaneously a stage of ridge construction. The la
 
 Stage 2 receives water from:
 - Inter-lake overflow from Stage 1 (primary source in average and wet years)
-- Cooper Creek inflow (rare, eastern inlet structure)
-- Neales and Macumba rivers (western inflow, entering at Stage 2 rather than Stage 1 latitude)
+- Supplementary diversion if required — Fitzroy River redirection or scaled Bradfield augmentation
 - Direct precipitation (minor)
 - Supplementary diversion if required — Fitzroy River redirection or scaled Bradfield augmentation
 
@@ -209,7 +199,7 @@ At 3,000 km² and reduced evaporation from thermal stratification at 30-35m dept
 - Managed surface: −2.5m AHD (2.5m below Stage 1's 0m surface — creates hydraulic gradient)
 - Effective evaporation: approximately **5.5-6.5 km³/year**
 - Controlled inflow from Stage 1: variable, managed to maintain target Stage 2 level
-- Cooper Creek and western rivers: episodic, valuable
+- 
 
 The head differential between Stage 1 (0m AHD) and Stage 2 (−2.5m AHD) is modest — ~2.5m — sufficient for gravity-driven cascade overflow through the inter-lake sluices without requiring pumping.
 

@@ -116,11 +116,11 @@ Finger fill volume at ~2-3m average depth: approximately **5 km³ of spoil place
 
 This sits at the boundary between **Dutch polder engineering** and conventional low-head earthfill dam engineering. The Dutch polder tradition — building long embankments managing modest water level differentials across flat terrain — provides the closest precedent for the length and seepage management challenge. The Afsluitdijk closure dam across the Zuiderzee (32km, completed 1932) manages a normal operating head of approximately 0-2m between the IJsselmeer and the Wadden Sea tidal range — its crest rises to 7.25m above sea level for storm surge protection, not for routine head management.
 
-At 15m maximum head the Kati Thanda southern wall exceeds the polder range and requires low-head earthfill dam engineering specification: a clay core designed for 15m hydraulic pressure, filter and drainage zones, a cutoff wall beneath the foundation to address seepage gradients, and toe drain systems. These are standard requirements for earthfill dams in the 10-20m head range — well-understood engineering with abundant global precedent. The engineering challenge remains length and seepage management across 55km, not hydraulic pressure — 15m is modest by dam standards — but the wall requires proper dam engineering, not polder dike construction standards.
+At 15m maximum head the Kati Thanda southern wall exceeds the polder range and requires low-head earthfill dam engineering specification: a clay core designed for 15m hydraulic pressure, filter and drainage zones, a cutoff wall beneath the foundation to address seepage gradients, and toe drain systems. These are standard requirements for earthfill dams in the 10-20m head range — well-understood engineering with abundant global precedent. The engineering challenge remains length and seepage management across 61km, not hydraulic pressure — 15m is modest by dam standards — but the wall requires proper dam engineering, not polder dike construction standards.
 
 Dutch water engineering firms — Rijkswaterstaat and equivalents — bring directly applicable expertise in long embankment construction and seepage management. Conventional dam engineers bring the hydraulic design specification for the 15m head. Both traditions are required.
 
-At approximately **55km in length**, the southern dam wall would be the longest dam wall ever constructed by a significant margin. The Three Gorges Dam — the world's largest dam and an extraordinary engineering achievement — has a crest length of 2.3km. The Kati Thanda southern wall is approximately **24 times longer**. The comparison conveys scale; the engineering problems are not directly comparable — Three Gorges retains 110m of hydraulic head against a major river, Kati Thanda manages a 15m water body against flat desert. Length is the challenge here, not pressure.
+At approximately **61km in length**, the southern dam wall would be the longest dam wall ever constructed by a significant margin. The Three Gorges Dam — the world's largest dam and an extraordinary engineering achievement — has a crest length of 2.3km. The Kati Thanda southern wall is approximately **27 times longer**. The comparison conveys scale; the engineering problems are not directly comparable — Three Gorges retains 110m of hydraulic head against a major river, Kati Thanda manages a 15m water body against flat desert. Length is the challenge here, not pressure.
 
 Standard dam engineering applies for design, safety legislation, and regulatory compliance. The technical lineage for execution is Dutch.
 
@@ -193,7 +193,7 @@ For scale: the Panama Canal excavated roughly 0.2 billion m³. Stage 1 requires 
 **Structure requirements:**
 
 - Fill inlet fingers: ~4 km³
-- Southern dam wall (55km long, ~45m base, ~15m height — polder-style low-head embankment): ~0.05 km³
+- Southern dam wall (61km long, ~45m base, ~15m height — polder-style low-head embankment): ~0.05 km³
 - Eastern and western perimeter embankments (modest, terrain-following): ~0.4 km³
 - Subtotal: ~4.5 km³
 
@@ -203,7 +203,7 @@ At 175km arc length and 3km average width:
 
 Ridge height = 73.5 ÷ (175 × 3) = **~140 metres**
 
-Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~140m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted. Stage 2 excavation raises the ridge to approximately **~210m** — well into orographic territory.
+Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km arc curved wind management ridge at ~140m height, the southern dam wall, and all perimeter embankments. Nothing stockpiled. Nothing wasted. Stage 2 excavation raises the ridge to approximately **~271m** — well into orographic territory.
 
 **Stage 1 ridge specification:**
 - Arc length: 175km (west, curving around north to northeast)
@@ -211,7 +211,7 @@ Stage 1 excavation exactly finances: filling all major inlet fingers, a 175km ar
 - Plateau top: 175km × 3-5km wide = approximately **525-875 km² of elevated flat land**
 - Function: wind management and evaporation reduction — not lake containment
 - No orographic rainfall generation claimed at this height — that is a Stage 2 benefit
-- Design: upgradeable — Stage 2 excavation raises the ridge to ~210m
+- Design: upgradeable — Stage 2 excavation raises the ridge to ~271m
 
 **Why the CSIRO economic framework is obsolete:**
 
@@ -235,7 +235,7 @@ The primary evaporation drivers are **hot dry northerly and northwesterly winds*
 
 The natural lake shape maximises wind fetch. Stage 1 addresses this by filling inlet fingers for a more compact geometry and building the wind management ridge to the north and northwest.
 
-Wind fetch in the managed system: approximately **50-60km** north-south — a significant improvement over the 144km natural lake length.
+Wind fetch in the managed system: approximately **59km** north-south — a significant improvement over the 144km natural lake length.
 
 **The curved ridge — west, around north, to northeast**
 
@@ -336,6 +336,7 @@ The ridge succeeds not when construction is complete but when biology takes over
 Kati Thanda fills entirely through river flooding, not direct precipitation:
 
 - **Georgina-Diamantina-Warburton system** — originates near NT/Queensland border, flows approximately 1,400km south, entering from the **northeast** via Warburton Inlet. Primary fill mechanism.
+- **Cooper Creek system** — originates in Queensland, flows southwest, entering from the **east**. Rarely reaches the lake. Significant when it does; can be 60-80km wide in flood.
 - **Neales and Macumba rivers** — western tributaries. Rare but significant.
 
 Cooper Creek originates in Queensland and flows southwest — but it enters the Lake Eyre system at Stage 2 latitude, not Stage 1. It does not flow into the Stage 1 northern basin.
@@ -389,7 +390,7 @@ Inlet fingers are shallow — typically 2-3m deep at target fill level. Filling 
 
 **Wind fetch in the managed system**
 
-After filling fingers, the north-south fetch dimension is approximately **50-60km** — a significant improvement over the 144km natural lake length. The wind management ridge compensates for the remaining fetch.
+After filling fingers, the north-south fetch dimension is approximately **59km** north-south — a significant improvement over the 144km natural lake length. The wind management ridge compensates for the remaining fetch.
 
 **Overflow direction**
 
@@ -450,7 +451,7 @@ The secondary sub-artesian layers exist at 40-80m below sea level in parts of th
 *Surface area reduction to ~3,000 km² (after filling fingers):*
 Evaporation: ~24 × (3,000/9,500) = **~7.6 km³/year**
 
-*Wind fetch reduction — 50-60km versus 144km:*
+*Wind fetch reduction — 59km versus 144km:*
 Additional 8-12% reduction: **~6.7 km³/year**
 
 *Ridge wind management — 140m curved arc:*
@@ -591,7 +592,7 @@ The ridge in Stage 1 is operational infrastructure — not real estate. The plat
 
 The ridge is still settling and vegetation is still establishing during Stage 1. Buildings on compacted fill during active settlement require specialist foundation engineering. The plateau sits in the deflected northerly airstream — the hot desert air forced upward by the ridge face — which makes it climatically harsh during heat events. The southern escarpment terraces are better sheltered, with lake-moderated air rising from below, but are not yet stable enough for permanent residential development.
 
-Ridge real estate potential belongs to Stage 2 and beyond — when the fill has largely settled, vegetation has proven the structural system, the ridge has been raised to ~210m by Stage 2 spoil, and the lake is demonstrably permanent. At that point the southern escarpment terraces — sheltered from northerlies by the ridge above, lake-cooled from below — are the most dramatic and climatically moderated elevated lakefront real estate in the southern hemisphere. Stage 1 builds the asset. Stage 2 matures it.
+Ridge real estate potential belongs to Stage 2 and beyond — when the fill has largely settled, vegetation has proven the structural system, the ridge has been raised to ~271m by Stage 2 spoil, and the lake is demonstrably permanent. At that point the southern escarpment terraces — sheltered from northerlies by the ridge above, lake-cooled from below — are the most dramatic and climatically moderated elevated lakefront real estate in the southern hemisphere. Stage 1 builds the asset. Stage 2 matures it.
 
 **Zone 5 — Protected shoreline real estate (eastern, western shores)**
 Perimeter embankments provide flood protection. Controlled shoreline — predictable water level. Standard lakefront development on managed water body.
