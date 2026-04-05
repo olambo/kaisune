@@ -30,7 +30,7 @@ This document describes a managed reservoir occupying the northern basin of Kati
 
 The system is:
 
-- **Water-positive** with a +9-12 km³/year surplus in average rainfall years — substantially more resilient than any prior proposal
+- **Water-positive** across a range of inflow scenarios — from marginally positive under long-term mean conditions (+0.8-4.5 km³/year) to robustly positive under medium to wet sequences (+4-12 km³/year). The 100 km³ volume buffer handles the marginal years
 - **Self-financing** — excavation generates exactly the spoil required to build the wind management ridge, dam wall, and embankments
 - **Freshwater-adjacent** rather than hypersaline — supporting native fish, riparian vegetation, and agricultural irrigation
 - A **dam and reservoir system**, not merely a flooded depression: a 50km compacted earth berm managing negligible hydraulic head, designed and executed in the Dutch polder tradition
@@ -554,12 +554,12 @@ The managed southern release through the dam wall changes everything. The lake h
 
 River inflow: ~12-15 km³/year at 0.2-0.5 ppt → approximately **3-7 million tonnes salt input annually**
 
-Water surplus after evaporation: **+9-12 km³/year** — this surplus bleeds southward through the dam wall.
+Water surplus after evaporation: **+0.8-12 km³/year** depending on inflow scenario — this surplus bleeds southward through the dam wall. In the optimistic scenario the bleed is substantial; in the conservative scenario it is modest but sufficient to maintain target salinity given the volume buffer.
 
-Salt removed via southern bleed at target salinity of 5-7 ppt:
+Salt removed via southern bleed at target salinity of 5-7 ppt in the optimistic scenario:
 9-12 km³ × 5-7 ppt = **45-84 million tonnes salt removed annually**
 
-Salt exits the system **6-12 times faster than it enters**. The southern bleed at target salinity is overwhelmingly sufficient to maintain that salinity without industrial extraction.
+Even in the conservative scenario (bleed of 1-4 km³/year), salt removal substantially exceeds annual inflow salt load of 3-7 million tonnes. The salinity loop closes across all scenarios.
 
 **Target salinity: 5-7 parts per thousand**
 
@@ -709,7 +709,7 @@ At ~100 km³, the managed lake would hold more freshwater than all of Australia'
 
 **How many people can the managed lake support?**
 
-At 250 litres per person per day — below current Australian average but appropriate for a water-aware planned city — the surplus of +9-12 km³/year could theoretically support urban water supply for tens of millions of people. The water is not the constraint.
+At 250 litres per person per day — below current Australian average but appropriate for a water-aware planned city — even the conservative surplus scenario (+0.8-4.5 km³/year) could theoretically support urban water supply for millions of people. In optimistic inflow years the surplus is vastly larger. The water is not the constraint.
 
 The realistic settlement trajectory is determined by development pace, not water availability:
 
@@ -723,7 +723,7 @@ Over a century, the managed lake could absorb a city-scale population that would
 
 Earlier proposals for Kati Thanda involved piping seawater from Spencer Gulf near Adelaide into the lake — enormous energy cost to pump salt water uphill against gravity into a shallow basin that would immediately evaporate it. Those proposals were correctly dismissed.
 
-This project inverts that logic entirely. A lake with +9-12 km³/year surplus — Adelaide's total annual water consumption is approximately 0.17 km³/year — means the lake's surplus covers Adelaide's entire water needs approximately 50-70 times over. Pumping would be required to move water southward regardless of lake elevation. A fraction of the surplus pumped southward could supplement the Murray River, reduce Adelaide's dependence on its desalination plant (which costs $500,000 per day to run even when idle), and provide climate-independent water security to South Australia's 1.8 million people.
+This project inverts that logic entirely. Even in the conservative inflow scenario the lake generates a meaningful annual surplus — and Adelaide's total annual water consumption is approximately 0.17 km³/year. In medium to optimistic inflow years the surplus covers Adelaide's entire water needs many times over. Pumping would be required to move water southward regardless of lake elevation. A fraction of the surplus pumped southward could supplement the Murray River, reduce Adelaide's dependence on its desalination plant (which costs $500,000 per day to run even when idle), and provide climate-independent water security to South Australia's 1.8 million people.
 
 The project that was once proposed to receive a pipeline from Adelaide may end up supplying one instead.
 
@@ -861,7 +861,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 10c. **Outer slope catchment engineering concentrates runoff to gorges:** The outer ridge faces and terrain beyond can be graded to direct rainfall runoff laterally toward gorge catchment zones rather than dispersing into desert. Sediment settling zones inside gorge exits manage increased sediment load.
 
-11. **Water balance is robustly positive:** +9-12 km³/year surplus in average rainfall years. Multi-year drought resilience at ~100 km³ volume. The −8.5m managed surface fits the natural basin geometry almost perfectly — perimeter containment from natural terrain, minimal embankment engineering.
+11. **Water balance is plausibly positive across three scenarios:** Conservative (+0.8-4.5 km³/year, marginal but manageable), medium (+3.8-7.5 km³/year), optimistic (+8.8-12.5 km³/year). The ~100 km³ volume buffer handles the marginal years. The −8.5m managed surface fits the natural basin geometry almost perfectly — perimeter containment from natural terrain, minimal embankment engineering.
 
 12. **Water level management operates at the southern wall:** Surplus bleeds southward through southern sluices in wet years. Southern outflow reduces in drought, retaining volume. Gorge inlets are open throughways — river flooding is captured when it arrives, not throttled.
 
@@ -869,7 +869,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 13a. **Lake Eyre South as natural salinity disposal system:** All outflow — salinity bleed and flood spillway discharge — flows southward into Lake Eyre South (~1,500 km², already hypersaline, no outlet). Lake Eyre South evaporates the water and retains the salt. No active disposal infrastructure required. Salt accumulates progressively in the southern basin — a long-term salt harvesting opportunity, not a problem. The salinity management loop closes without engineering.
 
-14. **Not a true terminal basin — salinity self-regulates via southern bleed:** The managed southern release removes water and dissolved salt proportionally — exactly as natural lake outlets do. At target salinity of 5-7 ppt, the annual southern bleed of 9-12 km³ removes 45-84 million tonnes of salt — 6-12 times the annual river inflow salt load of 3-7 million tonnes. Industrial extraction is not required for operational salinity management. The failure mode is drought reducing the surplus and bleed rate — the same failure mode as any natural lake with reduced inflow, not a unique structural weakness.
+14. **Not a true terminal basin — salinity self-regulates via southern bleed:** The managed southern release removes water and dissolved salt proportionally — exactly as natural lake outlets do. Salt removal exceeds annual river inflow salt load across all inflow scenarios. In the optimistic scenario the bleed removes 45-84 million tonnes annually; in the conservative scenario substantially less but still sufficient given the volume buffer. Industrial extraction is not required for operational salinity management. The failure mode is extended drought reducing the surplus and bleed rate — the same failure mode as any natural lake with reduced inflow.
 
 15. **Compaction engineering of excavated fill:** Salt must not be used in any structural fill — dam wall, embankments, or wind management ridge. It dissolves causing subsidence regardless of where placed. Clay is the structural asset throughout. Settlement designed for by overbuilding. Vegetation on slopes is structural engineering.
 
