@@ -125,7 +125,7 @@ Normal operations and flood events require different structures. A single pipe c
 
 *Flood spillway:* The pipe is irrelevant in a major flood year. The Diamantina/Warburton system in a large event — 1974, 2010 — can deliver 30 km³ or more over weeks. The lake has 100 km³ of absorption capacity and will attenuate the flood peak significantly, but if the lake is at operating level entering a major wet season, surplus water needs to exit at thousands of cubic metres per second, not fractions of one.
 
-The spillway is a reinforced concrete gated section within the earthfill berm — a short structure of perhaps 100-200m length with multiple gates, set at or just above the operating water level of −8.5m AHD. When gates are open, flood discharge passes southward into Lake Eyre South. This is standard on polder dikes and irrigation dams globally. The precise spillway width and gate configuration requires hydraulic modelling of the Diamantina flood hydrograph — that calculation is not attempted here, but the structure must be sized for the design flood, not the average surplus.
+The spillway is a reinforced concrete gated section within the earthfill berm — a structure of perhaps 200-500m length with multiple gates, set at the operating water level of −8.5m AHD. When gates are open, flood discharge passes southward into Lake Eyre South. This is standard on polder dikes and irrigation dams globally. The precise spillway width and gate configuration requires hydraulic modelling of the Diamantina/Warburton flood hydrograph specific to the northern basin — Cooper Creek enters south of the dam wall and is excluded from this calculation. That modelling is not attempted here, but the structure must be sized for the design flood, not the average surplus.
 
 **Lake Eyre South as natural receiver**
 
@@ -651,21 +651,15 @@ With sectional bunding in place, flood events fill completed sections while prot
 
 ## Climate Impact Assessment
 
-**Direct impact on coastal heat events**
+**Local microclimate**
 
-Air masses driving South Australian and Victorian coastal heat events traverse the Kati Thanda basin before reaching the coast. A filled, deep, freshwater-adjacent lake with an engineered curved ridge to the north and northwest would:
+A permanent body of water at 1,500 km² will measurably modify conditions in its immediate vicinity. High thermal mass means the lake surface temperature lags air temperature — cooler in summer, warmer in winter than the surrounding desert. Evaporation adds moisture to the atmospheric column above and downwind. Riparian vegetation establishing around the margins adds further transpiration. Studies of large reservoirs globally consistently show local temperature moderation of 1-3°C within 10-30km of the shoreline. At 1,500 km² Kati Thanda is larger than most reservoirs — Lake Argyle in the Kimberley is approximately 740 km² and has documented local climate effects.
 
-- Cool and moisten passing air measurably — substantially more thermal mass than any shallow saline system previously modelled
-- The ridge intercepts and deflects both northerly and northwesterly hot air flow before it crosses the lake surface
-- Potentially reduce peak temperature of worst Adelaide events by 1-3°C
+**Why depth matters**
 
-**Why depth matters for Adelaide heat events**
+The natural Kati Thanda fill averages 3m depth and heats completely within days. The managed lake at 66.5m average depth stratifies strongly — a cool deep reservoir moderating surface temperature year-round. A cooler lake surface means less heat transfer to passing air masses and more moisture addition through evaporation. The managed lake is a categorically different thermal system from any natural fill event.
 
-The natural Kati Thanda fill — 3m average depth — heats completely within days of filling. By the time a northerly heat event traverses the basin, the lake surface is at or near air temperature. Hot dry air crossing 35-40°C water gains little cooling and modest moisture. The thermal moderating effect of the natural lake on Adelaide heat events is therefore minimal.
-
-The managed deep lake is categorically different. At 66.5m average depth, thermal stratification maintains a cool deep water reservoir year-round. The surface temperature is continuously moderated by mixing with cold deep water — potentially running 5-8°C cooler than a shallow equivalent during summer. Hot dry air crossing a 25-28°C surface loses heat to the lake rather than gaining it, and picks up significant moisture through evaporation. The thermal mass of ~100 km³ resists temperature change — the lake is a heat sink, not a heat amplifier.
-
-Whether the lake was ever full during a 45°C+ Adelaide heat event is an answerable question — the BOM temperature record and Lake Eyre fill history both exist — but no published study has performed this analysis. If natural fills show no Adelaide heat reduction, that is consistent with the depth argument: 3m of warm water provides negligible protection. The managed deep lake is a different experiment entirely.
+No specific claims are made here about effects on distant coastal cities. The lake creates a local microclimate. Continental-scale climate effects require the full Dreamtime Spine network — multiple managed lakes, orographic forcing, and vegetation recovery at scale. This project is the proof of concept node for that system, not the system itself.
 
 **Connection to the Dreamtime Spine**
 
@@ -719,7 +713,7 @@ Arabana custodians as genuine project partners from design stage. Their ecologic
 
 ## Economic Return Ledger
 
-Against a project cost of approximately **$260 billion over 20 years** ($13 billion/year — dam engineering and ecological design included):
+Against a project cost of approximately **$250 billion over 20 years** ($12.5 billion/year — dam engineering and ecological design included):
 
 | Return Category | Estimate |
 |---|---|
@@ -735,7 +729,7 @@ Against a project cost of approximately **$260 billion over 20 years** ($13 bill
 | Ridge real estate (when fill stable and vegetation established — long-horizon return) | Deferred |
 | **Total long-term returns** | **$350B-$1.0T+** |
 
-All figures are lifetime values over 50-100 years, heavily dependent on successful execution, governance stability, and climate sequences. These returns assume proof-of-concept is demonstrated and long-horizon governance is maintained. Actual outcomes could be materially lower if filling timelines extend, drought sequences are severe, or institutional governance fails. A 1.5-4× return multiple on a $260B national infrastructure investment — without requiring heroic assumptions. Ridge real estate is additional to these figures once the fill has settled and vegetation is established.
+All figures are lifetime values over 50-100 years, heavily dependent on successful execution, governance stability, and climate sequences. These returns assume proof-of-concept is demonstrated and long-horizon governance is maintained. Actual outcomes could be materially lower if filling timelines extend, drought sequences are severe, or institutional governance fails. A 1.5-4× return multiple on a $250B national infrastructure investment — without requiring heroic assumptions. Ridge real estate is additional to these figures once the fill has settled and vegetation is established.
 
 **How the foreshore is actually monetised — development rights, not piecemeal sales**
 
@@ -763,6 +757,9 @@ This is not a compromise proposal. It is a designed experiment — the minimum s
 - Ecological establishment rate in freshwater-adjacent conditions in this climate
 - Actual ridge evaporation reduction versus modelled
 - Governance architecture capable of managing a 20-year infrastructure project through multiple electoral cycles
+- **Natural perimeter integrity under permanent saturation:** The managed surface at −8.5m AHD sits just 1m above the natural maximum fill of −9.5m. The natural terrain at this elevation has been repeatedly tested by episodic flood events but never subjected to permanent hydrostatic pressure. Progressive seepage through the natural perimeter over decades is a known risk requiring monitoring from first fill and selective armoring where terrain is marginal.
+- **Spillway sizing:** The spillway crest sits at −8.5m AHD — the operating water level. The 1974 flood brought the natural lake to −9.5m, just 1m below operating level, meaning a 1974-scale event arriving with the lake at operating level must be discharged in full. Proper hydraulic modelling of the Diamantina/Warburton flood hydrograph specific to the northern basin — excluding Cooper Creek which enters south of the dam — is required before spillway dimensions can be confirmed. The 200-500m placeholder in the dam section is indicative only.
+- **Sediment accumulation at the inlet gorge:** Diamantina/Warburton flood flows carry significant suspended load. A delta will build progressively into the lake at the northeastern gorge. Basin-wide sediment accumulation at millimetres per year is not operationally significant for centuries. The inlet gorge delta is the only location where dredging may become relevant within decades and requires monitoring from first operational inflow.
 
 These are not questions that can be answered by modelling alone. They require a real operating system in real Australian conditions. A project that answers them on evidence — rather than projections — is a fundamentally more defensible basis for any further decision about the basin's future.
 
@@ -772,7 +769,7 @@ These are not questions that can be answered by modelling alone. They require a 
 
 The single largest obstacle is not engineering, not physics, not economics. It is that no existing governance architecture can authorise a multi-decade, multi-hundred-billion project with returns arriving in decades.
 
-Democratic systems operating on 4-year electoral cycles structurally cannot make this decision regardless of its merit. The staged approach helps — Stage 1 is a smaller, more defensible ask than the full system — but the governance architecture for long-horizon infrastructure investment remains the foundational prerequisite.
+Democratic systems operating on 4-year electoral cycles structurally cannot make this decision regardless of its merit. The governance architecture for long-horizon infrastructure investment remains the foundational prerequisite.
 
 *See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
 *See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
