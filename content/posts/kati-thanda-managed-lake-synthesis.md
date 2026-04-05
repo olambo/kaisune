@@ -15,18 +15,18 @@ tags:
   - real-estate
   - salinity-management
   - indigenous-partnership
-description: "Engineering synthesis for the transformation of Kati Thanda's northern basin into a permanently managed freshwater-adjacent lake system. A proof-of-concept design intended to demonstrate managed lake viability before any commitment to full-scale expansion."
+description: "Engineering synthesis for the transformation of the upper reach of Kati Thanda's northern basin into a permanently managed freshwater-adjacent lake system."
 ---
 
-# Kati Thanda: A Managed Lake Synthesis
+# Kati Thanda (Lake Eyre)
 
 ## Summary
 
-Lake Eyre is Australia's largest lake. Most Australians know it — the famous empty lake at the heart of the continent, filling rarely enough that each event makes national news. This synthesis proposes to fill the northern third of it permanently, with fresh water, managed at depth, self-sustaining within a generation. The technology exists. The engineering is solved. The only thing missing is the political will to authorise it.
+Lake Eyre is Australia's largest lake. Most Australians know it — the famous empty lake at the heart of the continent, filling rarely enough that each event makes national news. This synthesis proposes the permanent freshwater impoundment of the northern basin’s upper reach—a managed surface area of 1,500 sq km (roughly twice the size of Singapore or slightly larger than Greater London). The system is designed to be managed at depth and become self-sustaining within a single generation. The technology exists. The engineering is solved. The only thing missing is the political will to authorise it.
 
-Prior proposals to flood Kati Thanda (Lake Eyre) have been assessed as economically unviable and climatically insufficient. This synthesis argues those assessments are artifacts of five compounding errors: insufficient depth targets, human labour cost assumptions now obsolete given autonomous mining capability, excessively narrow economic framing, failure to consider engineered topography as an integrated system, and assumption that the lake's existing shape and footprint are fixed constraints.
+Prior proposals to flood Kati Thanda have been assessed as economically unviable and climatically insufficient. This synthesis argues those assessments are artifacts of five compounding errors: insufficient depth targets, human labour cost assumptions now obsolete given autonomous mining capability, excessively narrow economic framing, failure to consider engineered topography as an integrated system, and assumption that the lake's existing shape and footprint are fixed constraints.
 
-This document describes a managed reservoir occupying the northern basin of Kati Thanda, managed to a target surface level of **−8.5m AHD** — just 1m above the natural maximum fill level of −9.5m AHD — with a managed surface area of approximately **1,500 km²**. At this level the natural basin topography contains the lake almost perfectly. The system is designed to be impossible to kill — comfortably water-positive with robust drought resilience.
+This document describes a managed reservoir occupying the northern basin of Kati Thanda, managed to a target surface level of **−8.5m AHD** — just 1m above the natural maximum fill level of −9.5m AHD — with a managed surface area of approximately **1,500 km²** and volume of **100 km³** . The system is designed to be impossible to kill — comfortably water-positive with robust drought resilience.
 
 The system is:
 
@@ -38,10 +38,6 @@ The system is:
 - A **proof of concept** for managed freshwater lake infrastructure at continental-interior scale
 
 The natural basin floor averages −12.7m AHD — derived from the 1974 bathymetric survey. At a managed surface of −8.5m AHD, the basin is already 4.2m deep before any excavation commences. Excavation targets additional depth below the natural floor, achieving approximately **66.5m average managed depth**.
-
-Stage 1 is the Apollo question — not the Moon shot, but the question of whether a human can function in space. You do not commit to the Moon before you know the answer to the first question.
-
-*A southern expansion incorporating the full basin is one possible long-term option, conditional on this project's operational data. It is not part of this proposal.*
 
 ---
 
@@ -67,7 +63,7 @@ The geometry is fatal. Evaporation attacks surface area. Volume is the buffer ag
 
 At natural fill depth of 1.5 metres, no inflow volume is sufficient to maintain the lake. The depth question is not a refinement — it is the prerequisite that makes the entire project viable.
 
-**The natural basin as an asset:** The Kati Thanda northern basin contains the deepest point on the Australian continent at −15.2m AHD, located in Belt Bay and Madigan Gulf (Kotwicki and Allan, 1998; Leon and Cohen, 2012). In the largest recorded historical filling of 1974, the lake reached a surface level of −9.5m AHD with a total volume of 30.1 km³ across approximately 9,500 km² — an average depth of approximately 3.2m at that surface level (Kotwicki, 1986). This means the average floor elevation across the northern basin is approximately **−9.5m − 3.2m = −12.7m AHD**.
+**The natural basin as an asset:** The Kati Thanda northern basin contains the **lowest surface elevation on the Australian mainland** at approximately −15.2m AHD, located in Belt Bay and Madigan Gulf (Kotwicki and Allan, 1998; Leon and Cohen, 2012). In the largest recorded historical filling of 1974, the lake reached a surface level of −9.5m AHD with a total volume of 30.1 km³ across approximately 9,500 km² — an average depth of approximately 3.2m at that surface level (Kotwicki, 1986). This means the average floor elevation across the northern basin is approximately **−9.5m − 3.2m = −12.7m AHD**.
 
 This number is critical and has been consistently misread in critiques of this document. The 3.2m average depth applies when the lake surface is at −9.5m AHD — the natural maximum fill level. Our managed lake surface is at **−8.5m AHD**, which is 1m above the natural maximum fill. At −8.5m managed surface, the natural depth inherited before any excavation is:
 
@@ -144,7 +140,7 @@ The spillway is a reinforced concrete gated section within the earthfill berm �
 
 **Lake Eyre South as natural receiver**
 
-The bleed and spillway both discharge southward into Lake Eyre South — the natural southern basin of the Lake Eyre system, approximately 1,500 km² at full fill. Lake Eyre South has no permanent outlet of its own. It receives whatever arrives and evaporates it. At 2-2.5m/year evaporation capacity it handles 3-4 km³/year naturally. In wet years with the spillway open it will flood permanently — becoming a managed wetland as a consequence rather than an intermittent one.
+The bleed and spillway both discharge southward into Lake Eyre South — the natural southern basin of the Lake Eyre system, approximately 1,500 km² at full fill. Lake Eyre South has no permanent outlet of its own. It receives whatever arrives and evaporates it. At 2-2.5m/year evaporation capacity it handles 3-4 km³/year naturally. In wet years with the spillway open it will flood.
 
 Salt carried southward by the bleed accumulates in Lake Eyre South over time, progressively concentrating the southern basin. This is not a problem — Lake Eyre South is already hypersaline in its natural state. The bleed makes it more so, which is ecologically neutral to the existing system and creates a long-term salt harvesting opportunity in the southern basin without any engineering of the managed lake itself.
 
@@ -374,8 +370,6 @@ Kati Thanda fills entirely through river flooding, not direct precipitation:
 
 - **Georgina-Diamantina-Warburton system** — originates near NT/Queensland border, flows approximately 1,400km south, entering from the **northeast** via Warburton Inlet. Primary fill mechanism.
 - **Neales and Macumba rivers** — western tributaries. Rare but significant.
-
-Cooper Creek originates in Queensland and flows southwest — but it enters the Lake Eyre system south of the northern basin boundary. It does not flow into the managed lake area.
 
 **Ridge gorge design**
 
@@ -724,8 +718,6 @@ Over a century, the managed lake could absorb a city-scale population that would
 Earlier proposals for Kati Thanda involved piping seawater from Spencer Gulf near Adelaide into the lake — enormous energy cost to pump salt water uphill against gravity into a shallow basin that would immediately evaporate it. Those proposals were correctly dismissed.
 
 This project inverts that logic entirely. Even in the conservative inflow scenario the lake generates a meaningful annual surplus — and Adelaide's total annual water consumption is approximately 0.17 km³/year. In medium to optimistic inflow years the surplus covers Adelaide's entire water needs many times over. Pumping would be required to move water southward regardless of lake elevation. A fraction of the surplus pumped southward could supplement the Murray River, reduce Adelaide's dependence on its desalination plant (which costs $500,000 per day to run even when idle), and provide climate-independent water security to South Australia's 1.8 million people.
-
-The project that was once proposed to receive a pipeline from Adelaide may end up supplying one instead.
 
 ---
 
