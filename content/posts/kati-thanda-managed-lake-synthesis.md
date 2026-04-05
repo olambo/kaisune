@@ -729,17 +729,32 @@ Against a construction cost of approximately **$250 billion over 20 years** ($12
 
 | Return Category | Annual return at maturity (year 30-50) |
 |---|---|
-| **Foreshore revenue share** — 15-25% of land sales and development proceeds as the lakeside city matures. Planned infrastructure from inception, no storm surge, no coastal erosion. Remote Australian values lag coastal — this is a long-horizon return that compounds as the city grows. | $2-5B/year |
+| **Foreshore revenue share** — 15-25% of land sales and development proceeds as the lakeside city matures. Planned infrastructure from inception, no storm surge, no coastal erosion. Remote Australian values lag coastal — a long-horizon return that compounds as the city grows. | $2-5B/year |
+| **Water sales** — surplus water (1-5 km³/year depending on inflow scenario) piped to remote mining operations, regional agriculture beyond the lake perimeter, and future settlement. Remote Australian mining pays premium water prices. At modest commercial pricing across available volume: | $0.5-2B/year |
 | **Agricultural irrigation** — permanent water access transforming desert to productive farmland across the lake perimeter belt | $1-3B/year |
-| **Fisheries and aquaculture** — Murray cod, golden perch, native freshwater species, managed wild and farmed production from ~100 km³ | $0.5-2B/year |
-| **Technology export** — autonomous mining, dam engineering, ecological design, salinity management | $1-3B/year |
-| **Tourism** — permanent inland lake, wetland ecology, Aboriginal cultural landscape | $0.3-1B/year |
-| **Wetland carbon credits and ecological services** | $0.2-0.5B/year |
+| **Aquaculture** — the lake's managed salinity of 5-7 ppt and 100 km³ volume creates one of the largest inland aquaculture environments on Earth. Giant tiger prawns, barramundi, Murray cod, golden perch thrive at this salinity range. Potentially transformative at scale. | $1-4B/year |
+| **Wild fisheries** — managed wild harvest from the lake and riparian margins | $0.2-0.5B/year |
+| **Salt extraction** — the 10km southern transition zone and unmanaged southern basin concentrate salt from the managed bleed. Estimated 5-6 million tonnes/year available for harvest and export to Asian markets. | $0.2-0.4B/year |
+| **Solar energy** — the flat northern shore zone in one of Australia's highest solar irradiance zones. Permanent solar infrastructure powering autonomous operations and exporting surplus to the grid. | $0.3-1B/year |
+| **Technology export** — autonomous excavation, polder dam engineering, salinity management systems, ecological design. Licensing and consultancy revenue from the first demonstration at this scale. | $1-3B/year |
+| **Tourism** — permanent inland lake, wetland ecology, Aboriginal cultural landscape, ridge real estate destination | $0.3-1B/year |
+| **Carbon credits and ecological services** — wetland establishment, dryland recovery margin, revegetation of the ridge | $0.2-0.5B/year |
+| **Research access** — universities, CSIRO, and international bodies paying for access to a unique managed ecosystem at continental-interior scale | $0.05-0.1B/year |
 | **Great Artesian Basin remediation value** | Unquantified |
 | **Ridge real estate** (when fill stable and vegetation established) | Deferred |
-| **Annual return at maturity** | **$5-15B/year** |
+| **Gross annual return at maturity** | **$6-20B/year** |
 
-Against a construction cost of $12.5B/year over 20 years, the project reaches annual breakeven within a decade or two of completion and then generates returns indefinitely. The asset does not depreciate — it appreciates as the city grows, the ecology establishes, and the technology export revenue compounds. All figures are estimates at maturity, heavily dependent on successful execution, governance stability, and population uptake. Actual outcomes could be materially lower if filling timelines extend, drought sequences are severe, or institutional governance fails.
+**Ongoing operating costs at maturity: approximately $0.8-1.5B/year**
+
+- Autonomous fleet maintenance and energy for ongoing salt harvesting, monitoring, and maintenance: $0.5-1B/year
+- Dam and berm monitoring, seepage management, riprap inspection: $0.1-0.2B/year
+- Spillway, outlet pipe, and gorge maintenance: $0.05-0.1B/year
+- Ecological monitoring, crocodile management, gorge debris screens: $0.05-0.1B/year
+- Salt harvesting operations (partially offset by salt revenue): $0.1-0.2B/year
+
+**Net annual return at maturity: approximately $5-18B/year**
+
+Against a construction cost of $12.5B/year over 20 years, the project reaches net annual breakeven within a decade or two of completion and then generates returns indefinitely. The asset does not depreciate — it appreciates as the city grows, the ecology establishes, and technology export revenue compounds. All figures are estimates at maturity, heavily dependent on successful execution, governance stability, and inflow sequences. Actual outcomes could be materially lower if filling timelines extend, drought sequences are severe, or institutional governance fails.
 
 **How the foreshore is actually monetised — development rights, not piecemeal sales**
 
