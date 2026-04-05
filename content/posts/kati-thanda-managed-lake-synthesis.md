@@ -117,17 +117,23 @@ At 3m head the hydraulic pressure is modest but real — more than a coastal pol
 
 The Dutch polder tradition is the direct and complete precedent: centuries of managing long linear berms at comparable head on soft alluvial foundations, where seepage control and foundation treatment are the primary engineering concerns. The Afsluitdijk manages tidal differentials of comparable magnitude across 32km of soft seafloor. This dam is longer and on softer ground, but the engineering tradition is the same.
 
-**The outlet pipe**
+**The outlet — two systems**
 
-A pipe through the berm body at approximately **−10m AHD** — 1.5m below the managed lake surface, 1.5m above the southern terrain at −11.5m. Anti-seep collars at the berm penetration. Gate valve on the southern face. Head driving gravity flow toward the southern transition zone: approximately 1.5m. Sufficient for the salinity bleed without pumping.
+Normal operations and flood events require different structures. A single pipe cannot do both.
 
-Multiple outlets at staggered locations along the 50km berm provide operational redundancy.
+*Salinity bleed pipe:* A pipe through the berm body at approximately **−10m AHD** — 1.5m below the managed lake surface. Anti-seep collars at the berm penetration. Gate valve on the southern face. Head driving gravity flow: 1.5m. Sized for continuous salinity management — roughly 0.3-0.4 m³/second for average annual surplus throughput. Multiple pipes at staggered locations along the 50km berm provide redundancy.
 
-**The transition zone**
+*Flood spillway:* The pipe is irrelevant in a major flood year. The Diamantina/Warburton system in a large event — 1974, 2010 — can deliver 30 km³ or more over weeks. The lake has 100 km³ of absorption capacity and will attenuate the flood peak significantly, but if the lake is at operating level entering a major wet season, surplus water needs to exit at thousands of cubic metres per second, not fractions of one.
 
-South of the berm, the terrain is built up to approximately +1m to +2m AHD, then excavated southward as a gradual slope — a shallow wedge dropping over 10km to approximately −15m AHD at its southern end. Not a pit south of the dam. A ramp beginning at the berm toe and descending gently southward. The outlet pipe discharges into this wedge.
+The spillway is a reinforced concrete gated section within the earthfill berm — a short structure of perhaps 100-200m length with multiple gates, set at or just above the operating water level of −8.5m AHD. When gates are open, flood discharge passes southward into Lake Eyre South. This is standard on polder dikes and irrigation dams globally. The precise spillway width and gate configuration requires hydraulic modelling of the Diamantina flood hydrograph — that calculation is not attempted here, but the structure must be sized for the design flood, not the average surplus.
 
-In average years the wetland sits at the outlet pipe level — 10km of permanent shallow water, deepening toward the southern end. In drought with the outlet closed the deep southern end holds water longest. In wet years surplus pushes level higher before the outlet opens. Permanent water virtually year-round.
+**Lake Eyre South as natural receiver**
+
+The bleed and spillway both discharge southward into Lake Eyre South — the natural southern basin of the Lake Eyre system, approximately 1,500 km² at full fill. Lake Eyre South has no permanent outlet of its own. It receives whatever arrives and evaporates it. At 2-2.5m/year evaporation capacity it handles 3-4 km³/year naturally. In wet years with the spillway open it will flood permanently — becoming a managed wetland as a consequence rather than an intermittent one.
+
+Salt carried southward by the bleed accumulates in Lake Eyre South over time, progressively concentrating the southern basin. This is not a problem — Lake Eyre South is already hypersaline in its natural state. The bleed makes it more so, which is ecologically neutral to the existing system and creates a long-term salt harvesting opportunity in the southern basin without any engineering of the managed lake itself.
+
+The salinity management loop closes without any active disposal infrastructure: surplus exits through pipe or spillway, flows south, evaporates, salt stays in the south. The managed lake maintains target salinity. Lake Eyre South does the disposal work for free.
 
 **Wall length and scale**
 
@@ -135,7 +141,7 @@ At **50km in total length** the southern berm would be the longest such structur
 
 **Design lineage**
 
-Dutch polder and dike tradition throughout. 3m head, 7.5m total height, 54m base width, pipe outlet with gravity-driven salinity bleed. The Afsluitdijk is 32km of essentially this across open tidal sea. The engineering is entirely understood. The length is the novelty.
+Dutch polder and dike tradition throughout. 3m head, 7.5m total height, 54m base width. Outlet: salinity bleed pipe at −10m AHD with gravity-driven flow, plus gated concrete spillway section sized for major flood discharge. Lake Eyre South as natural evaporation sink for all outflow. The engineering is entirely understood. The length is the novelty.
 
 **The eastern and western perimeter embankments** are minimal. At −8.5m managed surface — just 1m above the natural maximum fill — the natural basin topography already contains the lake almost completely. Embankments close only the occasional terrain dip below −8.5m AHD. Low berms at negligible head differential.
 
@@ -792,7 +798,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 1. **Dam and reservoir project using the natural basin as primary container:** Natural terrain provides the northern lake boundary at target water level without construction. Eastern and western margins grade naturally to beach. No engineered northern boundary required. The wind management ridge is a separate structure positioned for atmospheric effect, not coincident with the lake boundary.
 
-1a. **3m head polder berm — Dutch tradition as complete precedent:** The managed surface at −8.5m AHD, sill at −11.5m AHD — head is exactly 3m. Genuine polder territory. Berm height 7.5m, base width ~54m, crest at −4m AHD. Outlet pipe at −10m AHD, gravity-driven salinity bleed with 1.5m driving head. No concrete. Clay core decision for geotechnical engineer at 3m head. The Afsluitdijk manages comparable head across 32km of soft seafloor. The novelty is 50km length, not engineering complexity.
+1a. **3m head polder berm — Dutch tradition as complete precedent:** Managed surface −8.5m AHD, sill −11.5m AHD, head exactly 3m. Berm height 7.5m, base width ~54m, crest at −4m AHD. Outlet: salinity bleed pipe at −10m AHD (gravity-fed, 1.5m driving head) plus gated concrete spillway section for major flood discharge — pipe for normal operations, spillway for flood years. Spillway must be sized for the Diamantina design flood, not the average surplus. Lake Eyre South receives all outflow and evaporates it. Novelty is 50km length, not engineering complexity.
 
 2. **Natural basin fits the design level almost exactly:** The 1974 bathymetric data shows average floor elevation of −12.7m AHD. At −8.5m managed surface — just 1m above the natural maximum fill — natural depth inherited is 4.2m and the existing topography provides nearly complete perimeter containment. Excavation of 62.3m below the natural floor achieves 66.5m average managed depth. The design surface level was chosen to minimise perimeter engineering, not to maximise free depth.
 
@@ -825,6 +831,8 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 12. **Water level management operates at the southern wall:** Surplus bleeds southward through southern sluices in wet years. Southern outflow reduces in drought, retaining volume. Gorge inlets are open throughways — river flooding is captured when it arrives, not throttled.
 
 13. **Seawater pipeline eliminated by design:** Water-positive through river inflow alone. USD $12-14B capital and $0.8B/year maintenance eliminated.
+
+13a. **Lake Eyre South as natural salinity disposal system:** All outflow — salinity bleed and flood spillway discharge — flows southward into Lake Eyre South (~1,500 km², already hypersaline, no outlet). Lake Eyre South evaporates the water and retains the salt. No active disposal infrastructure required. Salt accumulates progressively in the southern basin — a long-term salt harvesting opportunity, not a problem. The salinity management loop closes without engineering.
 
 14. **Not a true terminal basin — salinity self-regulates via southern bleed:** The managed southern release removes water and dissolved salt proportionally — exactly as natural lake outlets do. At target salinity of 5-7 ppt, the annual southern bleed of 9-12 km³ removes 45-84 million tonnes of salt — 6-12 times the annual river inflow salt load of 3-7 million tonnes. Industrial extraction is not required for operational salinity management. The failure mode is drought reducing the surplus and bleed rate — the same failure mode as any natural lake with reduced inflow, not a unique structural weakness.
 
