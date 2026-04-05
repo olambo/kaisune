@@ -22,11 +22,11 @@ description: "Engineering synthesis for the transformation of the upper reach of
 
 ## Summary
 
-Lake Eyre is Australia's largest lake. Most Australians know it — the famous empty lake at the heart of the continent, filling rarely enough that each event makes national news. This synthesis proposes the permanent freshwater impoundment of the northern basin’s upper reach—a managed surface area of 1,500 sq km (roughly twice the size of Singapore or slightly larger than Greater London). The system is designed to be managed at depth and become self-sustaining within a single generation. The technology exists. The engineering is solved. The only thing missing is the political will to authorise it.
+Kati Thanda — known to most Australians as Lake Eyre — is Australia's largest lake. The famous empty lake at the heart of the continent, filling rarely enough that each event makes national news. This synthesis proposes the permanent freshwater impoundment of the northern basin's upper reach—a managed surface area of 1,500 sq km (roughly twice the size of Singapore or slightly larger than Greater London). The system is designed to be managed at depth and become self-sustaining within a single generation. The technology exists. The engineering is solved. The only thing missing is the political will to authorise it.
 
 Prior proposals to flood Kati Thanda have been assessed as economically unviable and climatically insufficient. This synthesis argues those assessments are artifacts of five compounding errors: insufficient depth targets, human labour cost assumptions now obsolete given autonomous mining capability, excessively narrow economic framing, failure to consider engineered topography as an integrated system, and assumption that the lake's existing shape and footprint are fixed constraints.
 
-This document describes a managed reservoir occupying the northern basin of Kati Thanda, managed to a target surface level of **−8.5m AHD** — just 1m above the natural maximum fill level of −9.5m AHD — with a managed surface area of approximately **1,500 km²** and volume of **100 km³** . The system is designed to be impossible to kill — comfortably water-positive with robust drought resilience.
+This document describes a managed reservoir occupying the northern basin of Kati Thanda, managed to a target surface level of **−8.5m AHD** — just 1m above the natural maximum fill level of −9.5m AHD — with a managed surface area of approximately **1,500 km²** and volume of **100 km³**. The system is designed to be impossible to kill — comfortably water-positive with robust drought resilience.
 
 The system is:
 
@@ -38,6 +38,8 @@ The system is:
 - A **proof of concept** for managed freshwater lake infrastructure at continental-interior scale
 
 The natural basin floor averages −12.7m AHD — derived from the 1974 bathymetric survey. At a managed surface of −8.5m AHD, the basin is already 4.2m deep before any excavation commences. Excavation targets additional depth below the natural floor, achieving approximately **66.5m average managed depth**.
+
+Stage 1 is the Apollo question — not the Moon shot, but the question of whether a human can function in space. You do not commit to the Moon before you know the answer to the first question.
 
 ---
 
@@ -136,15 +138,15 @@ Normal operations and flood events require different structures. A single pipe c
 
 *Flood spillway:* The pipe is irrelevant in a major flood year. The Diamantina/Warburton system in a large event — 1974, 2010 — can deliver 30 km³ or more over weeks. The lake has 100 km³ of absorption capacity and will attenuate the flood peak significantly, but if the lake is at operating level entering a major wet season, surplus water needs to exit at thousands of cubic metres per second, not fractions of one.
 
-The spillway is a reinforced concrete gated section within the earthfill berm — a structure of perhaps 200-500m length with multiple gates, set at the operating water level of −8.5m AHD. When gates are open, flood discharge passes southward into Lake Eyre South. This is standard on polder dikes and irrigation dams globally. The precise spillway width and gate configuration requires hydraulic modelling of the Diamantina/Warburton flood hydrograph specific to the northern basin — Cooper Creek enters south of the dam wall and is excluded from this calculation. That modelling is not attempted here, but the structure must be sized for the design flood, not the average surplus.
+The spillway is a reinforced concrete gated section within the earthfill berm — a structure of perhaps 200-500m length with multiple gates, set at the operating water level of −8.5m AHD. When gates are open, flood discharge passes southward into the unmanaged southern portion of the Kati Thanda northern basin. This is standard on polder dikes and irrigation dams globally. The precise spillway width and gate configuration requires hydraulic modelling of the Diamantina/Warburton flood hydrograph specific to the northern basin — Cooper Creek enters south of the dam wall and is excluded from this calculation. That modelling is not attempted here, but the structure must be sized for the design flood, not the average surplus.
 
-**Lake Eyre South as natural receiver**
+**Unmanaged southern basin as natural receiver**
 
-The bleed and spillway both discharge southward into Lake Eyre South — the natural southern basin of the Lake Eyre system, approximately 1,500 km² at full fill. Lake Eyre South has no permanent outlet of its own. It receives whatever arrives and evaporates it. At 2-2.5m/year evaporation capacity it handles 3-4 km³/year naturally. In wet years with the spillway open it will flood.
+The bleed and spillway both discharge southward into the unmanaged southern portion of the Kati Thanda northern basin — approximately **~6,930 km²** of natural lake floor between the dam wall and the Goyder Channel, which connects to Lake Eyre South proper some distance further south. This unmanaged southern basin has no permanent outlet of its own. It receives whatever arrives and evaporates it. At 2-2.5m/year evaporation capacity it has substantial natural evaporation capacity. In wet years with the spillway open it floods episodically — same as always, just more frequently and more substantially than its natural cycle.
 
-Salt carried southward by the bleed accumulates in Lake Eyre South over time, progressively concentrating the southern basin. This is not a problem — Lake Eyre South is already hypersaline in its natural state. The bleed makes it more so, which is ecologically neutral to the existing system and creates a long-term salt harvesting opportunity in the southern basin without any engineering of the managed lake itself.
+Salt carried southward by the bleed accumulates in the unmanaged southern basin over time, progressively concentrating it. This is not a problem — the southern basin is already hypersaline in its natural state. The bleed makes it more so, which is ecologically neutral and creates a long-term salt harvesting opportunity without any engineering of the managed lake itself. In major flood years water continues through the Goyder Channel into Lake Eyre South proper.
 
-The salinity management loop closes without any active disposal infrastructure: surplus exits through pipe or spillway, flows south, evaporates, salt stays in the south. The managed lake maintains target salinity. Lake Eyre South does the disposal work for free.
+The salinity management loop closes without any active disposal infrastructure: surplus exits through pipe or spillway, flows into the unmanaged southern basin, evaporates, salt stays in the south. The managed lake maintains target salinity. The southern basin does the disposal work for free.
 
 **Wall length and scale**
 
@@ -152,7 +154,7 @@ At **50km in total length** the southern berm would be the longest such structur
 
 **Design lineage**
 
-Dutch polder and dike tradition throughout. 3m head, 7.5m total height, 54m base width. Outlet: salinity bleed pipe at −10m AHD with gravity-driven flow, plus gated concrete spillway section sized for major flood discharge. Lake Eyre South as natural evaporation sink for all outflow. The engineering is entirely understood. The length is the novelty.
+Dutch polder and dike tradition throughout. 3m head, 7.5m total height, 54m base width. Outlet: salinity bleed pipe at −10m AHD with gravity-driven flow, plus gated concrete spillway section sized for major flood discharge. Unmanaged southern basin as natural evaporation sink for all outflow. The engineering is entirely understood. The length is the novelty.
 
 **The eastern and western perimeter embankments** are minimal. At −8.5m managed surface — just 1m above the natural maximum fill — the natural basin topography already contains the lake almost completely. Embankments close only the occasional terrain dip below −8.5m AHD. Low berms at negligible head differential.
 
@@ -371,6 +373,8 @@ Kati Thanda fills entirely through river flooding, not direct precipitation:
 - **Georgina-Diamantina-Warburton system** — originates near NT/Queensland border, flows approximately 1,400km south, entering from the **northeast** via Warburton Inlet. Primary fill mechanism.
 - **Neales and Macumba rivers** — western tributaries. Rare but significant.
 
+Cooper Creek originates in Queensland and flows southwest — but it enters the Lake Eyre system south of the northern basin boundary. It does not flow into the managed lake area.
+
 **Ridge gorge design**
 
 The wind management ridge runs from the western end of the southern dam wall, up the western side, around the north, and to the northeast — enclosing the lake on three sides. Two river systems must pass through the ridge:
@@ -524,7 +528,7 @@ The standard evaporation figure of ~2-2.5m/year is derived from pan evaporation 
 
 Water level is managed primarily through the southern dam wall outlet, not the northern inflow gorges. River flooding is episodic and valuable — it is captured when it arrives, not throttled at the gorge. Surplus bleeds southward through the outlet pipe and spillway.
 
-In wet years: surplus flows southward into Lake Eyre South. In drought years: southern outflow reduces or closes, retaining volume. The ~100 km³ volume provides multi-year drought buffer across all three inflow scenarios. Backflow prevention at the gorge inlet structures stops reverse drainage during drought.
+In wet years: surplus flows southward into the unmanaged southern basin. In drought years: southern outflow reduces or closes, retaining volume. The ~100 km³ volume provides multi-year drought buffer across all three inflow scenarios. Backflow prevention at the gorge inlet structures stops reverse drainage during drought.
 
 The lake surface rises from commissioning level (near −11m, just above the sill) toward operational level (−8.5m) over months to years as water balance is confirmed.
 
@@ -713,12 +717,6 @@ The realistic settlement trajectory is determined by development pace, not water
 
 Over a century, the managed lake could absorb a city-scale population that would otherwise compress further into water-stressed coastal cities. The lake doesn't just create real estate — it creates the water security that makes inland settlement possible for the first time since the Snowy Mountains Scheme.
 
-**The pipeline reversal**
-
-Earlier proposals for Kati Thanda involved piping seawater from Spencer Gulf near Adelaide into the lake — enormous energy cost to pump salt water uphill against gravity into a shallow basin that would immediately evaporate it. Those proposals were correctly dismissed.
-
-This project inverts that logic entirely. Even in the conservative inflow scenario the lake generates a meaningful annual surplus — and Adelaide's total annual water consumption is approximately 0.17 km³/year. In medium to optimistic inflow years the surplus covers Adelaide's entire water needs many times over. Pumping would be required to move water southward regardless of lake elevation. A fraction of the surplus pumped southward could supplement the Murray River, reduce Adelaide's dependence on its desalination plant (which costs $500,000 per day to run even when idle), and provide climate-independent water security to South Australia's 1.8 million people.
-
 ---
 
 ## Indigenous Partnership
@@ -825,7 +823,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 1. **Dam and reservoir project using the natural basin as primary container:** Natural terrain provides the northern lake boundary at target water level without construction. Eastern and western margins grade naturally to beach. No engineered northern boundary required. The wind management ridge is a separate structure positioned for atmospheric effect, not coincident with the lake boundary.
 
-1a. **3m head polder berm — Dutch tradition as complete precedent:** Managed surface −8.5m AHD, sill −11.5m AHD, head exactly 3m. Berm height 7.5m, base width ~54m, crest at −4m AHD. Outlet: salinity bleed pipe at −10m AHD (gravity-fed, 1.5m driving head) plus gated concrete spillway section for major flood discharge — pipe for normal operations, spillway for flood years. Spillway must be sized for the Diamantina design flood, not the average surplus. Lake Eyre South receives all outflow and evaporates it. Novelty is 50km length, not engineering complexity.
+1a. **3m head polder berm — Dutch tradition as complete precedent:** Managed surface −8.5m AHD, sill −11.5m AHD, head exactly 3m. Berm height 7.5m, base width ~54m, crest at −4m AHD. Outlet: salinity bleed pipe at −10m AHD (gravity-fed, 1.5m driving head) plus gated concrete spillway section for major flood discharge — pipe for normal operations, spillway for flood years. Spillway must be sized for the Diamantina design flood, not the average surplus. Unmanaged southern basin (~6,930 km²) receives all outflow and evaporates it. Novelty is 50km length, not engineering complexity.
 
 2. **Natural basin fits the design level almost exactly:** The 1974 bathymetric data shows average floor elevation of −12.7m AHD. At −8.5m managed surface — just 1m above the natural maximum fill — natural depth inherited is 4.2m and the existing topography provides nearly complete perimeter containment. Excavation of 62.3m below the natural floor achieves 66.5m average managed depth. The design surface level was chosen to minimise perimeter engineering, not to maximise free depth.
 
@@ -859,7 +857,7 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 13. **Seawater pipeline eliminated by design:** Water-positive through river inflow alone. USD $12-14B capital and $0.8B/year maintenance eliminated.
 
-13a. **Lake Eyre South as natural salinity disposal system:** All outflow — salinity bleed and flood spillway discharge — flows southward into Lake Eyre South (~1,500 km², already hypersaline, no outlet). Lake Eyre South evaporates the water and retains the salt. No active disposal infrastructure required. Salt accumulates progressively in the southern basin — a long-term salt harvesting opportunity, not a problem. The salinity management loop closes without engineering.
+13a. **Unmanaged southern basin as natural salinity disposal system:** All outflow — salinity bleed and flood spillway discharge — flows southward into the unmanaged southern portion of the Kati Thanda northern basin (~6,930 km², already hypersaline, no outlet). This basin evaporates the water and retains the salt. No active disposal infrastructure required. Salt accumulates progressively — a long-term salt harvesting opportunity, not a problem. In major flood years water continues through the Goyder Channel to Lake Eyre South proper. The salinity management loop closes without engineering.
 
 14. **Not a true terminal basin — salinity self-regulates via southern bleed:** The managed southern release removes water and dissolved salt proportionally — exactly as natural lake outlets do. Salt removal exceeds annual river inflow salt load across all inflow scenarios. In the optimistic scenario the bleed removes 45-84 million tonnes annually; in the conservative scenario substantially less but still sufficient given the volume buffer. Industrial extraction is not required for operational salinity management. The failure mode is extended drought reducing the surplus and bleed rate — the same failure mode as any natural lake with reduced inflow.
 
