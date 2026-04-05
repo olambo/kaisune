@@ -39,8 +39,6 @@ The system is:
 
 The natural basin floor averages −12.7m AHD — derived from the 1974 bathymetric survey. At a managed surface of −8.5m AHD, the basin is already 4.2m deep before any excavation commences. Excavation targets additional depth below the natural floor, achieving approximately **66.5m average managed depth**.
 
-Stage 1 is the Apollo question — not the Moon shot, but the question of whether a human can function in space. You do not commit to the Moon before you know the answer to the first question.
-
 ---
 
 ## Background: What Has Been Formally Proposed
@@ -681,19 +679,9 @@ With sectional bunding in place, flood events fill completed sections while prot
 
 ## Climate Impact Assessment
 
-**Local microclimate**
-
-A permanent body of water at 1,500 km² will measurably modify conditions in its immediate vicinity. High thermal mass means the lake surface temperature lags air temperature — cooler in summer, warmer in winter than the surrounding desert. Evaporation adds moisture to the atmospheric column above and downwind. Riparian vegetation establishing around the margins adds further transpiration. Studies of large reservoirs globally consistently show local temperature moderation of 1-3°C within 10-30km of the shoreline. At 1,500 km² Kati Thanda is larger than most reservoirs — Lake Argyle in the Kimberley is approximately 740 km² and has documented local climate effects.
-
-**Why depth matters**
-
-The natural Kati Thanda fill averages 3m depth and heats completely within days. The managed lake at 66.5m average depth stratifies strongly — a cool deep reservoir moderating surface temperature year-round. A cooler lake surface means less heat transfer to passing air masses and more moisture addition through evaporation. The managed lake is a categorically different thermal system from any natural fill event.
-
-No specific claims are made here about effects on distant coastal cities. The lake creates a local microclimate. Continental-scale climate effects require the full Dreamtime Spine network — multiple managed lakes, orographic forcing, and vegetation recovery at scale. This project is the proof of concept node for that system, not the system itself.
-
 **Connection to the Dreamtime Spine**
 
-This project is the proof of concept for every subsequent basin in the Dreamtime Spine network — demonstrating that a managed lake system can be authorised, built, and operated within a western democratic governance framework. That demonstration is the prerequisite for the full Spine.
+The lake creates a local microclimate — measurable temperature moderation and moisture addition within approximately 30km of the shoreline. Continental-scale climate effects require the full Dreamtime Spine network — multiple managed lakes, orographic forcing, and vegetation recovery at scale. This project is the proof of concept node for that system. Demonstrating that a managed deep lake can be authorised, built, and operated within a western democratic governance framework is the prerequisite for everything that follows.
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
 
