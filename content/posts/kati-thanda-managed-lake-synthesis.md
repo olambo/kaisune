@@ -725,33 +725,31 @@ Arabana custodians as genuine project partners from design stage. Their ecologic
 
 ## Economic Return Ledger
 
-Against a project cost of approximately **$250 billion over 20 years** ($12.5 billion/year — dam engineering and ecological design included):
+Against a construction cost of approximately **$250 billion over 20 years** ($12.5 billion/year), the project generates annual returns at maturity estimated as follows. All figures are at project maturity (year 30-50) and exclude the construction and early operational period.
 
-| Return Category | Estimate |
+| Return Category | Annual return at maturity (year 30-50) |
 |---|---|
-| **Foreshore development rights (near-term):** Upfront payment from institutional consortium (Macquarie-style infrastructure fund, sovereign wealth fund, or equivalent) for exclusive development rights over approximately 100-120km of permanent managed freshwater lakefront — the natural shoreline perimeter excluding the southern dam wall. The only such asset in Australia. Pioneer pricing reflects frontier risk and remoteness. | $10-40B |
-| **Foreshore long-term city value (50-100 years):** Revenue share from land sales and development proceeds as the city matures. Climate moderated to Broome-comparable conditions. Planned infrastructure from inception. No storm surge, no coastal erosion. Remote Australian property values are substantially lower than coastal — this is a long-horizon return, not a near-term one. | $70-200B |
-| Agricultural irrigation — permanent water access transforming desert to productive farmland across the lake perimeter belt | $80-150B |
-| Fisheries and aquaculture — Murray cod, golden perch, native freshwater species, managed wild and farmed production from ~100 km³ | $60-200B |
-| Technology export — autonomous mining, dam engineering, ecological design | $80-200B |
-| Climate damage avoided — Adelaide and SE Australian heat event reduction | $30-100B |
-| Tourism — permanent inland lake, wetland ecology, Aboriginal cultural landscape | $30-80B |
-| Wetland carbon credits and ecological services | $15-40B |
-| Great Artesian Basin remediation value | Unquantified |
-| Ridge real estate (when fill stable and vegetation established — long-horizon return) | Deferred |
-| **Total long-term returns** | **$350B-$1.0T+** |
+| **Foreshore revenue share** — 15-25% of land sales and development proceeds as the lakeside city matures. Planned infrastructure from inception, no storm surge, no coastal erosion. Remote Australian values lag coastal — this is a long-horizon return that compounds as the city grows. | $2-5B/year |
+| **Agricultural irrigation** — permanent water access transforming desert to productive farmland across the lake perimeter belt | $1-3B/year |
+| **Fisheries and aquaculture** — Murray cod, golden perch, native freshwater species, managed wild and farmed production from ~100 km³ | $0.5-2B/year |
+| **Technology export** — autonomous mining, dam engineering, ecological design, salinity management | $1-3B/year |
+| **Tourism** — permanent inland lake, wetland ecology, Aboriginal cultural landscape | $0.3-1B/year |
+| **Wetland carbon credits and ecological services** | $0.2-0.5B/year |
+| **Great Artesian Basin remediation value** | Unquantified |
+| **Ridge real estate** (when fill stable and vegetation established) | Deferred |
+| **Annual return at maturity** | **$5-15B/year** |
 
-All figures are lifetime values over 50-100 years, heavily dependent on successful execution, governance stability, and climate sequences. These returns assume proof-of-concept is demonstrated and long-horizon governance is maintained. Actual outcomes could be materially lower if filling timelines extend, drought sequences are severe, or institutional governance fails. A 1.5-4× return multiple on a $250B national infrastructure investment — without requiring heroic assumptions. Ridge real estate is additional to these figures once the fill has settled and vegetation is established.
+Against a construction cost of $12.5B/year over 20 years, the project reaches annual breakeven within a decade or two of completion and then generates returns indefinitely. The asset does not depreciate — it appreciates as the city grows, the ecology establishes, and the technology export revenue compounds. All figures are estimates at maturity, heavily dependent on successful execution, governance stability, and population uptake. Actual outcomes could be materially lower if filling timelines extend, drought sequences are severe, or institutional governance fails.
 
 **How the foreshore is actually monetised — development rights, not piecemeal sales**
 
 The correct monetisation mechanism is the sale of **development rights** to an institutional consortium, structured as:
 
-- **Upfront payment: $10-40B** for exclusive or preferential development rights — near-term and bankable
-- **Revenue sharing: 15-25% of all land sales and development proceeds** over 50 years — delivering the long-term city value to the sovereign owner as the city matures
+- **Upfront payment** for exclusive or preferential development rights over approximately 100-120km of permanent managed freshwater lakefront — near-term and bankable, reflecting frontier risk and remoteness
+- **Revenue sharing: 15-25% of all land sales and development proceeds** over 50 years — delivering compounding city value to the sovereign owner as the city matures
 - **Infrastructure co-investment:** the consortium funds circumferential light rail, roads, and utilities in exchange for accelerated land release schedule
 
-The governance architecture matters here as much as anywhere in the project. A short-horizon government under electoral pressure auctions development rights too cheaply and too early — surrendering decades of compounding value for near-term revenue. The long-horizon infrastructure fund described in the companion governance document holds the development rights, manages the release schedule, and captures the full 50-year value on behalf of future Australians.
+The governance architecture matters here as much as anywhere in the project. A short-horizon government under electoral pressure auctions development rights too cheaply and too early — surrendering decades of compounding value for near-term revenue. The long-horizon infrastructure fund described in the companion governance document holds the development rights, manages the release schedule, and captures the full long-term value on behalf of future Australians.
 
 This is the Norwegian sovereign wealth fund model applied to a city rather than a financial portfolio. The asset appreciates. The fund captures the appreciation. The electoral cycle cannot raid it.
 
