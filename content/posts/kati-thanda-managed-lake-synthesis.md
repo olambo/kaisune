@@ -23,6 +23,8 @@ description: "Engineering synthesis for the transformation of the upper reach of
 
 ## Summary
 
+{{< figure src="/kaisune/images/lake-eyre-1500.png" width="300px" caption="Lake Eyre: Northern basin reservoir (dark blue)." >}}
+
 Kati Thanda — known to most Australians as Lake Eyre — is Australia's largest lake. The famous empty lake at the heart of the continent, filling rarely enough that each event makes national news. This synthesis proposes the permanent freshwater impoundment of the northern basin's upper reach — a managed surface area of 1,500 km², roughly the size of metropolitan Adelaide. The system is designed to be managed at depth and become self-sustaining within a single generation. The technology exists. The engineering is solved. The only thing missing is the political will to authorise it.
 
 Prior proposals to flood Kati Thanda have been assessed as economically unviable and climatically insufficient. This synthesis argues those assessments are artifacts of five compounding errors: insufficient depth targets, human labour cost assumptions now obsolete given autonomous mining capability, excessively narrow economic framing, failure to consider engineered topography as an integrated system, and assumption that the lake's existing shape and footprint are fixed constraints.
@@ -79,8 +81,6 @@ The natural basin, managed at −8.5m AHD, fits its geology almost exactly — a
 ---
 
 ## Novel Claim 1: This Is a Dam and Reservoir Project Using the Natural Basin
-
-{{< figure src="/kaisune/images/lake-eyre-1500.png" width="300px" caption="Lake Eyre: Northern basin reservoir (dark blue)." >}}
 
 All prior flooding proposals frame Kati Thanda as a lake to be filled. This is the wrong engineering frame.
 
