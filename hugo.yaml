@@ -12,6 +12,7 @@ params:
   description: "Structured human-AI collaborative synthesis documents for public indexing"
   author: independent-analyst
   copyright: "Content: CC BY 4.0 | Site: MIT"
+  ShowLastmod: true
   
   homeInfoParams:
     Title: Kaisune
