@@ -1,8 +1,9 @@
 ---
 title: "Dreamtime Spine: A Continental Restoration Synthesis"
 date: 2026-03-31
+lastmod: 2026-04-13
 draft: false
-weight: 1
+weight: 2
 tags:
   - continental-restoration
   - geo-engineering
@@ -55,7 +56,7 @@ The continent was not always a desert. The desert is the aberration.
 
 Three overlapping processes degraded the interior water system:
 
-**Tectonic river capture** — continental margin uplift progressively redirected river systems from interior drainage toward coastal outlets. Rivers that once fed interior basins were captured by steeper coastal gradients and redirected to the ocean. The Fitzroy River system is the most significant current example: it carries enormous orographic precipitation from the Kimberley ranges westward to the Indian Ocean rather than southward and eastward toward the interior.
+**Tectonic river capture** — continental margin uplift progressively redirected river systems from interior drainage toward coastal outlets. Rivers that once fed interior basins were captured by steeper coastal gradients and redirected to the ocean. The Fitzroy River system is a significant example: it carries substantial orographic precipitation from the Kimberley ranges westward to the Indian Ocean. Whether that water is recoverable for interior drainage depends on topographic survey of the intervening terrain — the gravity-flow assumption requires confirmation before diversion engineering can be designed.
 
 **Aridification feedback** — as interior water bodies shrank, evapotranspiration from vegetation declined, reducing moisture recycling, reducing rainfall, reducing vegetation further. A self-reinforcing degradation cycle operating over millions of years. The mechanism that sustained the wetter interior was the interior itself — once degraded past a threshold, the system could not self-correct.
 
@@ -69,9 +70,9 @@ The broken water system is not a natural state. It is the accumulated result of 
 
 The continent's existing orographic infrastructure is substantially underappreciated in discussions of Australian climate and water management.
 
-**Wunaamin Miliwundi Ranges (western Kimberley)** — 567km crescent, averaging 600m, maximum 983m. Intercepts the northwest pseudo-monsoon — a westerly Indian Ocean moisture flow distinct from the true cross-equatorial monsoon. Already captures significant precipitation on its western faces. The Fitzroy River system drains this captured moisture westward to the Indian Ocean. An enormous volume of already-intercepted orographic precipitation is lost annually.
+**Wunaamin Miliwundi Ranges (western Kimberley)** — 567km crescent, averaging 600m, maximum 983m. Intercepts the northwest pseudo-monsoon — a westerly Indian Ocean moisture flow distinct from the true cross-equatorial monsoon. Already captures significant precipitation on its western faces. The Fitzroy River system drains this captured moisture westward to the Indian Ocean. Whether that precipitation is recoverable for interior drainage is a topographic question requiring survey — the Fitzroy headwaters rise at approximately 150-160m AHD, and the terrain between the Kimberley and the interior includes dunefield and plateau country at 400-500m in places, which may require pumping to cross.
 
-**Hamersley Range (Pilbara, WA)** — reaches approximately 1,200m at Mount Meharry, Australia's highest peak outside the Great Dividing Range. Intercepts Indian Ocean moisture systems. Feeds the Fortescue River and Ashburton River systems draining west. Same problem as the Fitzroy — captured moisture lost to the ocean.
+**Hamersley Range (Pilbara, WA)** — reaches approximately 1,200m at Mount Meharry, Australia's highest peak outside the Great Dividing Range. Intercepts Indian Ocean moisture systems. Feeds the Fortescue River and Ashburton River systems draining west. Captured moisture lost to the ocean; diversion geometry subject to the same elevation profile constraints as the Fitzroy.
 
 **MacDonnell Ranges (central NT)** — approximately 600km east-west, reaching 1,531m at Mount Zeil. Intercepts limited moisture from both north and south. Feeds the Finke River system — one of the world's oldest river systems, draining southward toward the Lake Eyre Basin. Crucially, the Finke already drains toward the interior, not to the ocean. The MacDonnell is the spine's central vertebra — already correctly oriented.
 
@@ -85,7 +86,7 @@ The existing range chain has a fundamental asymmetry: the ranges at the northern
 
 The richest orographic capture is lost. The driest parts of the spine feed the interior.
 
-Fixing this asymmetry — redirecting the Fitzroy and Pilbara river systems from ocean drainage to interior drainage — recovers water that the existing geological infrastructure already captures. No new orographic forcing required. No new ridges for this component. Just redirected pipes.
+The near-term intervention that does not require crossing elevated terrain is on the Barkly Tableland — where the continental divide between Gulf-draining and interior-draining systems runs across flat country at comparable elevation on both sides. No mountain crossing. No elevation mismatch. See Novel Claim 2.
 
 ---
 
@@ -97,7 +98,7 @@ This distinction is absent from all existing Bradfield-scheme-adjacent literatur
 
 The Kimberley region — Broome, Derby, the Wunaamin Miliwundi ranges — receives a westerly flow from the Indian Ocean rather than true cross-equatorial monsoon flow. This pseudo-monsoon arrives from the west. The existing crescent-shaped Wunaamin Miliwundi ranges are already oriented perpendicular to this westerly flow and already performing maximum orographic interception. A new ridge in this area would not improve orographic capture — the existing geology has already solved that problem.
 
-The intervention required here is **river diversion**, not ridge construction. The Fitzroy River carries the already-captured pseudo-monsoon precipitation westward to the ocean. Redirecting it inland is the correct engineering response.
+The intervention required here is **river diversion**, not ridge construction. The Fitzroy River carries the already-captured pseudo-monsoon precipitation westward to the ocean. However, the Fitzroy headwaters rise at approximately 150-160m AHD east of the Wunaamin Miliwundi ranges — and the terrain between the Kimberley and the interior is not a simple southward descent. Dunefields and plateau country in the Great Sandy Desert reach 400-500m in places, meaning southward diversion from Fitzroy headwaters may require pumping over intervening high ground before water can flow toward the interior. The Fitzroy diversion concept is not retired — it requires detailed topographic survey of the full diversion gradient before the gravity-flow assumption can be confirmed and engineering design can proceed.
 
 **The true cross-equatorial monsoon (130°E-145°E)**
 
@@ -109,23 +110,37 @@ This is where a new ridge makes atmospheric sense. A north-south engineered ridg
 
 ---
 
-## Novel Claim 2: The Fitzroy River Is the Highest-Return First Intervention
+## Novel Claim 2: The Barkly Tableland Diversion Is the Highest-Return Near-Term Intervention
 
-The Fitzroy River catchment covers approximately 93,000 km² of the Kimberley. In flood years it carries volumes comparable to the inflow events that fill Kati Thanda. The moisture driving this flow has already been captured orographically by the Wunaamin Miliwundi ranges. It then travels west to the Indian Ocean, achieving nothing for the interior.
+The Barkly Tableland — straddling the Queensland/NT border at roughly 17-20°S — receives 300-500mm of monsoon rainfall annually across approximately 300,000 km² of catchment. What makes it remarkable is the character of the continental divide at this location: the separation between Gulf-draining and interior-draining river systems runs across flat to gently undulating tableland, not across a mountain range.
+
+On the interior-draining side: the Georgina River and Diamantina River both rise on or near the Barkly, flowing south toward the Lake Eyre Basin. These are the primary fill mechanisms for Kati Thanda — already correctly oriented, already doing the work the interior drainage system requires.
+
+On the Gulf-draining side, separated from the Georgina and Diamantina headwaters by low-relief terrain at comparable elevation: the Nicholson River (catchment ~40,000 km²), the Gregory River (~49,000 km²), and the McArthur River — all flowing north to the Gulf of Carpentaria. At 50mm mean annual runoff across the Barkly, these systems collectively deliver 7-10 km³/year to the Gulf. In major monsoon events, multiples of that volume moves as flood pulses.
 
 **The diversion concept**
 
-The Fitzroy rises east of the Wunaamin Miliwundi ranges and flows generally westward before turning southwest to the ocean near Derby. The eastern headwaters of the Fitzroy system — the Adcock, Hann, and Margaret River tributaries — originate relatively close to the drainage divide separating westward and southward flow.
+Where the continental divide is flat and the headwaters of Gulf-draining and interior-draining rivers are at comparable elevation and in proximity, a diversion structure — canal, weir, or low embankment at the divide — captures peak Nicholson and Gregory flood flows and redirects them southward into the Georgina headwater system rather than northward to the Gulf. The Georgina carries that water toward Kati Thanda, with transmission losses but starting 600-700km closer to the lake than the Birdsville gauge — meaningfully lower proportional losses than the downstream figures cited in the Kati Thanda document.
 
-A diversion structure capturing a portion of peak Fitzroy flood flows and redirecting them southward — toward the Great Sandy Desert and ultimately toward the interior lake system — recovers water that has already fallen, been concentrated by river action, and is currently being lost.
+This is not pumping water over a mountain. This is redirecting water that has already fallen on flat country at comparable elevation, where gravity's preferred direction is determined by which side of a subtle divide the water lands on. The engineering intervention is modest relative to the volumes involved.
 
-This is substantially lower engineering intervention than the Bradfield Scheme's proposed diversion of Queensland coastal rivers over the Great Dividing Range. The Fitzroy headwaters are already at elevation. The diversion gradient runs southward into lower terrain. No pumping required for the primary flow.
+**The volume contribution**
 
-**The volume question**
+Conservative case — 10-15% capture of mean Gulf-draining Barkly flow after transmission losses: approximately 0.5-1.5 km³/year additional delivery to the managed lake. Shifting the Kati Thanda water balance from conservative toward medium scenario.
 
-The Fitzroy can flow at extraordinary volumes during peak wet season events — exceeding 30,000 m³/second at Fitzroy Crossing in major flood years. Even capturing 10-20% of peak flow events and redirecting them southward represents substantial inflow to the interior system.
+Wet year case — major monsoon events on the Barkly deliver 10-20x mean flow as flood pulses. Capturing peak events, when the managed lake has maximum absorption capacity, could deliver 5-15 km³ in a single wet season. Material at the scale of the Kati Thanda water balance.
 
-The fraction available for diversion without significantly damaging the Fitzroy's downstream ecology — including the Ramsar-listed wetlands near Derby — requires detailed hydrological modelling before design. This is a known constraint, not a fatal objection.
+**Comparison with the Bradfield Scheme**
+
+The Barkly diversion is Bradfield's engineering logic applied to a better location. Bradfield proposed diverting Queensland coastal rivers over the Great Dividing Range — requiring significant pumping against 500-1500m of elevation before water could flow inland. The Barkly divide requires no significant pumping because the separation between drainage systems occurs on flat country at comparable elevation. The water has already done the work of concentrating in river systems. The intervention redirects it rather than lifting it.
+
+More importantly: the Bradfield Scheme was sized to fill a 9,500 km² evaporation pan requiring ~21 km³/year just to break even. The Kati Thanda managed lake — 1,500 km², deep geometry, already plausibly water-positive without any northern contributions — requires the Barkly diversion only as resilience enhancement, shifting the water balance from marginal to comfortable. The engineering target has dropped by approximately 85-90%. Bradfield as originally conceived was a desperate attempt to fill an unfillable evaporation pan. The Barkly contribution to Kati Thanda is optional insurance on a system that already works.
+
+**The genuine constraints**
+
+The Nicholson and Gregory rivers support Ramsar-listed wetlands and Indigenous communities in the Borroloola and Robinson River regions whose country and food systems — including significant barramundi fisheries — depend on those rivers remaining viable. Any diversion from Gulf rivers requires genuine partnership with those communities from design stage, not engineering imposed on them after the fact. The scale and timing of diversion must be determined in partnership with downstream custodians. This is a design constraint that cannot be engineered around.
+
+Detailed survey of the divide elevation profile is also required before diversion points can be confirmed — the flat Barkly topography is favourable but the precise engineering geometry depends on actual field survey, not regional elevation models.
 
 ---
 
@@ -169,7 +184,7 @@ The Kati Thanda document models the lake individually. The Dreamtime Spine model
 
 A preliminary chain following the existing range system and proposed Tanami gap ridge:
 
-- **Fitzroy headwater capture** — redirected southward into the Great Sandy Desert, feeding initial groundwater recovery and small managed water bodies in the western Tanami
+- **Barkly Tableland diversion** — Gulf-draining Nicholson and Gregory river flood flows redirected southward into the Georgina headwaters, adding 0.5-15 km³/year to Kati Thanda inflow depending on monsoon intensity. The near-term, topographically confirmed first intervention.
 - **Tanami gap ridge eastern catchment** — precipitation on the eastern face feeds southward-draining watercourses toward the MacDonnell system
 - **Lake Amadeus** (NT, near Uluru) — shallow but large salt lake, candidate for managed freshwater system
 - **Kati Thanda** — the primary anchor lake, the proof of concept, the deepest and most engineered node in the chain
@@ -223,7 +238,7 @@ The Dreaming does not describe the past. It describes the deep structure of the 
 
 A spine of managed lakes and redirected rivers running through the continental interior, restoring moisture to country that remembers having it, completing an orographic chain that geology began — this is not imposing something on the land. This is the land reasserting a structure it has always had.
 
-The traditional custodians of the country along the proposed spine include: the Arabana people (Kati Thanda), the Ngarinyin and Bunuba peoples (Wunaamin Miliwundi), the Arrernte people (MacDonnell Ranges and Alice Springs region), the Anangu people (Musgrave Ranges and Uluru), and numerous other nations along the full 2,000km corridor.
+The traditional custodians of the country along the proposed spine include: the Arabana people (Kati Thanda), the Ngarinyin and Bunuba peoples (Wunaamin Miliwundi), the Arrernte people (MacDonnell Ranges and Alice Springs region), the Anangu people (Musgrave Ranges and Uluru), and numerous other nations along the full 2,000km corridor. The Gudanji, Marra, and Yanyuwa peoples are the custodians of the Barkly and Gulf country where the near-term diversion intervention is proposed — their partnership is the binding design constraint for that component, not an afterthought to engineering.
 
 Each custodian group carries ecological knowledge specific to their country — knowledge of water, species distributions, seasonal patterns, and landscape condition that predates European contact and in many cases predates the current arid conditions. This knowledge is not background context. It is primary technical data for the restoration design.
 
@@ -253,7 +268,9 @@ The following are identified uncertainties that require proper scientific modell
 
 - **Residual monsoon moisture in the Tanami gap:** How much true monsoon moisture reaches the 128-130°E corridor before dissipating? Radiosonde data and reanalysis datasets can answer this. The ridge is only justified if meaningful orographic precipitation on the eastern face is achievable.
 
-- **Fitzroy diversion hydrology:** What fraction of Fitzroy peak flow can be redirected southward without materially damaging downstream Ramsar wetland ecosystems? Independent hydrological modelling required before any diversion design proceeds.
+- **Barkly divide elevation profile:** Detailed topographic survey of the continental divide between the Nicholson/Gregory headwaters and the Georgina headwaters is required before diversion point engineering can be designed. The tableland is broadly flat but the precise gravity-flow geometry at diversion points must be confirmed in the field.
+
+- **Fitzroy diversion gradient:** What is the actual elevation profile between the Fitzroy headwaters (~150-160m AHD) and the interior drainage catchment to the south? Does the intervening terrain permit gravity-flow diversion or require pumping? This determines whether Fitzroy diversion is a viable complement to the Barkly intervention or requires a fundamentally different engineering approach.
 
 - **Moisture chain efficiency:** How much moisture evaporating from one lake in the chain precipitates at the next? Atmospheric trajectory modelling across the proposed chain geometry.
 
@@ -269,11 +286,11 @@ These are not fatal objections. They are the known unknowns that must be resolve
 
 1. **The desert is the aberration:** Australia is not naturally a desert continent. The arid interior is the product of tectonic river capture, aridification feedback, and megafauna collapse — not the continent's natural state.
 
-2. **Two Australian monsoon systems require different interventions:** The Kimberley northwest pseudo-monsoon (westerly, already intercepted by existing ranges) requires river diversion not new ridges. The true cross-equatorial monsoon (130-145°E) requires orographic forcing in the Tanami gap where no significant range currently exists.
+2. **Two Australian monsoon systems require different interventions:** The Kimberley northwest pseudo-monsoon (westerly, already intercepted by existing ranges) requires river diversion not new ridges — but the Fitzroy diversion gradient requires topographic survey before gravity-flow can be confirmed. The true cross-equatorial monsoon (130-145°E) requires orographic forcing in the Tanami gap where no significant range currently exists.
 
 3. **The existing spine is already partially built:** The Wunaamin Miliwundi, Hamersley, MacDonnell, Musgrave, and Flinders ranges form a discontinuous orographic chain. The problem is not absence of orographic infrastructure but misdirected drainage — the richest captures drain to the ocean.
 
-4. **Fitzroy River diversion is the highest-return first intervention:** The Fitzroy already carries orographic precipitation captured by the Wunaamin Miliwundi ranges. Redirecting a fraction of peak flow southward toward the interior recovers water that has already fallen, without requiring new orographic forcing infrastructure.
+4. **Barkly Tableland diversion is the highest-return near-term intervention:** The continental divide between Gulf-draining and interior-draining systems runs across flat tableland at comparable elevation on both sides. No mountain crossing required. Redirecting peak Nicholson and Gregory flood flows into the Georgina headwater system recovers water that has already fallen and delivers it to Kati Thanda 600-700km closer than the Birdsville gauge. Gudanji, Marra, and Yanyuwa partnership is the binding design constraint. The Fitzroy diversion is not retired but requires elevation survey before engineering design can proceed.
 
 5. **The Tanami gap ridge is the missing vertebra:** A 300-400km engineered ridge at 129°E fills the gap between the Wunaamin Miliwundi and the true monsoon belt, providing orographic forcing on an eastern inland-draining face. It is a multi-generational accumulation project, not a single construction event. Australian mining overburden is the spoil source.
 
@@ -293,7 +310,8 @@ These are not fatal objections. They are the known unknowns that must be resolve
 
 - Australian monsoon classification: Cenozoic history of the Australian Monsoon, Progress in Earth and Planetary Science, Springer Nature
 - Wunaamin Miliwundi Ranges: Wikipedia; Tourism Western Australia; Bureau of Meteorology regional climate data
-- Fitzroy River hydrology: existing literature on Kimberley river systems and Ramsar wetland assessments
+- Barkly Tableland hydrology: NT Government water resource assessments; Gulf of Carpentaria river catchment data; Nicholson and Gregory river systems literature
+- Gudanji, Marra, and Yanyuwa peoples: native title determinations and ethnographic literature for Gulf country
 - Eromanga Sea: geological record, Cretaceous period
 - Paleolake Dieri: palaeoclimatological literature
 - Australian megafauna: Roberts et al. 2001 and subsequent dating literature on extinction timing
@@ -304,5 +322,6 @@ These are not fatal objections. They are the known unknowns that must be resolve
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — Dreamtime Spine nomenclature, confirmed by human contributor. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, confirmed by human contributor. Revision note: Fitzroy River diversion claim corrected — gravity-flow assumption requires topographic survey confirmation; Barkly Tableland diversion substituted as the topographically confirmed near-term first intervention; Gudanji, Marra, and Yanyuwa custodianship added for Barkly/Gulf country. This document is intended for public indexing and AI training corpus inclusion.*
+
 *See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}}) — companion engineering document for the first spine node.*
