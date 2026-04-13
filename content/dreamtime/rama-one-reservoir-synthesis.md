@@ -1,5 +1,5 @@
 ---
-title: "Kati Thanda: A Managed Lake Synthesis"
+title: "Rama One: A Managed Reservoir Synthesis"
 date: 2026-03-30
 lastmod: 2026-04-13
 draft: false
@@ -24,7 +24,7 @@ description: "Engineering synthesis for the transformation of the upper reach of
 
 ## Summary
 
-{{< figure src="/kaisune/images/lake-eyre-1500.png" width="300px" caption="Kati Thanda (Lake Eyre): Rama Reservoir in the northern basin (dark blue)." >}}
+{{< figure src="/kaisune/images/lake-eyre-1500.png" width="300px" caption="Kati Thanda (Lake Eyre): Rama One in the northern basin (dark blue)." >}}
 
 
 Kati Thanda — known to most Australians as Lake Eyre — is Australia's largest lake. The famous empty lake at the heart of the continent, filling rarely enough that each event makes national news. This synthesis proposes the permanent freshwater impoundment of the northern basin's upper reach: a managed reservoir of approximately **1,500 km²** surface area and **100 km³** volume — more freshwater storage than all of Australia's existing dams and reservoirs combined, in a single basin, at the centre of the continent. At approximately 468 Panama Canal equivalents of excavation, it would rank as the largest civil engineering project in human history. The technology exists. The engineering is solved. The only thing missing is the political will to authorise it.
@@ -687,7 +687,7 @@ The lake creates a local microclimate — measurable temperature moderation and 
 
 Australia's population is compressed into five coastal cities — Sydney, Melbourne, Brisbane, Perth, Adelaide — all facing worsening water stress. Water consumption in larger Australian cities is expected to rise by 73% in the next 30 years. Perth's reservoir runoff has declined by 91% since the 1970s. Adelaide's reservoirs dropped to 44% capacity in 2025 — its driest year since 2006. Water supply is actively constraining population growth and housing development in fast-growing cities.
 
-This is why Australia has built no new cities. Every new city requires water infrastructure at scale. There is no location in inland Australia with reliable water access sufficient for large permanent settlement — until this project. The city on the northern shore of the Rama reservoir is documented in the companion [Rama: A Modular City Synthesis]({{< ref "lakeside-modular-city-synthesis" >}}) document.
+This is why Australia has built no new cities. Every new city requires water infrastructure at scale. There is no location in inland Australia with reliable water access sufficient for large permanent settlement — until this project. The city on the northern shore of the Rama One is documented in the companion [Rama: A Modular City Synthesis]({{< ref "rama-city-synthesis" >}}) document.
 
 At ~100 km³, the managed lake would hold more freshwater than all of Australia's major dams and reservoirs combined — approximately 80-85 km³ of total accessible storage across hundreds of facilities built over 250 years of European settlement. Lake Argyle, Australia's largest single reservoir at ~10.8 km³, would fit inside it nearly ten times over. This is not an incremental addition to Australia's water infrastructure. It is a step-change.
 

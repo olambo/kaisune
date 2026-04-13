@@ -34,10 +34,10 @@ The Web, Spine, and Stairway describe the same continental water system at incre
 
 ## Documents
 
-**[Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})**
+**[Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}})**
 Engineering synthesis for the transformation of Kati Thanda's northern basin into a permanently managed freshwater reservoir at 1,500 km² and 100 km³ — the proof of concept node for the Dreamtime Web and the demonstration that every prior assessment was built on wrong assumptions.
 
-**[Rama: A Modular City Synthesis]({{< ref "lakeside-modular-city-synthesis" >}})**
+**[Rama: A Modular City Synthesis]({{< ref "rama-city-synthesis" >}})**
 Urban design synthesis for a permanently car-free modular city on the northern arc of the Kati Thanda managed lake — founded at year 30-40 when the reservoir reaches operational level, 400 metres wide by geography not decree, one proven module at a time.
 
 **[Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}})**

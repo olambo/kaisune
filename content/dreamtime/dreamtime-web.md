@@ -213,7 +213,7 @@ Kati Thanda demonstrates whether the governance architecture can be built within
 
 - Dreamtime Spine: see Dreamtime Spine: A Continental Restoration Synthesis
 - Dreamtime Stairway: see Dreamtime Stairway: A Solar-Powered Continental Water Synthesis
-- Kati Thanda: see Kati Thanda: A Managed Lake Synthesis
+- Kati Thanda: see Rama One: A Managed Reservoir Synthesis
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama Reservoir (1,500 km², 66.5m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Murray-Darling Basin water stress: Murray-Darling Basin Authority assessments
 - Norwegian sovereign wealth fund governance model: Government Pension Fund Global documentation
@@ -225,4 +225,4 @@ Kati Thanda demonstrates whether the governance architecture can be built within
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
 *See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
-*See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})*
+*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}})*
