@@ -286,7 +286,9 @@ The governance architecture prevents this. The fund holds the rights. The module
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. 
+Gemini (Google) — Ridge engineering review, atmospheric forcing analysis, and Rama nomenclature synthesis (establishing the unified megastructure framework).
+This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}})*
