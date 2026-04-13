@@ -28,7 +28,7 @@ Rama is the city that results when the Rama One reaches operational level at yea
 
 **The continental system — Dreamtime Web, Spine, and Stairway**
 
-The Web, Spine, and Stairway describe the same continental water system at increasing levels of specificity. The Web is the full integrated system with Kati Thanda as the continental switching node. The Spine is gravity-fed: the Barkly Tableland diversion and the managed lake chain. The Stairway is solar-powered: deep reservoirs stepping against gravity toward the Kimberley, and surplus lifted to the Murray-Darling in extreme wet years.
+The Web, Spine, and Stairway describe the same continental water system at increasing levels of specificity. The Web is the full integrated system with Rama One as the continental switching node. The Spine is gravity-fed: the Barkly Tableland diversion and the managed lake chain. The Stairway is solar-powered: deep reservoirs stepping against gravity toward the Kimberley, and surplus lifted to the Murray-Darling in extreme wet years.
 
 ---
 
@@ -38,13 +38,13 @@ The Web, Spine, and Stairway describe the same continental water system at incre
 Engineering synthesis for the transformation of Kati Thanda's northern basin into a permanently managed freshwater reservoir at 1,500 km² and 100 km³ — the proof of concept node for the Dreamtime Web and the demonstration that every prior assessment was built on wrong assumptions.
 
 **[Rama: A Modular City Synthesis]({{< ref "rama-city-synthesis" >}})**
-Urban design synthesis for a permanently car-free modular city on the northern arc of the Kati Thanda managed lake — founded at year 30-40 when the reservoir reaches operational level, 400 metres wide by geography not decree, one proven module at a time.
+Urban design synthesis for a permanently car-free modular city on the arc of Rama One — founded at year 30-40 when the reservoir reaches operational level, 400 metres wide by geography not decree, one proven module at a time.
 
 **[Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}})**
-The full integrated system — Spine plus Stairway, with Kati Thanda as the continental switching node, the Tanami ridge as a century-scale orographic possibility, and the claim that the system engineers a continent where water flows uphill.
+The full integrated system — Spine plus Stairway, with Rama One as the continental switching node, the Tanami ridge as a century-scale orographic possibility, and the claim that the system engineers a continent where water flows uphill.
 
 **[Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})**
-The gravity-fed component of continental water restoration: the Barkly Tableland diversion redirecting Gulf-draining flood flows into the interior without pumping, and the managed lake chain stepping southward from Kati Thanda.
+The gravity-fed component of continental water restoration: the Barkly Tableland diversion redirecting Gulf-draining flood flows into the interior without pumping, and the managed lake chain stepping southward from Rama One.
 
 **[Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})**
 The solar-powered complement: deep reservoirs stepping against gravity toward the Kimberley on Australia's unlimited solar resource, and surplus lifted southward to the Murray-Darling in extreme wet years.
