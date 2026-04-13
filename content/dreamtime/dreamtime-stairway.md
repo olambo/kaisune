@@ -27,7 +27,7 @@ The Australian interior receives more solar energy per square metre than almost 
 
 The design principle is an inversion of conventional dam engineering. Every dam operator in the world is trying to minimise evaporation — it is treated as loss, as failure, as the enemy of water storage. The Dreamtime Stairway treats the surface area that evaporation implies as the point. Each reservoir is designed to maximise sustainable surface area from permanent deep water. The depth provides the volume buffer that makes that surface area permanently viable against the desert's evaporation demand. Permanent deep water supports permanent ecology — aquatic communities, riparian vegetation, waterbirds — in terrain that currently supports almost none.
 
-The Stairway does not claim to alter rainfall patterns. Climate modelling shows that a single Lake Eyre-sized water body suppresses local precipitation through evaporative cooling, and that significant regional rainfall increase requires inundating approximately one-third of Australia. The Stairway makes no such claim. What it claims is simpler and better supported: permanent water where there was none, permanent ecology where there was none, and direct water redistribution from where monsoon surplus falls to where Australia needs it most.
+The Stairway does not claim to alter rainfall patterns. Available atmospheric modelling studied lake geometries approximately 50 times larger than Rama Reservoir at 2.5m depth — fundamentally different from Rama's geometry — and cannot be directly applied here. The atmospheric effects of Rama's deep-water geometry are an open scientific question. The Stairway makes no rainfall enhancement claims. What it claims is simpler and better supported: permanent water where there was none, permanent ecology where there was none, and direct water redistribution from where monsoon surplus falls to where Australia needs it most.
 
 A stairway of life, not a stairway of atmospheric modification.
 
@@ -170,8 +170,8 @@ The Dreamtime Stairway is conditional on Kati Thanda demonstrating the design pr
 
 The governance architecture that can authorise Kati Thanda is the prerequisite for authorising the Stairway.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
 
 ---
 
@@ -187,7 +187,7 @@ The governance architecture that can authorise Kati Thanda is the prerequisite f
 
 ## Novel Claims Index
 
-1. **Maximum sustainable surface area as design principle:** The Dreamtime Stairway inverts conventional dam engineering. Each reservoir maximises surface area at the depth required for permanent viability. Evaporation is not the objective — permanent ecology is. The surface area is a consequence of the depth required. No claim is made to rainfall enhancement; climate modelling shows evaporative cooling suppresses local precipitation at this scale.
+1. **Maximum sustainable surface area as design principle:** The Dreamtime Stairway inverts conventional dam engineering. Each reservoir maximises surface area at the depth required for permanent viability. Evaporation is not the objective — permanent ecology is. The surface area is a consequence of the depth required. No claim is made to rainfall enhancement. Available modelling studied geometries approximately 50x larger than Rama at shallow depth and cannot be applied to Rama's deep-water geometry.
 
 2. **The western arm steps against gravity toward the Kimberley:** Solar-pumped deep reservoirs at stepped elevations from the continental interior toward the Kimberley. Each node a permanent water body. Each pump station co-located solar powered. The direction of water transport is against gravity; the energy to achieve it is free after capital investment.
 
@@ -212,14 +212,13 @@ The governance architecture that can authorise Kati Thanda is the prerequisite f
 - Snowy 2.0 pumped hydro: Infrastructure Australia assessments
 - Murray-Darling Basin water stress: Murray-Darling Basin Authority annual reports; CSIRO sustainable yields assessments
 - Fitzroy River hydrology and Ramsar wetland assessments: WA Department of Water and Environmental Regulation
-- **Atmospheric modelling:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters
-- **Continental inundation modelling:** ScienceDirect (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia"
+- **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama Reservoir (1,500 km², 66.5m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Martu, Nyikina, Mangala, Ngarinyin, Bunuba, Adnyamathanha traditional custodianship: native title determinations and ethnographic literature
 - Kati Thanda engineering and design principle: see Kati Thanda: A Managed Lake Synthesis
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. The maximum sustainable surface area design principle and the stairway of life framing emerged from iterative synthesis conversation. Revision note: atmospheric work framing removed following Yang et al. (2023) and 2025 continental inundation modelling; ecological framing substituted throughout. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. The maximum sustainable surface area design principle and the stairway of life framing emerged from iterative synthesis conversation. Revision note: atmospheric work framing removed. Atmospheric modelling citations corrected — available studies modelled geometries approximately 50x larger than Rama at 2.5m depth; findings cannot be applied to Rama's deep-water geometry. Atmospheric effects of Rama's geometry are an open scientific question. Ecological framing substituted throughout. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}}) — the gravity-fed foundation.*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the full integrated continental system.*

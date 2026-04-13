@@ -30,7 +30,7 @@ The spine already exists in skeletal form. The Wunaamin Miliwundi Ranges, the Ha
 
 2. **Anchor with managed lakes** — Kati Thanda is the first and primary node. Each lake in the chain captures redirected river flow, manages salinity through controlled southern release, and supports permanent riparian vegetation and aquatic ecology.
 
-The target is permanent water in the arid interior — establishing the ecological conditions under which Australia's megafauna flourished and under which Aboriginal land management operated at continental scale. Whether that eventually affects rainfall patterns is a question the current modelling does not support at this scale and this document does not claim. The vegetation and ecology may respond over time. That part is left to nature.
+The target is permanent water in the arid interior — establishing the ecological conditions under which Australia's megafauna flourished and under which Aboriginal land management operated at continental scale. Whether that eventually affects rainfall patterns is an open scientific question — available modelling studied geometries approximately 50 times larger than Rama at shallow depth and cannot be directly applied here. This document makes no rainfall enhancement claims and does not require them. The vegetation and ecology may respond over time. That part is left to nature.
 
 That civilisation remembers what the country was. That memory is the project's most important technical resource.
 
@@ -164,11 +164,9 @@ Each managed lake maximises sustainable surface area from permanent deep water. 
 
 **What the modelling shows on atmospheric effects**
 
-Climate modelling of a permanent Lake Eyre-sized water body (Yang et al. 2023, Geophysical Research Letters) found that evaporative cooling increases low-level atmospheric divergence, suppressing local precipitation rather than enhancing it. A 2025 study found that significant regional rainfall increases require inundating approximately one-third of the Australian continent — far beyond anything the Spine proposes.
+Available atmospheric modelling of permanent inland water bodies at the Kati Thanda location has studied lake geometries approximately 50 times larger than Rama Reservoir at 2.5m average depth — fundamentally different in both surface area and thermal mass from the 1,500 km² deep-water reservoir proposed here (Yang et al. 2023 modelled 76,621 km² at 2.5m; Yang et al. 2025 modelled up to 2.35 million km²). Those findings cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale in central Australia are an open scientific question. This project makes no rainfall enhancement claims and does not require them.
 
-The local effects are real and supported: cooler air near the water surface, higher humidity within 10-20km, temperature moderation of the immediate shoreline. These are ecologically valuable. The claim that the lake chain creates a self-reinforcing rainfall corridor is not supported by current modelling and this document does not make it.
-
-The ecological case for permanent water stands entirely on its own without rainfall enhancement.
+The local effects are real and supported by basic physics: cooler air near the water surface, higher humidity within 10-20km, temperature moderation of the immediate shoreline. These are ecologically valuable regardless of any rainfall effect. The ecological case for permanent water stands entirely on its own without rainfall enhancement.
 
 ---
 
@@ -227,8 +225,8 @@ Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can 
 *See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})*
 *See: [Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) — the solar-pumped complement*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the full integrated system*
-*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
 
 ---
 
@@ -250,7 +248,7 @@ Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can 
 
 4. **Barkly Tableland diversion is the highest-return gravity-fed intervention:** Flat tableland divide at comparable elevation on both sides. No mountain crossing. Gudanji, Marra, and Yanyuwa partnership is the binding design constraint. Bradfield's 21 km³/year target is irrelevant — Kati Thanda needs only 0.5-1.5 km³/year additional to shift scenarios.
 
-5. **Permanent water as ecological engine — not climate modifier:** Each managed lake maximises sustainable surface area from permanent deep water. Permanent water in arid terrain is ecologically transformative. Yang et al. (2023) and 2025 modelling show evaporative cooling suppresses local precipitation; significant regional rainfall increase requires one-third of Australia inundated. No rainfall enhancement claim is made.
+5. **Permanent water as ecological engine — not climate modifier:** Each managed lake maximises sustainable surface area from permanent deep water. Permanent water in arid terrain is ecologically transformative. Available atmospheric modelling studied geometries approximately 50 times larger than Rama at 2.5m depth and cannot be applied to Rama's geometry. The atmospheric effects of Rama's deep-water geometry are an open scientific question. No rainfall enhancement claim is made.
 
 6. **The gravity-fed lake chain extends southward over time:** Kati Thanda is the primary node. Lake Torrens, Gairdner, and Frome are the long-horizon extension as the evidence base develops.
 
@@ -274,13 +272,12 @@ Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can 
 - Paleolake Dieri: palaeoclimatological literature
 - Australian megafauna: Roberts et al. 2001 and subsequent dating literature
 - Bradfield Scheme: original 1938 proposal; CSIRO 2022 assessment
-- **Atmospheric modelling:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters
-- **Continental inundation modelling:** ScienceDirect (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia"
+- **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama Reservoir (1,500 km², 66.5m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Thylacine restoration: Colossal Biosciences and University of Melbourne research programme
 - Arabana, Ngarinyin, Bunuba, Arrernte, Anangu traditional custodianship: native title determinations and ethnographic literature
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, epistemic framing on vegetation and ecology. Revision note: climate and rainfall corridor claims removed following Yang et al. (2023) and 2025 modelling. Ecological framing substituted throughout. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, epistemic framing on vegetation and ecology. Revision note: climate and rainfall corridor claims removed. Atmospheric modelling citations corrected — available studies modelled geometries approximately 50x larger than Rama at 2.5m depth; findings cannot be applied to Rama's 1,500 km², 66.5m deep-water geometry. Atmospheric effects of Rama's geometry are an open scientific question. Ecological framing substituted throughout. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}}) — companion engineering document for the first spine node.*

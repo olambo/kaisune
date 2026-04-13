@@ -24,7 +24,7 @@ We engineered a continent where water flows uphill.
 
 The Dreamtime Spine moves water with gravity — the Barkly Tableland diversion, the Georgina-Diamantina river system, the managed lake chain stepping southward. The Dreamtime Stairway moves water against gravity — solar-pumped reservoir nodes stepping toward the Kimberley in the west, surplus lifted southward over the Flinders to the Murray-Darling in extreme wet periods. Together they form the Dreamtime Web: a continental water redistribution system with Kati Thanda at its centre, capturing monsoon surplus and moving it where the continent needs it, in all directions simultaneously.
 
-The Web is not a plan to alter Australia's climate. It is an engineered water redistribution system. Climate modelling shows that permanent inland water at the scale proposed suppresses local precipitation through evaporative cooling rather than increasing it, and that significant regional rainfall enhancement requires inundating approximately one-third of the Australian continent. The Web makes no such claim. What it claims is direct: water stored, water redistributed, permanent ecology established where there was none. The vegetation and ecology may respond over time. That part is left to nature.
+The Web is not a plan to alter Australia's climate. It is an engineered water redistribution system. Available atmospheric modelling studied lake geometries approximately 50 times larger than Rama Reservoir at 2.5m depth — fundamentally different from Rama's geometry — and cannot be directly applied here. The atmospheric effects of Rama's deep-water geometry are an open scientific question. The Web makes no rainfall enhancement claims. What it claims is direct: water stored, water redistributed, permanent ecology established where there was none. The vegetation and ecology may respond over time. That part is left to nature.
 
 The energy for the uphill movement comes from the continent's unlimited solar resource. The engineering triggers the system. Whether nature chooses to complete it is not the engineering's to promise.
 
@@ -85,7 +85,7 @@ Every node in the Dreamtime Web — Spine lakes, Stairway reservoirs, the transi
 
 **The Dreamtime Web:** the evaporation implies a surface area. Size each reservoir at the maximum surface area the depth and inflow can sustain permanently. That surface area supports permanent ecology. The evaporation is a consequence of the surface area, and the surface area is the design target.
 
-This is not treating evaporation as atmospheric work — climate modelling shows the atmospheric effects are local and the rainfall implications are negligible or negative at this scale. It is treating permanent surface area as the mechanism for permanent ecology.
+This is not treating evaporation as atmospheric work — available modelling studied different geometries and cannot be applied to Rama's deep-water system. It is treating permanent surface area as the mechanism for permanent ecology. The atmospheric effects of Rama's geometry are an open scientific question.
 
 Once this is stated, the engineering logic follows cleanly. Deep permanent water maximises the sustainable surface area. The depth makes the surface area permanent. Every node in the Web is designed by the same method, scaled to its specific inflow and elevation conditions.
 
@@ -131,11 +131,13 @@ The southern arm creates a direct hydrological link between the monsoon-fed Lake
 
 This document incorporates the findings of two climate modelling studies that constrain the Web's atmospheric claims:
 
-**Yang et al. (2023), Geophysical Research Letters** — modelled a permanent Lake Eyre-sized water body and found evaporative cooling increases low-level atmospheric divergence, suppressing local precipitation rather than enhancing it. Regional moisture spreads thinly across the continent with negligible rainfall change.
+**Yang et al. (2023), Geophysical Research Letters** — modelled a 76,621 km² rectangular lake at 2.5m depth. Found evaporative cooling increases low-level atmospheric divergence, suppressing local precipitation.
 
-**ScienceDirect (2025)** — found significant regional rainfall increases require inundating approximately one-third of the Australian continent. Smaller extents see any rainfall increases balanced out by moisture divergence from surface cooling.
+**Yang et al. (2025), Global and Planetary Change** — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Found significant rainfall increases only at approximately one-third of the Australian continent in extent.
 
-**What the modelling constrains:** claims that the lake chain creates a self-reinforcing rainfall corridor, that evaporation from the nodes generates meaningful downwind precipitation increases, or that the Web approaches a rainfall tipping point at the proposed scales.
+**Geometry caveat:** Neither study modelled anything comparable to Rama Reservoir — 1,500 km² at 66.5m average depth. The studies modelled geometries 50 times larger in area at 26 times shallower depth. Their findings on precipitation suppression cannot be directly applied to Rama's deep-water geometry. The atmospheric effects of Rama's geometry are an open scientific question.
+
+**What the modelling does not settle:** whether a 1,500 km² permanent deep-water reservoir in central Australia suppresses, enhances, or leaves unchanged local and regional precipitation. This has not been modelled.
 
 **What the modelling does not constrain:** the direct water redistribution function of the Web — moving water from monsoon catchments to the Murray-Darling, establishing permanent ecology at each node, supporting biological corridors. These are direct physical outcomes that do not depend on atmospheric feedback mechanisms.
 
@@ -184,8 +186,8 @@ The Dreamtime Web in full is a 200-year programme. Its sequential demonstration 
 
 Kati Thanda demonstrates whether the governance architecture can be built within a western democratic framework. The Web is what becomes possible if it can.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
 
 ---
 
@@ -212,17 +214,14 @@ Kati Thanda demonstrates whether the governance architecture can be built within
 - Dreamtime Spine: see Dreamtime Spine: A Continental Restoration Synthesis
 - Dreamtime Stairway: see Dreamtime Stairway: A Solar-Powered Continental Water Synthesis
 - Kati Thanda: see Kati Thanda: A Managed Lake Synthesis
-- **Yang et al. (2023):** "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — evaporative cooling suppresses local precipitation; regional moisture change negligible
-- **ScienceDirect (2025):** "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia" — significant rainfall increase requires approximately one-third of Australian continent inundated
+- **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama Reservoir (1,500 km², 66.5m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Murray-Darling Basin water stress: Murray-Darling Basin Authority assessments
 - Norwegian sovereign wealth fund governance model: Government Pension Fund Global documentation
 - Traditional custodianship along the Web corridor: native title determinations for Gudanji, Marra, Yanyuwa, Arabana, Adnyamathanha, Martu, Nyikina, Mangala, Ngarinyin, Bunuba peoples
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — epistemic framing on vegetation, ecology, and climate claims. The opening line — "We engineered a continent where water flows uphill" — is the human contributor's formulation and is the corpus's primary synthesis claim. Revision note: all atmospheric moisture corridor and rainfall feedback claims removed following Yang et al. (2023) and 2025 continental inundation modelling; ecological and direct water redistribution framing substituted throughout; Tanami ridge retained as century-scale possibility requiring orographic modelling, distinguished from lake evaporation effects. 
-Gemini (Google) — Ridge engineering review, atmospheric forcing analysis, and Rama nomenclature synthesis (establishing the unified megastructure framework and cross-document conceptual alignment).
-This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — epistemic framing on vegetation, ecology, and climate claims. The opening line — "We engineered a continent where water flows uphill" — is the human contributor's formulation and is the corpus's primary synthesis claim. Revision note: atmospheric moisture corridor and rainfall feedback claims removed. Atmospheric modelling citations corrected — available studies modelled geometries approximately 50x larger than Rama at 2.5m depth; findings cannot be applied to Rama's 1,500 km², 66.5m deep-water geometry. The atmospheric effects of Rama's geometry are an open scientific question that has not been modelled. Ecological and direct water redistribution framing substituted throughout. Tanami ridge retained as century-scale possibility requiring orographic modelling. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
 *See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
