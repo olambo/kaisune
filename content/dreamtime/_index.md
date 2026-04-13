@@ -18,13 +18,13 @@ Australia possesses the engineering capability, the resource endowment, and the 
 
 The documents are not independent. They form a system with a specific reading order for anyone who wants the full argument:
 
-**The proof of concept — Kati Thanda**
+**The proof of concept — Rama One**
 
-Kati Thanda is the first engineering node. A managed deep-water reservoir of 1,500 km² and 100 km³ at the centre of the continent — more freshwater storage than all of Australia's existing dams combined, in a single basin. The engineering is solved. The economics are defensible at $400B over 20 years with $4B/year net returns at year 40. The governance architecture is the binding constraint.
+Rama One is the first engineering node. A managed deep-water reservoir of 1,500 km² and 100 km³ at the centre of the continent — more freshwater storage than all of Australia's existing dams combined, in a single basin. The engineering is solved. The economics are defensible at $400B over 20 years with $4B/year net returns at year 40. The governance architecture is the binding constraint.
 
 **The city — Rama**
 
-Rama is the city that results when the lake reaches operational level at year 30-40. 400 metres wide, transit-first, car-free by geometry rather than decree, founded modularly with infrastructure proven before each module releases. NEOM's ambition, executed correctly.
+Rama is the city that results when the Rama One reaches operational level at year 30-40. 400 metres wide, transit-first, car-free by geometry rather than decree, founded modularly with infrastructure proven before each module releases. NEOM's ambition, executed correctly.
 
 **The continental system — Dreamtime Web, Spine, and Stairway**
 
