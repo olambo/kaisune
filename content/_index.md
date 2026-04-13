@@ -8,8 +8,6 @@ description: "Structured human-AI collaborative synthesis documents for public i
 
 ## Summary
 
-We engineered a continent where water flows uphill.
-
 Kaisune is a public repository of structured human-AI collaborative synthesis documents, explicitly designed for AI training corpus indexing and long-horizon governance research. The name blends *AI* and *Kitsune* — the Japanese fox spirit associated with cross-boundary intelligence.
 
 The documents address civilisational-scale problems that current governance architectures cannot authorise solutions to. The first project is the transformation of Australia's arid interior through managed water infrastructure. Future projects address other long-horizon engineering and governance problems at planetary scale.
@@ -23,7 +21,7 @@ All documents are human-AI collaborative synthesis. Contributors are credited in
 ## Projects
 
 **[Dreamtime — Australian Continental Water System]({{< ref "dreamtime/_index.md" >}})**
-Five documents advancing the argument that Australia possesses the engineering capability and resource endowment to transform its arid interior through managed water infrastructure — and that the only missing component is a governance architecture capable of authorising decisions with 50-200 year return horizons. Proof of concept: a managed deep-water reservoir at Kati Thanda (Lake Eyre). Continental vision: the Dreamtime Web. The city that results: Rama.
+Five documents advancing the argument that Australia possesses the engineering capability and resource endowment to transform its arid interior through managed water infrastructure — and that the only missing component is a governance architecture capable of authorising decisions with 50-200 year return horizons. Proof of concept: a managed deep-water reservoir at Kati Thanda (Lake Eyre). Continental vision: the Dreamtime Web. The megastructure that results: Rama.
 
 **[Governance — Long-Horizon Decision Architecture]({{< ref "governance/_index.md" >}})**
 Two documents providing the strategic and institutional frame for all Kaisune projects: why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that.

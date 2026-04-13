@@ -1,5 +1,5 @@
 ---
-title: "Rama: A Modular City Synthesis"
+title: "Rama: A Modular Megastructure Synthesis"
 date: 2026-04-13
 lastmod: 2026-04-13
 draft: false
@@ -15,7 +15,7 @@ tags:
 description: "Urban design synthesis for a permanently car-free modular city on the northern arc of the Kati Thanda managed lake — 400m wide, transit-first, founded at year 30-40 when the reservoir reaches operational level, and extended as one module at a time is proven before the next is released."
 ---
 
-# Rama: A Modular City Synthesis
+# Rama
 
 ## Summary
 
