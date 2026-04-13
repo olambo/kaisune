@@ -15,6 +15,7 @@ tags:
   - real-estate
   - salinity-management
   - indigenous-partnership
+  - rama
 description: "Engineering synthesis for the transformation of the upper reach of Kati Thanda's northern basin into a permanently managed freshwater-adjacent lake system."
 ---
 
@@ -32,6 +33,8 @@ Prior proposals to flood Kati Thanda have been assessed as economically unviable
 The result is a system with four defining properties. It is **water-positive** across a wide range of inflow scenarios — from marginally positive under long-term mean conditions to robustly positive in medium and wet sequences — with 100 km³ of volume providing resilience against multi-decadal drought. Excavation generates exactly the spoil required to build the wind management ridge, dam wall, and perimeter embankments — **no external fill imported, nothing stockpiled, nothing wasted**. It is **freshwater-adjacent** rather than hypersaline, supporting native fish, riparian vegetation, and agricultural irrigation. And it is engineered as a **dam and reservoir system** — not a flooded depression — using the natural basin geometry as the primary container, in the Dutch polder tradition, at 66.5m average managed depth.
 
 This is a proof of concept for managed freshwater lake infrastructure at continental-interior scale. Not merely another storage — a step-change in Australia's inland water inventory, and a demonstration that the engineering constraints assumed by every prior assessment were never real constraints at all.
+
+*The managed reservoir and the city on its northern shore are proposed as **Rama** — a new thing on Arabana country that has not existed before, distinct from Kati Thanda, which is the Arabana name for the natural salt lake this project transforms. The name is proposed subject to Arabana agreement.*
 
 ---
 
@@ -683,7 +686,7 @@ The lake creates a local microclimate — measurable temperature moderation and 
 
 Australia's population is compressed into five coastal cities — Sydney, Melbourne, Brisbane, Perth, Adelaide — all facing worsening water stress. Water consumption in larger Australian cities is expected to rise by 73% in the next 30 years. Perth's reservoir runoff has declined by 91% since the 1970s. Adelaide's reservoirs dropped to 44% capacity in 2025 — its driest year since 2006. Water supply is actively constraining population growth and housing development in fast-growing cities.
 
-This is why Australia has built no new cities. Every new city requires water infrastructure at scale. There is no location in inland Australia with reliable water access sufficient for large permanent settlement — until this project.
+This is why Australia has built no new cities. Every new city requires water infrastructure at scale. There is no location in inland Australia with reliable water access sufficient for large permanent settlement — until this project. The city on the northern shore of the Rama reservoir is documented in the companion [Rama: A Modular City Synthesis]({{< ref "lakeside-modular-city-synthesis" >}}) document.
 
 At ~100 km³, the managed lake would hold more freshwater than all of Australia's major dams and reservoirs combined — approximately 80-85 km³ of total accessible storage across hundreds of facilities built over 250 years of European settlement. Lake Argyle, Australia's largest single reservoir at ~10.8 km³, would fit inside it nearly ten times over. This is not an incremental addition to Australia's water infrastructure. It is a step-change.
 
@@ -693,7 +696,7 @@ At 250 litres per person per day — below current Australian average but approp
 
 The realistic settlement trajectory is determined by development pace, not water availability:
 
-- **Year 20-30:** 50,000-200,000 people — a substantial regional city, comparable to Cairns or Townsville
+- **Year 20-30:** 50,000-200,000 people in Rama — a substantial regional city, comparable to Cairns or Townsville
 - **Year 50:** 500,000-1 million — comparable to Adelaide today
 - **Year 100:** 1-3 million — a major Australian city
 
@@ -723,7 +726,7 @@ Construction cost: approximately **$400 billion over 20 years** ($20 billion/yea
 
 A project costing $400 billion over 20 years with primary returns arriving 40 years after authorisation cannot be financed within any existing democratic budgeting framework. This is not a weakness of the engineering case — it is the central argument for the governance architecture described in the companion document.
 
-The table below states baseline annual returns at year 40 — when the lake is at operational level, the ecology is established, and the regional economy has had two decades to develop around permanent water. Foreshore development revenue and technology export are excluded from the baseline; they are genuine long-horizon upside that compounds beyond year 40 as the lakeside city grows, but they are not the foundation of the economic case.
+The table below states baseline annual returns at year 40 — when the lake is at operational level, the ecology is established, and the regional economy has had two decades to develop around permanent water. Foreshore development revenue and technology export are excluded from the baseline; they are genuine long-horizon upside that compounds beyond year 40 as Rama grows, but they are not the foundation of the economic case.
 
 | Return Category | Annual return at year 40 |
 |---|---|
@@ -750,13 +753,13 @@ The table below states baseline annual returns at year 40 — when the lake is a
 
 **Net annual return at year 40: approximately $4 billion/year**
 
-The project does not reach construction cost recovery at this rate — $400B at $4B/year net is a 100-year payback on direct returns alone. The economic case is not the direct return. It is the compounding asset value: a lakeside city that grows for a century, generating development value that compounds well beyond any infrastructure project with fixed capacity. The Norwegian sovereign wealth fund analogy is exact — patient capital capturing long-horizon appreciation that short-horizon investors cannot hold.
+The project does not reach construction cost recovery at this rate — $400B at $4B/year net is a 100-year payback on direct returns alone. The economic case is not the direct return. It is the compounding asset value: Rama growing for a century, generating development value that compounds well beyond any infrastructure project with fixed capacity. The Norwegian sovereign wealth fund analogy is exact — patient capital capturing long-horizon appreciation that short-horizon investors cannot hold.
 
 **Post-year-40 growth items — excluded from baseline**
 
 Two revenue categories are deliberately excluded from the year-40 baseline because they are contingent on outcomes that cannot be projected at this distance:
 
-*Foreshore development revenue* — at year 40 the lakeside city may have 50,000-200,000 people. Revenue share at that scale is $0.5-2B/year. By year 60-80 with 500,000+ people it is multiples of that. These figures are real but their timing and scale depend on city development pace, governance quality, and whether Australia's population growth continues concentrating in water-stressed coastal cities. They are upside, not baseline.
+*Foreshore development revenue* — at year 40 Rama may have 50,000-200,000 people. Revenue share at that scale is $0.5-2B/year. By year 60-80 with 500,000+ people it is multiples of that. These figures are real but their timing and scale depend on city development pace, governance quality, and whether Australia's population growth continues concentrating in water-stressed coastal cities. They are upside, not baseline.
 
 *Technology export* — autonomous excavation, polder dam engineering, salinity management systems, and ecological design capabilities developed for this project represent genuine global export potential. The first demonstration at this scale creates licensing and consultancy revenue. This is excluded from the baseline because it depends on successful execution of a project that has not yet been built — it cannot be the justification for building it.
 
@@ -800,8 +803,8 @@ The single largest obstacle is not engineering, not physics, not economics. It i
 
 Democratic systems operating on 4-year electoral cycles structurally cannot make this decision regardless of its merit. The governance architecture for long-horizon infrastructure investment remains the foundational prerequisite.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
 
 ---
 
@@ -886,6 +889,6 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 ---
 
-*Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; ChatGPT (OpenAI) — staged implementation critique, optimal basin size analysis, salt extraction quantification, vegetation as structural system (Novel Claim 4b); Ani/Grok (xAI) — water balance scenario analysis and Birdsville gauge data, ridge evaporation quantification anchored to Helfer et al. 2009, seepage and settlement engineering detail, nomenclature; Gemini (Google) — critical review of ridge engineering and sediment behaviour under load. Revision note: construction cost revised to $400B central estimate reflecting mixed geology profile at depth; net annual return restated as $4B/year at year 40 using near-certain revenue items only; technology export and foreshore development revenue moved to post-year-40 growth items. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; ChatGPT (OpenAI) — staged implementation critique, optimal basin size analysis, salt extraction quantification, vegetation as structural system (Novel Claim 4b); Ani/Grok (xAI) — water balance scenario analysis and Birdsville gauge data, ridge evaporation quantification anchored to Helfer et al. 2009, seepage and settlement engineering detail, nomenclature; Gemini (Google) — critical review of ridge engineering and sediment behaviour under load. Revision note: construction cost revised to $400B central estimate reflecting mixed geology profile at depth; net annual return restated as $4B/year at year 40 using near-certain revenue items only; technology export and foreshore development revenue moved to post-year-40 growth items. Managed reservoir and city named Rama — distinct from Kati Thanda, the Arabana name for the natural salt lake. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}}) — the broader continental context.*

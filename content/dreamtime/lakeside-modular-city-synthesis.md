@@ -1,5 +1,5 @@
 ---
-title: "Lakeside: A Modular City Synthesis"
+title: "Rama: A Modular City Synthesis"
 date: 2026-04-13
 lastmod: 2026-04-13
 draft: false
@@ -15,11 +15,11 @@ tags:
 description: "Urban design synthesis for a permanently car-free modular city on the northern arc of the Kati Thanda managed lake — 400m wide, transit-first, founded at year 30-40 when the reservoir reaches operational level, and extended as one module at a time is proven before the next is released."
 ---
 
-# Lakeside: A Modular City Synthesis
+# Rama: A Modular City Synthesis
 
 ## Summary
 
-*Lakeside is a working title. The city's name is an Arabana decision.*
+*Rama is the proposed name for the managed reservoir and city — distinct from Kati Thanda, which names the natural salt lake this project transforms. The name is proposed subject to Arabana agreement; Kati Thanda remains the Arabana name for the natural lake.*
 
 At year 30-40, the Kati Thanda managed lake reaches operational level. Salinity is at target. The ecology is establishing. A permanent inland sea exists at the centre of Australia where none has existed in living memory. The first city residents arrive not because they are contracted to be there — construction is autonomous and needs no city — but because they choose to be. Early adopters, researchers, aquaculture operators, agricultural pioneers, tourism operators, and Arabana community members whose country this is.
 
@@ -216,15 +216,15 @@ That is the 100-year trajectory. The founding module is 2,000 people in 5km of a
 
 This document would not exist without NEOM as a reference point and an anti-model. The ambition was correct. The execution was wrong on almost every dimension.
 
-**Demand assumed, not demonstrated.** NEOM required $500B of commitment before a single resident existed. Lakeside requires a functioning lake before a single resident arrives. The demand is demonstrated — people choose to come — before the city invests in infrastructure.
+**Demand assumed, not demonstrated.** NEOM required $500B of commitment before a single resident existed. Rama requires a functioning lake before a single resident arrives. The demand is demonstrated — people choose to come — before the city invests in infrastructure.
 
-**Cars banned by decree.** NEOM's no-vehicles policy requires perpetual enforcement against residents who want cars. Lakeside's no-vehicles reality requires no enforcement because the geography makes vehicles pointless. The ridge is the back wall. The lake is the front door. A car has nowhere to go that a tram and two legs cannot reach faster.
+**Cars banned by decree.** NEOM's no-vehicles policy requires perpetual enforcement against residents who want cars. Rama's no-vehicles reality requires no enforcement because the geography makes vehicles pointless. The ridge is the back wall. The lake is the front door. A car has nowhere to go that a tram and two legs cannot reach faster.
 
-**Entire city designed at once.** NEOM's master plan was complete before the first foundation was poured. Lakeside's design for module 2 is informed by module 1's operational data. The city learns before it grows.
+**Entire city designed at once.** NEOM's master plan was complete before the first foundation was poured. Rama's design for module 2 is informed by module 1's operational data. The city learns before it grows.
 
-**Displaced existing inhabitants.** The Huwaitat tribe's forced removal from NEOM's site is not a peripheral failure. It is the central failure — a city built on dispossession cannot have a legitimate identity. Lakeside is on uninhabited land, on Arabana country, with Arabana partnership as the founding structural condition. Not consultation. Partnership. The difference is not rhetorical.
+**Displaced existing inhabitants.** The Huwaitat tribe's forced removal from NEOM's site is not a peripheral failure. It is the central failure — a city built on dispossession cannot have a legitimate identity. Rama is on uninhabited land, on Arabana country, with Arabana partnership as the founding structural condition. Not consultation. Partnership. The difference is not rhetorical.
 
-**Aesthetic before function.** The mirrored skyscraper facade was NEOM's first design decision. Lakeside's first design decision is sewage treatment capacity. Aesthetics follow from the geometry the geography imposes — and that geometry is more dramatic than any architect would have dared to propose.
+**Aesthetic before function.** The mirrored skyscraper facade was NEOM's first design decision. Rama's first design decision is sewage treatment capacity. Aesthetics follow from the geometry the geography imposes — and that geometry is more dramatic than any architect would have dared to propose.
 
 ---
 
@@ -236,7 +236,7 @@ The Arabana people's partnership from design stage of the lake carries forward t
 
 Arabana community members are founding residents — not as a symbolic inclusion but because their country is being transformed and their presence in that transformation is not optional. The city's research facilities include Arabana-led ecological monitoring programmes. The city's tourism infrastructure includes Arabana-led cultural programmes. The city's governance structure includes Arabana representation at the institutional fund level.
 
-The city's name is an Arabana decision. Lakeside is a working title for this document. The name given to the city by the people whose country it is on is the city's name. This is not a naming rights ceremony. It is an acknowledgment that the city exists on country with a 60,000-year history of occupation, and that history is part of the city's identity whether the city acknowledges it or not. Better to acknowledge it structurally from the start.
+Rama is the proposed name for both the managed reservoir and the city on its shore — a new thing on Arabana country that has not existed before, distinct from Kati Thanda, which is the Arabana name for the natural salt lake this project transforms. The managed freshwater reservoir and the city deserve their own name. Rama is proposed subject to Arabana agreement. If the Arabana people choose a different name, that name replaces Rama throughout. The distinction matters: Kati Thanda names what was. Rama names what is being built.
 
 ---
 
@@ -250,7 +250,7 @@ A short-horizon government under electoral pressure releases all modules simulta
 
 The governance architecture prevents this. The fund holds the rights. The module structure enforces sequencing. The transit-first rule is embedded in land release conditions. The 400m constraint is permanent.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
 
 ---
 
@@ -290,4 +290,4 @@ The governance architecture prevents this. The fund holds the rights. The module
 
 *See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}})*
-*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
