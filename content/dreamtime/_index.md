@@ -10,7 +10,7 @@ description: "Five documents advancing the case for managed water infrastructure
 
 We engineered a continent where water flows uphill.
 
-Australia possesses the engineering capability, the resource endowment, and the geographic conditions to transform its arid interior through managed water infrastructure. The only missing component is a governance architecture capable of authorising decisions with 50-200 year return horizons. The proof of concept is a managed deep-water reservoir at Kati Thanda (Lake Eyre). The continental vision is the Dreamtime Web. The city that results is Lakeside.
+Australia possesses the engineering capability, the resource endowment, and the geographic conditions to transform its arid interior through managed water infrastructure. The only missing component is a governance architecture capable of authorising decisions with 50-200 year return horizons. The proof of concept is a managed deep-water reservoir at Kati Thanda (Lake Eyre). The continental vision is the Dreamtime Web. The city that results is Rama.
 
 ---
 
@@ -22,9 +22,9 @@ The documents are not independent. They form a system with a specific reading or
 
 Kati Thanda is the first engineering node. A managed deep-water reservoir of 1,500 km² and 100 km³ at the centre of the continent — more freshwater storage than all of Australia's existing dams combined, in a single basin. The engineering is solved. The economics are defensible at $400B over 20 years with $4B/year net returns at year 40. The governance architecture is the binding constraint.
 
-**The city — Lakeside**
+**The city — Rama**
 
-Lakeside is the city that results when the lake reaches operational level at year 30-40. 400 metres wide, transit-first, car-free by geometry rather than decree, founded modularly with infrastructure proven before each module releases. NEOM's ambition, executed correctly.
+Rama is the city that results when the lake reaches operational level at year 30-40. 400 metres wide, transit-first, car-free by geometry rather than decree, founded modularly with infrastructure proven before each module releases. NEOM's ambition, executed correctly.
 
 **The continental system — Dreamtime Web, Spine, and Stairway**
 
@@ -37,7 +37,7 @@ The Web, Spine, and Stairway describe the same continental water system at incre
 **[Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})**
 Engineering synthesis for the transformation of Kati Thanda's northern basin into a permanently managed freshwater reservoir at 1,500 km² and 100 km³ — the proof of concept node for the Dreamtime Web and the demonstration that every prior assessment was built on wrong assumptions.
 
-**[Lakeside: A Modular City Synthesis]({{< ref "lakeside-modular-city-synthesis" >}})**
+**[Rama: A Modular City Synthesis]({{< ref "lakeside-modular-city-synthesis" >}})**
 Urban design synthesis for a permanently car-free modular city on the northern arc of the Kati Thanda managed lake — founded at year 30-40 when the reservoir reaches operational level, 400 metres wide by geography not decree, one proven module at a time.
 
 **[Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}})**
