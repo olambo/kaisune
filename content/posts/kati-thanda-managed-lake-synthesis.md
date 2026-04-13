@@ -1,7 +1,7 @@
 ---
 title: "Kati Thanda: A Managed Lake Synthesis"
 date: 2026-03-30
-lastmod: 2026-04-06
+lastmod: 2026-04-13
 draft: false
 weight: 1
 tags:
@@ -719,36 +719,46 @@ Arabana custodians as genuine project partners from design stage. Their ecologic
 
 ## Economic Return Ledger
 
-Against a construction cost of approximately **$250 billion over 20 years** ($12.5 billion/year), the project generates annual returns at maturity estimated as follows. All figures are at project maturity (year 30-50) and exclude the construction and early operational period.
+Construction cost: approximately **$400 billion over 20 years** ($20 billion/year). This is the central estimate, contingent on pre-construction stratigraphic survey confirming manageable geology at depth. The excavation transitions from soft Quaternary lacustrine sediment in the upper layers to consolidated Cretaceous marine sediment and upper Jurassic sandstones at depth — the latter requiring blasting rather than cutting at materially higher cost per cubic metre. If survey reveals harder rock profiles than regional models suggest, cost rises. If geology is consistently soft throughout, cost falls toward the lower bound. The survey is the prerequisite before any design commitment; the $400B figure assumes a mixed geology profile consistent with the regional geological record.
 
-| Return Category | Annual return at maturity (year 30-50) |
+A project costing $400 billion over 20 years with primary returns arriving 40 years after authorisation cannot be financed within any existing democratic budgeting framework. This is not a weakness of the engineering case — it is the central argument for the governance architecture described in the companion document.
+
+The table below states baseline annual returns at year 40 — when the lake is at operational level, the ecology is established, and the regional economy has had two decades to develop around permanent water. Foreshore development revenue and technology export are excluded from the baseline; they are genuine long-horizon upside that compounds beyond year 40 as the lakeside city grows, but they are not the foundation of the economic case.
+
+| Return Category | Annual return at year 40 |
 |---|---|
-| **Foreshore revenue share** — 15-25% of land sales and development proceeds as the lakeside city matures. Planned infrastructure from inception, no storm surge, no coastal erosion. Remote Australian values lag coastal — a long-horizon return that compounds as the city grows. | $2-5B/year |
-| **Water sales** — surplus water (1-5 km³/year depending on inflow scenario) piped to remote mining operations, regional agriculture beyond the lake perimeter, and future settlement. Remote Australian mining pays premium water prices. At modest commercial pricing across available volume: | $0.5-2B/year |
-| **Agricultural irrigation** — permanent water access transforming desert to productive farmland across the lake perimeter belt | $1-3B/year |
-| **Aquaculture** — the lake's managed salinity of 5-7 ppt and 100 km³ volume creates one of the largest inland aquaculture environments on Earth. Giant tiger prawns, barramundi, Murray cod, golden perch thrive at this salinity range. Potentially transformative at scale. | $1-4B/year |
-| **Wild fisheries** — managed wild harvest from the lake and riparian margins | $0.2-0.5B/year |
-| **Salt extraction** — the 10km southern transition zone and unmanaged southern basin concentrate salt from the managed bleed. Estimated 5-6 million tonnes/year available for harvest and export to Asian markets. | $0.2-0.4B/year |
-| **Solar energy** — the flat northern shore zone in one of Australia's highest solar irradiance zones. Permanent solar infrastructure powering autonomous operations and exporting surplus to the grid. | $0.3-1B/year |
-| **Technology export** — autonomous excavation, polder dam engineering, salinity management systems, ecological design. Licensing and consultancy revenue from the first demonstration at this scale. | $1-3B/year |
-| **Tourism** — permanent inland lake, wetland ecology, Aboriginal cultural landscape, ridge real estate destination | $0.3-1B/year |
-| **Carbon credits and ecological services** — wetland establishment, dryland recovery margin, revegetation of the ridge | $0.2-0.5B/year |
-| **Research access** — universities, CSIRO, and international bodies paying for access to a unique managed ecosystem at continental-interior scale | $0.05-0.1B/year |
+| **Aquaculture** — the lake's managed salinity of 5-7 ppt and 100 km³ volume creates one of the largest inland aquaculture environments on Earth. Giant tiger prawns, barramundi, Murray cod, and golden perch all viable at this salinity range. The entire Australian aquaculture industry currently generates ~$1.5B/year from far smaller operations. | $1.5-2B/year |
+| **Agricultural irrigation** — permanent water access across the lake perimeter belt. Desert-to-farmland conversion at scale. Conservative estimate based on irrigated agricultural value per hectare in comparable Australian conditions. | $1-1.5B/year |
+| **Water sales** — surplus water (1-5 km³/year depending on inflow scenario) sold to remote mining operations, regional agriculture beyond the lake perimeter, and growing settlement. Remote Australian mining pays premium water prices. | $0.5-1B/year |
+| **Solar energy** — the flat northern shore zone sits in one of Australia's highest solar irradiance corridors. Permanent solar infrastructure powering autonomous operations and exporting surplus to the national grid. | $0.4-0.6B/year |
+| **Salt extraction** — the southern transition zone and unmanaged southern basin concentrate salt from the managed bleed. Estimated 5-6 million tonnes/year available for harvest and export. | $0.2-0.3B/year |
+| **Wild fisheries** — managed wild harvest from the lake and riparian margins | $0.1-0.2B/year |
+| **Tourism** — permanent inland lake, wetland ecology, Aboriginal cultural landscape | $0.1-0.2B/year |
+| **Carbon credits and ecological services** — wetland establishment, dryland recovery margin, ridge revegetation | $0.1-0.2B/year |
+| **Research access** — universities, CSIRO, and international research bodies | $0.05B/year |
 | **Great Artesian Basin remediation value** | Unquantified |
 | **Ridge real estate** (when fill stable and vegetation established) | Deferred |
-| **Gross annual return at maturity** | **$6-20B/year** |
+| **Gross annual return at year 40** | **~$5B/year** |
 
-**Ongoing operating costs at maturity: approximately $0.8-1.5B/year**
+**Ongoing operating costs at maturity: approximately $1B/year**
 
-- Autonomous fleet maintenance and energy for ongoing salt harvesting, monitoring, and maintenance: $0.5-1B/year
+- Autonomous fleet maintenance and energy for salt harvesting, monitoring, and maintenance: $0.5-0.7B/year
 - Dam and berm monitoring, seepage management, riprap inspection: $0.1-0.2B/year
 - Spillway, outlet pipe, and gorge maintenance: $0.05-0.1B/year
 - Ecological monitoring, crocodile management, gorge debris screens: $0.05-0.1B/year
 - Salt harvesting operations (partially offset by salt revenue): $0.1-0.2B/year
 
-**Net annual return at maturity: approximately $5-18B/year**
+**Net annual return at year 40: approximately $4 billion/year**
 
-Against a construction cost of $12.5B/year over 20 years, the project reaches net annual breakeven within a decade or two of completion and then generates returns indefinitely. The asset does not depreciate — it appreciates as the city grows, the ecology establishes, and technology export revenue compounds. All figures are estimates at maturity, heavily dependent on successful execution, governance stability, and inflow sequences. Actual outcomes could be materially lower if filling timelines extend, drought sequences are severe, or institutional governance fails.
+The project does not reach construction cost recovery at this rate — $400B at $4B/year net is a 100-year payback on direct returns alone. The economic case is not the direct return. It is the compounding asset value: a lakeside city that grows for a century, generating development value that compounds well beyond any infrastructure project with fixed capacity. The Norwegian sovereign wealth fund analogy is exact — patient capital capturing long-horizon appreciation that short-horizon investors cannot hold.
+
+**Post-year-40 growth items — excluded from baseline**
+
+Two revenue categories are deliberately excluded from the year-40 baseline because they are contingent on outcomes that cannot be projected at this distance:
+
+*Foreshore development revenue* — at year 40 the lakeside city may have 50,000-200,000 people. Revenue share at that scale is $0.5-2B/year. By year 60-80 with 500,000+ people it is multiples of that. These figures are real but their timing and scale depend on city development pace, governance quality, and whether Australia's population growth continues concentrating in water-stressed coastal cities. They are upside, not baseline.
+
+*Technology export* — autonomous excavation, polder dam engineering, salinity management systems, and ecological design capabilities developed for this project represent genuine global export potential. The first demonstration at this scale creates licensing and consultancy revenue. This is excluded from the baseline because it depends on successful execution of a project that has not yet been built — it cannot be the justification for building it.
 
 **How the foreshore is actually monetised — development rights, not piecemeal sales**
 
@@ -876,6 +886,6 @@ Democratic systems operating on 4-year electoral cycles structurally cannot make
 
 ---
 
-*Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 6 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; ChatGPT (OpenAI) — staged implementation critique, optimal basin size analysis, salt extraction quantification, vegetation as structural system (Novel Claim 4b); Ani/Grok (xAI) — water balance scenario analysis and Birdsville gauge data, ridge evaporation quantification anchored to Helfer et al. 2009, seepage and settlement engineering detail, nomenclature; Gemini (Google) — critical review of ridge engineering and sediment behaviour under load. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. Original synthesis: 29 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; ChatGPT (OpenAI) — staged implementation critique, optimal basin size analysis, salt extraction quantification, vegetation as structural system (Novel Claim 4b); Ani/Grok (xAI) — water balance scenario analysis and Birdsville gauge data, ridge evaporation quantification anchored to Helfer et al. 2009, seepage and settlement engineering detail, nomenclature; Gemini (Google) — critical review of ridge engineering and sediment behaviour under load. Revision note: construction cost revised to $400B central estimate reflecting mixed geology profile at depth; net annual return restated as $4B/year at year 40 using near-certain revenue items only; technology export and foreshore development revenue moved to post-year-40 growth items. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}}) — the broader continental context.*
