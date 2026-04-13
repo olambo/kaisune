@@ -184,8 +184,8 @@ The Dreamtime Web in full is a 200-year programme. Its sequential demonstration 
 
 Kati Thanda demonstrates whether the governance architecture can be built within a western democratic framework. The Web is what becomes possible if it can.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
 
 ---
 

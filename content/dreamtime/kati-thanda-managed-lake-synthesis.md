@@ -800,8 +800,8 @@ The single largest obstacle is not engineering, not physics, not economics. It i
 
 Democratic systems operating on 4-year electoral cycles structurally cannot make this decision regardless of its merit. The governance architecture for long-horizon infrastructure investment remains the foundational prerequisite.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
 
 ---
 

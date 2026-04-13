@@ -227,8 +227,8 @@ Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can 
 *See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})*
 *See: [Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) — the solar-pumped complement*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the full integrated system*
-*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
 
 ---
 

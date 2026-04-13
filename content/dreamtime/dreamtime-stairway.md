@@ -170,8 +170,8 @@ The Dreamtime Stairway is conditional on Kati Thanda demonstrating the design pr
 
 The governance architecture that can authorise Kati Thanda is the prerequisite for authorising the Stairway.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
 
 ---
 

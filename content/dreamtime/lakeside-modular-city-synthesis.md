@@ -250,7 +250,7 @@ A short-horizon government under electoral pressure releases all modules simulta
 
 The governance architecture prevents this. The fund holds the rights. The module structure enforces sequencing. The transit-first rule is embedded in land release conditions. The 400m constraint is permanent.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
 
 ---
 
@@ -290,4 +290,4 @@ The governance architecture prevents this. The fund holds the rights. The module
 
 *See: [Kati Thanda: A Managed Lake Synthesis]({{< ref "kati-thanda-managed-lake-synthesis" >}})*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}})*
-*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
