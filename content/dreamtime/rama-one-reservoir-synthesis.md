@@ -798,6 +798,18 @@ These are not questions that can be answered by modelling alone. They require a 
 
 ---
 
+## Reservoir Location — Basin Floor Is the Correct Configuration
+
+The design presented in this document places Rama One within the northern basin of Kati Thanda at −8.5m AHD, using the natural basin geometry as the primary container with a 50km compacted earth dam wall on the southern boundary.
+
+A northern location was evaluated — siting the reservoir a few kilometres north of the basin boundary to achieve natural terrain containment and avoid the dam wall. Topographic analysis indicates this concept does not survive contact with the actual terrain. The ground north of Kati Thanda rises at approximately 1:5000 gradient in some sectors. To achieve a managed water level of −6m AHD with meaningful natural containment, a site approximately 25km north of the current deep-basin zone is required. At that distance the natural basin geometry advantage is entirely lost — the reservoir becomes a fully artificial excavated basin in the Simpson Desert with no structural relationship to the existing topography.
+
+The 50km dam wall remains in the design. The pre-construction geotechnical survey must specifically address substrate stability beneath the wall on soft lacustrine foundation, and the question of whether the deep lacustrine sediments beneath the northern basin present unacceptable excavation risk at depth. If substrate conditions prove problematic, the correct response is engineering mitigation — cutoff walls, grout curtains, staged construction — not relocation to terrain that offers no containment advantage.
+
+One genuine advantage of the northern location survives this analysis: building outside the Kati Thanda National Park boundary would materially reduce environmental approval and heritage complexity. This is a governance consideration, not an engineering one, and it should be assessed during the approvals process rather than resolved by design assumption.
+
+---
+
 ## The Governance Prerequisite
 
 The single largest obstacle is not engineering, not physics, not economics. It is that no existing governance architecture can authorise a multi-decade, multi-hundred-billion project with returns arriving in decades.
