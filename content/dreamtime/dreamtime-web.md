@@ -13,7 +13,7 @@ tags:
   - dreamtime-spine
   - dreamtime-stairway
   - continental-water-system
-description: "Synthesis of the Dreamtime Spine and Dreamtime Stairway as a unified continental water redistribution system — with Kati Thanda as the central switching node, the Tanami ridge as a long-horizon orographic possibility, and the claim that the system engineers a continent where water flows uphill."
+description: "Synthesis of the Dreamtime Spine and Dreamtime Stairway as a unified continental water redistribution system — with Rama One as the central switching node, the Tanami ridge as a long-horizon orographic possibility, and the claim that the system engineers a continent where water flows uphill."
 ---
 
 # Dreamtime Web: A Continental Water System Synthesis
@@ -22,7 +22,7 @@ description: "Synthesis of the Dreamtime Spine and Dreamtime Stairway as a unifi
 
 We engineered a continent where water flows uphill.
 
-The Dreamtime Spine moves water with gravity — the Barkly Tableland diversion, the Georgina-Diamantina river system, the managed lake chain stepping southward. The Dreamtime Stairway moves water against gravity — solar-pumped reservoir nodes stepping toward the Kimberley in the west, surplus lifted southward over the Flinders to the Murray-Darling in extreme wet periods. Together they form the Dreamtime Web: a continental water redistribution system with Kati Thanda at its centre, capturing monsoon surplus and moving it where the continent needs it, in all directions simultaneously.
+The Dreamtime Spine moves water with gravity — the Barkly Tableland diversion, the Georgina-Diamantina river system, the managed lake chain stepping southward. The Dreamtime Stairway moves water against gravity — solar-pumped reservoir nodes stepping toward the Kimberley in the west, surplus lifted southward through the Flinders corridor to Port Augusta and Spencer Gulf, with the Murray-Darling as a secondary destination in extreme wet periods. Together they form the Dreamtime Web: a continental water redistribution system with Rama One at its centre, capturing monsoon surplus and moving it where the continent needs it, in all directions simultaneously.
 
 The Web is not a plan to alter Australia's climate. It is an engineered water redistribution system. Available atmospheric modelling studied lake geometries approximately 50 times larger than Rama Reservoir at 2.5m depth — fundamentally different from Rama's geometry — and cannot be directly applied here. The atmospheric effects of Rama's deep-water geometry are an open scientific question. The Web makes no rainfall enhancement claims. What it claims is direct: water stored, water redistributed, permanent ecology established where there was none. The vegetation and ecology may respond over time. That part is left to nature.
 
@@ -42,36 +42,36 @@ Every litre in the Spine moves downhill or across flat country.
 
 ### The Dreamtime Stairway — Solar Powered
 
-The engineered complement. Solar-pumped reservoir nodes stepping up the elevation gradient from the continental interior toward the Kimberley in the west. The southern arm lifting Lake Eyre surplus over the Flinders corridor to the Murray-Darling in sustained wet periods.
+The engineered complement. Solar-pumped reservoir nodes stepping up the elevation gradient from the continental interior toward the Kimberley in the west. The southern arm lifting Lake Eyre surplus through the Flinders corridor to Port Augusta as the primary destination, and to the Murray-Darling in extreme sustained wet periods as a secondary arc.
 
 Every litre in the Stairway moves uphill. The energy to move it comes from co-located solar at each pump station — essentially unlimited and previously doing nothing useful.
 
 *See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
 
-### Kati Thanda — The Switching Node
+### Rama One — The Switching Node
 
-Kati Thanda sits at the intersection of both systems. It is the terminal reservoir for the Spine's gravity-fed inflow. It is the proof of concept node for the Stairway's maximum sustainable surface area design principle. And it is the system's switching node — distributing water surplus in multiple directions depending on system state:
+Rama One sits at the intersection of both systems. It is the terminal reservoir for the Spine's gravity-fed inflow. It is the proof of concept node for the Stairway's maximum sustainable surface area design principle. And it is the system's switching node — distributing water surplus in multiple directions depending on system state:
 
 - **Atmospheric evaporation** — local cooling and humidity within the immediate shoreline zone, ecologically valuable but not a rainfall-generation mechanism at this scale
 - **Southward via gravity** — salinity bleed and flood surplus exit through the southern dam wall into the transition wetland and unmanaged southern basin
-- **Southward via Stairway** — in extreme sustained wet periods when the full Lake Eyre system approaches capacity, the southern arm activates and lifts surplus toward the Murray-Darling
+- **Southward via Stairway** — the southern arm lifts surplus to Port Augusta and Spencer Gulf as the primary commercial destination; in extreme sustained wet periods the secondary arc extends to the Murray-Darling
 
 The managed lake does not merely store water. It redistributes it. The reservoir is not the destination — it is the hub.
 
 ---
 
-## Novel Claim 1: Kati Thanda as Continental Switching Node
+## Novel Claim 1: Rama One as Continental Switching Node
 
-Prior framing of the Kati Thanda project presents the managed lake primarily as a water storage asset: Australia's largest single reservoir, more freshwater storage than all existing dams combined.
+Prior framing of the Rama One project presents the managed reservoir primarily as a water storage asset: Australia's largest single reservoir, more freshwater storage than all existing dams combined.
 
 That framing is correct but incomplete.
 
-At full operation, Kati Thanda is a continental water redistribution hub:
+At full operation, Rama One is a continental water redistribution hub:
 
 - **Input:** monsoon precipitation concentrated by the Georgina-Diamantina-Warburton river system, supplemented by Barkly Tableland diversion
 - **Local ecological output:** permanent water supporting permanent ecology, local temperature moderation, higher humidity within the immediate shoreline zone
 - **Southern gravity output:** controlled salinity bleed and flood surplus maintaining the transition wetland and unmanaged southern basin
-- **Southern pump output:** contingency surplus delivery to the Murray-Darling in extreme wet sequences
+- **Southern pump output:** surplus delivery to Port Augusta and Spencer Gulf via the Flinders corridor as the primary commercial destination; contingency delivery to the Murray-Darling in extreme sustained wet sequences as a secondary arc
 
 A reservoir that receives more water than it needs in a wet year and routes the surplus to Australia's most water-stressed river system is an asset in both wet and dry years simultaneously, serving different functions at different system states.
 
@@ -121,9 +121,9 @@ Each node in the Web supports permanent riparian vegetation and aquatic ecology.
 
 In dry years, every node in the Spine retains its volume and every Stairway pump slows or stops. The system contracts gracefully — each node draws on its volume buffer independently. In wet years, the system expands — Spine nodes fill, Stairway pumps run at capacity, the southern arm activates if the Lake Eyre system fills. The Web's multi-node structure means no single failure point collapses the system.
 
-**The Murray-Darling connection**
+**The Port Augusta and Murray-Darling connection**
 
-The southern arm creates a direct hydrological link between the monsoon-fed Lake Eyre Basin and the rainfall-depleted Murray-Darling Basin. Surplus from Queensland monsoon rainfall, captured and stored at Kati Thanda, delivered to the Murray-Darling in extreme wet years — this is a fundamentally new water relationship between Australia's two largest drainage basins, mediated by solar-powered infrastructure.
+The southern arm creates a new hydrological relationship between the monsoon-fed Lake Eyre Basin and the water-stressed south. Surplus captured at Rama One is delivered first to Port Augusta and Spencer Gulf — the primary commercial destination, approximately 500km south via the Flinders corridor. In extreme sustained wet periods, when the Port Augusta corridor is at capacity, the secondary arc activates eastward toward the Murray-Darling Basin. Both connections are mediated by solar-powered stairway infrastructure and inline hydro-turbine energy recovery on the Flinders descent.
 
 ---
 
@@ -151,17 +151,17 @@ The Web is a water redistribution system with ecological consequences. It is not
 
 The Web is not built at once. It assembles incrementally, each stage conditional on the previous stage's demonstrated performance.
 
-**Decade 1-2: Kati Thanda**
+**Decade 1-2: Rama One**
 The proof-of-concept operational period begins. Maximum sustainable surface area design principle tested under real Australian climate conditions.
 
 **Decade 2-3: Barkly Tableland diversion**
-Inflow to Kati Thanda increases. The water balance shifts from conservative toward medium scenario.
+Inflow to Rama One increases. The water balance shifts from conservative toward medium scenario.
 
 **Decade 3-5: Western Stairway — first nodes**
 Western reservoir chain begins with nodes closest to the continental interior. Each node demonstrates the design principle at its specific elevation and inflow conditions.
 
 **Decade 5+: Western Stairway extension and southern arm design**
-As each node demonstrates viability, the chain extends toward the Kimberley. The southern arm infrastructure is designed from Kati Thanda operational data and built to standby readiness before it is needed.
+As each node demonstrates viability, the chain extends toward the Kimberley. The southern arm infrastructure is designed from Rama One operational data and built to standby readiness before it is needed.
 
 **Century scale: Tanami ridge consideration**
 If atmospheric modelling of the 129°E corridor supports the investment and the Web's operational performance data strengthens the case, the Tanami ridge accumulation programme begins — redirecting mining overburden systematically toward the construction zone over generations.
@@ -184,7 +184,7 @@ The Web's assembly sequence — each stage conditional on demonstrated performan
 
 The Dreamtime Web in full is a 200-year programme. Its sequential demonstration structure makes it more governable than a single civilisational commitment, but it still requires institutional continuity across many electoral cycles.
 
-Kati Thanda demonstrates whether the governance architecture can be built within a western democratic framework. The Web is what becomes possible if it can.
+Rama One demonstrates whether the governance architecture can be built within a western democratic framework. The Web is what becomes possible if it can.
 
 *See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
 *See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
@@ -195,13 +195,13 @@ Kati Thanda demonstrates whether the governance architecture can be built within
 
 1. **We engineered a continent where water flows uphill:** The Dreamtime Web combines gravity-fed and solar-pumped systems into a continental water redistribution network. The energy for uphill movement comes from the continent's unlimited solar resource. No claim is made to rainfall modification.
 
-2. **Kati Thanda as continental switching node:** The managed lake routes monsoon surplus in multiple directions depending on system state — local ecology, southern gravity output, and contingency Murray-Darling delivery. The reservoir is the hub, not the destination.
+2. **Rama One as continental switching node:** The managed reservoir routes monsoon surplus in multiple directions depending on system state — local ecology, southern gravity output, Port Augusta as primary southern pump destination, and contingency Murray-Darling delivery in extreme wet sequences. The reservoir is the hub, not the destination.
 
 3. **Maximum sustainable surface area — the Web's unifying principle:** Every node maximises surface area at the depth required for permanent viability. The evaporation is a consequence of the surface area. The surface area supports permanent ecology. This inverts conventional dam engineering without claiming atmospheric rainfall benefits that modelling does not support at this scale.
 
 4. **The Tanami ridge as century-scale possibility requiring atmospheric modelling:** A 300-400km ridge at 129°E would produce orographic precipitation through a different physical mechanism than lake evaporation — mechanical uplift, not evaporative cooling. This is the one intervention in the Web that could legitimately target rainfall generation. It requires site-specific atmospheric modelling before any precipitation claim can be made, and it belongs to the century-scale horizon, not the engineering present.
 
-5. **The Web's integrated properties are direct, not atmospheric:** Biological corridor continuity, water redistribution resilience, and the Murray-Darling hydrological connection are direct physical outcomes. They do not depend on atmospheric feedback mechanisms the modelling does not support.
+5. **The Web's integrated properties are direct, not atmospheric:** Biological corridor continuity, water redistribution resilience, the Port Augusta industrial water supply, and the Murray-Darling hydrological connection are all direct physical outcomes. They do not depend on atmospheric feedback mechanisms the modelling does not support.
 
 6. **Sequential demonstration governs the Web:** Each stage is conditional on prior stage evidence. No civilisational commitment required upfront. The Web assembles across demonstrated performance at each node.
 
@@ -213,7 +213,7 @@ Kati Thanda demonstrates whether the governance architecture can be built within
 
 - Dreamtime Spine: see Dreamtime Spine: A Continental Restoration Synthesis
 - Dreamtime Stairway: see Dreamtime Stairway: A Solar-Powered Continental Water Synthesis
-- Kati Thanda: see Rama One: A Managed Reservoir Synthesis
+- Rama One: see [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}})
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama Reservoir (1,500 km², 66.5m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Murray-Darling Basin water stress: Murray-Darling Basin Authority assessments
 - Norwegian sovereign wealth fund governance model: Government Pension Fund Global documentation

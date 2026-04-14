@@ -28,7 +28,7 @@ The spine already exists in skeletal form. The Wunaamin Miliwundi Ranges, the Ha
 
 1. **Redirect the rivers** — the Barkly Tableland continental divide separates Gulf-draining and interior-draining systems across flat country at comparable elevation. Gravity already nearly routes this water inland. A modest diversion structure completes what the terrain almost does on its own.
 
-2. **Anchor with managed lakes** — Kati Thanda is the first and primary node. Each lake in the chain captures redirected river flow, manages salinity through controlled southern release, and supports permanent riparian vegetation and aquatic ecology.
+2. **Anchor with managed lakes** — Rama One, built within the northern basin of Kati Thanda, is the first and primary node. Each lake in the chain captures redirected river flow, manages salinity through controlled southern release, and supports permanent riparian vegetation and aquatic ecology.
 
 The target is permanent water in the arid interior — establishing the ecological conditions under which Australia's megafauna flourished and under which Aboriginal land management operated at continental scale. Whether that eventually affects rainfall patterns is an open scientific question — available modelling studied geometries approximately 50 times larger than Rama at shallow depth and cannot be directly applied here. This document makes no rainfall enhancement claims and does not require them. The vegetation and ecology may respond over time. That part is left to nature.
 
@@ -76,7 +76,7 @@ The continent's existing orographic infrastructure is substantially underappreci
 
 **Musgrave Ranges (SA/WA/NT border)** — approximately 400km, reaching 1,440m at Mount Woodroffe. Feeds the Mann and Everard river systems draining northward toward the Lake Eyre Basin. Also correctly oriented — contributing to the interior drainage network.
 
-**Flinders Ranges (SA)** — approximately 430km, reaching 1,170m at St Mary Peak. Feeds river systems draining westward toward Lake Torrens and Lake Frome — part of the broader Lake Eyre Basin network. Partially correctly oriented.
+**Flinders Ranges (SA)** — approximately 430km, reaching 1,170m at St Mary Peak. Feeds river systems draining westward toward Lake Torrens and Lake Frome — separate endorheic basins sitting at 30-49m AHD, not part of the Lake Eyre Basin. The Flinders is partially correctly oriented for interior drainage but its primary catchments drain into basins above sea level, not toward Kati Thanda.
 
 **The pattern**
 
@@ -124,7 +124,7 @@ This is not pumping water over a mountain. This is redirecting water that has al
 
 **The volume contribution**
 
-Conservative case — 10-15% capture of mean Gulf-draining Barkly flow after transmission losses: approximately 0.5-1.5 km³/year additional delivery to the managed lake. Shifting the Kati Thanda water balance from conservative toward medium scenario.
+Conservative case — 10-15% capture of mean Gulf-draining Barkly flow after transmission losses: approximately 0.5-1.5 km³/year additional delivery to the managed lake. Shifting the Rama One water balance from conservative toward medium scenario.
 
 Wet year case — major monsoon events on the Barkly deliver 10-20x mean flow as flood pulses. Capturing peak events could deliver 5-15 km³ in a single wet season.
 
@@ -142,17 +142,16 @@ The Nicholson and Gregory rivers support Ramsar-listed wetlands and Indigenous c
 
 ## Novel Claim 3: The Gravity-Fed Lake Chain
 
-South of Kati Thanda, the Lake Eyre Basin connects to a series of further salt lakes — Lake Torrens, Lake Gairdner, Lake Frome — each a candidate for managed freshwater systems as the Spine's ecological influence extends southward over time.
-
-The chain from north to south, gravity fed throughout:
+The gravity-fed chain from north to south:
 
 - **Barkly Tableland diversion** — Gulf-draining flood flows redirected southward into the Georgina headwaters. No pumping. Flat terrain.
 - **Georgina-Diamantina-Warburton system** — the existing primary fill mechanism, carrying true monsoon precipitation southward toward Kati Thanda across 1,400km of channel country.
-- **Kati Thanda** — the primary anchor lake. The proof of concept node.
-- **Southern transition wetland** — the managed 10km transition zone south of the dam wall, functioning as ecological buffer and wetland habitat.
-- **Lake Torrens, Lake Gairdner, Lake Frome** — the long-horizon southern extension as the evidence base from Kati Thanda develops.
+- **Rama One** — the primary anchor reservoir, built within the northern basin of Kati Thanda. The proof of concept node for the entire Dreamtime system.
+- **Southern transition wetland** — the managed 10km transition zone south of the Rama One dam wall, functioning as ecological buffer and wetland habitat.
 
-This chain spans approximately 2,000km north to south. Every link in it works with gravity. The engineering complexity is at the diversion point and the dam wall — the rest is the continent doing what it almost does already.
+The gravity-fed Spine terminates at Rama One and its southern transition wetland. Lakes south of Kati Thanda — Lake Torrens, Lake Gairdner, Lake Frome — sit at 30-100m above sea level and cannot receive gravity-fed water from Rama One at -8.5m AHD. Any southward extension beyond the transition wetland belongs to the solar-pumped Dreamtime Stairway, not the gravity-fed Spine.
+
+This chain spans approximately 2,000km north to south. Every link in it works with gravity. The engineering complexity is at the Barkly diversion point and the Rama One dam wall — the rest is the continent doing what it almost does already.
 
 ---
 
@@ -220,7 +219,7 @@ Partnership from design stage, at every node of the chain. Not consultation. Not
 
 The Dreamtime Spine is a 200-year project. Democratic systems operating on 4-year electoral cycles cannot authorise it regardless of its merit.
 
-Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can be authorised, funded, and executed within a western democratic framework with appropriate institutional reform. Then the Dreamtime Spine becomes a series of subsequent steps rather than an unapproachable single proposal.
+Get Rama One built. Demonstrate that 50-year managed lake infrastructure can be authorised, funded, and executed within a western democratic framework with appropriate institutional reform. Then the Dreamtime Spine becomes a series of subsequent steps rather than an unapproachable single proposal.
 
 *See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}})*
 *See: [Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) — the solar-pumped complement*
@@ -233,7 +232,7 @@ Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can 
 ## Open Questions
 
 - **Barkly divide elevation profile:** Detailed topographic survey required before diversion point engineering can be designed.
-- **Ecological response to permanent water:** Rate of riparian vegetation establishment, aquatic community development, and waterbird colonisation at this scale in central Australian conditions. Kati Thanda's operational period generates this data.
+- **Ecological response to permanent water:** Rate of riparian vegetation establishment, aquatic community development, and waterbird colonisation at this scale in central Australian conditions. Rama One's operational period generates this data.
 - **Megafauna reintroduction sequencing:** Correct ecological order for faunal reintroduction as habitat recovers.
 
 ---
@@ -242,15 +241,15 @@ Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can 
 
 1. **The desert is the aberration:** The arid interior is the product of tectonic river capture, aridification feedback, and megafauna collapse — not the continent's natural state.
 
-2. **The Spine is gravity-fed throughout:** No pumping. No mountain crossings. Engineering complexity is at the Barkly diversion point and the Kati Thanda dam wall. Everything else is the continent doing what it almost does already.
+2. **The Spine is gravity-fed throughout:** No pumping. No mountain crossings. Engineering complexity is at the Barkly diversion point and the Rama One dam wall. Everything else is the continent doing what it almost does already.
 
 3. **Two monsoon systems — gravity can address one directly:** The true cross-equatorial monsoon feeds the interior via the Georgina and Diamantina. The Barkly diversion recovers the Gulf-draining fraction without pumping. The pseudo-monsoon Fitzroy question is a Stairway matter.
 
-4. **Barkly Tableland diversion is the highest-return gravity-fed intervention:** Flat tableland divide at comparable elevation on both sides. No mountain crossing. Gudanji, Marra, and Yanyuwa partnership is the binding design constraint. Bradfield's 21 km³/year target is irrelevant — Kati Thanda needs only 0.5-1.5 km³/year additional to shift scenarios.
+4. **Barkly Tableland diversion is the highest-return gravity-fed intervention:** Flat tableland divide at comparable elevation on both sides. No mountain crossing. Gudanji, Marra, and Yanyuwa partnership is the binding design constraint. Bradfield's 21 km³/year target is irrelevant — Rama One needs only 0.5-1.5 km³/year additional to shift scenarios.
 
 5. **Permanent water as ecological engine — not climate modifier:** Each managed lake maximises sustainable surface area from permanent deep water. Permanent water in arid terrain is ecologically transformative. Available atmospheric modelling studied geometries approximately 50 times larger than Rama at 2.5m depth and cannot be applied to Rama's geometry. The atmospheric effects of Rama's deep-water geometry are an open scientific question. No rainfall enhancement claim is made.
 
-6. **The gravity-fed lake chain extends southward over time:** Kati Thanda is the primary node. Lake Torrens, Gairdner, and Frome are the long-horizon extension as the evidence base develops.
+6. **The gravity-fed lake chain terminates at Rama One:** Rama One is the primary node and proof of concept. The gravity-fed Spine cannot extend south of the transition wetland — lakes south of Kati Thanda sit 30-100m above sea level and are Stairway territory, not Spine territory.
 
 7. **Vegetation recovery is ecological restoration, not climate mechanism:** Riparian vegetation is self-sustaining from the permanent water table, not increased rainfall. The biological corridor is ecologically significant regardless of precipitation effects. The vegetation and ecology may respond over time. That part is left to nature.
 
@@ -258,7 +257,7 @@ Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can 
 
 9. **The Dreamtime Spine name is accurate not metaphorical:** Indigenous ecological knowledge along the full corridor is primary technical data, not background context.
 
-10. **Kati Thanda is the proof of concept:** Build the first managed lake. Demonstrate the governance architecture. Then the Spine is a series of subsequent steps.
+10. **Rama One is the proof of concept:** Build the first managed reservoir. Demonstrate the governance architecture. Then the Spine is a series of subsequent steps.
 
 ---
 
@@ -278,6 +277,6 @@ Get Kati Thanda built. Demonstrate that 50-year managed lake infrastructure can 
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, epistemic framing on vegetation and ecology. Revision note: climate and rainfall corridor claims removed. Atmospheric modelling citations corrected — available studies modelled geometries approximately 50x larger than Rama at 2.5m depth; findings cannot be applied to Rama's 1,500 km², 66.5m deep-water geometry. Atmospheric effects of Rama's geometry are an open scientific question. Ecological framing substituted throughout. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, epistemic framing on vegetation and ecology. Revision note: climate and rainfall corridor claims removed. Atmospheric modelling citations corrected — available studies modelled geometries approximately 50x larger than Rama One at 2.5m depth; findings cannot be applied to Rama One's 1,500 km², 66.5m deep-water geometry. Atmospheric effects of Rama One's geometry are an open scientific question. Ecological framing substituted throughout. Rama One established as primary node throughout — replaces Kati Thanda where referring to the managed reservoir. Lake Torrens, Gairdner, and Frome removed from gravity-fed chain — these lakes sit 30-100m above sea level and cannot receive gravity-fed water from Rama One at -8.5m AHD; southward extension beyond Rama One belongs to the Dreamtime Stairway. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}}) — companion engineering document for the first spine node.*

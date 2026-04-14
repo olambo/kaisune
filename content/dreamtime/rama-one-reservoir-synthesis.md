@@ -35,7 +35,7 @@ The result is a system with four defining properties. It is **water-positive** a
 
 This is a proof of concept for managed freshwater lake infrastructure at continental-interior scale. Not merely another storage — a step-change in Australia's inland water inventory, and a demonstration that the engineering constraints assumed by every prior assessment were never real constraints at all.
 
-*The managed reservoir and the city on its northern shore are proposed as **Rama** — a new thing on Arabana country that has not existed before, distinct from Kati Thanda, which is the Arabana name for the natural salt lake this project transforms. The name is proposed subject to Arabana agreement.*
+*The managed reservoir and the city on its northern shore are proposed as **Rama** — a new structure on Arabana country that has not existed before, distinct from Kati Thanda, which is the Arabana name for the natural salt lake this project transforms. The name is proposed subject to Arabana agreement.*
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Dreamtime: Australian Continental Water System"
 date: 2026-03-29
-lastmod: 2026-04-13
+lastmod: 2026-04-14
 draft: false
 description: "Five documents advancing the case for managed water infrastructure at continental-interior scale in Australia — engineering, ecology, and system design."
 ---
@@ -10,7 +10,7 @@ description: "Five documents advancing the case for managed water infrastructure
 
 We engineered a continent where water flows uphill.
 
-Australia possesses the engineering capability, the resource endowment, and the geographic conditions to transform its arid interior through managed water infrastructure. The only missing component is a governance architecture capable of authorising decisions with 50–200 year return horizons. The proof of concept is a managed deep-water reservoir at Kati Thanda (Lake Eyre). The continental vision is the Dreamtime Web. The integrated entity that results is Rama.
+Australia possesses the engineering capability, the resource endowment, and the geographic conditions to transform its arid interior through managed water infrastructure. The only missing component is a governance architecture capable of authorising decisions with 50–200 year return horizons. The proof of concept is a managed deep-water reservoir at Kati Thanda (Lake Eyre), in the north of the lake. The continental vision is the Dreamtime Web. The first reservoir is Rama One. The integrated entity that results is Rama.
 
 ---
 
