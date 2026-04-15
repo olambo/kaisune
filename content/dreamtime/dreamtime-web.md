@@ -178,6 +178,10 @@ Each nation's ecological knowledge of their specific country is load-bearing tec
 
 The Web's assembly sequence — each stage conditional on demonstrated performance — creates a natural structure for partnership: each custodian group engaged from design stage for their component, with the evidence base from prior stages informing the design conversation.
 
+**On naming:**
+
+Rama is the name for the Gawler Craton chain — Rama Zero through Rama Twenty at the outside — proposed subject to Arabana agreement. It is a proper noun, not a template. A reservoir chain built on Nyikina and Mangala country in the Kimberley is not Rama 21. It is a different project, on different country, built by different custodians, with its own name negotiated with the peoples whose country it crosses. The numbering resets. The name is chosen by the custodians. The Web connects the chains. It does not name them.
+
 ---
 
 ## The Governance Architecture Required
