@@ -50,7 +50,7 @@ The soul of the project. A permanent freshwater reservoir inside the Kati Thanda
 **[Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})**
 The proof of concept. A 20km × 5km × 50m reservoir on the western Gawler Craton shore — no dam wall, Rama Standard established, $40B over 15 years. The first node of the Reservoir Chain. Start here for the how.
 
-**[Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-spine-synthesis" >}})**
+**[Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-chain-synthesis" >}})**
 The chain. Fifteen Rama nodes stepping south along the Gawler Craton corridor to Port Augusta — 1,500 km² total water surface, 75 km³ volume, gravity cascade in the north, solar-pumped Stairway in the south. The water infrastructure backbone.
 
 **[Rama: Modular Reservoir, Modular City, Megachain]({{< ref "rama-megachain-synthesis" >}})**

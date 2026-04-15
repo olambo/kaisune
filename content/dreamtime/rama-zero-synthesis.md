@@ -32,7 +32,7 @@ If the survey supports it, Rama Zero is built. If the survey reveals foundation 
 
 Rama Zero is the soul of the project. Rama One is the spine of the project. Both are Rama.
 
-*The Rama Standard for the Reservoir Chain is established at [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}). For the full chain heading south, see [Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-spine-synthesis" >}}). For the continental system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
+*The Rama Standard for the Reservoir Chain is established at [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}). For the full chain heading south, see [Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-chain-synthesis" >}}). For the continental system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
 
 ---
 
@@ -223,5 +223,5 @@ Rama Zero is defined by its open questions. The survey answers them. Until the s
 *Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — held the line on the soul of the project through multiple design iterations; insisted the resurrection story is load-bearing not decorative; the naming Rama Zero as the founding aspiration; ChatGPT (OpenAI) — "stop drawing shapes, start negotiating with the ground" — the design philosophy that defines this document's approach to reservoir geometry; Gemini (Google) — Gawler Craton hard point as the non-negotiable western anchor. The Rama Zero concept emerged from the recognition that the soul of the original basin floor design and the engineering pragmatism of the western shore design are not in conflict — they belong to different nodes with different purposes. Rama Zero is the heart. Rama One is the spine. Both are Rama. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — the Rama Standard and the spine beginning.*
-*See: [Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-spine-synthesis" >}}) — the chain heading south.*
+*See: [Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-chain-synthesis" >}}) — the chain heading south.*
 *See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}}) — the continental system.*
