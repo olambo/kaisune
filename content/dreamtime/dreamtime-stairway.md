@@ -232,7 +232,7 @@ The governance architecture that can authorise Rama One is the prerequisite for 
 - Port Augusta industrial water demand: South Australian Government hydrogen and industry development assessments
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama One (1,500 km², 66.5m average depth). Findings on precipitation suppression cannot be directly applied to Rama One's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Martu, Nyikina, Mangala, Ngarinyin, Bunuba, Adnyamathanha traditional custodianship: native title determinations and ethnographic literature
-- Rama One engineering and design principle: see [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}})
+- Rama One engineering and design principle: see [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}})
 
 ---
 

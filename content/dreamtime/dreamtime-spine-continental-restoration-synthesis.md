@@ -221,7 +221,7 @@ The Dreamtime Spine is a 200-year project. Democratic systems operating on 4-yea
 
 Get Rama One built. Demonstrate that 50-year managed lake infrastructure can be authorised, funded, and executed within a western democratic framework with appropriate institutional reform. Then the Dreamtime Spine becomes a series of subsequent steps rather than an unapproachable single proposal.
 
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}})*
+*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}})*
 *See: [Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) — the solar-pumped complement*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the full integrated system*
 *See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
@@ -279,4 +279,4 @@ Get Rama One built. Demonstrate that 50-year managed lake infrastructure can be 
 
 *Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, epistemic framing on vegetation and ecology. Revision note: climate and rainfall corridor claims removed. Atmospheric modelling citations corrected — available studies modelled geometries approximately 50x larger than Rama One at 2.5m depth; findings cannot be applied to Rama One's 1,500 km², 66.5m deep-water geometry. Atmospheric effects of Rama One's geometry are an open scientific question. Ecological framing substituted throughout. Rama One established as primary node throughout — replaces Kati Thanda where referring to the managed reservoir. Lake Torrens, Gairdner, and Frome removed from gravity-fed chain — these lakes sit 30-100m above sea level and cannot receive gravity-fed water from Rama One at -8.5m AHD; southward extension beyond Rama One belongs to the Dreamtime Stairway. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}}) — companion engineering document for the first spine node.*
+*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}}) — companion engineering document for the first spine node.*

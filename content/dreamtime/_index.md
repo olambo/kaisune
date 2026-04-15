@@ -34,7 +34,7 @@ The Web, Spine, and Stairway describe the same continental water system at incre
 
 ## Documents
 
-**[Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}})**
+**[Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}})**
 Engineering synthesis for the transformation of Kati Thanda's northern basin into a permanently managed freshwater reservoir at 1,500 km² and 100 km³ — the proof of concept node for the Dreamtime Web and the demonstration that prior assessments were constrained by incorrect assumptions.
 
 **[Rama: A Modular Megastructure Synthesis]({{< ref "rama-megastructure-synthesis" >}})**

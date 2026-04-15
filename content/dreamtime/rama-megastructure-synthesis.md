@@ -29,7 +29,7 @@ This is NEOM's ambition executed correctly. Not a mirrored skyscraper in a Saudi
 
 The city does not need to be designed before the lake is built. It needs a founding geometry, a module structure, a transit principle, and an infrastructure sequencing rule. The rest emerges from real conditions on the ground as each module establishes.
 
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}}) — the engineering foundation.*
+*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}}) — the engineering foundation.*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the continental system the city anchors.*
 
 ---
@@ -290,6 +290,6 @@ The governance architecture prevents this. The fund holds the rights. The module
 Gemini (Google) — Ridge engineering review, atmospheric forcing analysis, and Rama nomenclature synthesis (establishing the unified megastructure framework).
 This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-one-reservoir-synthesis" >}})*
+*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}})*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}})*
 *See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
