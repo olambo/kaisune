@@ -16,14 +16,14 @@ tags:
   - rama
   - port-augusta
   - dreamtime-stairway
-description: "Design synthesis for Rama — a chain of fifteen modular freshwater reservoirs and city arcs stepping 500km along the Gawler Craton western shore of Kati Thanda toward Port Augusta. Each node a permanent water body, each water body a city, each city a node in a continental water distribution system."
+description: "Design synthesis for Rama — a chain of fifteen modular freshwater reservoirs and city arcs stepping 370km along the Gawler Craton western shore of Kati Thanda toward Port Augusta. Each node a permanent water body, each water body a city, each city a node in a continental water distribution system."
 ---
 
 # Rama: Modular Reservoir, Modular City, Megachain
 
 ## Summary
 
-Rama is not a city built near a lake. It is a chain of fifteen permanent freshwater reservoirs, each with a city arc on its western shore, stepping 500km south along the Gawler Craton from the latitude of Kati Thanda to Port Augusta and Spencer Gulf.
+Rama is not a city built near a lake. It is a chain of fifteen permanent freshwater reservoirs, each with a city arc on its western shore, stepping 370km south along the Gawler Craton from the latitude of Kati Thanda to Port Augusta and Spencer Gulf.
 
 Each node — Rama One through Rama Fifteen — is independently viable. Each proves the design before the next is authorised. The chain assembles on demonstrated evidence, one node at a time, over 150 years. When complete it is the longest purpose-built linear city on Earth, the largest distributed freshwater system in Australian history, and the continental water distribution backbone connecting Queensland monsoon rainfall to Spencer Gulf.
 
@@ -77,6 +77,8 @@ The managed Warburton channel delivers 0.3-0.5 km³/year in conservative inflow 
 
 15 nodes × 100 km² = **1,500 km² total water surface**
 
+15 nodes × 20km + 14 land bridges × 5km = **370km total spine length** — each 25km node cycle (20km reservoir + 5km land bridge) repeating cleanly to Port Augusta. The 5 is everywhere: 5km wide, 5km land bridge, 5 km³ volume, 50m deep. The geometry is internally consistent by design.
+
 15 nodes × 5 km³ = **75 km³ total volume**
 
 For reference: all existing Australian dams and reservoirs combined hold approximately 80-85 km³. The Rama chain delivers equivalent total storage in a single linear system, built one proven node at a time.
@@ -103,7 +105,7 @@ The channel delivers water to Rama One's eastern inlet. Subsequent nodes receive
 
 **Western catchment:**
 
-Small creeks and seasonal watercourses draining eastward from the Gawler Craton along the full 500km chain are redirected toward the nearest Rama node rather than flowing into Kati Thanda directly. The outer western face of each ridge is graded to concentrate runoff toward node inlets. The chain intercepts the full Gawler Craton eastern catchment along its length.
+Small creeks and seasonal watercourses draining eastward from the Gawler Craton along the full 370km chain are redirected toward the nearest Rama node rather than flowing into Kati Thanda directly. The outer western face of each ridge is graded to concentrate runoff toward node inlets. The chain intercepts the full Gawler Craton eastern catchment along its length.
 
 Large western rivers — the Neales, Macumba — are directed into whichever Rama node they are adjacent to via gorge inlet on the western face.
 
@@ -139,7 +141,7 @@ Second terrace at 30m above the first — forested face, public. The outer weste
 
 **The eastern forest:**
 
-No development on the eastern shore. The eastern boundary of each node faces Kati Thanda. A permanent forest is planted from day one and left to establish on its own terms — riparian species at the water margin, desert-adapted species further back. Over decades a biological corridor develops connecting the Rama reservoir system to the natural lake across the full 500km chain length.
+No development on the eastern shore. The eastern boundary of each node faces Kati Thanda. A permanent forest is planted from day one and left to establish on its own terms — riparian species at the water margin, desert-adapted species further back. Over decades a biological corridor develops connecting the Rama reservoir system to the natural lake across the full 370km chain length.
 
 The forest is not landscaping. It is the managed interface between the engineered world and the ancient one. Kati Thanda remains visible through the trees. The boundary between Rama and the natural lake is permeable, biological, and permanent.
 
@@ -151,25 +153,33 @@ No development on the eastern shore. Ever. This is not a zoning rule. It is a co
 
 The city arc runs along the western shore of each node. 400 metres wide. This width is not a planning constraint — it is the maximum distance at which every resident is within a five-minute walk of both the lake shore and the transit spine simultaneously.
 
-**The cross-section from lake to ridge:**
+**The definitive cross-section — lake to ridge, all at ground level:**
 
-*Lake shore* — beach, waterfront promenade, boat access, aquaculture infrastructure.
+*50m waterfront zone* — not part of the city width. Beach, promenade, continuous lakefront bike path running the full 20km node length, aquaculture access points, boat ramps. Belongs to the lake, not the city. Variable depth depending on water level management and natural beach geometry.
 
-*400m city arc* — residential, commercial, parks, cultural facilities, research stations, Arabana community facilities. All of it within five minutes of the water and five minutes of the transit spine. The transit spine runs at the back of this band — the boundary between the human city and the invisible infrastructure behind it. Private vehicles are not banned. They have nowhere useful to go. The car is impossible by geometry.
+*400m city arc* — residential, commercial, parks, cultural facilities, research stations, Arabana community facilities. All within five minutes of the lake shore and five minutes of the tram. Dense, human-scale, legible. Private vehicles are not banned. They have nowhere useful to go. The car is impossible by geometry.
 
-*100-150m infrastructure corridor* — between the transit spine and the ridge base. Sewage feed pipes running to the land bridge treatment plant. Water supply mains. Power and communications conduits. Autonomous freight service lane. Nobody lives here. Nobody sees it.
+*Tram track (8m)* — bidirectional, frequent stopping service within the node. Autonomous operation from day one. Every few hundred metres. The local network.
 
-*Earthen roof over infrastructure corridor* — the infrastructure corridor is roofed with compacted earth and planted. From the city arc looking west, the infrastructure disappears under a flowering hillside. Cherry blossoms in spring. The city faces a forested ridge rising behind a meadow, not a service corridor.
+*Express train track (15m)* — bidirectional, inter-node speed. Stops at node centres only. 8-10 minutes node to node. The spine network. End-to-end journey Rama One to Rama Fifteen: approximately 2-3 hours at full build.
+
+*Service and access road (8m)* — autonomous freight pods, maintenance vehicles, emergency access. Not a public road. Serves both the express train infrastructure and the corridor behind it without entering the city.
+
+*Infrastructure corridor (50-60m)* — sewage feed pipes to the land bridge treatment plant, water supply mains, power and communications, utility conduits. Nobody lives here. Nobody sees it.
+
+*Earthen flowering roof* — the infrastructure corridor is roofed with compacted earth and planted. Cherry blossoms in spring. The city faces a meadow rising to the forested ridge. The machinery is buried permanently.
 
 *Double western terrace* — the ridge, rising 60m in two 30m steps, forested faces, public terraces, the 1km leasehold zone, cropland on the outer face.
 
-**Total footprint from lake to ridge base:** 550-560m. The amphitheatre contains it.
+**Total footprint from designed foreshore edge to ridge base: ~530-540m.** <!-- TODO: verify this measurement runs from foreshore edge not waterline — waterline moves with water level management, foreshore edge is the fixed engineered boundary --> The amphitheatre contains it.
+
+**Everything at ground level within the node.** No tunnels. No elevated structures. No levels to navigate. The tram and express train run side by side on flat ground. Passengers step from the platform to the tram or cross to the express train station. Simple. Permanent. Legible.
 
 ---
 
 ## The Land Bridge — Between Nodes
 
-Each node is separated from the next by a 3km land bridge — solid Gawler Craton ground between two permanent water bodies.
+Each node is separated from the next by a 5km land bridge — solid Gawler Craton ground between two permanent water bodies.
 
 **What the land bridge is:**
 
@@ -185,11 +195,47 @@ Facing southwest ensures the gorge opening faces away from the dominant northwes
 
 The gorge is the view. Standing in it you see the western catchment on one side, the reservoir on the other. In flood, water arrives as a visible event. The gorge is a feature, not a defect.
 
+**The gorge cross-section — three levels:**
+
+*Bottom level* — the spinal cord water channel and fish passage. Concrete lined. Flow control structures. The biological and hydrological connection between adjacent nodes. Water and fish move freely in both directions.
+
+*Middle level* — express train short tunnel through the land bridge body (~200m), emerging at ground level on both sides. Service bridge for maintenance vehicles alongside — connecting the service roads of adjacent nodes without using the tram bridge or train tunnel.
+
+*Top level* — tram bridge and pedestrian/cyclist crossing. Open air. The gorge visible below. The reservoir visible ahead. The view.
+
 **Access through the ridge:**
 
-The gorge at each land bridge is the crossing point — for people, freight, emergency vehicles, and all utility connections between the city arc and the outer western cropland face. Concrete tunnels carry utilities. The gorge handles larger movements.
+The gorge at each land bridge is the crossing point — for people by tram bridge at the top, for freight by service bridge at the middle, for water and fish by spinal cord channel at the bottom. Concrete lined. Three systems. Three levels. One gorge.
 
 No gorges cut mid-node. No breaks in the wind shadow within each 20km node length. The ridge is continuous and unbroken for 20km between land bridges.
+
+---
+
+## The Spinal Cord
+
+A spine has a spinal cord.
+
+The Rama Reservoir Spine has a continuous deepwater channel running its full 370km length — through the fish passage at each land bridge gorge, connecting all fifteen nodes into one living hydrological system.
+
+**What the spinal cord carries:**
+
+*Water* — moving south by gravity cascade in the northern section, solar-pumped in the southern section. The primary function.
+
+*Fish* — unrestricted passage through the full 370km length. The wild fishery of the spine is one population distributed across fifteen nodes and 370km, not fifteen isolated ponds. Murray cod, golden perch, native species moving freely along the full chain.
+
+*Nutrients* — organic material, dissolved minerals, biological exchange between nodes. Each node contributes to and receives from the system ecology.
+
+*Thermal signal* — temperature gradients along the 370km corridor provide migration cues for aquatic species. The spine breathes seasonally, north to south and back.
+
+**The spinal cord geometry:**
+
+Approximately 20-30m wide, 5-10m deep. Concrete lined at each land bridge gorge passage. Open channel within each node — the deepest part of the reservoir floor. Flow control structures at each node inlet and outlet manage direction and rate.
+
+**Fifteen isolated reservoirs versus one connected organism:**
+
+Without the spinal cord, fifteen Rama nodes are fifteen isolated ponds that happen to be aligned. With the spinal cord, they are one connected system — hydrologically, ecologically, and biologically continuous from Kati Thanda to Spencer Gulf.
+
+The sardines go in the lake. The fish swim the length of the spine. The spinal cord is how.
 
 ---
 
@@ -223,7 +269,7 @@ Treatment plants at each land bridge. Treated effluent exits through the gorge o
 
 The proof of concept. 20km × 5km, commissioning at conservative operating level, water balance confirmed positive, ecology establishing, founding population arriving by choice. Every engineering assumption tested under real conditions.
 
-Cost: approximately **$25B** over 15 years. $1.7B per year. Within a federal budget line. Comparable to the Sydney Metro.
+Cost: approximately **$40B** over 15 years. $2.7B per year. Survey-dependent — Gawler Craton substrate may include hard rock requiring blasting. Within reach of national infrastructure commitment across two electoral cycles.
 
 **Rama Two — years 15-25:**
 
@@ -255,7 +301,7 @@ The chain assembles on evidence. Rama One proves the design. Rama Two proves it 
 
 ## Indigenous Partnership
 
-Every Rama node sits on or adjacent to Arabana country. The full chain passes through country held by multiple Aboriginal nations along its 500km extent.
+Every Rama node sits on or adjacent to Arabana country. The full chain passes through country held by multiple Aboriginal nations along its 370km extent.
 
 Kati Thanda — the natural salt lake to the east of the chain — is not modified. It remains the Arabana lake. The eastern forest corridor maintains a permanent biological and visual connection between Rama and Kati Thanda.
 
@@ -285,9 +331,10 @@ The module structure is the governance instrument. Each node releases only when 
 - **Gawler Craton corridor survey:** LiDAR topographic survey of the full 500km western shore corridor to Port Augusta required before node siting can be confirmed. The 100m maximum elevation hypothesis requires verification.
 - **Substrate at depth:** Geotechnical transects along the western shore to confirm Gawler Craton substrate quality at reservoir excavation depths throughout the chain.
 - **Warburton channel transmission loss recovery:** Quantification of inflow improvement from managed narrow channel versus natural delta spreading.
-- **Western catchment contribution:** Assessment of total Gawler Craton eastern catchment interceptable by the chain along its 500km length.
+- **Western catchment contribution:** Assessment of total Gawler Craton eastern catchment interceptable by the chain along its 370km length.
 - **Solar pumping energy budget:** Detailed elevation profile of the corridor required to determine the gravity-fed versus solar-pumped boundary and total energy requirement for the southern Stairway section.
 - **Cherry blossom cultivar selection:** Low chilling hour varieties suitable for the Rama microclimate — the natural desert is unsuitable but the amphitheatre microclimate is fundamentally different from the surrounding landscape.
+- **Land bridge geometry — plan view required:** The interaction between the southern embankment (possibly curling westward to meet the rising ridge terrain), the western ridge gorge, the express train alignment, the tram crossing, the service road, and the northern mesa spoil placement at each land bridge requires plan-view engineering design informed by corridor survey data. The corpus establishes the elements and their functions. Their precise geometric relationship is survey-dependent and beyond the scope of synthesis documents. The express train in particular — running north-south continuously — must negotiate two embankments at every land bridge crossing, likely via short tunnels or concrete-lined slots through the embankment body. The mesa geometry at the land bridge transition is left to engineers with survey data and a drawing board.
 
 ---
 
@@ -295,7 +342,7 @@ The module structure is the governance instrument. Each node releases only when 
 
 1. **The Rama Standard:** 20km × 5km × 50m average depth. Natural terrain containment on three sides. Managed eastern interface to Kati Thanda. No dam wall. Robustly water positive at node scale. Repeatable along the full Gawler Craton corridor and beyond.
 
-2. **15 nodes × 100 km² = the original 1,500 km²:** The single basin floor reservoir design distributed across fifteen modular nodes delivers the same total water surface with superior substrate, no dam wall, modular governance, and a 500km city instead of a single node.
+2. **15 nodes × 100 km² = the original 1,500 km²:** The single basin floor reservoir design distributed across fifteen modular nodes delivers the same total water surface with superior substrate, no dam wall, modular governance, and a 370km city instead of a single node.
 
 3. **The amphitheatre is the consequence of solving engineering problems:** The 330m northern mesa emerges from spoil arithmetic. The 60m double western terrace emerges from wind management and the too-much-fill problem. The 400m city width emerges from the wind shadow boundary. The amphitheatre was not designed. It appeared.
 
@@ -315,7 +362,9 @@ The module structure is the governance instrument. Each node releases only when 
 
 11. **Port Augusta is Rama Fifteen:** The chain doesn't deliver water to Port Augusta. It extends to Port Augusta. The existing city becomes the southern gateway of the longest purpose-built linear city on Earth.
 
-12. **We built a continent where water flows uphill:** The six words hold. Water moves from Queensland monsoon rainfall southward 2,000km through fifteen cities to Spencer Gulf. It flows downhill the entire way — and we engineered the continent so that what was previously desert is now the path.
+12. **The spine has a spinal cord:** A continuous deepwater channel runs the full 370km length of the Reservoir Spine — through fish passages at each land bridge gorge, connecting fifteen nodes into one living hydrological and ecological system. Fifteen isolated ponds become one connected organism.
+
+13. **We built a continent where water flows uphill:** The six words hold. Water moves from Queensland monsoon rainfall southward 2,000km through fifteen cities to Spencer Gulf. It flows downhill the entire way — and we engineered the continent so that what was previously desert is now the path.
 
 ---
 

@@ -3,7 +3,7 @@ title: "Dreamtime: Australian Continental Water System"
 date: 2026-03-29
 lastmod: 2026-04-15
 draft: false
-description: "A corpus of engineering, ecological, and urban design syntheses advancing the case for managed water infrastructure at continental-interior scale in Australia — from a single reservoir inside Kati Thanda to a 500km linear city reaching Port Augusta."
+description: "A corpus of engineering, ecological, and urban design syntheses advancing the case for managed water infrastructure at continental-interior scale in Australia — from a single reservoir inside Kati Thanda to a chain of fifteen nodes reaching Port Augusta, 500km to the south."
 ---
 
 ## Summary
@@ -56,6 +56,8 @@ The chain. Fifteen Rama nodes stepping south along the Gawler Craton corridor to
 **[Rama: Modular Reservoir, Modular City, Megachain]({{< ref "rama-megachain-synthesis" >}})**
 The unified vision. City arcs, forested ridges, northern mesas, eastern forests, 400m wide, car-free by geometry, 670,000 people, 150 years to build. The longest purpose-built linear city on Earth. The city and the reservoir as one thing.
 
+**[Rama: A Modular Megastructure Synthesis]({{< ref "rama-megastructure-synthesis" >}})**
+The earlier city design synthesis — single reservoir, arcuate megastructure, 400m Living Spine. Retained as a corpus artefact documenting the design evolution toward the megachain concept.
 
 **[Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}})**
 The full integrated system — Spine plus Stairway, with Rama One as the continental switching node, the Tanami ridge as a century-scale orographic possibility, and the claim that the system engineers a continent where water flows uphill.

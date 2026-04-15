@@ -27,7 +27,7 @@ Each node is a permanent freshwater reservoir built to the Rama Standard establi
 
 The spine is water infrastructure. Not a city. The city arc grows along the western shore of each node — but the spine itself is the continental water distribution backbone, connecting Queensland monsoon rainfall captured at the northern end to Spencer Gulf at the southern terminus.
 
-At full extent: approximately 15 nodes, 1,500 km² total water surface, 75 km³ total volume — equivalent to all existing Australian dams and reservoirs combined, distributed along a single 500km linear system on ancient stable geology.
+At full extent: approximately 15 nodes, 1,500 km² total water surface, 75 km³ total volume — equivalent to all existing Australian dams and reservoirs combined, distributed along a single 370km linear system on ancient stable geology.
 
 The spine is not a plan. It is a standard applied repeatedly to a corridor that exists. The survey confirms the corridor. The standard does the rest.
 
@@ -99,7 +99,7 @@ Larger western rivers are directed into whichever node they are adjacent to via 
 
 No watercourse crosses the land bridge between nodes. Every flow enters a node. The land bridges stay dry and structurally clean.
 
-The cumulative effect along 500km of Gawler Craton eastern drainage is a meaningful additional inflow contribution to the spine's water balance — unquantified until the corridor survey maps the catchment, but real and additive at every node.
+The cumulative effect along 370km of Gawler Craton eastern drainage is a meaningful additional inflow contribution to the spine's water balance — unquantified until the corridor survey maps the catchment, but real and additive at every node.
 
 The spine is not just a pipeline from north to south. It is a continental catchment system collecting water along its full length.
 
@@ -107,7 +107,7 @@ The spine is not just a pipeline from north to south. It is a continental catchm
 
 ## Novel Claim 3: The Land Bridge
 
-Each pair of adjacent nodes is separated by a 3km land bridge — solid Gawler Craton ground between two permanent water bodies.
+Each pair of adjacent nodes is separated by a 5km land bridge — solid Gawler Craton ground between two permanent water bodies.
 
 **What the land bridge is:**
 
@@ -153,7 +153,7 @@ The water system closes at the sea. The continent's circulatory system completes
 
 **Decade 1-2: Rama One**
 
-Proof of concept operational. Western Gawler Craton shore, 20×5×50m, water balance confirmed, Rama Standard established. $25B over 15 years. The corridor survey begins concurrently — topographic and geotechnical data collection along the full 500km route while Rama One is under construction.
+Proof of concept operational. Western Gawler Craton shore, 20×5×50m, water balance confirmed, Rama Standard established. $40B over 15 years. The corridor survey begins concurrently — topographic and geotechnical data collection along the full 370km route while Rama One is under construction.
 
 **Decade 2-3: Rama Two**
 
@@ -205,10 +205,11 @@ Partnership at every node. Technical collaboration throughout. Not consultation.
 
 - **Corridor LiDAR survey:** Full 400-500km topographic profile required before nodes south of Rama One can be sited. The 100m maximum elevation hypothesis requires verification. This survey begins concurrently with Rama One construction.
 - **Gravity-cascade boundary:** The elevation profile determines where gravity cascade ends and solar pumping begins. Survey dependent.
-- **Western catchment quantification:** Total volume of Gawler Craton eastern drainage interceptable along the full 500km spine length. Adds to water balance at every node.
+- **Western catchment quantification:** Total volume of Gawler Craton eastern drainage interceptable along the full 370km spine length. Adds to water balance at every node.
 - **Port Augusta industrial water demand:** Sizing the southern arm delivery capacity to match industrial customer requirements.
 - **Hydro-turbine recovery efficiency:** Detailed hydraulic modelling of the final descent corridor to Port Augusta and Spencer Gulf.
-- **Node count:** Approximately 15 nodes at 20km length plus 3km land bridges fits the 400-500km corridor. Exact count depends on confirmed corridor length and terrain features requiring node spacing adjustment.
+- **Node count:** Approximately 15 nodes at 20km length plus 5km land bridges fits the 400-500km corridor. Exact count depends on confirmed corridor length and terrain features requiring node spacing adjustment.
+- **Land bridge embankment geometry:** Each node requires a southern embankment — approximately 30m high, ~100-150m base width on competent Gawler Craton foundation — to contain the reservoir at the southern boundary. The embankment may curl westward at its western end to tie into the rising ridge terrain rather than running purely east-west. The gorge sits in the western ridge separately from the embankment. The express train, tram, and service road must pass through the land bridge zone — likely via short tunnels or concrete-lined slots through the embankment body. The precise geometry requires plan-view engineering design from corridor survey data. The corpus establishes the elements. Their geometric resolution is survey-dependent.
 
 ---
 
@@ -220,11 +221,11 @@ Partnership at every node. Technical collaboration throughout. Not consultation.
 
 3. **Gravity cascade then Stairway:** The northern nodes are gravity-fed — surplus cascades southward without pumping. The southern nodes are solar-pumped Stairway. The boundary is terrain-determined. The Rama Standard applies throughout regardless.
 
-4. **The spine intercepts the full corridor catchment:** Every watercourse draining eastward from the Gawler Craton along 500km is redirected into a node. The spine is a continental catchment system, not a pipeline.
+4. **The spine intercepts the full corridor catchment:** Every watercourse draining eastward from the Gawler Craton along 370km is redirected into a node. The spine is a continental catchment system, not a pipeline.
 
-5. **The land bridge is infrastructure and ecology:** 3km between nodes. Transit crossing, treatment plant, biological corridor. Southwest-facing gorge for drainage. Dry, stable, structurally permanent.
+5. **The land bridge is infrastructure and ecology:** 5km between nodes. Transit crossing, treatment plant, biological corridor. Southwest-facing gorge for drainage. Dry, stable, structurally permanent.
 
-6. **Port Augusta is the terminus not the destination:** The spine extends to Port Augusta. The city that was there becomes the southern gateway of a 500km linear system. The spine delivers water commercially to Port Augusta's industrial base.
+6. **Port Augusta is the terminus not the destination:** The spine extends to Port Augusta. The city that was there becomes the southern gateway of a 370km linear system. The spine delivers water commercially to Port Augusta's industrial base.
 
 7. **The spine closes at the sea:** Water from Queensland monsoon rainfall completes a 2,000km journey through fifteen nodes to Spencer Gulf. The continental water cycle closes. Hydro-turbines generate electricity on arrival.
 
