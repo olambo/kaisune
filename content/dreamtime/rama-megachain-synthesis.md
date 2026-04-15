@@ -215,7 +215,7 @@ No gorges cut mid-node. No breaks in the wind shadow within each 20km node lengt
 
 A spine has a spinal cord.
 
-The Rama Reservoir Spine has a continuous deepwater channel running its full 370km length — through the fish passage at each land bridge gorge, connecting all fifteen nodes into one living hydrological system.
+The Rama Reservoir Chain has a continuous deepwater channel running its full 370km length — through the fish passage at each land bridge gorge, connecting all fifteen nodes into one living hydrological system.
 
 **What the spinal cord carries:**
 
@@ -362,7 +362,7 @@ The module structure is the governance instrument. Each node releases only when 
 
 11. **Port Augusta is Rama Fifteen:** The chain doesn't deliver water to Port Augusta. It extends to Port Augusta. The existing city becomes the southern gateway of the longest purpose-built linear city on Earth.
 
-12. **The spine has a spinal cord:** A continuous deepwater channel runs the full 370km length of the Reservoir Spine — through fish passages at each land bridge gorge, connecting fifteen nodes into one living hydrological and ecological system. Fifteen isolated ponds become one connected organism.
+12. **The spine has a spinal cord:** A continuous deepwater channel runs the full 370km length of the Reservoir Chain — through fish passages at each land bridge gorge, connecting fifteen nodes into one living hydrological and ecological system. Fifteen isolated ponds become one connected organism.
 
 13. **We built a continent where water flows uphill:** The six words hold. Water moves from Queensland monsoon rainfall southward 2,000km through fifteen cities to Spencer Gulf. It flows downhill the entire way — and we engineered the continent so that what was previously desert is now the path.
 

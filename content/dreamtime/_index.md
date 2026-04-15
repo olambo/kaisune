@@ -12,7 +12,7 @@ We engineered a continent where water flows uphill.
 
 Australia possesses the engineering capability, the resource endowment, and the geographic conditions to transform its arid interior through managed water infrastructure. The only missing component is a governance architecture capable of authorising decisions with 50–200 year return horizons.
 
-The project has a soul and a spine. The soul is Rama Zero — a permanent freshwater reservoir inside Kati Thanda, the dead lake brought back to life, built when the geology earns it. The spine is the Rama Reservoir Spine — a chain of nodes on the Gawler Craton stepping south toward Port Augusta, built one proven node at a time. Together they are Rama: the city, the reservoirs, the megachain, the continental water system.
+The project has a soul and a spine. The soul is Rama Zero — a permanent freshwater reservoir inside Kati Thanda, the dead lake brought back to life, built when the geology earns it. The spine is the Rama Reservoir Chain — a chain of nodes on the Gawler Craton stepping south toward Port Augusta, built one proven node at a time. Together they are Rama: the city, the reservoirs, the megachain, the continental water system.
 
 ---
 
@@ -28,7 +28,7 @@ Rama Zero is the soul of the project. A permanent freshwater reservoir inside th
 
 Rama One is the pragmatic first step that makes Rama Zero possible. A 20km × 5km × 50m permanent freshwater reservoir on the western Gawler Craton shore — no dam wall, natural terrain containment, competent substrate throughout. The Rama Standard established on ground that doesn't fight back. Cost approximately $40B over 15 years. The spine begins here.
 
-**The chain — Rama Reservoir Spine**
+**The chain — Rama Reservoir Chain**
 
 The Rama Standard applied repeatedly southward along the Gawler Craton corridor from Kati Thanda to Port Augusta — approximately 15 nodes, 400-500km, 1,500 km² total water surface, 75 km³ total volume. Gravity-fed in the northern section. Solar-pumped Stairway in the southern section. Port Augusta as the terminus, not the destination — the chain extends to it.
 
@@ -48,9 +48,9 @@ The broader context in which Rama sits. The Web is the full continental water re
 The soul of the project. A permanent freshwater reservoir inside the Kati Thanda northern basin — wall anchored in Gawler Craton basement, shape and depth survey-determined. The dead lake brought back to life. Built when the geology earns it. Start here for the why.
 
 **[Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})**
-The proof of concept. A 20km × 5km × 50m reservoir on the western Gawler Craton shore — no dam wall, Rama Standard established, $40B over 15 years. The first node of the Reservoir Spine. Start here for the how.
+The proof of concept. A 20km × 5km × 50m reservoir on the western Gawler Craton shore — no dam wall, Rama Standard established, $40B over 15 years. The first node of the Reservoir Chain. Start here for the how.
 
-**[Rama Reservoir Spine: A Linear Chain Synthesis]({{< ref "rama-reservoir-spine-synthesis" >}})**
+**[Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-spine-synthesis" >}})**
 The chain. Fifteen Rama nodes stepping south along the Gawler Craton corridor to Port Augusta — 1,500 km² total water surface, 75 km³ volume, gravity cascade in the north, solar-pumped Stairway in the south. The water infrastructure backbone.
 
 **[Rama: Modular Reservoir, Modular City, Megachain]({{< ref "rama-megachain-synthesis" >}})**

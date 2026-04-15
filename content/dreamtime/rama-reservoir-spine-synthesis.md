@@ -1,5 +1,5 @@
 ---
-title: "Rama Reservoir Spine: A Linear Chain Synthesis"
+title: "Rama Reservoir Chain: A Linear Node Synthesis"
 date: 2026-04-15
 lastmod: 2026-04-15
 draft: false
@@ -14,14 +14,14 @@ tags:
   - port-augusta
   - dreamtime-stairway
   - rama
-description: "The Rama Reservoir Spine — a chain of Rama nodes stepping south along the Gawler Craton western corridor from Kati Thanda to Port Augusta. Each node a permanent freshwater reservoir. The spine is the water infrastructure backbone. The city grows along it."
+description: "The Rama Reservoir Chain — a chain of Rama nodes stepping south along the Gawler Craton western corridor from Kati Thanda to Port Augusta. Each node a permanent freshwater reservoir. The spine is the water infrastructure backbone. The city grows along it."
 ---
 
-# Rama Reservoir Spine: A Linear Chain Synthesis
+# Rama Reservoir Chain: A Linear Node Synthesis
 
 ## Summary
 
-The Rama Reservoir Spine is a chain of Rama nodes — each 20km × 5km × 50m — stepping south along the Gawler Craton western corridor from the latitude of Kati Thanda to Port Augusta and Spencer Gulf, approximately 400-500km.
+The Rama Reservoir Chain is a chain of Rama nodes — each 20km × 5km × 50m — stepping south along the Gawler Craton western corridor from the latitude of Kati Thanda to Port Augusta and Spencer Gulf, approximately 400-500km.
 
 Each node is a permanent freshwater reservoir built to the Rama Standard established at Rama One. Each is independently viable. Each is authorised on the demonstrated evidence of the prior node. The spine assembles over 150 years, one proven node at a time.
 
@@ -131,7 +131,7 @@ No watercourse crosses the land bridge. All western catchment is redirected into
 
 ## Novel Claim 4: Port Augusta as the Southern Terminus
 
-The spine does not deliver water to Port Augusta. It extends to Port Augusta. The existing city becomes the southern gateway of the Reservoir Spine — connected to permanent freshwater infrastructure and the continental water distribution system.
+The Rama Reservoir Chain does not deliver water to Port Augusta. It extends to Port Augusta. The existing city becomes the southern gateway of the chain — connected to permanent freshwater infrastructure and the continental water distribution system.
 
 Port Augusta sits at the head of Spencer Gulf at approximately 32.5°S. Rama One sits at approximately 28°S on the Gawler Craton western shore. Straight line distance: approximately 400-500km. The spine threads this distance in 15 nodes over 150 years.
 
@@ -177,7 +177,7 @@ At no stage is the next node authorised without evidence from the prior node.
 
 ## The Spine Is Not the City
 
-The Reservoir Spine is water infrastructure. The city arc that grows along its western shore is a separate design — documented separately, governed separately, funded separately.
+The Rama Reservoir Chain is water infrastructure. The city arc that grows along its western shore is a separate design — documented separately, governed separately, funded separately.
 
 The spine exists without the city. It is viable as pure water infrastructure — aquaculture, agriculture, ecological restoration, Port Augusta industrial supply — before a single city resident arrives.
 
@@ -191,7 +191,7 @@ The spine is the prerequisite. The city is the consequence.
 
 ## Indigenous Partnership at Spine Scale
 
-The Reservoir Spine passes through country held by multiple Aboriginal nations along its 400-500km extent. From the Arabana people at Kati Thanda in the north to the Adnyamathanha people of the Flinders Ranges corridor in the south.
+The Rama Reservoir Chain passes through country held by multiple Aboriginal nations along its 400-500km extent. From the Arabana people at Kati Thanda in the north to the Adnyamathanha people of the Flinders Ranges corridor in the south.
 
 Each nation's ecological knowledge of their specific country is load-bearing technical data for the design of the node in their territory. The correct siting, depth, inlet and outlet geometry, and catchment management for each node cannot be optimised without knowledge of how water has historically behaved in that country. This knowledge exists in living culture along the full spine extent and nowhere else.
 
@@ -250,7 +250,7 @@ Partnership at every node. Technical collaboration throughout. Not consultation.
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. The Reservoir Spine concept emerged from topographic map analysis on 15 April 2026 — the recognition that the Gawler Craton western corridor threads south to Port Augusta below 100m AHD, bypassing the Flinders Ranges entirely, making a chain of Rama nodes along this corridor both physically viable and commercially compelling. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. The Rama Reservoir Chain concept emerged from topographic map analysis on 15 April 2026 — the recognition that the Gawler Craton western corridor threads south to Port Augusta below 100m AHD, bypassing the Flinders Ranges entirely, making a chain of Rama nodes along this corridor both physically viable and commercially compelling. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — the proof of concept node.*
 *See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}}) — the full continental system.*

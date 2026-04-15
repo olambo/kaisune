@@ -287,7 +287,7 @@ The institutional fund holds all development rights, manages the city module rel
 
 ## Open Questions
 
-- **Full corridor survey — prerequisite for siting:** The survey scope is continental, not local. The optimal substrate corridor for the full Reservoir Spine from Kati Thanda latitude to Port Augusta must be identified before Rama One is sited. The nodes must connect — Rama One is sited at the northern end of the optimal connected corridor, not at the best isolated location. LiDAR topography, geotechnical transects, and groundwater mapping along the full 400-500km route run concurrently with Rama One authorisation.
+- **Full corridor survey — prerequisite for siting:** The survey scope is continental, not local. The optimal substrate corridor for the full Reservoir Chain from Kati Thanda latitude to Port Augusta must be identified before Rama One is sited. The nodes must connect — Rama One is sited at the northern end of the optimal connected corridor, not at the best isolated location. LiDAR topography, geotechnical transects, and groundwater mapping along the full 400-500km route run concurrently with Rama One authorisation.
 
 - **Western shore LiDAR survey:** Precise elevation profile and natural containment geometry at -6m, -4m, -2m, and 0m AHD management levels required before final siting and depth commitment.
 - **Gawler Craton substrate at depth:** Geotechnical transects confirming substrate quality through the full excavation depth profile.
