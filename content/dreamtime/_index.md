@@ -12,17 +12,13 @@ We engineered a continent where water flows uphill.
 
 Australia possesses the engineering capability, the resource endowment, and the geographic conditions to transform its arid interior through managed water infrastructure. The only missing component is a governance architecture capable of authorising decisions with 50–200 year return horizons.
 
-The project has a soul and a backbone. The soul is Thanda One — a permanent freshwater reservoir inside Kati Thanda, the dead lake brought back to life, built when the geology earns it. The backbone is the Rama Reservoir Chain — a chain of nodes on the Gawler Craton stepping south toward Port Augusta, built one proven node at a time. Together they are Rama: the city, the reservoirs, the megachain, the continental water system.
+The project has a soul and a backbone. The backbone is the Rama Reservoir Chain — 16 nodes stepping 400km south along the Gawler Craton, one proven node at a time. The city is the Rama Megachain — growing along every kilometre of the backbone. And beyond Rama, if the geology earns it, is Thanda One — a permanent freshwater reservoir inside Kati Thanda itself, the dead lake brought back to life.
 
 ---
 
 ## Reading Order
 
 The documents form a system. Read in this order:
-
-**The aspiration — [Thanda One]({{< ref "thanda-one-synthesis" >}})**
-
-The soul of the project. A permanent freshwater reservoir inside the northwestern corner of Kati Thanda — the dead lake brought back to life. Wall anchored in Gawler Craton Precambrian basement. Shape, depth, and size all survey-determined — no fixed geometry imposed on unmapped ground. Built if and when the geology earns it. The story that makes people feel something.
 
 **The proof of concept — [Rama One]({{< ref "rama-one-linear-reservoir-synthesis" >}})**
 
@@ -35,6 +31,10 @@ The Rama Standard applied repeatedly southward along the Gawler Craton corridor 
 **The city — [Rama Megachain]({{< ref "rama-megachain-synthesis" >}})**
 
 The unified organism that emerges as the backbone assembles. City arcs 400m wide on the western shore of each node. Forested ridges. Northern mesas. Eastern forests facing Kati Thanda. 670,000 people at full extent. The longest purpose-built linear city on Earth, built one proven node at a time over 150 years.
+
+**The aspiration — [Thanda One]({{< ref "thanda-one-synthesis" >}})**
+
+The soul of the project. A permanent freshwater reservoir inside the northwestern corner of Kati Thanda — the dead lake brought back to life. Wall anchored in Gawler Craton Precambrian basement. Shape, depth, and size all survey-determined — no fixed geometry imposed on unmapped ground. Built if and when the geology earns it. The story that makes people feel something.
 
 **The continental system — [Dreamtime Web]({{< ref "dreamtime-web" >}})**
 

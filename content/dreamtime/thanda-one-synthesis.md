@@ -156,9 +156,9 @@ The chain continues south from Rama One. Thanda One is deferred — not abandone
 
 **The naming logic:**
 
-Thanda One is named for the lake — Thanda is lake in the Arabana language. It is the founding aspiration, the thing the project was always reaching toward. Rama One is the pragmatic first step. Rama One through Sixteen are the chain. Thanda One is the heart.
+Thanda One is named for the lake — from Kati Thanda, the Arabana name for the lake. It is the founding aspiration, the thing the project was always reaching toward. Rama One is the pragmatic first step. Rama One through Sixteen are the chain. Thanda One is the heart.
 
-If Thanda One is built before Rama Two, it is built as a separate project on its own terms, not as a chain node. Thanda One is named Thanda — lake in the Arabana language — because it is the founding aspiration, not because it is first in the build sequence.
+If Thanda One is built before Rama Two, it is built as a separate project on its own terms, not as a chain node. Thanda One takes its name from Kati Thanda — the Arabana name for the lake — because it is the founding aspiration, not because it is first in the build sequence.
 
 ---
 
@@ -202,7 +202,7 @@ Thanda One is defined by its open questions. The survey answers them. Until the 
 
 4. **Progressive deepening inside the basin:** Commission at whatever depth the survey-determined wall foundation safely supports. Prove the wall at manageable head. Deepen on demonstrated performance.
 
-5. **Thanda One is named Thanda — lake in the Arabana language — because it is the founding aspiration:** Built after Rama One in construction sequence. Built before Rama One in the imagination. The number reflects conception, not build order.
+5. **Thanda One takes its name from Kati Thanda:** Built after Rama One in construction sequence. Built before Rama One in the imagination. The name reflects the lake it sits inside. The number reflects conception, not build order.
 
 6. **Deferred is not abandoned:** If the survey reveals unworkable foundation conditions, Thanda One is deferred — not cancelled. Engineering capability advances. The dream is held in the corpus until it can be earned.
 
