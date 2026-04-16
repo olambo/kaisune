@@ -76,7 +76,7 @@ The founding population arrives by choice. But the long-term function of Rama â€
 
 ---
 
-## 5. Kati Thanda Is Being Transformed Whether Rama Zero Is Built or Not
+## 5. Kati Thanda Is Being Transformed Whether Thanda One Is Built or Not
 
 The public documents are careful to say that Kati Thanda is unmodified by Rama One â€” the natural salt lake continues its own cycle.
 

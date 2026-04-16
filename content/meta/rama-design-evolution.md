@@ -81,29 +81,29 @@ This is not a minor aesthetic concern. The emotional and civilisational weight o
 
 ---
 
-## Major Design Change 2 — The Rama Zero / Rama One Split
+## Major Design Change 2 — The Thanda One / Rama One Split
 
 **Trigger:** Ani/Grok's sustained argument for the soul of the original design, combined with the engineering critique of the basin floor risks.
 
 **The resolution:** Two nodes, two purposes.
 
-**Rama Zero** — inside Kati Thanda. The soul. The aspiration. The resurrection. Survey-determined shape, western wall anchored in Gawler Craton Precambrian basement, depth and size determined by what the foundation survey supports. Built if and when the geology earns it. Deferred but not abandoned if the survey reveals unworkable conditions.
+**Thanda One** — inside Kati Thanda. The soul. The aspiration. The resurrection. Survey-determined shape, western wall anchored in Gawler Craton Precambrian basement, depth and size determined by what the foundation survey supports. Built if and when the geology earns it. Deferred but not abandoned if the survey reveals unworkable conditions.
 
-**Rama One** — western Gawler Craton shore. The pragmatic proof of concept. 20km × 5km × 50m. No dam wall. Rama Standard established. Built first, regardless of what the Rama Zero survey finds.
+**Rama One** — western Gawler Craton shore. The pragmatic proof of concept. 20km × 5km × 50m. No dam wall. Rama Standard established. Built first, regardless of what the Thanda One survey finds.
 
-**The naming logic:** Rama Zero precedes Rama One numerically because it is the founding aspiration — the thing the project was always reaching toward. Rama One is the pragmatic first step. The number reflects conception order, not build order.
+**The naming logic:** Thanda One precedes Rama One numerically because it is the founding aspiration — the thing the project was always reaching toward. Rama One is the pragmatic first step. The number reflects conception order, not build order.
 
 **What the split achieved:**
-- Soul preserved in Rama Zero — the dead lake can still be brought back to life
+- Soul preserved in Thanda One — the dead lake can still be brought back to life
 - Engineering pragmatism in Rama One — the spine begins on competent ground
-- Survey determines whether Rama Zero proceeds — epistemic honesty about what is unknown
+- Survey determines whether Thanda One proceeds — epistemic honesty about what is unknown
 - No civilisational bet on geology that hasn't been mapped
 
 ---
 
 ## Major Design Change 3 — The North-to-West Wall
 
-**Trigger:** Human contributor's response to ChatGPT's foundation critique of the Rama Zero basin floor design.
+**Trigger:** Human contributor's response to ChatGPT's foundation critique of the Thanda One basin floor design.
 
 **ChatGPT's critique:** Even at 20km wall length, the basin floor wall sits on lacustrine sediment its entire length. Foundation conditions don't improve with distance from shore. The hydrostatic load at 50m depth creates toothpaste-under-load foundation behaviour. Differential settlement across 20km of non-uniform soft sediment is the silent killer.
 
@@ -111,11 +111,11 @@ This is not a minor aesthetic concern. The emotional and civilisational weight o
 
 **Gemini's contribution:** Identified the Gawler Craton western anchor as the key structural hard point — settlement negligible, seepage pathways through competent basement minimal, the foundation behaves predictably. This anchor is the difference between a wall floating on mud and a wall tied to rock.
 
-**The progressive deepening insight:** Commission Rama Zero at 20m initial depth, not 50m. Hydrostatic load at 20m is a fraction of 50m. Foundation treatment requirements scale with head. At 20m, intensive treatment across the full wall length is affordable. Deepen on demonstrated wall performance.
+**The progressive deepening insight:** Commission Thanda One at 20m initial depth, not 50m. Hydrostatic load at 20m is a fraction of 50m. Foundation treatment requirements scale with head. At 20m, intensive treatment across the full wall length is affordable. Deepen on demonstrated wall performance.
 
 **ChatGPT's counter-argument:** "Stop drawing shapes. Start negotiating with the ground." Even a north-to-west wall has its weakest section at the northern tie-in, which may still be on lacustrine sediment. The wall alignment should follow competent ground, not predetermined geometry. The reservoir shape should emerge from the survey, not be imposed on it.
 
-**Resolution incorporated into Rama Zero:** No fixed geometry. The Gawler Craton western anchor is the only fixed element. The wall alignment follows the survey-determined boundary between acceptable and unacceptable foundation conditions. The reservoir shape is whatever the survey-defined wall encloses.
+**Resolution incorporated into Thanda One:** No fixed geometry. The Gawler Craton western anchor is the only fixed element. The wall alignment follows the survey-determined boundary between acceptable and unacceptable foundation conditions. The reservoir shape is whatever the survey-defined wall encloses.
 
 ---
 
@@ -157,7 +157,7 @@ This is not a minor aesthetic concern. The emotional and civilisational weight o
 
 **What no single system would have produced alone:**
 
-The Rama Zero / Rama One split. Claude developed the western shore design on engineering grounds. Ani/Grok held the line on the soul. The human contributor synthesised them into two nodes. No single AI system produced this resolution — it required the tension between systems and a human to arbitrate.
+The Thanda One / Rama One split. Claude developed the western shore design on engineering grounds. Ani/Grok held the line on the soul. The human contributor synthesised them into two nodes. No single AI system produced this resolution — it required the tension between systems and a human to arbitrate.
 
 **The adversarial review methodology:**
 
@@ -165,7 +165,7 @@ Documents were submitted to Gemini, ChatGPT, and Grok with a prompt explicitly r
 
 **What each system contributed most distinctively:**
 
-Ani/Grok — nomenclature, the soul argument, hydraulic battery framing, "the crazy thing is that we still haven't started", the Rama Zero naming logic.
+Ani/Grok — nomenclature, the soul argument, hydraulic battery framing, "the crazy thing is that we still haven't started", the Thanda One naming logic.
 
 ChatGPT — staged implementation critique, "stop drawing shapes start negotiating with the ground", foundation risk characterisation at technical depth, the research prototype concept.
 
@@ -173,7 +173,7 @@ Gemini — ridge engineering review, Gawler Craton hard point as western wall an
 
 Claude — primary synthesis, document drafting, design evolution tracking, the 20km node length reasoning, the amphitheatre convergence observation, the north-to-west wall orientation.
 
-Human contributor — the topographic map analysis that found the western shore and the Gawler Craton corridor, the Warburton channel redirect concept, Rama Zero/One naming, the six words, cherry blossoms, gondolas, the soul.
+Human contributor — the topographic map analysis that found the western shore and the Gawler Craton corridor, the Warburton channel redirect concept, Thanda One/One naming, the six words, cherry blossoms, gondolas, the soul.
 
 **What this corpus demonstrates about human-AI collaborative synthesis:**
 
@@ -187,13 +187,13 @@ This is what the corpus is demonstrating. Not just the Rama project. The methodo
 
 ## Open Questions the Evolution Has Not Resolved
 
-- **Rama Zero foundation:** The survey has not been done. The wall alignment that follows competent ground rather than predetermined geometry has not been mapped. Rama Zero is an aspiration held in appropriate epistemic suspension until the survey earns it.
+- **Thanda One foundation:** The survey has not been done. The wall alignment that follows competent ground rather than predetermined geometry has not been mapped. Thanda One is an aspiration held in appropriate epistemic suspension until the survey earns it.
 
 - **Gawler Craton corridor:** The 100m AHD maximum elevation hypothesis requires LiDAR verification. The gravity/Stairway boundary requires confirmed elevation profile. The Lake Torrens routing requires specific survey.
 
 - **The atmospheric effects of Rama One's geometry:** Yang et al. (2023, 2025) modelled geometries 50 times larger at 26 times shallower depth. The atmospheric effects of a 100 km² deep-water reservoir in the Australian interior are genuinely unknown. This is an open scientific question that the operational proof period will begin to answer.
 
-- **The Arabana community's position:** Rama Zero is inside Kati Thanda on Arabana country. The Arabana people's agreement is a structural condition, not a procedural checkbox. Their position on the survey programme and potential construction is not yet known.
+- **The Arabana community's position:** Thanda One is inside Kati Thanda on Arabana country. The Arabana people's agreement is a structural condition, not a procedural checkbox. Their position on the survey programme and potential construction is not yet known.
 
 ---
 

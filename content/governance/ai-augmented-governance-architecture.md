@@ -210,7 +210,7 @@ Any civilisational-scale infrastructure project — continental water management
 
 The governance reform is therefore not an adjunct to civilisational-scale projects. It is the prerequisite without which no such project can proceed regardless of its merit.
 
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}})*
+*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "thanda-one-synthesis" >}})*
 *See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
 
 ---

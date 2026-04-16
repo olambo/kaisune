@@ -180,7 +180,7 @@ The Web's assembly sequence — each stage conditional on demonstrated performan
 
 **On naming:**
 
-Rama is the name for the Gawler Craton chain — Rama Zero through Rama Twenty at the outside — proposed subject to Arabana agreement. It is a proper noun, not a template. A reservoir chain built on Nyikina and Mangala country in the Kimberley is not Rama 21. It is a different project, on different country, built by different custodians, with its own name negotiated with the peoples whose country it crosses. The numbering resets. The name is chosen by the custodians. The Web connects the chains. It does not name them.
+Rama is the name for the Gawler Craton chain — Thanda One through Rama Twenty at the outside — proposed subject to Arabana agreement. It is a proper noun, not a template. A reservoir chain built on Nyikina and Mangala country in the Kimberley is not Rama 21. It is a different project, on different country, built by different custodians, with its own name negotiated with the peoples whose country it crosses. The numbering resets. The name is chosen by the custodians. The Web connects the chains. It does not name them.
 
 ---
 
@@ -217,7 +217,7 @@ Rama One demonstrates whether the governance architecture can be built within a 
 
 - Dreamtime Spine: see Dreamtime Spine: A Continental Restoration Synthesis
 - Dreamtime Stairway: see Dreamtime Stairway: A Solar-Powered Continental Water Synthesis
-- Rama One: see [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}})
+- Rama One: see [Rama One: A Managed Reservoir Synthesis]({{< ref "thanda-one-synthesis" >}})
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama Reservoir (1,500 km², 66.5m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Murray-Darling Basin water stress: Murray-Darling Basin Authority assessments
 - Norwegian sovereign wealth fund governance model: Government Pension Fund Global documentation
@@ -229,4 +229,4 @@ Rama One demonstrates whether the governance architecture can be built within a 
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
 *See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}})*
+*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "thanda-one-synthesis" >}})*

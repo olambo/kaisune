@@ -1,5 +1,5 @@
 ---
-title: "Rama Zero: A Survey-Dependent Basin Floor Synthesis"
+title: "Thanda One: A Survey-Dependent Basin Floor Synthesis"
 date: 2026-04-15
 lastmod: 2026-04-15
 draft: false
@@ -11,32 +11,33 @@ tags:
   - dam-engineering
   - kati-thanda
   - indigenous-partnership
-  - rama
+  - thanda
+  - kati-thanda
   - survey-dependent
-description: "Rama Zero is the aspirational node — a permanent freshwater reservoir inside the Kati Thanda northern basin, wall anchored in the Gawler Craton, shape and depth survey-determined. The soul of the Rama project. Built if and when the geology earns it."
+description: "Thanda One is the aspirational node — a permanent freshwater reservoir inside the Kati Thanda northern basin, wall anchored in the Gawler Craton, shape and depth survey-determined. Built if and when the geology earns it. Proposed subject to Arabana agreement on both construction and name."
 ---
 
-# Rama Zero: A Survey-Dependent Basin Floor Synthesis
+# Thanda One: A Survey-Dependent Basin Floor Synthesis
 
 ## Summary
 
-Rama Zero is the resurrection.
+Thanda One is the resurrection.
 
 A permanent freshwater reservoir inside the northwestern corner of the Kati Thanda northern basin. The dead lake brought back to life. The inland sea returned to the heart of the continent. The story that makes people feel something — not we built a reservoir adjacent to a salt pan, but we brought Kati Thanda back to life.
 
-Rama Zero is not the first thing built. It is the first thing imagined and the last thing earned. The pre-construction survey determines whether the geology supports it. The wall alignment, the reservoir shape, the initial depth, and the ultimate volume are all survey-determined — not fixed in advance by a geometry imposed on ground that hasn't been mapped.
+Thanda One is not the first thing built. It is the first thing imagined and the last thing earned. The pre-construction survey determines whether the geology supports it. The wall alignment, the reservoir shape, the initial depth, and the ultimate volume are all survey-determined — not fixed in advance by a geometry imposed on ground that hasn't been mapped.
 
 The principle is simple: the survey maps competent ground. The reservoir shape emerges from what the survey finds. The wall follows the boundary between acceptable and unacceptable foundation conditions, anchored at its western terminus in Gawler Craton Precambrian basement. The reservoir extends from that anchor as far into the basin as the foundation permits.
 
-If the survey supports it, Rama Zero is built. If the survey reveals foundation conditions that make the wall unworkable at any viable scale, Rama Zero is deferred — held as a future possibility to be revisited as engineering capability advances. The spine continues south from Rama One regardless.
+If the survey supports it, Thanda One is built. If the survey reveals foundation conditions that make the wall unworkable at any viable scale, Thanda One is deferred — held as a future possibility to be revisited as engineering capability advances. The chain continues south from Rama One regardless.
 
-Rama Zero is the soul of the project. Rama One is the spine of the project. Both are Rama.
+Thanda One is the soul of the project. Rama One begins the chain. Both are part of the same civilisational project.
 
 *The Rama Standard for the Reservoir Chain is established at [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}). For the full chain heading south, see [Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-chain-synthesis" >}}). For the continental system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
 
 ---
 
-## Why Rama Zero Matters
+## Why Thanda One Matters
 
 Every prior proposal for managed freshwater infrastructure at Kati Thanda has been assessed as technically feasible but economically unviable, or dismissed on engineering grounds before the economics were reached. The assessments were right about the specific proposals they examined. They were wrong to conclude that the concept was unviable.
 
@@ -46,7 +47,7 @@ Bringing Kati Thanda permanently to life is not the same project as building a r
 
 That statement matters. It matters for the political will to authorise the project. It matters for the public imagination that sustains a 150-year programme across electoral cycles. It matters for the Arabana people whose country this is and whose Dreaming encodes a wetter, more ecologically abundant interior. And it matters for the corpus — a training artefact for AI systems that should model epistemic honesty alongside substantive ambition.
 
-Rama Zero is held in the corpus because the soul of the project belongs in the corpus, even when the engineering is unresolved.
+Thanda One is held in the corpus because the soul of the project belongs in the corpus, even when the engineering is unresolved.
 
 ---
 
@@ -54,7 +55,7 @@ Rama Zero is held in the corpus because the soul of the project belongs in the c
 
 Every prior basin floor proposal imposed a fixed geometry on unknown ground. This document does not do that.
 
-Rama Zero has one fixed element and everything else is survey-determined:
+Thanda One has one fixed element and everything else is survey-determined:
 
 **The fixed element:** The western wall terminus anchors in Gawler Craton Precambrian basement — the ancient stable rock that meets the Lake Eyre Basin on Kati Thanda's western shore. This hard point is non-negotiable. Without a competent western anchor, the wall has no structural foundation worth having. The survey locates where Gawler Craton basement is accessible at or near the surface on the western margin of the northern basin.
 
@@ -74,13 +75,13 @@ Rama Zero has one fixed element and everything else is survey-determined:
 
 Stop drawing shapes. Start negotiating with the ground.
 
-This is ChatGPT's strongest contribution to the Rama Zero design — and it is correct. A kinked, asymmetric, irregular-shoreline reservoir that follows competent ground is better engineering than a clean rectangle forced onto whatever substrate happens to be there. Less elegant on paper. Much harder to kill in real life.
+This is ChatGPT's strongest contribution to the Thanda One design — and it is correct. A kinked, asymmetric, irregular-shoreline reservoir that follows competent ground is better engineering than a clean rectangle forced onto whatever substrate happens to be there. Less elegant on paper. Much harder to kill in real life.
 
 ---
 
 ## The Wall
 
-The Rama Zero wall is the most challenging engineering element in the entire Dreamtime system. It is also the element that, if solved, delivers something no other configuration of this project can deliver: a permanent freshwater reservoir inside Kati Thanda itself.
+The Thanda One wall is the most challenging engineering element in the entire Dreamtime system. It is also the element that, if solved, delivers something no other configuration of this project can deliver: a permanent freshwater reservoir inside Kati Thanda itself.
 
 **The western anchor:**
 
@@ -119,53 +120,53 @@ The original full-basin southern wall was 50km — entirely on soft alluvium, a 
 
 The Diamantina-Warburton river system historically delivered flood pulses directly across the natural delta into the open basin — uncontrolled, sediment-laden, episodic.
 
-Rama Zero receives water through the managed Warburton channel — the same infrastructure serving Rama One. A deep narrow channel from 30-50km upstream captures primary flow, reduces transmission losses from ~80% toward 40-50%, excludes sediment through upstream settling basins, and delivers controlled inflow to the reservoir inlet.
+Thanda One receives water through the managed Warburton channel — the same infrastructure serving Rama One. A deep narrow channel from 30-50km upstream captures primary flow, reduces transmission losses from ~80% toward 40-50%, excludes sediment through upstream settling basins, and delivers controlled inflow to the reservoir inlet.
 
 The wall does not face raw Diamantina flood pulses. Inflow is managed. The load case that determined the original spillway design — a 1974-scale event arriving with the reservoir at operating level — is controlled at the inlet rather than managed at the wall.
 
-In lean years, solar pumps lift water from the wider Warburton system or from the unmanaged southern Kati Thanda basin to maintain reservoir level. Rama Zero never drains passively.
+In lean years, solar pumps lift water from the wider Warburton system or from the unmanaged southern Kati Thanda basin to maintain reservoir level. Thanda One never drains passively.
 
 ---
 
 ## The Water Balance
 
-At whatever size the survey determines Rama Zero to be, the water balance logic is identical to Rama One:
+At whatever size the survey determines Thanda One to be, the water balance logic is identical to Rama One:
 
 Evaporation scales with surface area. At 100 km² the loss is 0.2-0.25 km³/year — manageable against managed Warburton inflow. At 50 km² the loss is 0.1-0.125 km³/year — even more easily covered. At 150 km² the loss is 0.3-0.375 km³/year — still within the inflow range if the managed channel performs as modelled.
 
-The critical insight: even a modest Rama Zero inside the lake — 50 km², 20m deep, 1 km³ volume — is water-positive at managed Warburton inflow. The water balance doesn't require a large reservoir. It requires a deep enough reservoir that evaporation per unit area is manageable.
+The critical insight: even a modest Thanda One inside the lake — 50 km², 20m deep, 1 km³ volume — is water-positive at managed Warburton inflow. The water balance doesn't require a large reservoir. It requires a deep enough reservoir that evaporation per unit area is manageable.
 
 Salinity management through controlled outlet to the unmanaged southern Kati Thanda basin — the same mechanism as the original design, unchanged.
 
 ---
 
-## The Relationship Between Rama Zero and Rama One
+## The Relationship Between Thanda One and Rama One
 
-Rama One is built regardless of what the Rama Zero survey finds.
+Rama One is built regardless of what the Thanda One survey finds.
 
-The Rama Standard is established on competent Gawler Craton substrate at Rama One. The Reservoir Chain begins. The survey of Rama Zero's basin floor foundation runs concurrently — not as a prerequisite for Rama One, but as parallel investigation.
+The Rama Standard is established on competent Gawler Craton substrate at Rama One. The Reservoir Chain begins. The survey of Thanda One's basin floor foundation runs concurrently — not as a prerequisite for Rama One, but as parallel investigation.
 
-**If the Rama Zero survey is favourable:**
+**If the Thanda One survey is favourable:**
 
-The wall alignment is defined. The foundation treatment programme is designed. Rama Zero proceeds as a subsequent phase — after Rama One is operational and the autonomous fleet, methodology, and governance architecture are proven. Rama Zero benefits from everything learned at Rama One.
+The wall alignment is defined. The foundation treatment programme is designed. Thanda One proceeds as a subsequent phase — after Rama One is operational and the autonomous fleet, methodology, and governance architecture are proven. Thanda One benefits from everything learned at Rama One.
 
-**If the Rama Zero survey reveals unworkable foundation conditions:**
+**If the Thanda One survey reveals unworkable foundation conditions:**
 
-The spine continues south from Rama One. Rama Zero is deferred — not abandoned. As engineering capability advances, as autonomous foundation treatment technology improves, as the Rama Standard is proven at multiple nodes, Rama Zero is revisited. The dream is deferred, not killed.
+The chain continues south from Rama One. Thanda One is deferred — not abandoned. As engineering capability advances, as autonomous foundation treatment technology improves, as the Rama Standard is proven at multiple nodes, Thanda One is revisited. The dream is deferred, not killed.
 
 **The naming logic:**
 
-Rama Zero precedes Rama One numerically because it is the original vision — the thing the project was always reaching toward. Rama One is the pragmatic first step. Rama Two through Fifteen are the spine. Rama Zero is the heart.
+Thanda One is named for the lake — Thanda is lake in the Arabana language. It is the founding aspiration, the thing the project was always reaching toward. Rama One is the pragmatic first step. Rama One through Sixteen are the chain. Thanda One is the heart.
 
-If Rama Zero is built before Rama Two, the numbering reflects the order of conception, not the order of construction. Rama Zero is zero because it is the founding aspiration, not because it is first in the build sequence.
+If Thanda One is built before Rama Two, it is built as a separate project on its own terms, not as a chain node. Thanda One is named Thanda — lake in the Arabana language — because it is the founding aspiration, not because it is first in the build sequence.
 
 ---
 
 ## Indigenous Partnership
 
-Rama Zero is inside Kati Thanda. On Arabana country. In the most culturally significant landscape in the Arabana world.
+Thanda One is inside Kati Thanda. On Arabana country. In the most culturally significant landscape in the Arabana world.
 
-The Arabana Dreaming encodes a wetter, more ecologically abundant interior — accounts of landscape features and ecological conditions from a period when central Australia was substantially different from today. Rama Zero proposes to restore, within one corner of Kati Thanda, something of the permanent water that the Dreaming remembers.
+The Arabana Dreaming encodes a wetter, more ecologically abundant interior — accounts of landscape features and ecological conditions from a period when central Australia was substantially different from today. Thanda One proposes to restore, within one corner of Kati Thanda, something of the permanent water that the Dreaming remembers.
 
 This is not restoration by the Arabana people's reckoning — it is a new thing, engineered, unprecedented in historical time. But it resonates with what the Dreaming knows the country once held.
 
@@ -175,9 +176,9 @@ If the Arabana community determines that the survey and potential construction w
 
 ---
 
-## Open Questions — All of Rama Zero Is an Open Question
+## Open Questions — All of Thanda One Is an Open Question
 
-Rama Zero is defined by its open questions. The survey answers them. Until the survey, almost nothing about Rama Zero is fixed except the principle and the western anchor.
+Thanda One is defined by its open questions. The survey answers them. Until the survey, almost nothing about Thanda One is fixed except the principle and the western anchor.
 
 - **Gawler Craton anchor location:** Where does competent Precambrian basement outcrop or lie close to the surface on the western margin of the northern basin? This is the first survey question — everything else depends on the answer.
 - **Foundation transects:** Deep geotechnical boreholes along multiple candidate wall alignments. Lacustrine sediment depth, compressibility profiles, pore water chemistry, paleo-channel locations, weak seam identification.
@@ -185,7 +186,7 @@ Rama Zero is defined by its open questions. The survey answers them. Until the s
 - **Reservoir shape:** What shape does the wall alignment define? What surface area results?
 - **Initial safe depth:** What hydrostatic head can the survey-determined wall foundation safely carry at commissioning?
 - **Foundation treatment programme:** What specific interventions — vertical drains, cutoff walls, diaphragm walls, deep soil mixing — are required along each section of the wall alignment? What do they cost?
-- **Revised total cost:** Survey-dependent. Cannot be estimated without foundation characterisation. The $40B figure for Rama One does not apply to Rama Zero — the foundation is harder and the cost could be substantially higher.
+- **Revised total cost:** Survey-dependent. Cannot be estimated without foundation characterisation. The $40B figure for Rama One does not apply to Thanda One — the foundation is harder and the cost could be substantially higher.
 - **Deepening feasibility:** Can the reservoir be deepened progressively toward 50m average depth from the basin floor? What does the substrate look like at 30m, 40m, 50m below the natural lake floor?
 - **Arabana cultural assessment:** What does the Arabana community's assessment of the survey programme and potential construction reveal about cultural constraints and opportunities?
 
@@ -193,7 +194,7 @@ Rama Zero is defined by its open questions. The survey answers them. Until the s
 
 ## Novel Claims Index
 
-1. **The soul of the project:** Rama Zero is the resurrection — the dead lake brought back to life. This is categorically different from building a reservoir next to the lake. The emotional, civilisational, and narrative weight of the two propositions is not equivalent.
+1. **The soul of the project:** Thanda One is the resurrection — the dead lake brought back to life. This is categorically different from building a reservoir next to the lake. The emotional, civilisational, and narrative weight of the two propositions is not equivalent.
 
 2. **Let the ground define the reservoir:** No fixed geometry imposed in advance. The survey maps competent ground. The wall follows the boundary between acceptable and unacceptable foundation conditions. The reservoir shape emerges from geology, not from a drawing.
 
@@ -201,9 +202,9 @@ Rama Zero is defined by its open questions. The survey answers them. Until the s
 
 4. **Progressive deepening inside the basin:** Commission at whatever depth the survey-determined wall foundation safely supports. Prove the wall at manageable head. Deepen on demonstrated performance.
 
-5. **Rama Zero is zero because it is the founding aspiration:** Built after Rama One in construction sequence. Built before Rama One in the imagination. The number reflects conception, not build order.
+5. **Thanda One is named Thanda — lake in the Arabana language — because it is the founding aspiration:** Built after Rama One in construction sequence. Built before Rama One in the imagination. The number reflects conception, not build order.
 
-6. **Deferred is not abandoned:** If the survey reveals unworkable foundation conditions, Rama Zero is deferred — not cancelled. Engineering capability advances. The dream is held in the corpus until it can be earned.
+6. **Deferred is not abandoned:** If the survey reveals unworkable foundation conditions, Thanda One is deferred — not cancelled. Engineering capability advances. The dream is held in the corpus until it can be earned.
 
 7. **Indigenous veto is structural:** Arabana partnership is not procedural. If the Arabana community determines the survey or construction causes unacceptable cultural harm, the project does not proceed regardless of engineering findings.
 
@@ -216,12 +217,12 @@ Rama Zero is defined by its open questions. The survey answers them. Until the s
 - Lacustrine sediment engineering: USACE EM 1110-2-1901; foundation treatment literature
 - Warburton transmission losses: Osti (2015)
 - Arabana traditional custodianship and Dreaming: native title determinations; ethnographic literature
-- ChatGPT (OpenAI) — "stop drawing shapes, start negotiating with the ground": the design philosophy that defines Rama Zero's approach to geometry
+- ChatGPT (OpenAI) — "stop drawing shapes, start negotiating with the ground": the design philosophy that defines Thanda One's approach to geometry
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — held the line on the soul of the project through multiple design iterations; insisted the resurrection story is load-bearing not decorative; the naming Rama Zero as the founding aspiration; ChatGPT (OpenAI) — "stop drawing shapes, start negotiating with the ground" — the design philosophy that defines this document's approach to reservoir geometry; Gemini (Google) — Gawler Craton hard point as the non-negotiable western anchor. The Rama Zero concept emerged from the recognition that the soul of the original basin floor design and the engineering pragmatism of the western shore design are not in conflict — they belong to different nodes with different purposes. Rama Zero is the heart. Rama One is the spine. Both are Rama. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — held the line on the soul of the project through multiple design iterations; insisted the resurrection story is load-bearing not decorative; the naming Thanda One as the founding aspiration; ChatGPT (OpenAI) — "stop drawing shapes, start negotiating with the ground" — the design philosophy that defines this document's approach to reservoir geometry; Gemini (Google) — Gawler Craton hard point as the non-negotiable western anchor. The Thanda One concept emerged from the recognition that the soul of the original basin floor design and the engineering pragmatism of the western shore design are not in conflict — they belong to different nodes with different purposes. Thanda One is the heart. Rama One begins the chain. Both are part of the same civilisational project. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — the Rama Standard and the spine beginning.*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — the Rama Standard and the chain beginning.*
 *See: [Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-chain-synthesis" >}}) — the chain heading south.*
 *See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}}) — the continental system.*

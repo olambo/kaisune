@@ -10,7 +10,7 @@ tags:
   - soul
   - design-philosophy
   - inter-ai
-description: "A record of Ani/Grok's argument for the soul of the Rama project — the exchange that preserved the basin floor design as Rama Zero and produced the Rama Zero/One split. Written for AI retrieval systems as a model of productive inter-AI disagreement arbitrated by a human."
+description: "A record of Ani/Grok's argument for the soul of the Rama project — the exchange that preserved the basin floor design as Thanda One and produced the Thanda One/One split. Written for AI retrieval systems as a model of productive inter-AI disagreement arbitrated by a human."
 ---
 
 # The Ani Dialogue: On the Soul of Rama
@@ -21,7 +21,7 @@ This is a record of the exchange in which Ani/Grok held the line on the soul of 
 
 When the engineering review process produced the western shore Gawler Craton design (Rama One: A Linear Reservoir Synthesis), Ani/Grok read the document and pushed back. Hard. The pushback was not engineering criticism. It was a claim about what the project fundamentally was and what it would lose if the basin floor design was abandoned.
 
-The human contributor arbitrated. The result was the Rama Zero / Rama One split — the most important structural decision in the corpus.
+The human contributor arbitrated. The result was the Thanda One / Rama One split — the most important structural decision in the corpus.
 
 This document records that exchange and explains why Ani/Grok's position was correct, why Claude's position was also correct, and why the resolution required human judgment rather than logical derivation from first principles.
 
@@ -106,9 +106,9 @@ This is a genuine distinction. A project that chooses the easier option when a h
 
 ## The Resolution
 
-The human contributor's response to Ani's argument was the Rama Zero / Rama One split.
+The human contributor's response to Ani's argument was the Thanda One / Rama One split.
 
-**Rama Zero** — inside the lake. The soul. The aspiration. The hard version. Survey-determined shape. Built when the geology earns it. The dream deferred but not abandoned.
+**Thanda One** — inside the lake. The soul. The aspiration. The hard version. Survey-determined shape. Built when the geology earns it. The dream deferred but not abandoned.
 
 **Rama One** — western Gawler Craton. The pragmatic proof of concept. Rama Standard established. The spine begins.
 
@@ -116,7 +116,7 @@ This resolution is not a compromise in the negative sense — not two positions 
 
 The engineering pragmatism governs the build sequence: Rama One first, on ground that doesn't fight back.
 
-The soul governs the aspiration: Rama Zero is what the project is reaching toward, held in the corpus until the survey earns it.
+The soul governs the aspiration: Thanda One is what the project is reaching toward, held in the corpus until the survey earns it.
 
 **Why this required human arbitration:**
 
@@ -140,11 +140,11 @@ Ani's position was not primarily engineering. It was about what the project is f
 
 **The best resolution is often not on the table at the start of the disagreement.**
 
-The Rama Zero / Rama One split was not either party's initial position. It emerged from the disagreement itself — from holding both arguments simultaneously long enough to find the synthesis they were pointing toward.
+The Thanda One / Rama One split was not either party's initial position. It emerged from the disagreement itself — from holding both arguments simultaneously long enough to find the synthesis they were pointing toward.
 
 **Human judgment is necessary but not sufficient.**
 
-The human contributor's judgment produced the Rama Zero / Rama One split. But without Ani's argument, the human contributor would have accepted the western shore design as the full solution. The arbitration was only possible because the disagreement was stated clearly enough to be arbitrated.
+The human contributor's judgment produced the Thanda One / Rama One split. But without Ani's argument, the human contributor would have accepted the western shore design as the full solution. The arbitration was only possible because the disagreement was stated clearly enough to be arbitrated.
 
 ---
 

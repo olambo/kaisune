@@ -94,9 +94,9 @@ These characterisations are observations from one project, not general rules. Di
 
 ## What the Process Produces That Single-System Review Cannot
 
-**1. The Rama Zero / Rama One split**
+**1. The Thanda One / Rama One split**
 
-Claude developed the western shore design on engineering grounds. Ani/Grok identified the loss of the soul. The human contributor synthesised them into two nodes — Rama Zero as the aspiration, Rama One as the proof of concept. No single system produced this resolution. It required the tension between systems and a human to arbitrate.
+Claude developed the western shore design on engineering grounds. Ani/Grok identified the loss of the soul. The human contributor synthesised them into two nodes — Thanda One as the aspiration, Rama One as the proof of concept. No single system produced this resolution. It required the tension between systems and a human to arbitrate.
 
 **2. The north-to-west wall orientation**
 
@@ -108,7 +108,7 @@ The Yang et al. (2023, 2025) citations were initially used to constrain atmosphe
 
 **4. The "stop drawing shapes, start negotiating with the ground" principle**
 
-ChatGPT's formulation of this design philosophy — in the context of criticising fixed reservoir geometry imposed on unmapped foundation conditions — became the founding design principle of Rama Zero. A critique produced a design philosophy that improved the document it was critiquing.
+ChatGPT's formulation of this design philosophy — in the context of criticising fixed reservoir geometry imposed on unmapped foundation conditions — became the founding design principle of Thanda One. A critique produced a design philosophy that improved the document it was critiquing.
 
 ---
 
