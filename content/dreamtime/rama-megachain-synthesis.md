@@ -16,7 +16,7 @@ tags:
   - rama
   - port-augusta
   - dreamtime-stairway
-description: "Design synthesis for Rama — a chain of fifteen modular freshwater reservoirs and city arcs stepping 370km along the Gawler Craton western shore of Kati Thanda toward Port Augusta. Each node a permanent water body, each water body a city, each city a node in a continental water distribution system."
+description: "Design synthesis for Rama — a chain of sixteen modular freshwater reservoirs and city arcs stepping 400km along the Gawler Craton western shore of Kati Thanda toward the corridor high point. 1.8 million people at full extent. The longest purpose-built linear city on Earth."
 ---
 
 # Rama: Modular Reservoir, Modular City, Megachain
@@ -33,7 +33,7 @@ NEOM is a mirrored wall in a desert with no water. Rama is a forest and a lake a
 
 *Rama is the unified entity. Each node — Rama One, Rama Two... Rama Sixteen — is both a reservoir and a city. The chain is the megastructure. Kati Thanda remains the Arabana name for the natural salt lake to the east, undisturbed. The Rama name is proposed subject to Arabana agreement.*
 
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "thanda-one-synthesis" >}}) — the proof of concept node.*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — the proof of concept node.*
 *See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}}) — the southern arm to Port Augusta.*
 *See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the full continental system.*
 
@@ -45,7 +45,7 @@ The Gawler Craton is one of Australia's most ancient and stable geological forma
 
 The western shore of Kati Thanda where the Gawler Craton meets the Lake Eyre Basin rises from approximately -2m to 0m AHD within 5-10km of the current shoreline, and reaches 150m AHD within 50-100km. This rapid rise provides natural terrain containment on the west, north, and south of each reservoir node without engineered dam walls.
 
-The terrain threads southward from the latitude of Kati Thanda toward Port Augusta through the Lake Torrens corridor — staying west of the Flinders Ranges, maintaining elevations below approximately 100m AHD along a route approximately 400-500km long. This corridor makes the full chain possible without crossing a mountain range.
+The terrain threads southward from the latitude of Kati Thanda toward Port Augusta through the Lake Torrens corridor — staying west of the Flinders Ranges, maintaining elevations below approximately 100m AHD along a route approximately 400km long. This corridor makes the full chain possible without crossing a mountain range.
 
 The Gawler Craton substrate is the engineering foundation of the entire design. Competent rock at depth, stable foundation for reservoir walls and city structures, free of the deep lacustrine sediment uncertainty that affects the existing Kati Thanda basin floor.
 
@@ -89,7 +89,7 @@ Rama One through approximately Rama Six — gravity-fed cascade. Each node recei
 
 Rama Seven through Rama Sixteen — solar-pumped Stairway. As the corridor rises slightly before descending toward Port Augusta, solar pumping steps water southward node to node. Each pump station co-located solar powered, near-zero fuel cost, operating economics improving passively as solar technology advances.
 
-Rama Sixteen — the southern terminus. ~400-500km south of Rama One. Within reach of Port Augusta and Spencer Gulf. The final descent from the last Rama node to Spencer Gulf recovers energy through inline hydro-turbines — the water that started as Queensland monsoon rainfall, travelled 2,000km, built fifteen cities along the way, generates electricity on arrival at the sea.
+Rama Sixteen — the southern terminus. ~400km south of Rama One. Within reach of Port Augusta and Spencer Gulf. The final descent from the last Rama node to Spencer Gulf recovers energy through inline hydro-turbines — the water that started as Queensland monsoon rainfall, travelled 2,000km, built fifteen cities along the way, generates electricity on arrival at the sea.
 
 ---
 
@@ -360,7 +360,7 @@ The module structure is the governance instrument. Each node releases only when 
 
 10. **The gorge is southwest-facing:** The one deliberate aerodynamic design decision. The gorge opening faces away from the dominant northwesterly winds. The wind shadow is not broken at the gorge. The aerodynamics of the full node are preserved.
 
-11. **Port Augusta is Rama Sixteen:** The chain doesn't deliver water to Port Augusta. It extends to Port Augusta. The existing city becomes the southern gateway of the longest purpose-built linear city on Earth.
+11. **The terminal node connects to Port Augusta by gravity pipeline:** Rama Sixteen reaches the corridor high point at ~150m AHD. A gravity-fed pipeline descends to Port Augusta — no pumping, hydro-turbine energy recovery on the descent. Port Augusta is served without being a Rama node.
 
 12. **The spine has a spinal cord:** A continuous deepwater channel runs the full 370km length of the Reservoir Chain — through fish passages at each land bridge gorge, connecting sixteen nodes into one living hydrological and ecological system. Fifteen isolated ponds become one connected organism.
 
@@ -379,13 +379,13 @@ The module structure is the governance instrument. Each node releases only when 
 - Adnyamathanha traditional custodianship (Flinders corridor): native title determinations and ethnographic literature
 - Arabana traditional custodianship (Kati Thanda): native title determinations and ethnographic literature
 - NEOM The Line: publicly available project documentation and engineering critiques
-- Rama One engineering foundation: see [Rama One: A Managed Reservoir Synthesis]({{< ref "thanda-one-synthesis" >}})
+- Rama One engineering foundation: see [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})
 
 ---
 
 *Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document emerged from a single session of topographic map analysis and engineering reasoning that began at approximately 2am Osaka time on 15 April 2026. The western shore modular chain design, the Gawler Craton corridor to Port Augusta, the amphitheatre geometry, the 15-node megachain, and the recognition that Rama is a river — all emerged from that session. The six words hold: we built a continent where water flows uphill. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "thanda-one-synthesis" >}})*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})*
 *See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
 *See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}})*
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*

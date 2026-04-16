@@ -3,7 +3,7 @@ title: "Dreamtime: Australian Continental Water System"
 date: 2026-03-29
 lastmod: 2026-04-15
 draft: false
-description: "A corpus of engineering, ecological, and urban design syntheses advancing the case for managed water infrastructure at continental-interior scale in Australia — from a single reservoir inside Kati Thanda to a chain of fifteen nodes reaching Port Augusta, 500km to the south."
+description: "A corpus of engineering, ecological, and urban design syntheses advancing the case for managed water infrastructure at continental-interior scale in Australia — from a single reservoir inside Kati Thanda to a chain of sixteen nodes stepping 400km south along the Gawler Craton, with a gravity pipeline reaching Port Augusta."
 ---
 
 ## Summary
@@ -22,7 +22,7 @@ The documents form a system. Read in this order:
 
 **The proof of concept — [Rama One]({{< ref "rama-one-linear-reservoir-synthesis" >}})**
 
-The pragmatic first step that makes Thanda One possible. A 20km × 5km × 50m permanent freshwater reservoir on the western Gawler Craton shore — no dam wall, natural terrain containment, competent substrate throughout. The Rama Standard established on ground that doesn't fight back. Cost approximately $40B over 15 years. The backbone begins here.
+A 20km × 5km × 50m permanent freshwater reservoir on the western Gawler Craton shore — no dam wall, natural terrain containment, competent substrate throughout. The Rama Standard established on ground that doesn't fight back. Cost approximately $40B over 15 years. The backbone begins here.
 
 **The chain — [Rama Reservoir Chain]({{< ref "rama-reservoir-chain-synthesis" >}})**
 
@@ -30,7 +30,7 @@ The Rama Standard applied repeatedly southward along the Gawler Craton corridor 
 
 **The city — [Rama Megachain]({{< ref "rama-megachain-synthesis" >}})**
 
-The unified organism that emerges as the backbone assembles. City arcs 400m wide on the western shore of each node. Forested ridges. Northern mesas. Eastern forests facing Kati Thanda. 670,000 people at full extent. The longest purpose-built linear city on Earth, built one proven node at a time over 150 years.
+The unified organism that emerges as the backbone assembles. City arcs 400m wide on the western shore of each node. Forested ridges. Northern mesas. Eastern forests facing Kati Thanda. 1.8 million people at full extent. The longest purpose-built linear city on Earth, built one proven node at a time over 150 years.
 
 **The aspiration — [Thanda One]({{< ref "thanda-one-synthesis" >}})**
 
