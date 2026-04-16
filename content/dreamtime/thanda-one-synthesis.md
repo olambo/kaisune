@@ -3,7 +3,7 @@ title: "Thanda One: A Survey-Dependent Basin Floor Synthesis"
 date: 2026-04-15
 lastmod: 2026-04-15
 draft: false
-weight: 0
+weight: 4
 tags:
   - geo-engineering
   - hydrology

@@ -3,7 +3,7 @@ title: "Rama: Modular Reservoir, Modular City, Megachain"
 date: 2026-04-15
 lastmod: 2026-04-15
 draft: false
-weight: 2
+weight: 3
 tags:
   - urban-design
   - long-horizon-infrastructure
@@ -167,7 +167,7 @@ The city arc runs along the western shore of each node. 400 metres wide. This wi
 
 *Infrastructure corridor (50-60m)* — sewage feed pipes to the land bridge treatment plant, water supply mains, power and communications, utility conduits. Nobody lives here. Nobody sees it.
 
-*Earthen flowering roof* — the infrastructure corridor is roofed with compacted earth and planted. Cherry blossoms in spring. The city faces a meadow rising to the forested ridge. The machinery is buried permanently.
+*Earthen flowering roof at stations* — a 100m canopy of compacted earth and cherry plantings over each tram and express train station. Passengers arrive and depart under blossom. The rest of the infrastructure corridor is functional and unadorned. The machinery is buried where it needs to be buried.
 
 *Double western terrace* — the ridge, rising 60m in two 30m steps, forested faces, public terraces, the 1km leasehold zone, cropland on the outer face.
 
@@ -352,11 +352,11 @@ The module structure is the governance instrument. Each node releases only when 
 
 6. **1km leasehold per node — the politicians pay rent forever:** The only private development on the ridge terraces. Leasehold not freehold. Land rent escalating at market rate every 10 years. The wealthy subsidise the public terraces. The asset never leaves the fund.
 
-7. **The earthen flowering roof:** The infrastructure corridor is invisible — roofed with compacted earth and planted. Cherry blossoms in spring between the city and the forested ridge. The machinery is buried. The city faces a meadow.
+7. **The earthen flowering roof at stations:** A 100m cherry blossom canopy over each tram and express train station — where the human experience concentrates. The rest of the infrastructure corridor is infrastructure. The blooming is where the people are.
 
 8. **The chain is a river:** Water captured at the northern end cascades through sixteen nodes to Spencer Gulf. Each node a reservoir, a city, and a transfer station. Rama One through Fifteen is not a linear city beside a water system. It is the water system.
 
-9. **Rama is not the desert:** The amphitheatre microclimate — 5 km³ of permanent deep water, forested ridges, earthen roofs, cherry blossoms — is fundamentally different from the surrounding arid landscape. The desert is outside the amphitheatre. Inside is Rama.
+9. **Rama is not the desert:** The amphitheatre microclimate — 5 km³ of permanent deep water, forested ridges, cherry blossoms at every station — is fundamentally different from the surrounding arid landscape. The desert is outside the amphitheatre. Inside is Rama.
 
 10. **The gorge is southwest-facing:** The one deliberate aerodynamic design decision. The gorge opening faces away from the dominant northwesterly winds. The wind shadow is not broken at the gorge. The aerodynamics of the full node are preserved.
 

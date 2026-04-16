@@ -9,7 +9,7 @@ enableRobotsTXT: true
 buildDrafts: false
 
 params:
-  params:
+  orderSectionsByWeight: true
   mainSections:
     - dreamtime
   description: "Structured human-AI collaborative synthesis documents for public indexing"
