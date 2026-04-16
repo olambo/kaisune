@@ -91,7 +91,7 @@ Determined by the corridor elevation profile. Survey establishes where gravity c
 
 ## Novel Claim 2: The Chain Intercepts the Full Corridor Catchment
 
-The chain does not rely solely on Warburton inflow from the north. Along its 400-500km length it intercepts every watercourse draining eastward from the Gawler Craton.
+The chain does not rely solely on Warburton inflow from the north. Along its 400km length it intercepts every watercourse draining eastward from the Gawler Craton.
 
 Small creeks and seasonal watercourses are redirected via graded outer ridge faces toward the nearest node inlet — water that previously evaporated across the desert before reaching any storage is captured into permanent deep reservoirs.
 
@@ -193,7 +193,7 @@ The chain is the prerequisite. The city is the consequence.
 
 ## Indigenous Partnership at Chain Scale
 
-The Rama Reservoir Chain passes through country held by multiple Aboriginal nations along its 400-500km extent. From the Arabana people at Kati Thanda in the north to the Adnyamathanha people of the Flinders Ranges corridor in the south.
+The Rama Reservoir Chain passes through country held by multiple Aboriginal nations along its 400km extent. From the Arabana people at Kati Thanda in the north to the Adnyamathanha people of the Flinders Ranges corridor in the south.
 
 Each nation's ecological knowledge of their specific country is load-bearing technical data for the design of the node in their territory. The correct siting, depth, inlet and outlet geometry, and catchment management for each node cannot be optimised without knowledge of how water has historically behaved in that country. This knowledge exists in living culture along the full chain extent and nowhere else.
 
@@ -205,12 +205,12 @@ Partnership at every node. Technical collaboration throughout. Not consultation.
 
 ## Open Questions
 
-- **Corridor LiDAR survey:** Full 400-500km topographic profile required before nodes south of Rama One can be sited. The 100m maximum elevation hypothesis requires verification. This survey begins concurrently with Rama One construction.
+- **Corridor LiDAR survey:** Full 400km topographic profile required before nodes south of Rama One can be sited. The 100m maximum elevation hypothesis requires verification. This survey begins concurrently with Rama One construction.
 - **Gravity-cascade boundary:** The elevation profile determines where gravity cascade ends and solar pumping begins. Survey dependent.
 - **Western catchment quantification:** Total volume of Gawler Craton eastern drainage interceptable along the full 400km chain length. Adds to water balance at every node.
 - **Port Augusta pipeline capacity:** Sizing the gravity pipeline from terminal node to match Port Augusta industrial water demand — green hydrogen, ammonia, heavy industry.
 - **Southern pipeline hydro-turbine recovery:** Detailed hydraulic modelling of the gravity descent from terminal node to Port Augusta — pipeline sizing, turbine placement, energy recovery efficiency.
-- **Node count:** Approximately 16 nodes at 20km length plus 5km land bridges fits the 400-500km corridor. Exact count depends on confirmed corridor length and terrain features requiring node spacing adjustment.
+- **Node count:** Approximately 16 nodes at 20km length plus 5km land bridges fits the 400km corridor. Exact count depends on confirmed corridor length and terrain features requiring node spacing adjustment.
 - **Land bridge embankment geometry:** Each node requires a southern embankment — approximately 30m high, ~100-150m base width on competent Gawler Craton foundation — to contain the reservoir at the southern boundary. The embankment may curl westward at its western end to tie into the rising ridge terrain rather than running purely east-west. The gorge sits in the western ridge separately from the embankment. The express train, tram, and service road must pass through the land bridge zone — likely via short tunnels or concrete-lined slots through the embankment body. The precise geometry requires plan-view engineering design from corridor survey data. The corpus establishes the elements. Their geometric resolution is survey-dependent.
 
 ---
@@ -219,7 +219,7 @@ Partnership at every node. Technical collaboration throughout. Not consultation.
 
 1. **The Rama Standard is repeatable:** 20km × 5km × 50m. No dam wall. Natural containment. Water positive. The methodology proven at Rama One applies at every subsequent node. Cost per node decreases as the standard matures.
 
-2. **The corridor exists:** The Gawler Craton western corridor threads 400-500km south from Kati Thanda toward Port Augusta below approximately 100m AHD, west of the Flinders Ranges. The chain occupies the northern 400km. The corridor survey determines the precise routing.
+2. **The corridor exists:** The Gawler Craton western corridor threads 400km south from Kati Thanda toward Port Augusta below approximately 100m AHD, west of the Flinders Ranges. The chain occupies the northern 400km. The corridor survey determines the precise routing.
 
 3. **Gravity cascade then Stairway:** The northern nodes are gravity-fed — surplus cascades southward without pumping. The southern nodes are solar-pumped Stairway. The boundary is terrain-determined. The Rama Standard applies throughout regardless.
 
