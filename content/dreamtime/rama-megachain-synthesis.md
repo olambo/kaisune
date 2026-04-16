@@ -23,15 +23,15 @@ description: "Design synthesis for Rama — a chain of fifteen modular freshwate
 
 ## Summary
 
-Rama is not a city built near a lake. It is a chain of fifteen permanent freshwater reservoirs, each with a city arc on its western shore, stepping 370km south along the Gawler Craton from the latitude of Kati Thanda to Port Augusta and Spencer Gulf.
+Rama is not a city built near a lake. It is a chain of sixteen permanent freshwater reservoirs, each with a city arc on its western shore, stepping 400km south along the Gawler Craton from the latitude of Kati Thanda to the corridor high point east of Woomera. From there a gravity-fed pipeline descends to Port Augusta and Spencer Gulf — water flowing downhill, energy recovered on the descent.
 
-Each node — Rama One through Rama Fifteen — is independently viable. Each proves the design before the next is authorised. The chain assembles on demonstrated evidence, one node at a time, over 150 years. When complete it is the longest purpose-built linear city on Earth, the largest distributed freshwater system in Australian history, and the continental water distribution backbone connecting Queensland monsoon rainfall to Spencer Gulf.
+Each node — Rama One through Rama Sixteen — is independently viable. Each proves the design before the next is authorised. The chain assembles on demonstrated evidence, one node at a time, over 150 years. When complete it is the longest purpose-built linear city on Earth, the largest distributed freshwater system in Australian history, and the continental water distribution backbone connecting Queensland monsoon rainfall to Spencer Gulf.
 
 The car is not banned. It is impossible by geography. The city is 400 metres wide — lake in front, infrastructure corridor and forested ridge behind. There is nowhere useful to drive.
 
 NEOM is a mirrored wall in a desert with no water. Rama is a forest and a lake and a city in a desert with permanent water. One of those is buildable.
 
-*Rama is the unified entity. Each node — Rama One, Rama Two... Rama Fifteen — is both a reservoir and a city. The chain is the megastructure. Kati Thanda remains the Arabana name for the natural salt lake to the east, undisturbed. The Rama name is proposed subject to Arabana agreement.*
+*Rama is the unified entity. Each node — Rama One, Rama Two... Rama Sixteen — is both a reservoir and a city. The chain is the megastructure. Kati Thanda remains the Arabana name for the natural salt lake to the east, undisturbed. The Rama name is proposed subject to Arabana agreement.*
 
 *See: [Rama One: A Managed Reservoir Synthesis]({{< ref "rama-zero-synthesis" >}}) — the proof of concept node.*
 *See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}}) — the southern arm to Port Augusta.*
@@ -75,11 +75,11 @@ The managed Warburton channel delivers 0.3-0.5 km³/year in conservative inflow 
 
 ## The Full Chain
 
-15 nodes × 100 km² = **1,500 km² total water surface**
+16 nodes × 100 km² = **1,500 km² total water surface**
 
-15 nodes × 20km + 14 land bridges × 5km = **370km total spine length** — each 25km node cycle (20km reservoir + 5km land bridge) repeating cleanly to Port Augusta. The 5 is everywhere: 5km wide, 5km land bridge, 5 km³ volume, 50m deep. The geometry is internally consistent by design.
+16 nodes × 20km + 14 land bridges × 5km = **370km total spine length** — each 25km node cycle (20km reservoir + 5km land bridge) repeating cleanly to Port Augusta. The 5 is everywhere: 5km wide, 5km land bridge, 5 km³ volume, 50m deep. The geometry is internally consistent by design.
 
-15 nodes × 5 km³ = **75 km³ total volume**
+16 nodes × 5 km³ = **75 km³ total volume**
 
 For reference: all existing Australian dams and reservoirs combined hold approximately 80-85 km³. The Rama chain delivers equivalent total storage in a single linear system, built one proven node at a time.
 
@@ -87,9 +87,9 @@ For reference: all existing Australian dams and reservoirs combined hold approxi
 
 Rama One through approximately Rama Six — gravity-fed cascade. Each node receives water from the Warburton channel system and passes surplus southward by gravity as the corridor descends gently along the Gawler Craton.
 
-Rama Seven through Rama Fifteen — solar-pumped Stairway. As the corridor rises slightly before descending toward Port Augusta, solar pumping steps water southward node to node. Each pump station co-located solar powered, near-zero fuel cost, operating economics improving passively as solar technology advances.
+Rama Seven through Rama Sixteen — solar-pumped Stairway. As the corridor rises slightly before descending toward Port Augusta, solar pumping steps water southward node to node. Each pump station co-located solar powered, near-zero fuel cost, operating economics improving passively as solar technology advances.
 
-Rama Fifteen — the southern terminus. ~400-500km south of Rama One. Within reach of Port Augusta and Spencer Gulf. The final descent from the last Rama node to Spencer Gulf recovers energy through inline hydro-turbines — the water that started as Queensland monsoon rainfall, travelled 2,000km, built fifteen cities along the way, generates electricity on arrival at the sea.
+Rama Sixteen — the southern terminus. ~400-500km south of Rama One. Within reach of Port Augusta and Spencer Gulf. The final descent from the last Rama node to Spencer Gulf recovers energy through inline hydro-turbines — the water that started as Queensland monsoon rainfall, travelled 2,000km, built fifteen cities along the way, generates electricity on arrival at the sea.
 
 ---
 
@@ -105,7 +105,7 @@ The channel delivers water to Rama One's eastern inlet. Subsequent nodes receive
 
 **Western catchment:**
 
-Small creeks and seasonal watercourses draining eastward from the Gawler Craton along the full 370km chain are redirected toward the nearest Rama node rather than flowing into Kati Thanda directly. The outer western face of each ridge is graded to concentrate runoff toward node inlets. The chain intercepts the full Gawler Craton eastern catchment along its length.
+Small creeks and seasonal watercourses draining eastward from the Gawler Craton along the full 400km chain are redirected toward the nearest Rama node rather than flowing into Kati Thanda directly. The outer western face of each ridge is graded to concentrate runoff toward node inlets. The chain intercepts the full Gawler Craton eastern catchment along its length.
 
 Large western rivers — the Neales, Macumba — are directed into whichever Rama node they are adjacent to via gorge inlet on the western face.
 
@@ -141,7 +141,7 @@ Second terrace at 30m above the first — forested face, public. The outer weste
 
 **The eastern forest:**
 
-No development on the eastern shore. The eastern boundary of each node faces Kati Thanda. A permanent forest is planted from day one and left to establish on its own terms — riparian species at the water margin, desert-adapted species further back. Over decades a biological corridor develops connecting the Rama reservoir system to the natural lake across the full 370km chain length.
+No development on the eastern shore. The eastern boundary of each node faces Kati Thanda. A permanent forest is planted from day one and left to establish on its own terms — riparian species at the water margin, desert-adapted species further back. Over decades a biological corridor develops connecting the Rama reservoir system to the natural lake across the full 400km chain length.
 
 The forest is not landscaping. It is the managed interface between the engineered world and the ancient one. Kati Thanda remains visible through the trees. The boundary between Rama and the natural lake is permeable, biological, and permanent.
 
@@ -161,7 +161,7 @@ The city arc runs along the western shore of each node. 400 metres wide. This wi
 
 *Tram track (8m)* — bidirectional, frequent stopping service within the node. Autonomous operation from day one. Every few hundred metres. The local network.
 
-*Express train track (15m)* — bidirectional, inter-node speed. Stops at node centres only. 8-10 minutes node to node. The spine network. End-to-end journey Rama One to Rama Fifteen: approximately 2-3 hours at full build.
+*Express train track (15m)* — bidirectional, inter-node speed. Stops at node centres only. 8-10 minutes node to node. The spine network. End-to-end journey Rama One to Rama Sixteen: approximately 2-3 hours at full build.
 
 *Service and access road (8m)* — autonomous freight pods, maintenance vehicles, emergency access. Not a public road. Serves both the express train infrastructure and the corridor behind it without entering the city.
 
@@ -215,13 +215,13 @@ No gorges cut mid-node. No breaks in the wind shadow within each 20km node lengt
 
 A spine has a spinal cord.
 
-The Rama Reservoir Chain has a continuous deepwater channel running its full 370km length — through the fish passage at each land bridge gorge, connecting all fifteen nodes into one living hydrological system.
+The Rama Reservoir Chain has a continuous deepwater channel running its full 370km length — through the fish passage at each land bridge gorge, connecting all sixteen nodes into one living hydrological system.
 
 **What the spinal cord carries:**
 
 *Water* — moving south by gravity cascade in the northern section, solar-pumped in the southern section. The primary function.
 
-*Fish* — unrestricted passage through the full 370km length. The wild fishery of the spine is one population distributed across fifteen nodes and 370km, not fifteen isolated ponds. Murray cod, golden perch, native species moving freely along the full chain.
+*Fish* — unrestricted passage through the full 370km length. The wild fishery of the spine is one population distributed across sixteen nodes and 370km, not fifteen isolated ponds. Murray cod, golden perch, native species moving freely along the full chain.
 
 *Nutrients* — organic material, dissolved minerals, biological exchange between nodes. Each node contributes to and receives from the system ecology.
 
@@ -253,7 +253,7 @@ No pumping required. Water flows southward node to node by gravity as the corrid
 
 Each pump station lifts water to the next node — staged pumping distributes capital cost, provides hydraulic battery storage between stages, eliminates single points of failure. Total energy input fixed by physics regardless of staging.
 
-**Hydro-turbine recovery (Rama Fifteen to Spencer Gulf):**
+**Hydro-turbine recovery (Rama Sixteen to Spencer Gulf):**
 
 The final descent from the southernmost Rama node to Port Augusta and Spencer Gulf passes through inline hydro-turbines. Energy invested in the southern Stairway pumping is partially recovered on the final gravity-fed descent to the sea.
 
@@ -277,7 +277,7 @@ The autonomous fleet is on site. The Warburton channel is built. The Rama Standa
 
 **Rama Three through Fifteen:**
 
-Each node authorised on the evidence of the prior node. The chain assembles over 150 years. By the time Rama Fifteen connects to Port Augusta, nobody debates whether to build it. The river has been flowing for 130 years. You don't stop a river halfway.
+Each node authorised on the evidence of the prior node. The chain assembles over 150 years. By the time Rama Sixteen connects to Port Augusta, nobody debates whether to build it. The river has been flowing for 130 years. You don't stop a river halfway.
 
 ---
 
@@ -342,7 +342,7 @@ The module structure is the governance instrument. Each node releases only when 
 
 1. **The Rama Standard:** 20km × 5km × 50m average depth. Natural terrain containment on three sides. Managed eastern interface to Kati Thanda. No dam wall. Robustly water positive at node scale. Repeatable along the full Gawler Craton corridor and beyond.
 
-2. **15 nodes × 100 km² = the original 1,500 km²:** The single basin floor reservoir design distributed across fifteen modular nodes delivers the same total water surface with superior substrate, no dam wall, modular governance, and a 370km city instead of a single node.
+2. **16 nodes × 100 km² = the original 1,500 km²:** The single basin floor reservoir design distributed across fifteen modular nodes delivers the same total water surface with superior substrate, no dam wall, modular governance, and a 370km city instead of a single node.
 
 3. **The amphitheatre is the consequence of solving engineering problems:** The 330m northern mesa emerges from spoil arithmetic. The 60m double western terrace emerges from wind management and the too-much-fill problem. The 400m city width emerges from the wind shadow boundary. The amphitheatre was not designed. It appeared.
 
@@ -354,15 +354,15 @@ The module structure is the governance instrument. Each node releases only when 
 
 7. **The earthen flowering roof:** The infrastructure corridor is invisible — roofed with compacted earth and planted. Cherry blossoms in spring between the city and the forested ridge. The machinery is buried. The city faces a meadow.
 
-8. **The chain is a river:** Water captured at the northern end cascades through fifteen nodes to Spencer Gulf. Each node a reservoir, a city, and a transfer station. Rama One through Fifteen is not a linear city beside a water system. It is the water system.
+8. **The chain is a river:** Water captured at the northern end cascades through sixteen nodes to Spencer Gulf. Each node a reservoir, a city, and a transfer station. Rama One through Fifteen is not a linear city beside a water system. It is the water system.
 
 9. **Rama is not the desert:** The amphitheatre microclimate — 5 km³ of permanent deep water, forested ridges, earthen roofs, cherry blossoms — is fundamentally different from the surrounding arid landscape. The desert is outside the amphitheatre. Inside is Rama.
 
 10. **The gorge is southwest-facing:** The one deliberate aerodynamic design decision. The gorge opening faces away from the dominant northwesterly winds. The wind shadow is not broken at the gorge. The aerodynamics of the full node are preserved.
 
-11. **Port Augusta is Rama Fifteen:** The chain doesn't deliver water to Port Augusta. It extends to Port Augusta. The existing city becomes the southern gateway of the longest purpose-built linear city on Earth.
+11. **Port Augusta is Rama Sixteen:** The chain doesn't deliver water to Port Augusta. It extends to Port Augusta. The existing city becomes the southern gateway of the longest purpose-built linear city on Earth.
 
-12. **The spine has a spinal cord:** A continuous deepwater channel runs the full 370km length of the Reservoir Chain — through fish passages at each land bridge gorge, connecting fifteen nodes into one living hydrological and ecological system. Fifteen isolated ponds become one connected organism.
+12. **The spine has a spinal cord:** A continuous deepwater channel runs the full 370km length of the Reservoir Chain — through fish passages at each land bridge gorge, connecting sixteen nodes into one living hydrological and ecological system. Fifteen isolated ponds become one connected organism.
 
 13. **We built a continent where water flows uphill:** The six words hold. Water moves from Queensland monsoon rainfall southward 2,000km through fifteen cities to Spencer Gulf. It flows downhill the entire way — and we engineered the continent so that what was previously desert is now the path.
 

@@ -30,7 +30,7 @@ The pragmatic first step that makes Rama Zero possible. A 20km × 5km × 50m per
 
 **The chain — [Rama Reservoir Chain]({{< ref "rama-reservoir-chain-synthesis" >}})**
 
-The Rama Standard applied repeatedly southward along the Gawler Craton corridor from Kati Thanda to Port Augusta — approximately 15 nodes, 400-500km, 1,500 km² total water surface, 75 km³ total volume. Gravity-fed in the northern section. Solar-pumped Stairway in the southern section. Port Augusta as the terminus, not the destination — the chain extends to it.
+The Rama Standard applied repeatedly southward along the Gawler Craton corridor from Kati Thanda to Port Augusta — 16 nodes, 400km, 1,600 km² total water surface, 80 km³ total volume. Gravity-fed in the northern section. Solar-pumped Stairway in the southern section. The terminal node at the corridor high point connects to Port Augusta via gravity-fed pipeline.
 
 **The city — [Rama Megachain]({{< ref "rama-megachain-synthesis" >}})**
 
