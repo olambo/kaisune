@@ -12,7 +12,7 @@ We engineered a continent where water flows uphill.
 
 Australia possesses the engineering capability, the resource endowment, and the geographic conditions to transform its arid interior through managed water infrastructure. The only missing component is a governance architecture capable of authorising decisions with 50–200 year return horizons.
 
-The continent where water flows uphill. The engine is the Rama Reservoir Chain — 16 nodes stepping 400km south along the Gawler Craton, one proven node at a time. The city is the Rama Megachain — growing along every kilometre of the chain. And beyond Rama, if the geology earns it, is Thanda One — the dead lake brought back to life.
+The continent where water flows uphill. The engine is the Rama Reservoir Chain — 16 nodes stepping 400km south along the Gawler Craton, one proven node at a time. The city is Rama — growing along every kilometre of the chain. And beyond Rama, if the geology earns it, is Thanda One — the dead lake brought back to life.
 
 ---
 
@@ -38,7 +38,7 @@ The soul of the project. A permanent freshwater reservoir inside the northwester
 
 **The continental system — [Dreamtime Web]({{< ref "dreamtime-web" >}})**
 
-The broader context in which Rama sits. The Web is the full continental water redistribution system with Rama One as the switching node, the Tanami ridge as a century-scale orographic possibility, and the claim that the system engineers a continent where water flows uphill.
+The broader context in which Rama sits. The Web is the full continental water redistribution system — the Barkly diversion feeding the chain from the north, the chain distributing water south, the gravity pipeline delivering surplus to Port Augusta and Spencer Gulf, and the Kimberley arm stepping west on solar energy.
 
 **The gravity-fed foundation — [Dreamtime Spine]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})**
 
