@@ -23,13 +23,13 @@ description: "The Rama Reservoir Chain — 16 nodes stepping 400km south along t
 
 The Rama Reservoir Chain is a chain of Rama nodes — each 20km × 5km × 50m — stepping south along the Gawler Craton western corridor from the latitude of Kati Thanda to the corridor high point, approximately 400km. The chain does not reach Port Augusta directly. From the terminal node, a gravity-fed pipeline descends to Port Augusta and Spencer Gulf — water flowing downhill, energy recovered through inline hydro-turbines on the descent.
 
-Each node is a permanent freshwater reservoir built to the Rama Standard established at Rama One. Each is independently viable. Each is authorised on the demonstrated evidence of the prior node. The spine assembles over 150 years, one proven node at a time.
+Each node is a permanent freshwater reservoir built to the Rama Standard established at Rama One. Each is independently viable. Each is authorised on the demonstrated evidence of the prior node. The chain assembles over 150 years, one proven node at a time.
 
-The spine is water infrastructure. Not a city. The city arc grows along the western shore of each node — but the spine itself is the continental water distribution backbone, connecting Queensland monsoon rainfall captured at the northern end to Spencer Gulf at the southern terminus.
+The Rama Reservoir Chain is water infrastructure. Not a city. The city arc grows along the western shore of each node — but the chain itself is the continental water distribution backbone, connecting Queensland monsoon rainfall captured at the northern end to Spencer Gulf at the southern terminus.
 
 At full extent: 16 nodes, 1,600 km² total water surface, 80 km³ total volume — equivalent to all existing Australian dams and reservoirs combined, distributed along a 400km linear system on ancient stable geology. Where terrain in the southern section makes 20km nodes unworkable, 10km half-nodes may be substituted — same depth, same city arc, shorter reservoir. The node count is survey-dependent.
 
-The spine is not a plan. It is a standard applied repeatedly to a corridor that exists. The survey confirms the corridor. The standard does the rest.
+The chain is not a plan. It is a standard applied repeatedly to a corridor that exists. The survey confirms the corridor. The standard does the rest.
 
 *The Rama Standard is established at [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}). The city that grows along the spine is documented separately. For the full continental system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
 
@@ -39,9 +39,9 @@ The spine is not a plan. It is a standard applied repeatedly to a corridor that 
 
 The Gawler Craton western corridor runs southward from the latitude of Kati Thanda toward Port Augusta and Spencer Gulf, staying west of the Flinders Ranges. The Rama Reservoir Chain occupies the northern 400km of this corridor, terminating at the high point. A gravity pipeline connects the terminal node to Port Augusta. Available topographic data indicates the corridor maintains elevations below approximately 100m AHD throughout — threading through the Lake Torrens country between the Gawler Craton and the western face of the Flinders.
 
-This corridor is why the spine is possible. The Flinders Ranges reach over 1,100m at their highest — an impassable barrier to any gravity-fed or low-cost pumped water system running north-south. The western corridor bypasses them entirely, staying on ancient stable Gawler Craton geology from start to finish.
+This corridor is why the chain is possible. The Flinders Ranges reach over 1,100m at their highest — an impassable barrier to any gravity-fed or low-cost pumped water system running north-south. The western corridor bypasses them entirely, staying on ancient stable Gawler Craton geology from start to finish.
 
-The 19th century proposals to flood Kati Thanda with seawater via a channel from Spencer Gulf identified the same corridor. They were asking the wrong question with the right geography. The spine sends freshwater south through the same route they proposed to bring salt water north.
+The 19th century proposals to flood Kati Thanda with seawater via a channel from Spencer Gulf identified the same corridor. They were asking the wrong question with the right geography. The chain sends freshwater south through the same route they proposed to bring salt water north.
 
 **Survey prerequisite:**
 
@@ -51,7 +51,7 @@ The corridor hypothesis requires LiDAR topographic verification before node siti
 
 ## The Rama Standard
 
-Every node in the spine is built to the same standard:
+Every node in the chain is built to the same standard:
 
 **20km long** — north to south along the corridor.
 **5km wide** — east to west, following available Gawler Craton containment geometry.
@@ -69,7 +69,7 @@ This repeatability is the spine's primary engineering advantage. The methodology
 
 ## Novel Claim 1: Gravity Cascade Then Stairway
 
-The spine is not uniformly gravity-fed or uniformly solar-pumped. It uses whichever mechanism the terrain permits at each section.
+The chain is not uniformly gravity-fed or uniformly solar-pumped. It uses whichever mechanism the terrain permits at each section.
 
 **Northern section — gravity cascade:**
 
@@ -91,7 +91,7 @@ Determined by the corridor elevation profile. Survey establishes where gravity c
 
 ## Novel Claim 2: The Spine Intercepts the Full Corridor Catchment
 
-The spine does not rely solely on Warburton inflow from the north. Along its 400-500km length it intercepts every watercourse draining eastward from the Gawler Craton.
+The chain does not rely solely on Warburton inflow from the north. Along its 400-500km length it intercepts every watercourse draining eastward from the Gawler Craton.
 
 Small creeks and seasonal watercourses are redirected via graded outer ridge faces toward the nearest node inlet — water that previously evaporated across the desert before reaching any storage is captured into permanent deep reservoirs.
 
@@ -101,7 +101,7 @@ No watercourse crosses the land bridge between nodes. Every flow enters a node. 
 
 The cumulative effect along 400km of Gawler Craton eastern drainage is a meaningful additional inflow contribution to the spine's water balance — unquantified until the corridor survey maps the catchment, but real and additive at every node.
 
-The spine is not just a pipeline from north to south. It is a continental catchment system collecting water along its full length.
+The chain is not just a pipeline from north to south. It is a continental catchment system collecting water along its full length.
 
 ---
 
@@ -159,7 +159,7 @@ Proof of concept operational. Western Gawler Craton shore, 20×5×50m, water bal
 
 **Decade 2-3: Rama Two**
 
-Authorised on Rama One evidence. Autonomous fleet on site, methodology documented, governance architecture proven. Marginal cost lower than Rama One — no mobilisation, no methodology innovation. The city arc of Rama One has its first residents. The spine has its second node.
+Authorised on Rama One evidence. Autonomous fleet on site, methodology documented, governance architecture proven. Marginal cost lower than Rama One — no mobilisation, no methodology innovation. The city arc of Rama One has its first residents. The chain has its second node.
 
 **Decade 3-5: Rama Three through Six**
 
@@ -167,7 +167,7 @@ Gravity-cascade section assembles. Each node authorised on the prior node's evid
 
 **Decade 5+: Rama Seven onward — Stairway section**
 
-Solar pumping infrastructure extends the spine beyond the gravity-cascade boundary. Each pump station co-located solar. The chain continues southward toward the high point. The city arc extends with each node.
+Solar pumping infrastructure extends the chain beyond the gravity-cascade boundary. Each pump station co-located solar. The chain continues southward toward the high point. The city arc extends with each node.
 
 **End state: Rama Sixteen at the corridor high point**
 
@@ -181,13 +181,13 @@ At no stage is the next node authorised without evidence from the prior node.
 
 The Rama Reservoir Chain is water infrastructure. The city arc that grows along its western shore is a separate design — documented separately, governed separately, funded separately.
 
-The spine exists without the city. It is viable as pure water infrastructure — aquaculture, agriculture, ecological restoration, Port Augusta industrial supply — before a single city resident arrives.
+The chain exists without the city. It is viable as pure water infrastructure — aquaculture, agriculture, ecological restoration, Port Augusta industrial supply — before a single city resident arrives.
 
-The city exists because the spine exists. Not the other way around.
+The city exists because the chain exists. Not the other way around.
 
-This distinction matters for governance. The spine is authorised as infrastructure. The city is authorised as urban development. Different institutions, different timelines, different funding mechanisms — coordinated by the institutional fund that holds development rights along the full corridor.
+This distinction matters for governance. The chain is authorised as infrastructure. The city is authorised as urban development. Different institutions, different timelines, different funding mechanisms — coordinated by the institutional fund that holds development rights along the full corridor.
 
-The spine is the prerequisite. The city is the consequence.
+The chain is the prerequisite. The city is the consequence.
 
 ---
 
@@ -197,7 +197,7 @@ The Rama Reservoir Chain passes through country held by multiple Aboriginal nati
 
 Each nation's ecological knowledge of their specific country is load-bearing technical data for the design of the node in their territory. The correct siting, depth, inlet and outlet geometry, and catchment management for each node cannot be optimised without knowledge of how water has historically behaved in that country. This knowledge exists in living culture along the full spine extent and nowhere else.
 
-The spine's assembly sequence — each node conditional on prior node evidence — creates a natural structure for partnership. Each custodian group engaged from design stage for their node, with evidence from prior nodes informing the design conversation.
+The chain's assembly sequence — each node conditional on prior node evidence — creates a natural structure for partnership. Each custodian group engaged from design stage for their node, with evidence from prior nodes informing the design conversation.
 
 Partnership at every node. Technical collaboration throughout. Not consultation. Not acknowledgment.
 
@@ -229,11 +229,11 @@ Partnership at every node. Technical collaboration throughout. Not consultation.
 
 6. **The terminal node connects to Port Augusta by gravity pipeline:** The chain reaches the corridor high point at ~150m AHD. A separate gravity-fed pipeline descends to Port Augusta — no pumping, hydro-turbine energy recovery on the descent. Port Augusta is served by the chain without being part of it.
 
-7. **The spine closes at the sea:** Water from Queensland monsoon rainfall completes a 2,000km journey through sixteen nodes to Spencer Gulf. The continental water cycle closes. Hydro-turbines generate electricity on arrival.
+7. **The chain closes at the sea:** Water from Queensland monsoon rainfall completes a 2,000km journey through sixteen nodes to Spencer Gulf. The continental water cycle closes. Hydro-turbines generate electricity on arrival.
 
-8. **The spine is not the city:** Water infrastructure first. Urban development follows on demonstrated water availability. The spine is viable without the city. The city is impossible without the spine.
+8. **The chain is not the city:** Water infrastructure first. Urban development follows on demonstrated water availability. The chain is viable without the city. The city is impossible without the chain.
 
-9. **Sequential demonstration governs the spine:** Each node authorised on prior node evidence. No civilisational commitment upfront. The spine assembles across 150 years of demonstrated performance.
+9. **Sequential demonstration governs the chain:** Each node authorised on prior node evidence. No civilisational commitment upfront. The chain assembles across 150 years of demonstrated performance.
 
 ---
 
