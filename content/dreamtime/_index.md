@@ -12,7 +12,7 @@ We engineered a continent where water flows uphill.
 
 Australia possesses the engineering capability, the resource endowment, and the geographic conditions to transform its arid interior through managed water infrastructure. The only missing component is a governance architecture capable of authorising decisions with 50–200 year return horizons.
 
-The project has a soul and a backbone. The backbone is the Rama Reservoir Chain — 16 nodes stepping 400km south along the Gawler Craton, one proven node at a time. The city is the Rama Megachain — growing along every kilometre of the backbone. And beyond Rama, if the geology earns it, is Thanda One — a permanent freshwater reservoir inside Kati Thanda itself, the dead lake brought back to life.
+The continent where water flows uphill. The engine is the Rama Reservoir Chain — 16 nodes stepping 400km south along the Gawler Craton, one proven node at a time. The city is the Rama Megachain — growing along every kilometre of the chain. And beyond Rama, if the geology earns it, is Thanda One — the dead lake brought back to life.
 
 ---
 
