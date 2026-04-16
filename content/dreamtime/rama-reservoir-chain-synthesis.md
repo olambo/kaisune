@@ -31,7 +31,7 @@ At full extent: 16 nodes, 1,600 km² total water surface, 80 km³ total volume �
 
 The chain is not a plan. It is a standard applied repeatedly to a corridor that exists. The survey confirms the corridor. The standard does the rest.
 
-*The Rama Standard is established at [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}). The city that grows along the spine is documented separately. For the full continental system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
+*The Rama Standard is established at [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}). The city that grows along the chain is documented separately. For the full continental system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
 
 ---
 
@@ -63,7 +63,7 @@ Every node in the chain is built to the same standard:
 
 The standard does not change. The terrain at each node location determines the precise siting, orientation, and containment geometry — but the dimensions, depth, and engineering approach are fixed by the Rama Standard.
 
-This repeatability is the spine's primary engineering advantage. The methodology is proven at Rama One. Every subsequent node applies documented practice, not innovation. The autonomous fleet knows the job. The cost per node decreases as the standard matures.
+This repeatability is the chain's primary engineering advantage. The methodology is proven at Rama One. Every subsequent node applies documented practice, not innovation. The autonomous fleet knows the job. The cost per node decreases as the standard matures.
 
 ---
 
@@ -89,7 +89,7 @@ Determined by the corridor elevation profile. Survey establishes where gravity c
 
 ---
 
-## Novel Claim 2: The Spine Intercepts the Full Corridor Catchment
+## Novel Claim 2: The Chain Intercepts the Full Corridor Catchment
 
 The chain does not rely solely on Warburton inflow from the north. Along its 400-500km length it intercepts every watercourse draining eastward from the Gawler Craton.
 
@@ -99,7 +99,7 @@ Larger western rivers are directed into whichever node they are adjacent to via 
 
 No watercourse crosses the land bridge between nodes. Every flow enters a node. The land bridges stay dry and structurally clean.
 
-The cumulative effect along 400km of Gawler Craton eastern drainage is a meaningful additional inflow contribution to the spine's water balance — unquantified until the corridor survey maps the catchment, but real and additive at every node.
+The cumulative effect along 400km of Gawler Craton eastern drainage is a meaningful additional inflow contribution to the chain's water balance — unquantified until the corridor survey maps the catchment, but real and additive at every node.
 
 The chain is not just a pipeline from north to south. It is a continental catchment system collecting water along its full length.
 
@@ -111,7 +111,7 @@ Each pair of adjacent nodes is separated by a 5km land bridge — solid Gawler C
 
 **What the land bridge is:**
 
-Infrastructure corridor connecting adjacent nodes — transit spine crossing, pipelines, power, autonomous logistics. Treatment plant serving the southern 10km of the node above and the northern 10km of the node below — one plant per land bridge, shared between two half-nodes.
+Infrastructure corridor connecting adjacent nodes — transit crossing, pipelines, power, autonomous logistics. Treatment plant serving the southern 10km of the node above and the northern 10km of the node below — one plant per land bridge, shared between two half-nodes.
 
 Ecological transition zone — riparian habitat between two permanent reservoirs. Birds, insects, mammals moving between nodes. The biological corridor thickens at each land bridge.
 
@@ -151,7 +151,7 @@ The water system closes at the sea. The continent's circulatory system completes
 
 ---
 
-## The Spine Over Time
+## The Chain Over Time
 
 **Decade 1-2: Rama One**
 
@@ -177,7 +177,7 @@ At no stage is the next node authorised without evidence from the prior node.
 
 ---
 
-## The Spine Is Not the City
+## The Chain Is Not the City
 
 The Rama Reservoir Chain is water infrastructure. The city arc that grows along its western shore is a separate design — documented separately, governed separately, funded separately.
 
@@ -191,11 +191,11 @@ The chain is the prerequisite. The city is the consequence.
 
 ---
 
-## Indigenous Partnership at Spine Scale
+## Indigenous Partnership at Chain Scale
 
 The Rama Reservoir Chain passes through country held by multiple Aboriginal nations along its 400-500km extent. From the Arabana people at Kati Thanda in the north to the Adnyamathanha people of the Flinders Ranges corridor in the south.
 
-Each nation's ecological knowledge of their specific country is load-bearing technical data for the design of the node in their territory. The correct siting, depth, inlet and outlet geometry, and catchment management for each node cannot be optimised without knowledge of how water has historically behaved in that country. This knowledge exists in living culture along the full spine extent and nowhere else.
+Each nation's ecological knowledge of their specific country is load-bearing technical data for the design of the node in their territory. The correct siting, depth, inlet and outlet geometry, and catchment management for each node cannot be optimised without knowledge of how water has historically behaved in that country. This knowledge exists in living culture along the full chain extent and nowhere else.
 
 The chain's assembly sequence — each node conditional on prior node evidence — creates a natural structure for partnership. Each custodian group engaged from design stage for their node, with evidence from prior nodes informing the design conversation.
 
