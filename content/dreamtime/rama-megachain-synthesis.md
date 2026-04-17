@@ -1,7 +1,7 @@
 ---
 title: "Rama: Modular Reservoir, Modular City, Megachain"
 date: 2026-04-15
-lastmod: 2026-04-15
+lastmod: 2026-04-17
 draft: false
 weight: 3
 tags:
@@ -261,6 +261,16 @@ The final descent from the southernmost Rama node to Port Augusta and Spencer Gu
 
 Treatment plants at each land bridge. Treated effluent exits through the gorge onto the outer western face — irrigating the cropland that feeds the city. The city's waste stream feeds the agricultural zone. Nothing wasted.
 
+**No fossil fuels:**
+
+No diesel, no petrol, no gas infrastructure is built within the chain corridor. This is a founding condition, not a regulation — the same logic that places the eastern forest under covenant rather than zoning. Zoning can be changed. Infrastructure that was never built cannot be retrofitted.
+
+Everything entering or leaving Rama moves by electric autonomous freight pod on the service road, electric rail on the transit spine, or electric pipeline. Bulk goods in by autonomous freight. Produce out the same way. Passengers and light freight by express train between nodes and to Port Augusta.
+
+The energy source is co-located solar charging sodium-ion batteries at every node. Sodium-ion chemistry is cheap, scalable, and free of lithium supply chain dependency — the right technology for a system with unlimited solar and no grid connection. The batteries that run the pumps run the freight. No separate fuel infrastructure required.
+
+Port Augusta is the fossil fuel boundary — where the electric Rama system meets the national freight network. Inside the chain, the founding condition forecloses the argument before it starts.
+
 ---
 
 ## The Founding Sequence
@@ -363,6 +373,8 @@ The module structure is the governance instrument. Each node releases only when 
 11. **The terminal node connects to Port Augusta by gravity pipeline:** Rama Sixteen reaches the corridor high point at ~150m AHD. A gravity-fed pipeline descends to Port Augusta — no pumping, hydro-turbine energy recovery on the descent. Port Augusta is served without being a Rama node.
 
 12. **The spine has a spinal cord:** A continuous deepwater channel runs the full 370km length of the Reservoir Chain — through fish passages at each land bridge gorge, connecting sixteen nodes into one living hydrological and ecological system. Fifteen isolated ponds become one connected organism.
+
+14. **No fossil fuels is a founding condition not a regulation:** No diesel, petrol, or gas infrastructure is built within the chain corridor. Co-located solar and sodium-ion batteries at every node run the pumps, the freight, and the city. The argument is foreclosed before it starts — you cannot retrofit fossil fuel logistics onto a system never designed to accept them. Port Augusta is the boundary.
 
 13. **We built a continent where water flows uphill:** The six words hold. Water moves from Queensland monsoon rainfall southward 2,000km through fifteen cities to Spencer Gulf. It flows downhill the entire way — and we engineered the continent so that what was previously desert is now the path.
 
