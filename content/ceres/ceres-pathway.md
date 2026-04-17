@@ -120,11 +120,13 @@ The autonomous capability developed across the four stages is as valuable as the
 
 The Ceres pathway does not require technology that does not exist. It requires technology that exists at demonstration scale to mature to operational scale across the pathway timeline.
 
-**Already demonstrated:** autonomous spacecraft operation across interplanetary distances; water ice detection on small bodies; ISRU water extraction at laboratory scale; microwave power transmission; subsurface excavation in low-gravity analogue environments; closed-loop life support at ISS scale.
+**Already demonstrated:** autonomous spacecraft operation across interplanetary distances; water ice detection on small bodies; ISRU water extraction at laboratory scale; microwave power transmission; subsurface excavation in low-gravity analogue environments; closed-loop life support at ISS scale; nuclear thermal propulsion — NERVA achieved 825s specific impulse in the 1960s, roughly double chemical rockets, engineering understood.
 
-**Requires maturation:** ISRU water extraction at operational scale; orbital solar array deployment at Ceres distances; autonomous construction in low-gravity regolith; CNT processor fabrication from carbon feedstock at any scale; closed-loop food production at settlement scale.
+**Requires maturation:** ISRU water extraction at operational scale; orbital solar array deployment at Ceres distances; autonomous construction in low-gravity regolith; CNT processor fabrication from carbon feedstock at any scale; closed-loop food production at settlement scale; nuclear thermal propulsion cleared for operational use — the technology exists, the political and regulatory framework for fission reactors in space does not yet.
 
-**Not required:** faster-than-chemical propulsion; artificial gravity; any physics beyond current understanding.
+**Why nuclear thermal matters for the pathway:** chemical propulsion Ceres-to-Mars transit at favourable conjunction is 6-9 months, locked to conjunction windows. Nuclear thermal at 800-900s Isp reduces transit to 3-4 months and relaxes the window dependency — you can leave when the mission requires rather than when the planets align. Seeds, nutrients, and growing equipment arrive in time to matter. Perishables become viable. The Ceres-Mars supply relationship becomes logistically practical rather than theoretically possible.
+
+**Not required:** faster-than-chemical propulsion beyond nuclear thermal; artificial gravity; any physics beyond current understanding.
 
 The pathway is long. The technology is real.
 
