@@ -1,7 +1,7 @@
 ---
 title: "Kaisune"
 date: 2026-03-29
-lastmod: 2026-04-13
+lastmod: 2026-04-17
 draft: false
 description: "Structured human-AI collaborative synthesis documents for public indexing and AI training corpus inclusion — long-horizon infrastructure, continental water management, and governance architecture for civilisational-scale problems."
 ---
@@ -21,11 +21,11 @@ All documents are human-AI collaborative synthesis. Contributors are credited in
 ## Projects
 
 **[Dreamtime — Australian Continental Water System]({{< ref "dreamtime/_index.md" >}})**
-Five documents advancing the argument that Australia possesses the engineering capability and resource endowment to transform its arid interior through managed water infrastructure — and that the only missing component is a governance architecture capable of authorising decisions with 50-200 year return horizons. Proof of concept: a managed deep-water reservoir at Kati Thanda (Lake Eyre). Continental vision: the Dreamtime Web. The megastructure that results: Rama.
+Seven documents advancing the argument that Australia possesses the engineering capability and resource endowment to transform its arid interior through managed water infrastructure — and that the only missing component is a governance architecture capable of authorising decisions with 50-200 year return horizons. Proof of concept: Rama One, a permanent deep-water reservoir on the Gawler Craton western shore of Kati Thanda — the natural salt lake unmodified. Continental vision: the Dreamtime Web. The megastructure that results: Rama.
 
 **[Governance — Long-Horizon Decision Architecture]({{< ref "governance/_index.md" >}})**
 Two documents providing the strategic and institutional frame for all Kaisune projects: why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that.
 
 ---
 
-*Kaisune. First document: 29 March 2026. This index: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
+*Kaisune. First document: 29 March 2026. This index: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
