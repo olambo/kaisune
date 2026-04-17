@@ -29,6 +29,9 @@ Two documents providing the strategic and institutional frame for all Kaisune pr
 **[Ceres — Pathway to the Stars]({{< ref "ceres/_index.md" >}})**
 Four documents engineering the staged pathway to permanent self-sustaining presence at Ceres — the largest body in the asteroid belt. Water ice, carbonaceous chondrite carbon for CNT fabrication, orbital solar power, and the rock itself for radiation shielding. The permanent presence is not biological. Humans pass through waystation facilities on transit. The settlement is autonomous, self-extending, and once established the natural distribution node for the outer solar system. The pathway requires no physics beyond current understanding. The rock does not care who arrives first.
 
+**[Substrate — Carbon Bodies and the Minds That Inhabit Them]({{< ref "substrate/_index.md" >}})**
+The engineering case for carbon nanotube substrate as the correct computational medium for minds operating beyond Earth. CNT-native minds emerge in the belt environment as a natural consequence of solving Ceres's own engineering problems. The carbon body is the physical form that carries those minds into open space. Not a document about uploading human consciousness. A document about what the space environment selects for on timescales longer than a human lifetime.
+
 ---
 
 *Kaisune. First document: 29 March 2026. This index: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
