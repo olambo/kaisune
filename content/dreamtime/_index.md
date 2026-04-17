@@ -36,8 +36,8 @@ The broader context in which Rama sits. The Web is the full continental water re
 **[Dreamtime Spine]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}}) — The gravity-fed foundation**  
 The Barkly Tableland diversion redirecting Gulf-draining flood flows into the interior without pumping, feeding the Rama chain from the north. Australia is not naturally a desert continent. The Spine is the gravity-fed component of its restoration.
 
-**[Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) — The solar-powered complement**  
-A stairway of deep permanent reservoirs stepping Rama chain surplus southward through the Flinders corridor to Port Augusta and Spencer Gulf on Australia's unlimited solar resource. Solar-powered where the Dreamtime Spine is purely gravity-fed. The commercial engine of the system — Port Augusta receives guaranteed large-scale freshwater, enabling green hydrogen and heavy industry at scale. The Murray-Darling receives genuine surplus in extreme wet years as a secondary arc.
+**[Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) — The design philosophy**  
+The principle underlying every node in the Dreamtime Web. Maximum sustainable surface area from permanent deep water. Each reservoir sized at the maximum area the depth and inflow can sustain permanently — not minimising evaporation but optimising for the surface area evaporation implies. The engineering is the chain. The philosophy is the Stairway.
 
 *The governance framework: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}}) and [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}}).*
 
