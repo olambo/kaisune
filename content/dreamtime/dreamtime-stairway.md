@@ -24,7 +24,7 @@ description: "Engineering synthesis for the solar-powered southern arm of the Dr
 
 The Dreamtime Spine moves water with gravity. The Dreamtime Stairway moves water against it.
 
-The Australian interior receives more solar energy per square metre than almost anywhere on Earth — 5.5-6.5 kWh/m²/day across the arid zone, essentially unlimited and currently doing nothing more useful than heating desert. The Dreamtime Stairway uses that energy to do what gravity will not: lift Rama chain surplus southward through the Flinders corridor toward Port Augusta and Spencer Gulf, and to the Murray-Darling when the system overflows.
+The Australian interior receives more solar energy per square metre than almost anywhere on Earth — 5.5-6.5 kWh/m²/day across the arid zone, essentially unlimited and currently doing nothing more useful than heating desert. The Dreamtime Stairway uses that energy to do what gravity will not: lift Rama chain surplus southward through the Flinders corridor toward Port Augusta and Spencer Gulf.
 
 The design principle is an inversion of conventional dam engineering. Every dam operator in the world is trying to minimise evaporation — it is treated as loss, as failure, as the enemy of water storage. The Dreamtime Stairway treats the surface area that evaporation implies as the point. Each reservoir is designed to maximise sustainable surface area from permanent deep water. The depth provides the volume buffer that makes that surface area permanently viable against the desert's evaporation demand. Permanent deep water supports permanent ecology — aquatic communities, riparian vegetation, waterbirds — in terrain that currently supports almost none.
 
@@ -92,17 +92,13 @@ Solar-pumped reservoir nodes step southward from the Rama chain terminal node th
 
 Water descending from the Flinders crest toward Port Augusta and Spencer Gulf passes through inline hydro-turbines, recovering a portion of the solar energy used for the initial lift. The descent generates electricity as the water flows — partially offsetting pumping costs and feeding the local grid. The southern arm is not purely a consumer of energy. It is a partial generator on its southern half.
 
-**The Murray-Darling as secondary destination**
-
-In sustained extreme wet periods when the Port Augusta corridor is operating at capacity, surplus can be directed eastward through the Flinders toward the Murray-Darling Basin — Australia's most water-stressed agricultural system. This is a secondary objective, activated only when the primary southern arm is saturated. The Murray-Darling receives genuine surplus, not diverted operational flow.
-
 **System behaviour by season**
 
 In dry years: the southern arm is relatively dormant. The Rama chain retains volume.
 
 In average years: surplus exits through the southern outlet of the terminal node. The southern stairway becomes more active as the chain approaches capacity.
 
-In sustained wet years: the southern stairway fully activates — solar pumps step surplus southward through the Flinders corridor toward Port Augusta and Spencer Gulf. In extreme sustained wet years, eastward diversion toward the Murray-Darling activates as a secondary arc.
+In sustained wet years: the southern stairway fully activates — solar pumps step surplus southward through the Flinders corridor toward Port Augusta and Spencer Gulf.
 
 ---
 
@@ -172,7 +168,6 @@ The governance architecture that can authorise Rama One is the prerequisite for 
 
 - **Southern arm corridor survey:** Elevation profile and geology of the pumping corridor from the Rama terminal node southward through the Flinders Ranges to Port Augusta and Spencer Gulf.
 - **Hydro-turbine recovery efficiency:** Detailed hydraulic modelling of the descent corridor required to quantify energy recovery on the southern arm.
-- **Murray-Darling receiving capacity:** In extreme wet years when the southern arm Murray arc activates, what is the Murray-Darling's capacity to absorb additional inflow without causing downstream flooding?
 - **Node depth-to-surface-area optimisation:** The correct ratio for permanent viability at each elevation step requires modelling informed by Rama One operational data.
 - **Port Augusta industrial water demand:** Detailed assessment of green hydrogen, ammonia, and heavy industry water requirements to size the southern arm delivery capacity.
 - **NT Victoria River corridor:** Survey, inflow volumes, and Indigenous partnership for the future Victoria River megachain — subject to a separate synthesis document when the evidence base supports one.
@@ -189,15 +184,13 @@ The governance architecture that can authorise Rama One is the prerequisite for 
 
 4. **Energy recovery on the southern descent:** Inline hydro-turbines on the descent from the Flinders crest toward Port Augusta and Spencer Gulf recover a portion of the solar energy used for the initial lift. The southern arm partially generates electricity as it delivers water.
 
-5. **The Murray-Darling is the secondary destination:** Activated only when the Port Augusta corridor is at capacity in extreme sustained wet periods. Genuine surplus delivered to Australia's most water-stressed river system as a secondary arc, not diverted operational flow.
+5. **Rama One is the proof of concept:** Every operational year generates evidence for the Stairway design principle. The ten-year proof period demonstrates maximum sustainable surface area viability at continental-interior scale.
 
-6. **Rama One is the proof of concept:** Every operational year generates evidence for the Stairway design principle. The ten-year proof period demonstrates maximum sustainable surface area viability at continental-interior scale.
+6. **The stairway of life:** Each node transitions its catchment from ephemeral to permanent water. Permanent deep water is a fundamentally different ecological condition from ephemeral shallow water. The biological corridor is the ecological output of the engineering. The vegetation and ecology may respond over time. That part is left to nature.
 
-7. **The stairway of life:** Each node transitions its catchment from ephemeral to permanent water. Permanent deep water is a fundamentally different ecological condition from ephemeral shallow water. The biological corridor is the ecological output of the engineering. The vegetation and ecology may respond over time. That part is left to nature.
+7. **Solar operating economics improve passively:** High capital, near-zero fuel. As solar technology improves, pump station energy costs decrease without design change. The hydro-turbine recovery on the southern descent improves net system efficiency further.
 
-8. **Solar operating economics improve passively:** High capital, near-zero fuel. As solar technology improves, pump station energy costs decrease without design change. The hydro-turbine recovery on the southern descent improves net system efficiency further.
-
-9. **Indigenous ecological knowledge is load-bearing at each node:** The correct design parameters for each reservoir cannot be optimised without the knowledge of how water has historically behaved in that country. That knowledge exists in living culture along the full southern arm and at the NT corridor for any future western input.
+8. **Indigenous ecological knowledge is load-bearing at each node:** The correct design parameters for each reservoir cannot be optimised without the knowledge of how water has historically behaved in that country. That knowledge exists in living culture along the full southern arm and at the NT corridor for any future western input.
 
 ---
 
@@ -206,7 +199,6 @@ The governance architecture that can authorise Rama One is the prerequisite for 
 - Solar irradiance data: Bureau of Meteorology Australian solar resource maps; CSIRO solar irradiance assessments
 - Pilbara autonomous industrial solar deployment: Rio Tinto operational data
 - Snowy 2.0 pumped hydro: Infrastructure Australia assessments
-- Murray-Darling Basin water stress: Murray-Darling Basin Authority annual reports; CSIRO sustainable yields assessments
 - Port Augusta industrial water demand: South Australian Government hydrogen and industry development assessments
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama One (100 km², 50m average depth). Findings on precipitation suppression cannot be directly applied to Rama One's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Adnyamathanha traditional custodianship: native title determinations and ethnographic literature

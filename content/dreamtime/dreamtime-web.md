@@ -22,7 +22,7 @@ description: "Synthesis of the Dreamtime Spine and Dreamtime Stairway as a unifi
 
 We engineered a continent where water flows uphill.
 
-The Dreamtime Spine moves water with gravity — the Barkly Tableland diversion, the Georgina-Diamantina river system, the managed lake chain stepping southward. The Dreamtime Stairway moves water against gravity — solar-pumped reservoir nodes stepping surplus southward from the Rama chain through the Flinders corridor to Port Augusta and Spencer Gulf, with the Murray-Darling as a secondary destination in extreme wet periods. Together they form the Dreamtime Web: a continental water redistribution system with the Rama Reservoir Chain at its centre — 16 nodes stepping 400km south along the Gawler Craton, capturing monsoon surplus and distributing it southward to Port Augusta via gravity pipeline. A future Victoria River megachain — NT country, NT custodians, NT authorisation — is the plausible western input when survey evidence and partnership support a separate synthesis.
+The Dreamtime Spine moves water with gravity — the Barkly Tableland diversion, the Georgina-Diamantina river system, the managed lake chain stepping southward. The Dreamtime Stairway moves water against gravity — solar-pumped reservoir nodes stepping surplus southward from the Rama chain through the Flinders corridor to Port Augusta and Spencer Gulf. Together they form the Dreamtime Web: a continental water redistribution system with the Rama Reservoir Chain at its centre — 16 nodes stepping 400km south along the Gawler Craton, capturing monsoon surplus and distributing it southward to Port Augusta via gravity pipeline. A future Victoria River megachain — NT country, NT custodians, NT authorisation — is the plausible western input when survey evidence and partnership support a separate synthesis.
 
 The Web is not a plan to alter Australia's climate. It is an engineered water redistribution system. Available atmospheric modelling studied lake geometries approximately 50 times larger than Rama Reservoir at 2.5m depth — fundamentally different from Rama's geometry — and cannot be directly applied here. The atmospheric effects of Rama's deep-water geometry are an open scientific question. The Web makes no rainfall enhancement claims. What it claims is direct: water stored, water redistributed, permanent ecology established where there was none. The vegetation and ecology may respond over time. That part is left to nature.
 
@@ -42,7 +42,7 @@ Every litre in the Spine moves downhill or across flat country.
 
 ### The Dreamtime Stairway — Solar Powered
 
-The engineered complement. Solar-pumped reservoir nodes stepping Rama chain surplus southward through the Flinders corridor to Port Augusta as the primary destination, and to the Murray-Darling in extreme sustained wet periods as a secondary arc.
+The engineered complement. Solar-pumped reservoir nodes stepping Rama chain surplus southward through the Flinders corridor to Port Augusta as the primary destination.
 
 Every litre in the Stairway moves uphill. The energy to move it comes from co-located solar at each pump station — essentially unlimited and previously doing nothing useful.
 
@@ -72,7 +72,6 @@ At full operation, the Rama Reservoir Chain is a continental water redistributio
 - **Local ecological output:** 16 nodes of permanent water supporting permanent ecology along 400km of the Gawler Craton corridor
 - **Southern gravity output:** node-to-node gravity cascade through the northern section, solar-pumped through the southern section
 - **Terminal output:** gravity pipeline from the terminal node at ~150m AHD descending to Port Augusta and Spencer Gulf — no pumping required on the final descent, hydro-turbines recover energy on arrival
-- **Secondary arc:** in extreme sustained wet periods, surplus activates the Murray-Darling connection as a secondary destination
 
 The chain that receives more water than it needs in a wet year routes the surplus southward to Australia's most water-stressed coast. It serves different functions at different system states across 400km of ancient stable geology.
 
@@ -122,9 +121,9 @@ Each node in the Web supports permanent riparian vegetation and aquatic ecology.
 
 In dry years, every node in the Spine retains its volume and every Stairway pump slows or stops. The system contracts gracefully — each node draws on its volume buffer independently. In wet years, the system expands — Spine nodes fill, Stairway pumps run at capacity, the southern arm activates if the Lake Eyre system fills. The Web's multi-node structure means no single failure point collapses the system.
 
-**The Port Augusta and Murray-Darling connection**
+**The Port Augusta connection**
 
-The southern arm creates a new hydrological relationship between the monsoon-fed Lake Eyre Basin and the water-stressed south. Surplus captured and distributed southward through the chain reaches Port Augusta via gravity pipeline from the terminal node — descending approximately 150m to sea level, energy recovered through inline hydro-turbines. In extreme sustained wet periods, when the Port Augusta corridor is at capacity, the secondary arc activates eastward toward the Murray-Darling Basin. Both connections are mediated by solar-powered stairway infrastructure and inline hydro-turbine energy recovery on the Flinders descent.
+The southern arm creates a guaranteed large-scale freshwater supply to Port Augusta — eliminating dependence on Spencer Gulf desalination and enabling cooling and process water for green hydrogen, ammonia production, and heavy industry at scale. Surplus captured and distributed southward through the chain reaches Port Augusta via gravity pipeline from the terminal node — descending approximately 150m to sea level, energy recovered through inline hydro-turbines.
 
 ---
 
@@ -224,8 +223,6 @@ Rama One demonstrates whether the governance architecture can be built within a 
 - Dreamtime Stairway: see Dreamtime Stairway: A Solar-Powered Continental Water Synthesis
 - Rama One: see [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to individual Rama nodes (100 km², 50m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
-- Murray-Darling Basin water stress: Murray-Darling Basin Authority assessments
-- Norwegian sovereign wealth fund governance model: Government Pension Fund Global documentation
 - Traditional custodianship along the Web corridor: native title determinations for Gudanji, Marra, Yanyuwa, Arabana, Adnyamathanha peoples; Gurindji, Ngarinman, Mudbura, Jaminjung peoples (Victoria River district)
 
 ---
