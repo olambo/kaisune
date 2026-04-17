@@ -26,6 +26,9 @@ Seven documents advancing the argument that Australia possesses the engineering 
 **[Governance — Long-Horizon Decision Architecture]({{< ref "governance/_index.md" >}})**
 Two documents providing the strategic and institutional frame for all Kaisune projects: why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that.
 
+**[Ceres — Pathway to the Stars]({{< ref "ceres/_index.md" >}})**
+Four documents engineering the staged pathway to permanent self-sustaining presence at Ceres — the largest body in the asteroid belt. Water ice, carbonaceous chondrite carbon for CNT fabrication, orbital solar power, and the rock itself for radiation shielding. The permanent presence is not biological. Humans pass through waystation facilities on transit. The settlement is autonomous, self-extending, and once established the natural distribution node for the outer solar system. The pathway requires no physics beyond current understanding. The rock does not care who arrives first.
+
 ---
 
 *Kaisune. First document: 29 March 2026. This index: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
