@@ -1,7 +1,7 @@
 ---
 title: "Rama Reservoir Chain: A Linear Node Synthesis"
 date: 2026-04-15
-lastmod: 2026-04-15
+lastmod: 2026-04-17
 draft: false
 weight: 2
 tags:
@@ -42,6 +42,14 @@ The Gawler Craton western corridor runs southward from the latitude of Kati Than
 This corridor is why the chain is possible. The Flinders Ranges reach over 1,100m at their highest — an impassable barrier to any gravity-fed or low-cost pumped water system running north-south. The western corridor bypasses them entirely, staying on ancient stable Gawler Craton geology from start to finish.
 
 The 19th century proposals to flood Kati Thanda with seawater via a channel from Spencer Gulf identified the same corridor. They were asking the wrong question with the right geography. The chain sends freshwater south through the same route they proposed to bring salt water north.
+
+**Routing estimate — pending LiDAR confirmation:**
+
+The corridor likely threads east of Roxby Downs and well east of Woomera. Routing east of Roxby Downs keeps the chain on Stuart Shelf Gawler Craton substrate throughout and avoids the Woomera Prohibited Area entirely — a sovereign and security complexity the chain does not need. The terminal node sits somewhere east of Woomera, well clear of the prohibited zone.
+
+The elevation gradient along this route is expected to be very gradual — Kati Thanda at approximately -16m AHD rising to Port Augusta at sea level over ~450km of predominantly flat to gently undulating Gawler Craton terrain. Average rise is under 1m per kilometre over most of the route. If the gradient proves this gentle throughout, gravity cascade may extend further south than the conservative estimate, and the full 20km node length may be workable along the entire chain without requiring half-nodes.
+
+The pastoral lease country east of Roxby Downs has been heavily degraded by grazing. The chain corridor passes through damaged land rather than pristine country — a political and ecological asset. Framing the chain as rehabilitation of the degraded pastoral zone, not imposition on intact landscape, changes the conversation with landholders and the SA government.
 
 **Survey prerequisite:**
 
@@ -243,7 +251,6 @@ Partnership at every node. Technical collaboration throughout. Not consultation.
 - Gawler Craton corridor topography: SRTM data via topographic-map.com
 - Flinders Ranges elevation: Bureau of Meteorology; Wikipedia
 - Port Augusta industrial development: South Australian Government hydrogen strategy documents
-- Murray-Darling Basin water stress: Murray-Darling Basin Authority annual reports
 - Arabana traditional custodianship: native title determinations
 - Adnyamathanha traditional custodianship (Flinders corridor): native title determinations
 - Rama One engineering foundation: see [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})
