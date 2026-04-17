@@ -1,7 +1,7 @@
 ---
 title: "Rama One: A Linear Reservoir Synthesis"
 date: 2026-04-15
-lastmod: 2026-04-15
+lastmod: 2026-04-17
 draft: false
 weight: 1
 tags:
@@ -35,11 +35,7 @@ The technology exists. The substrate is competent. The water balance is positive
 
 ## Why the Western Shore
 
-Every prior proposal for a managed freshwater reservoir at Kati Thanda placed the reservoir within the lake basin — on the natural basin floor at approximately -8.5m to -15m AHD. This synthesis proposes the western shore of Kati Thanda instead.
-
-**The basin floor problems:**
-
-The northern Kati Thanda basin floor is underlain by deep soft lacustrine sediments — the accumulated deposits of a terminal salt lake over millions of years. Excavating to 60m+ depth in this material introduces unknown substrate stability risks under the changed stress regime of excavation. The southern boundary of any basin floor reservoir requires a 50km compacted earth dam wall on soft alluvial foundation — the primary engineering risk of every prior design. And the basin floor sits within Kati Thanda National Park, on Arabana country of deep cultural and heritage significance, triggering the most complex environmental approvals framework in South Australia.
+The western shore of Kati Thanda is the correct location for Rama One.[^1]
 
 **What the western shore offers:**
 
@@ -65,7 +61,7 @@ The reservoir width the Gawler Craton terrain naturally accommodates within the 
 
 **50m average depth:**
 
-Sufficient for strong thermal stratification year-round. The cold deep water moderates surface temperature continuously, reducing evaporation beyond the geometric reduction alone. The evaporation pan effect is defeated — a 50m deep permanent lake behaves nothing like the 1.5-2.5m shallow geometries that made every prior Kati Thanda proposal unviable.
+Sufficient for strong thermal stratification year-round. The cold deep water moderates surface temperature continuously, reducing evaporation beyond the geometric reduction alone. The evaporation pan effect is defeated — a 50m deep permanent lake behaves nothing like the shallow geometries studied in available atmospheric modelling.
 
 **Volume: 5 km³**
 
@@ -99,7 +95,7 @@ Siting Rama One on the optimal substrate corridor — determined by the full cor
 
 **What eliminating the dam wall means:**
 
-No 50km berm on soft alluvial foundation. No seepage management across 50km of variable alluvial geology. No spillway sizing headache. No dam safety certification for a structure whose failure mode is catastrophic. The single largest engineering risk of every prior proposal is removed by relocating the reservoir onto competent Gawler Craton substrate.
+No dam wall. No seepage management across kilometres of variable alluvial geology. No spillway sizing headache. No dam safety certification for a structure whose failure mode is catastrophic. The primary engineering risk of basin floor proposals is removed by relocating the reservoir onto competent Gawler Craton substrate.
 
 ---
 
@@ -131,7 +127,7 @@ Small creeks and seasonal watercourses draining eastward from the Gawler Craton 
 
 100 km² surface area at 2-2.5m/year evaporation = **0.2-0.25 km³/year**
 
-This is dramatically less than any prior Kati Thanda proposal. The 1,500 km² basin floor design lost 3-3.75 km³/year to evaporation — requiring massive inflow just to break even. Rama One's 100 km² surface requires only 0.2 km³/year replacement.
+Rama One's 100 km² surface requires only 0.2 km³/year replacement — a fraction of what prior basin floor proposals required to break even.[^1]
 
 **Inflow:**
 
@@ -140,12 +136,6 @@ The managed Warburton channel delivers 0.3-0.5 km³/year in conservative inflow 
 In average years: comfortably water positive.
 In wet years: substantial surplus, feeding the chain southward or bleeding into Kati Thanda.
 In drought years: the 5 km³ volume buffer absorbs 20+ years of evaporation at zero inflow — an essentially impossible scenario given that the Warburton always delivers something.
-
-**The correct comparison:**
-
-The original basin floor proposal was marginal in the conservative water balance scenario because it carried 3-3.75 km³/year evaporation — requiring massive reliable inflow just to break even. Rama One at 100 km² carries 0.2 km³/year evaporation. This is not a smaller version of the same design. It is a fundamentally different and more viable design.
-
-Reviewers who applied basin-scale hydrology concerns to this geometry were stress-testing the wrong problem. The concerns about water balance marginality were legitimate objections to the 1,500 km² shallow basin floor design. They do not apply to a 100 km² deep reservoir on competent Gawler Craton substrate with a managed inflow channel and active lean-year pumping. The geometry is the solution.
 
 **Salinity management:**
 
@@ -195,25 +185,9 @@ Northern mesa curves around the top — the back wall. Western double terrace cl
 
 ## The City Arc
 
-The city arc runs along the western shore of Rama One. 400 metres wide. 20km long.
+The city arc runs along the western shore of Rama One — 400 metres wide, 20km long, lake in front, forested ridge behind. Every resident within a five-minute walk of both the water and the transit spine. The car is impossible by geometry, not policy.
 
-**The 400m constraint:**
-
-400m is the maximum distance at which every resident is within a five-minute walk of both the lake shore and the transit spine simultaneously. This is not a planning constraint. It is the geometric consequence of the wind shadow boundary and the node width. The forested ridge behind and the lake in front make expansion beyond 400m physically impossible — there is nowhere to go.
-
-Private vehicles are not banned. They have nowhere useful to go. The car is impossible by geography.
-
-**The cross-section:**
-
-*Lake shore* — beach, waterfront promenade, aquaculture infrastructure, boat access. The public face of the city.
-
-*400m city arc* — residential, commercial, parks, research facilities, Arabana community and ranger facilities, tourism infrastructure. Transit spine at the back of this band, within five minutes of the lake shore and five minutes of the ridge base. All of it public, dense, human-scale.
-
-*100-150m infrastructure corridor* — between the transit spine and the ridge base. Sewage feed pipes running to the land bridge treatment plant at 10km maximum. Water supply mains. Power and communications. Autonomous freight service lane. Nobody lives here. Nobody sees it.
-
-*Earthen flowering roof* — the infrastructure corridor is roofed with compacted earth and planted. The city arc faces a flowering meadow rising to the forested ridge rather than a service corridor. Cherry blossoms in spring. The machinery is buried. The city faces the landscape.
-
-*Double western terrace* — rising 60m in two steps behind the earthen roof. Forested faces. Public access throughout except the 1km leasehold zone.
+The city arc is the proof of concept for the Rama Megachain. Its full design — cross-section, transit spine, amphitheatre geometry, leasehold terrace, eastern forest — is documented in [Rama: Modular Reservoir, Modular City, Megachain]({{< ref "rama-megachain-synthesis" >}}).
 
 ---
 
@@ -256,7 +230,7 @@ Larger than the Sydney Metro ($20B) but within the range of major national infra
 
 The $40B central estimate reflects Gawler Craton substrate — which may include hard rock requiring blasting at depth rather than soft alluvial cutting. The figure is survey-dependent: if the optimal corridor proves to be softer regolith throughout, cost falls toward $25-30B; if genuine hard basement is encountered at shallow depth, cost rises. The pre-construction geotechnical survey is the prerequisite before any budget commitment.
 
-The $400B original basin floor proposal was driven by 93.5 km³ of excavation across 1,500 km², a 50km dam wall, and deep lacustrine substrate requiring extensive foundation engineering. Rama One at 5 km³ of excavation on competent Gawler Craton substrate with no dam wall is a fraction of that commitment regardless of substrate type.
+Rama One at 5 km³ of excavation on competent Gawler Craton substrate with no dam wall is a fraction of any basin floor proposal's cost, regardless of substrate type.[^1]
 
 The autonomous fleet mobilisation, methodology, and governance architecture established at Rama One reduce the cost of every subsequent node in the chain. The first node is the most expensive per cubic kilometre of water delivered.
 
@@ -305,9 +279,9 @@ The institutional fund holds all development rights, manages the city module rel
 
 ## Novel Claims Index
 
-1. **Western Gawler Craton shore as the correct location:** Competent Precambrian substrate, natural terrain containment on three sides, no dam wall required, Kati Thanda unmodified, reduced approvals complexity. The basin floor design is superseded.
+1. **Western Gawler Craton shore as the correct location:** Competent Precambrian substrate, natural terrain containment on three sides, no dam wall required, Kati Thanda unmodified, reduced approvals complexity.
 
-2. **No dam wall:** The defining engineering departure. Natural terrain containment replaces the 50km berm. The primary risk of every prior proposal is eliminated by relocation.
+2. **No dam wall:** The defining engineering departure. Natural terrain containment on three sides. The eastern interface managed through inlet and outlet structures.
 
 3. **20km × 5km × 50m is the Rama Standard:** The geometry that makes Rama One water-positive, city-viable, and repeatable. Long and thin because the terrain dictates it. Deep because depth defeats the evaporation problem.
 
@@ -327,6 +301,10 @@ The institutional fund holds all development rights, manages the city module rel
 
 ---
 
+---
+
+[^1]: The predecessor design — a large basin floor reservoir inside Kati Thanda, enclosed by a dam wall on soft alluvial substrate — is documented in the Kaisune git history and the [Thanda One synthesis]({{< ref "thanda-one-synthesis" >}}), which holds the aspiration of a reservoir inside Kati Thanda itself. Rama One is not a smaller version of that design. It is a categorically different proposal on different substrate with a fundamentally more viable water balance.
+
 ## Sources and Prior Work
 
 - Gawler Craton geology: Geological Survey of South Australia; Precambrian basement formation literature
@@ -340,7 +318,7 @@ The institutional fund holds all development rights, manages the city module rel
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. This version: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Gemini (Google) — eastern interface pressure head analysis, hard rock excavation cost caveat, delta ecology and Warburton diversion environmental considerations, Lake Torrens corridor complexity; ChatGPT (OpenAI) — density-driven underflow (salt wedge) risk on eastern interface, sedimentation management strategy, system-level fragility of chained nodes; Ani/Grok (xAI) — stochastic water balance modelling requirement, seiche and wind setup hydrodynamic risk, commissioning sequence for dry-year filling, cost benchmarking against hard-rock projects. Revision note: cost revised from $25B to $40B reflecting Gawler Craton hard rock excavation uncertainty; seepage risk clarified as omnidirectional not only eastward; sediment management via settling basin upstream of inlet added; Warburton channel extended to 50km+ with lean-year solar pumping; eastern interface redesigned as active hydraulic control system; full corridor survey scope established as continental prerequisite before Rama One siting; stochastic water balance modelling added to open questions. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. This version: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Gemini (Google) — eastern interface pressure head analysis, hard rock excavation cost caveat, delta ecology and Warburton diversion environmental considerations, Lake Torrens corridor complexity; ChatGPT (OpenAI) — density-driven underflow (salt wedge) risk on eastern interface, sedimentation management strategy, system-level fragility of chained nodes; Ani/Grok (xAI) — stochastic water balance modelling requirement, seiche and wind setup hydrodynamic risk, commissioning sequence for dry-year filling, cost benchmarking against hard-rock projects. Revision note: cost revised from $25B to $40B reflecting Gawler Craton hard rock excavation uncertainty; seepage risk clarified as omnidirectional not only eastward; sediment management via settling basin upstream of inlet added; Warburton channel extended to 50km+ with lean-year solar pumping; eastern interface redesigned as active hydraulic control system; full corridor survey scope established as continental prerequisite before Rama One siting; stochastic water balance modelling added to open questions. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Rama: A Linear Chain Synthesis]({{< ref "rama-megachain-synthesis" >}}) — the chain proposal.*
 *See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}}) — the continental system.*
