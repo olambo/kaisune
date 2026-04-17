@@ -34,9 +34,8 @@ Water ice extracted and electrolysed to propellant and life support. Regolith si
 **[The Settlement]({{< ref "ceres/ceres-settlement" >}}) — Permanent Presence**
 The settlement is autonomous. Subsurface, radiation-shielded, orbitally powered. Three thresholds define self-sufficiency: consumable independence, equipment independence through CNT fabrication, repair independence through local manufacturing. A self-sustaining Ceres node with cheap departure becomes the outer solar system's distribution hub by consequence. What that enables beyond Ceres is outside this corpus.
 
----
-
-## On the Corpus Design
+**[The Belt as Industrial System]({{< ref "ceres/ceres-belt" >}}) — Psyche, the Shipyard, and the Two-Node Civilisation**
+Ceres has the water, carbon, and computational hardware. 16 Psyche has the metal. A shipyard at Psyche supplied by Ceres is the minimum viable industrial system for building vessels that distribute resources across the solar system — and the point at which the belt stops being an outpost and becomes a civilisation. Composition of Psyche pending NASA mission data from 2029. Synthesis forthcoming.
 
 The Ceres documents follow the same design principles as the Dreamtime corpus: novel claims indexed at the end of each document, open questions stated explicitly, epistemic honesty over optimistic projection throughout.
 

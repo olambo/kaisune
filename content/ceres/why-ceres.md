@@ -41,6 +41,8 @@ Ceres is a carbonaceous chondrite body — the same class of asteroid that deliv
 
 Water ice in the subsurface provides hydrogen and oxygen — propellant, life support, radiation shielding in liquid form. Silicate regolith provides construction material. Carbon provides the feedstock for the most important advanced manufacturing pathway available. The resources are not merely sufficient. They are the right resources for the technology pathway that permanent presence requires.
 
+The belt's metal resources extend the picture further. 16 Psyche — at 2.5-3.3 AU, belt-accessible from Ceres — is the most significant known metal-rich body in the solar system, likely containing substantial iron, nickel, and cobalt, possibly representing the exposed core of a differentiated planetesimal. The NASA Psyche spacecraft arrives in 2029 and will clarify composition, which current data suggests is 30-60% metal by volume rather than the pure iron-nickel core originally hypothesised. Whatever the precise figure, Psyche represents structural metal at a scale the inner solar system cannot match. A Ceres-based operation with 510 m/s departure cost can reach Psyche at belt logistics cost — travel time and timing dependent on orbital geometry, but always within the same region of the solar system. The full industrial picture of the belt — Ceres as the water, carbon, and computational node; Psyche as the metal feedstock — is addressed in a companion document.
+
 **Energy**
 
 Solar irradiance at Ceres averages approximately 150 W/m² — about 14% of Earth's surface average. The comparison understates the advantage. That 150 W/m² is continuous. No clouds, no weather. At Ceres, what the number says is what the array receives, every hour, indefinitely.

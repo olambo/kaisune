@@ -119,6 +119,8 @@ Further out — Jupiter's moons, Saturn's moons, anywhere in the belt — Ceres 
 
 Resources extracted and processed at Ceres — water, oxygen, hydrogen, sintered construction elements, eventually CNT-fabricated computational hardware, agricultural inputs — reach any destination at costs that scale with distance rather than with planetary gravity wells. The settlement that started as a self-sufficiency project becomes the supply infrastructure for the next stage of expansion. Not by design — by consequence. A node that can produce and depart cheaply becomes a hub whether it intends to or not.
 
+The relationship with Psyche is the clearest example. Psyche has the structural metal. Ceres has the water, propellant, and computational hardware. A shipyard at Psyche supplied by Ceres is the minimum viable industrial system for building vessels that distribute resources across the solar system. The full argument is addressed in a companion document.
+
 What comes after Ceres — what the solar system looks like when supplied from a self-sustaining belt node — is outside the scope of this corpus. The corpus establishes the pathway to Ceres. What Ceres enables beyond itself is left to whoever gets there.
 
 ---
