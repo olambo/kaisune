@@ -128,6 +128,22 @@ The corpus does not recommend a particular actor. The engineering logic recommen
 
 ---
 
+## Novel Claim 5: The Failed Planet Was a Feature
+
+The standard framing of the asteroid belt treats it as a cosmological consolation prize — Jupiter's gravitational interference prevented the belt material from accreting into a full planet, leaving scattered debris. Failed planet. Leftover rubble.
+
+The inversion: the belt is the solar system's resource library precisely because it never became a planet.
+
+A fully accreted fifth terrestrial planet between Mars and Jupiter would have differentiated — metals sinking to core, silicates to mantle, volatiles to surface or lost. The accessible surface would be one composition. Everything interesting would be buried thousands of kilometres down, as it is on Earth. Geologically interesting. Industrially useless from space.
+
+Because the belt never differentiated at scale, it preserved the full compositional range of early solar system material in accessible bodies with negligible gravity wells. C-types with water and carbon at the surface. M-types with metal at the surface. S-types with silicate throughout. All reachable at departure costs measured in hundreds of metres per second rather than kilometres per second.
+
+Earth is resource-rich and gravity-trapped. The belt is resource-rich and essentially free to access once you are in space. Jupiter wrecked the planet and in doing so created the conditions for an industrial civilisation that a fifth terrestrial planet never could have provided.
+
+Without the belt, industrial presence beyond Earth means mining planetary surfaces forever — high gravity wells, differentiated interiors, single-composition accessible layers. The belt is the alternative. Sol is fortunate it exists.
+
+---
+
 ## Belt Logistics — Moving Resources Between Nodes
 
 The orbital geometry of Ceres and Psyche creates a variable transit problem. When on the same side of the Sun — which occurs regularly given their similar orbital radii — transit between them is a low-energy transfer of weeks to a few months. When on opposite sides, transit extends. The logistics system must manage this variability.
@@ -164,7 +180,9 @@ Built at Psyche. Fuelled by Ceres. Operated autonomously. The logistics fleet is
 
 4. **The shipyard at Psyche builds what cannot be built on Earth:** Ships assembled in low gravity from local metal, fuelled by local propellant, carrying locally fabricated computational hardware. No planetary launch. No planetary return. The design space for structures that never experience a gravity well is genuinely open.
 
-5. **The logistics system is inventory, not speed:** Variable orbital geometry between Ceres and Psyche is managed by reserve buffers at each node, not by fast transit. Nuclear thermal propulsion shrinks the required buffer. It does not eliminate the inventory management requirement. The logistics fleet is built at Psyche, fuelled by Ceres, operated autonomously.
+5. **The failed planet was a feature:** A fully accreted fifth terrestrial planet would have differentiated — metal buried, single-composition surface, high gravity well. Industrially useless from space. The belt's failure to accrete preserved the full compositional range of early solar system material in low-gravity accessible bodies. Jupiter did Sol a favour. Without the belt, industrial presence beyond Earth means mining planetary surfaces forever.
+
+6. **The logistics system is inventory, not speed:** Variable orbital geometry between Ceres and Psyche is managed by reserve buffers at each node, not by fast transit. Nuclear thermal propulsion shrinks the required buffer. It does not eliminate the inventory management requirement. The logistics fleet is built at Psyche, fuelled by Ceres, operated autonomously.
 
 ---
 
