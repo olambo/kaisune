@@ -1,7 +1,7 @@
 ---
 title: "Dreamtime Spine: A Continental Restoration Synthesis"
 date: 2026-03-31
-lastmod: 2026-04-13
+lastmod: 2026-04-17
 draft: false
 weight: 6
 tags:
@@ -28,13 +28,13 @@ The spine already exists in skeletal form. The Wunaamin Miliwundi Ranges, the Ha
 
 1. **Redirect the rivers** — the Barkly Tableland continental divide separates Gulf-draining and interior-draining systems across flat country at comparable elevation. Gravity already nearly routes this water inland. A modest diversion structure completes what the terrain almost does on its own.
 
-2. **Anchor with managed lakes** — Rama One, built within the northern basin of Kati Thanda, is the first and primary node. Each lake in the chain captures redirected river flow, manages salinity through controlled southern release, and supports permanent riparian vegetation and aquatic ecology.
+2. **Anchor with managed lakes** — Rama One, built on the Gawler Craton western shore of Kati Thanda, is the first and primary node. Each lake in the chain captures redirected river flow, manages salinity through controlled southern release, and supports permanent riparian vegetation and aquatic ecology.
 
 The target is permanent water in the arid interior — establishing the ecological conditions under which Australia's megafauna flourished and under which Aboriginal land management operated at continental scale. Whether that eventually affects rainfall patterns is an open scientific question — available modelling studied geometries approximately 50 times larger than Rama at shallow depth and cannot be directly applied here. This document makes no rainfall enhancement claims and does not require them. The vegetation and ecology may respond over time. That part is left to nature.
 
 That civilisation remembers what the country was. That memory is the project's most important technical resource.
 
-*The Dreamtime Spine is the gravity-fed foundation. For engineered water movement against gravity — the solar-pumped reservoir chain and the southern connection to the Murray-Darling — see the companion [Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) document. For the full integrated system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
+*The Dreamtime Spine is the gravity-fed foundation. For engineered water movement against gravity — the solar-pumped reservoir chain and the southern connection to Port Augusta and the Murray-Darling — see the companion [Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) document. For the full integrated system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
 
 ---
 
@@ -54,7 +54,7 @@ The continent was not always a desert. The desert is the aberration.
 
 Three overlapping processes degraded the interior water system:
 
-**Tectonic river capture** — continental margin uplift progressively redirected river systems from interior drainage toward coastal outlets. Rivers that once fed interior basins were captured by steeper coastal gradients and redirected to the ocean. The richest orographic precipitation — captured by the Kimberley and Pilbara ranges — drains westward to the Indian Ocean. Whether any of that captured moisture is recoverable for interior drainage via gravity depends on topographic survey of the intervening terrain. That question belongs to the Dreamtime Stairway, not the Spine.
+**Tectonic river capture** — continental margin uplift progressively redirected river systems from interior drainage toward coastal outlets. Rivers that once fed interior basins were captured by steeper coastal gradients and redirected to the ocean. The richest orographic precipitation — captured by the Kimberley and Pilbara ranges — drains westward to the Indian Ocean. Whether any of that captured moisture is recoverable for interior drainage is outside the scope of this project.
 
 **Aridification feedback** — as interior water bodies shrank, evapotranspiration from vegetation declined, reducing moisture recycling, reducing rainfall, reducing vegetation further. A self-reinforcing degradation cycle operating over millions of years. The mechanism that sustained the wetter interior was the interior itself — once degraded past a threshold, the system could not self-correct.
 
@@ -68,9 +68,9 @@ The broken water system is not a natural state. It is the accumulated result of 
 
 The continent's existing orographic infrastructure is substantially underappreciated in discussions of Australian climate and water management.
 
-**Wunaamin Miliwundi Ranges (western Kimberley)** — 567km crescent, averaging 600m, maximum 983m. Intercepts the northwest pseudo-monsoon — a westerly Indian Ocean moisture flow distinct from the true cross-equatorial monsoon. Already captures significant precipitation on its western faces. The Fitzroy River drains this moisture westward to the Indian Ocean. Whether that water is recoverable for interior drainage via gravity requires topographic survey of the intervening terrain — this is a Dreamtime Stairway question, not a Spine question.
+**Wunaamin Miliwundi Ranges (northwest WA)** — 567km crescent, averaging 600m, maximum 983m. Intercepts the northwest pseudo-monsoon — a westerly Indian Ocean moisture flow distinct from the true cross-equatorial monsoon. Already captures significant precipitation on its western faces. The Fitzroy River drains this moisture westward to the Indian Ocean. Whether any of that captured moisture is recoverable for interior drainage is outside the scope of this project.
 
-**Hamersley Range (Pilbara, WA)** — reaches approximately 1,200m at Mount Meharry, Australia's highest peak outside the Great Dividing Range. Intercepts Indian Ocean moisture systems. Feeds the Fortescue and Ashburton river systems draining west. Same gravity constraint as the Fitzroy — recoverable moisture is a Stairway question.
+**Hamersley Range (Pilbara, WA)** — reaches approximately 1,200m at Mount Meharry, Australia's highest peak outside the Great Dividing Range. Intercepts Indian Ocean moisture systems. Feeds the Fortescue and Ashburton river systems draining west. Whether any of that captured moisture is recoverable for interior drainage is outside the scope of this project.
 
 **MacDonnell Ranges (central NT)** — approximately 600km east-west, reaching 1,531m at Mount Zeil. Intercepts limited moisture from both north and south. Feeds the Finke River — one of the world's oldest river systems, draining southward toward the Lake Eyre Basin. The Finke already drains toward the interior. The MacDonnell is the spine's central vertebra — already correctly oriented, already doing its work.
 
@@ -94,9 +94,9 @@ This distinction is absent from all existing Bradfield-scheme-adjacent literatur
 
 **The northwest pseudo-monsoon (west of 124°E)**
 
-The Kimberley region — Broome, Derby, the Wunaamin Miliwundi ranges — receives a westerly flow from the Indian Ocean rather than true cross-equatorial monsoon flow. The existing crescent-shaped Wunaamin Miliwundi ranges are already oriented perpendicular to this westerly flow and already performing maximum orographic interception. A new ridge in this area would not improve orographic capture — the existing geology has already solved that problem.
+The northwest WA coastal ranges receive a westerly flow from the Indian Ocean rather than true cross-equatorial monsoon flow. The existing crescent-shaped Wunaamin Miliwundi ranges are already oriented perpendicular to this westerly flow and already performing maximum orographic interception. A new ridge in this area would not improve orographic capture — the existing geology has already solved that problem.
 
-The captured moisture drains via the Fitzroy westward to the ocean. Whether gravity permits interior diversion is a topographic survey question. The Spine makes no claim here. That water, if recoverable, belongs to the Dreamtime Stairway.
+The captured moisture drains via the Fitzroy westward to the ocean. Whether gravity permits interior diversion is outside the scope of this project.
 
 **The true cross-equatorial monsoon (130°E-145°E)**
 
@@ -146,12 +146,12 @@ The gravity-fed chain from north to south:
 
 - **Barkly Tableland diversion** — Gulf-draining flood flows redirected southward into the Georgina headwaters. No pumping. Flat terrain.
 - **Georgina-Diamantina-Warburton system** — the existing primary fill mechanism, carrying true monsoon precipitation southward toward Kati Thanda across 1,400km of channel country.
-- **Rama One** — the primary anchor reservoir, built within the northern basin of Kati Thanda. The proof of concept node for the entire Dreamtime system.
-- **Southern transition wetland** — the managed 10km transition zone south of the Rama One dam wall, functioning as ecological buffer and wetland habitat.
+- **Rama One** — the primary anchor reservoir, built on the Gawler Craton western shore of Kati Thanda. The proof of concept node for the entire Dreamtime system.
+- **Southern transition wetland** — the managed transition zone south of Rama One, functioning as ecological buffer and wetland habitat.
 
-The gravity-fed Spine terminates at Rama One and its southern transition wetland. Lakes south of Kati Thanda — Lake Torrens, Lake Gairdner, Lake Frome — sit at 30-100m above sea level and cannot receive gravity-fed water from Rama One at -8.5m AHD. Any southward extension beyond the transition wetland belongs to the solar-pumped Dreamtime Stairway, not the gravity-fed Spine.
+The gravity-fed Spine terminates at Rama One and its southern transition wetland. Lakes south of Kati Thanda — Lake Torrens, Lake Gairdner, Lake Frome — sit at 30-100m above sea level and cannot receive gravity-fed water from Rama One. Any southward extension beyond the transition wetland belongs to the solar-pumped Dreamtime Stairway, not the gravity-fed Spine.
 
-This chain spans approximately 2,000km north to south. Every link in it works with gravity. The engineering complexity is at the Barkly diversion point and the Rama One dam wall — the rest is the continent doing what it almost does already.
+This chain spans approximately 2,000km north to south. Every link in it works with gravity. The engineering complexity is at the Barkly diversion point and the Rama One eastern interface — the rest is the continent doing what it almost does already.
 
 ---
 
@@ -163,7 +163,7 @@ Each managed lake maximises sustainable surface area from permanent deep water. 
 
 **What the modelling shows on atmospheric effects**
 
-Available atmospheric modelling of permanent inland water bodies at the Kati Thanda location has studied lake geometries approximately 50 times larger than Rama Reservoir at 2.5m average depth — fundamentally different in both surface area and thermal mass from the 1,500 km² deep-water reservoir proposed here (Yang et al. 2023 modelled 76,621 km² at 2.5m; Yang et al. 2025 modelled up to 2.35 million km²). Those findings cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale in central Australia are an open scientific question. This project makes no rainfall enhancement claims and does not require them.
+Available atmospheric modelling of permanent inland water bodies at the Kati Thanda location has studied lake geometries approximately 50 times larger than Rama Reservoir at 2.5m average depth — fundamentally different in both surface area and thermal mass from the current Rama One geometry. Those findings cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale in central Australia are an open scientific question. This project makes no rainfall enhancement claims and does not require them.
 
 The local effects are real and supported by basic physics: cooler air near the water surface, higher humidity within 10-20km, temperature moderation of the immediate shoreline. These are ecologically valuable regardless of any rainfall effect. The ecological case for permanent water stands entirely on its own without rainfall enhancement.
 
@@ -207,7 +207,7 @@ The Dreaming does not describe the past. It describes the deep structure of the 
 
 A spine of managed lakes and redirected rivers running through the continental interior, restoring water to country that remembers having it, completing an orographic chain that geology began — this is not imposing something on the land. This is the land reasserting a structure it has always had.
 
-The traditional custodians of the country along the proposed spine include: the Arabana people (Kati Thanda), the Ngarinyin and Bunuba peoples (Wunaamin Miliwundi), the Arrernte people (MacDonnell Ranges and Alice Springs region), the Anangu people (Musgrave Ranges and Uluru), and numerous other nations along the full 2,000km corridor. The Gudanji, Marra, and Yanyuwa peoples are the custodians of the Barkly and Gulf country where the near-term diversion intervention is proposed — their partnership is the binding design constraint for that component.
+The traditional custodians of the country along the proposed Spine include: the Arabana people (Kati Thanda), the Arrernte people (MacDonnell Ranges and Alice Springs region), the Anangu people (Musgrave Ranges and Uluru), and numerous other nations along the full 2,000km corridor. The Gudanji, Marra, and Yanyuwa peoples are the custodians of the Barkly and Gulf country where the near-term diversion intervention is proposed — their partnership is the binding design constraint for that component.
 
 Each custodian group carries ecological knowledge specific to their country that predates European contact and in many cases predates the current arid conditions. This knowledge is not background context. It is primary technical data for the restoration design.
 
@@ -241,9 +241,9 @@ Get Rama One built. Demonstrate that 50-year managed lake infrastructure can be 
 
 1. **The desert is the aberration:** The arid interior is the product of tectonic river capture, aridification feedback, and megafauna collapse — not the continent's natural state.
 
-2. **The Spine is gravity-fed throughout:** No pumping. No mountain crossings. Engineering complexity is at the Barkly diversion point and the Rama One dam wall. Everything else is the continent doing what it almost does already.
+2. **The Spine is gravity-fed throughout:** No pumping. No mountain crossings. Engineering complexity is at the Barkly diversion point and the Rama One eastern interface. Everything else is the continent doing what it almost does already.
 
-3. **Two monsoon systems — gravity can address one directly:** The true cross-equatorial monsoon feeds the interior via the Georgina and Diamantina. The Barkly diversion recovers the Gulf-draining fraction without pumping. The pseudo-monsoon Fitzroy question is a Stairway matter.
+3. **Two monsoon systems — gravity can address one directly:** The true cross-equatorial monsoon feeds the interior via the Georgina and Diamantina. The Barkly diversion recovers the Gulf-draining fraction without pumping. The pseudo-monsoon water draining via the Fitzroy westward to the Indian Ocean is outside the scope of this project.
 
 4. **Barkly Tableland diversion is the highest-return gravity-fed intervention:** Flat tableland divide at comparable elevation on both sides. No mountain crossing. Gudanji, Marra, and Yanyuwa partnership is the binding design constraint. Bradfield's 21 km³/year target is irrelevant — Rama One needs only 0.5-1.5 km³/year additional to shift scenarios.
 
@@ -271,12 +271,12 @@ Get Rama One built. Demonstrate that 50-year managed lake infrastructure can be 
 - Paleolake Dieri: palaeoclimatological literature
 - Australian megafauna: Roberts et al. 2001 and subsequent dating literature
 - Bradfield Scheme: original 1938 proposal; CSIRO 2022 assessment
-- **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama Reservoir (1,500 km², 66.5m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
+- **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama One (100 km², 50m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Thylacine restoration: Colossal Biosciences and University of Melbourne research programme
-- Arabana, Ngarinyin, Bunuba, Arrernte, Anangu traditional custodianship: native title determinations and ethnographic literature
+- Arabana, Arrernte, Anangu traditional custodianship: native title determinations and ethnographic literature
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, epistemic framing on vegetation and ecology. Revision note: climate and rainfall corridor claims removed. Atmospheric modelling citations corrected — available studies modelled geometries approximately 50x larger than Rama One at 2.5m depth; findings cannot be applied to Rama One's 1,500 km², 66.5m deep-water geometry. Atmospheric effects of Rama One's geometry are an open scientific question. Ecological framing substituted throughout. Rama One established as primary node throughout — replaces Kati Thanda where referring to the managed reservoir. Lake Torrens, Gairdner, and Frome removed from gravity-fed chain — these lakes sit 30-100m above sea level and cannot receive gravity-fed water from Rama One at -8.5m AHD; southward extension beyond Rama One belongs to the Dreamtime Stairway. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, epistemic framing on vegetation and ecology. Revision note: Fitzroy River diversion removed as a project reference — WA outside current project scope. Wunaamin Miliwundi and Hamersley retained as geographic description of the existing orographic spine only, with no project claims attached. Ngarinyin and Bunuba removed from partnership list — their country is noted geographically but no project work is proposed there. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — companion engineering document for the first spine node.*

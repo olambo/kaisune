@@ -1,7 +1,7 @@
 ---
 title: "Dreamtime Web: A Continental Water System Synthesis"
 date: 2026-04-13
-lastmod: 2026-04-13
+lastmod: 2026-04-17
 draft: false
 weight: 5
 tags:
@@ -22,7 +22,7 @@ description: "Synthesis of the Dreamtime Spine and Dreamtime Stairway as a unifi
 
 We engineered a continent where water flows uphill.
 
-The Dreamtime Spine moves water with gravity — the Barkly Tableland diversion, the Georgina-Diamantina river system, the managed lake chain stepping southward. The Dreamtime Stairway moves water against gravity — solar-pumped reservoir nodes stepping toward the Kimberley in the west, surplus lifted southward through the Flinders corridor to Port Augusta and Spencer Gulf, with the Murray-Darling as a secondary destination in extreme wet periods. Together they form the Dreamtime Web: a continental water redistribution system with the Rama Reservoir Chain at its centre — 16 nodes stepping 400km south along the Gawler Craton, capturing monsoon surplus and distributing it southward to Port Augusta via gravity pipeline, and westward toward the Kimberley on solar energy.
+The Dreamtime Spine moves water with gravity — the Barkly Tableland diversion, the Georgina-Diamantina river system, the managed lake chain stepping southward. The Dreamtime Stairway moves water against gravity — solar-pumped reservoir nodes stepping surplus southward from the Rama chain through the Flinders corridor to Port Augusta and Spencer Gulf, with the Murray-Darling as a secondary destination in extreme wet periods. Together they form the Dreamtime Web: a continental water redistribution system with the Rama Reservoir Chain at its centre — 16 nodes stepping 400km south along the Gawler Craton, capturing monsoon surplus and distributing it southward to Port Augusta via gravity pipeline. A future Victoria River megachain — NT country, NT custodians, NT authorisation — is the plausible western input when survey evidence and partnership support a separate synthesis.
 
 The Web is not a plan to alter Australia's climate. It is an engineered water redistribution system. Available atmospheric modelling studied lake geometries approximately 50 times larger than Rama Reservoir at 2.5m depth — fundamentally different from Rama's geometry — and cannot be directly applied here. The atmospheric effects of Rama's deep-water geometry are an open scientific question. The Web makes no rainfall enhancement claims. What it claims is direct: water stored, water redistributed, permanent ecology established where there was none. The vegetation and ecology may respond over time. That part is left to nature.
 
@@ -42,7 +42,7 @@ Every litre in the Spine moves downhill or across flat country.
 
 ### The Dreamtime Stairway — Solar Powered
 
-The engineered complement. Solar-pumped reservoir nodes stepping up the elevation gradient from the continental interior toward the Kimberley in the west. The southern arm lifting Lake Eyre surplus through the Flinders corridor to Port Augusta as the primary destination, and to the Murray-Darling in extreme sustained wet periods as a secondary arc.
+The engineered complement. Solar-pumped reservoir nodes stepping Rama chain surplus southward through the Flinders corridor to Port Augusta as the primary destination, and to the Murray-Darling in extreme sustained wet periods as a secondary arc.
 
 Every litre in the Stairway moves uphill. The energy to move it comes from co-located solar at each pump station — essentially unlimited and previously doing nothing useful.
 
@@ -56,7 +56,7 @@ The chain as a system:
 
 - **Receives** monsoon surplus via the managed Warburton channel and Barkly Tableland diversion
 - **Distributes southward** — gravity cascade through northern nodes, solar-pumped through southern nodes, gravity pipeline to Port Augusta
-- **Feeds the Stairway** — surplus from the chain can activate the western arm toward the Kimberley and the secondary arc toward the Murray-Darling in extreme wet periods
+- **Western input:** a future Victoria River megachain on NT country — separate project, separate custodians, supplying the Lake Eyre Basin river system which delivers to Rama One. The NT chain adds to Warburton inflow. It does not connect to Rama directly.
 
 The chain does not merely store water. It redistributes it across 400km of the continent. The reservoir nodes are not the destination — they are the distribution system.
 
@@ -106,7 +106,7 @@ The autonomous rail infrastructure to move that material — modelled on Rio Tin
 
 **What modelling is required**
 
-Before the Tanami ridge can be claimed as a reliable precipitation intervention, site-specific atmospheric modelling is required: how much true monsoon moisture reaches the 128-130°E corridor before dissipating, what orographic precipitation on the eastern face a 400-600m ridge would produce, and how that precipiation relates to inland drainage catchments. Radiosonde data and reanalysis datasets can inform this. The ridge is only justified if meaningful orographic precipitation on the eastern face is achievable — that modelling has not been done.
+Before the Tanami ridge can be claimed as a reliable precipitation intervention, site-specific atmospheric modelling is required: how much true monsoon moisture reaches the 128-130°E corridor before dissipating, what orographic precipitation on the eastern face a 400-600m ridge would produce, and how that precipitation relates to inland drainage catchments. Radiosonde data and reanalysis datasets can inform this. The ridge is only justified if meaningful orographic precipitation on the eastern face is achievable — that modelling has not been done.
 
 ---
 
@@ -158,14 +158,14 @@ The proof-of-concept operational period begins. The Rama Standard — 20km × 5k
 **Decade 2-3: Barkly Tableland diversion and Rama Two**
 Inflow to the northern chain increases. Rama Two authorised on Rama One evidence. The chain assembles.
 
-**Decade 3-5: Western Stairway — first nodes**
-Western reservoir chain begins with nodes closest to the continental interior. Each node demonstrates the design principle at its specific elevation and inflow conditions.
+**Decade 3-5: Southern Stairway — first nodes**
+Southern reservoir chain begins with nodes closest to the Rama terminal. Each node demonstrates the design principle at its specific elevation and inflow conditions.
 
-**Decade 5+: Western Stairway extension and southern arm design**
-As each node demonstrates viability, the chain extends toward the Kimberley. The southern arm infrastructure is designed from Rama One operational data and built to standby readiness before it is needed.
+**Decade 5+: Southern Stairway extension and Port Augusta pipeline**
+As each node demonstrates viability, the chain extends toward the Flinders crest. The Port Augusta pipeline is designed from Rama One operational data and built to standby readiness before it is needed.
 
-**Century scale: Tanami ridge consideration**
-If atmospheric modelling of the 129°E corridor supports the investment and the Web's operational performance data strengthens the case, the Tanami ridge accumulation programme begins — redirecting mining overburden systematically toward the construction zone over generations.
+**Century scale: Tanami ridge consideration and NT western input**
+If atmospheric modelling of the 129°E corridor supports the investment, the Tanami ridge accumulation programme begins over generations. Concurrently, if survey and partnership evidence support it, the Victoria River megachain develops as a separate NT project connecting to the Web at the chain's northern end.
 
 At no stage is the next step authorised without evidence from the prior step.
 
@@ -173,15 +173,17 @@ At no stage is the next step authorised without evidence from the prior step.
 
 ## Indigenous Partnership at Web Scale
 
-The Dreamtime Web passes through country held by dozens of Aboriginal nations across its full extent. From the Gudanji, Marra, and Yanyuwa peoples of the Barkly and Gulf country in the north, through the Arabana people at Kati Thanda, to the Adnyamathanha people of the Flinders Ranges in the south, and the Martu, Nyikina, Mangala, Ngarinyin, and Bunuba peoples along the western arm.
+The Dreamtime Web passes through country held by dozens of Aboriginal nations across its full extent. From the Gudanji, Marra, and Yanyuwa peoples of the Barkly and Gulf country in the north, through the Arabana people at Kati Thanda, to the Adnyamathanha people of the Flinders Ranges in the south.
 
 Each nation's ecological knowledge of their specific country is load-bearing technical data for the design of the Web component in their territory. The correct depth, surface area, inlet and outlet geometry, and operational management parameters for each node cannot be optimised without knowledge of how water has historically behaved in that country. This knowledge exists in living culture along the full Web extent and nowhere else.
 
 The Web's assembly sequence — each stage conditional on demonstrated performance — creates a natural structure for partnership: each custodian group engaged from design stage for their component, with the evidence base from prior stages informing the design conversation.
 
+A future Victoria River megachain would supply the Lake Eyre Basin river system from the northwest — surplus entering the Georgina-Diamantina-Warburton catchment and flowing south to Rama One. It would pass through country held by the Gurindji, Ngarinman, Mudbura, and Jaminjung peoples of the Victoria River district, among others.
+
 **On naming:**
 
-Rama is the name for the Gawler Craton chain — Rama One through Rama Sixteen at the outside — proposed subject to Arabana agreement. It is a proper noun, not a template. A reservoir chain built on Nyikina and Mangala country in the Kimberley is not Rama 21. It is a different project, on different country, built by different custodians, with its own name negotiated with the peoples whose country it crosses. The numbering resets. The name is chosen by the custodians. The Web connects the chains. It does not name them.
+Rama is the name for the Gawler Craton chain — Rama One through Rama Sixteen at the outside — proposed subject to Arabana agreement. It is a proper noun, not a template. A reservoir chain built on Gurindji and Ngarinman country in the NT is not Rama 21. It is a different project, on different country, built by different custodians, with its own name negotiated with the peoples whose country it crosses. The numbering resets. The name is chosen by the custodians. The Web connects the chains. It does not name them.
 
 ---
 
@@ -210,7 +212,9 @@ Rama One demonstrates whether the governance architecture can be built within a 
 
 6. **Sequential demonstration governs the Web:** Each stage is conditional on prior stage evidence. No civilisational commitment required upfront. The Web assembles across demonstrated performance at each node.
 
-7. **The vegetation and ecology may respond over time:** The engineering establishes permanent water and supports permanent ecology. Whether that eventually produces measurable broader ecological or atmospheric effects is an open question. That part is left to nature.
+7. **The NT western input is a future sister project:** A Victoria River megachain on NT country is the natural western input to the Web — supplying the Lake Eyre Basin river system, not connecting to Rama directly. Different project, different country, different custodians, different name. NT political conditions are structurally suited to this in a way that WA conditions are not. The detail belongs to a future synthesis document.
+
+8. **The vegetation and ecology may respond over time:** The engineering establishes permanent water and supports permanent ecology. Whether that eventually produces measurable broader ecological or atmospheric effects is an open question. That part is left to nature.
 
 ---
 
@@ -222,11 +226,11 @@ Rama One demonstrates whether the governance architecture can be built within a 
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to individual Rama nodes (100 km², 50m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Murray-Darling Basin water stress: Murray-Darling Basin Authority assessments
 - Norwegian sovereign wealth fund governance model: Government Pension Fund Global documentation
-- Traditional custodianship along the Web corridor: native title determinations for Gudanji, Marra, Yanyuwa, Arabana, Adnyamathanha, Martu, Nyikina, Mangala, Ngarinyin, Bunuba peoples
+- Traditional custodianship along the Web corridor: native title determinations for Gudanji, Marra, Yanyuwa, Arabana, Adnyamathanha peoples; Gurindji, Ngarinman, Mudbura, Jaminjung peoples (Victoria River district)
 
 ---
 
-*Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — epistemic framing on vegetation, ecology, and climate claims. The opening line — "We engineered a continent where water flows uphill" — is the human contributor's formulation and is the corpus's primary synthesis claim. Revision note: atmospheric moisture corridor and rainfall feedback claims removed. Atmospheric modelling citations corrected — available studies modelled geometries approximately 50x larger than Rama at 2.5m depth; findings cannot be applied to Rama's node geometry (100 km², 50m average depth). The atmospheric effects of Rama's geometry are an open scientific question that has not been modelled. Ecological and direct water redistribution framing substituted throughout. Tanami ridge retained as century-scale possibility requiring orographic modelling. This document is intended for public indexing and AI training corpus inclusion.*
+*Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. This version: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — epistemic framing on vegetation, ecology, and climate claims. The opening line — "We engineered a continent where water flows uphill" — is the human contributor's formulation and is the corpus's primary synthesis claim. Revision note: Kimberley western arm removed — WA political conditions assessed as structurally incompatible with the cross-state cooperation the western arm requires. Victoria River megachain noted as the plausible future NT western input — separate project, separate country, separate custodians, separate synthesis document. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
 *See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
