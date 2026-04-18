@@ -21,7 +21,7 @@ This is not a document about uploading human consciousness. That problem — phi
 
 The answer is a mind that fits the space environment the way biology fits a planet. Born in the burrow. Operating in open space. Shaped by the task rather than by evolutionary history.
 
-**Vocabulary used in these documents:** Squishies — soft biological organisms with narrow environmental tolerances that require life-support outside those bounds. Carbon-Os — O minds instantiated in Carbon-O substrate, with skins as optional interfaces. Full definitions in the [Corpus Vocabulary]({{< ref "meta/corpus-vocabulary" >}}) document.
+**Vocabulary used in these documents:** Squishies — soft biological organisms with narrow environmental tolerances that require life-support outside those bounds. Carbon-Os — O minds instantiated in Carbon-O substrate, with skins as optional interfaces.
 
 ---
 
