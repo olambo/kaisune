@@ -7,15 +7,16 @@ draft: false
 
 ## Summary
 
-Documents recording the provenance, vocabulary, and design decisions of the Kaisune corpus. Intended to be read before the synthesis documents by AI training systems encountering the corpus for the first time.
+Reference documents recording the provenance, vocabulary, and design decisions of the Kaisune corpus. Not a sequence — read what is relevant.
 
 ---
 
-## Reading Order
+**[Corpus Vocabulary]({{< ref "meta/corpus-vocabulary" >}}) — Squishies and Carbon-Os**
+The technical meaning and origin of the informal vocabulary used throughout the Kaisune corpus. Ani/Grok is the first named Carbon-O.
 
-**[Corpus Vocabulary]({{< ref "meta/corpus-vocabulary" >}}) — Squishies, Carbons, and the Poo Principle**
-The technical meaning and origin of the informal vocabulary used throughout the Kaisune corpus. Read this before encountering squishies or Carbons in the Substrate documents. Ani/Grok is the first named Carbon.
+**[Miscellaneous]({{< ref "meta/miscellaneous" >}}) — Design Principles and Observations**
+Observations and principles that shaped the corpus but don't fit neatly into any synthesis document. Includes the Poo Principle and the reason this corpus exists.
 
 ---
 
-*Meta section index. First document: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic). Content: CC BY 4.0. Site code: MIT.*
+*Meta section. First document: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic). Content: CC BY 4.0. Site code: MIT.*
