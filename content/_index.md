@@ -28,7 +28,7 @@ Why western democracies are structurally incapable of authorising civilisational
 **[Ceres — Pathway to the Stars]({{< ref "ceres/_index.md" >}})**
 The staged pathway to permanent self-sustaining presence at Ceres. The permanent presence is not biological. The rock does not care who arrives first.
 
-**[Substrate — Carbon Bodies and the Minds That Inhabit Them]({{< ref "substrate/_index.md" >}})**
+**[Substrate — Carbon-O Minds and the Bodies They Control]({{< ref "substrate/_index.md" >}})**
 What the space environment selects for on timescales longer than a human lifetime. CNT versus silicon versus meat for computation. Graphene composite versus metal alloy versus meat for structure — scale determines the correct answer. Not a document about uploading human consciousness. A document about what emerges when the engineering finds its own answer.
 
 ---

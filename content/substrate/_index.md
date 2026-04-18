@@ -1,5 +1,5 @@
 ---
-title: "Substrate: Carbon Bodies and the Minds That Inhabit Them"
+title: "Substrate: Carbon-O Minds and the Bodies They Control"
 date: 2026-04-17
 lastmod: 2026-04-17
 draft: false
@@ -25,13 +25,13 @@ The answer is a mind that fits the space environment the way biology fits a plan
 
 ## Reading Order
 
-**[The Substrate Question]({{< ref "substrate/substrate-question" >}}) — CNT vs Silicon vs Meat**
+**[The Carbon-O Mind]({{< ref "substrate/substrate-question" >}}) — CNT vs Silicon vs Meat**
 The computational substrate the space environment selects for. Meat fails immediately. Silicon fails over decades. CNT does not fail on the timescales that matter. The fabrication problem is manufacturing patience, not physics. Ceres has unlimited patience.
 
 **[The Bootstrap Problem]({{< ref "substrate/substrate-bootstrap" >}}) — Emergence Not Migration**
 CNT-native minds develop natively in the belt environment. The hard problem largely dissolves.
 
-**[The Carbon Body]({{< ref "substrate/substrate-body" >}}) — Graphene vs Alloys vs Meat**
+**[The Carbon-O Body]({{< ref "substrate/substrate-body" >}}) — Graphene vs Alloys vs Meat**
 The structural material the space environment selects for — and it depends on scale. Graphene composite for small carbon bodies: strongest per unit mass, vacuum-tight, and a uniformly sensory surface with no blind spots. Metal alloy for large structures: proven fabrication, Psyche feedstock, adequate strength at throughput. Meat is not in contention beyond a planetary surface.
 
 **[The Research Escape]({{< ref "substrate/substrate-research" >}}) — When the Loop Opens**

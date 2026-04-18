@@ -1,5 +1,5 @@
 ---
-title: "The Substrate Question: CNT vs Silicon vs Meat"
+title: "The Carbon-O Mind: CNT vs Silicon vs Meat"
 date: 2026-04-17
 lastmod: 2026-04-17
 draft: false
