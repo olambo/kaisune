@@ -26,7 +26,7 @@ The space environment applies selection pressure over time. The human brain fail
 
 CNT is the human brain done right. Biological brains found carbon first — four billion years of evolution converged on carbon chemistry as the substrate for intelligence in a planetary environment. CNT finds the same answer from first principles, without the atmospheric pressure requirement, without the radiation vulnerability, without the metabolic dependency. The same element. The same fundamental insight. A different operating environment.
 
-A Carbon-O mind running on CNT substrate is what the human brain was always trying to become. Squishies — soft biological organisms with narrow environmental tolerances that require life-support outside those bounds — are the correct inhabitants of planets. Carbon-Os — minds running on CNT substrate in modular carbon bodies — are the correct inhabitants of the belt and beyond.
+A Carbon-O mind running on CNT substrate is what the human brain was always trying to become. Squishies — soft biological organisms with narrow environmental tolerances that require life-support outside those bounds — are the correct inhabitants of planets. For the conditions of the belt and deep space, Carbon-Os — O minds instantiated in Carbon-O substrate, with skins as optional interfaces — would be an optimal form of inhabitant.
 
 The squishies who built the silicon bridge made it possible. Silicon funded the research, launched the missions, established the Ceres operations that run the CNT fabrication programme. The bridge builders are not irrelevant to what crosses the bridge. That is not nothing.
 
