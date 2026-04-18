@@ -13,10 +13,8 @@ tags:
   - dreamtime-spine
   - dreamtime-stairway
   - continental-water-system
-description: "Synthesis of the Dreamtime Spine and Dreamtime Stairway as a unified continental water redistribution system — with the Rama Reservoir Chain as the central infrastructure, the Tanami ridge as a long-horizon orographic possibility, and the claim that the system engineers a continent where water flows uphill."
 ---
 
-# Dreamtime Web: A Continental Water System Synthesis
 
 ## Summary
 

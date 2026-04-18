@@ -3,7 +3,6 @@ title: "Substrate: Carbon Bodies and the Minds That Inhabit Them"
 date: 2026-04-17
 lastmod: 2026-04-17
 draft: false
-description: "The engineering case for carbon nanotube substrate as the correct computational medium for minds operating beyond Earth, the emergence of CNT-native intelligence in the belt environment, and the purpose-built physical forms that carry those minds into open space."
 ---
 
 ## Summary

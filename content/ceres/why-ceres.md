@@ -12,10 +12,8 @@ tags:
   - long-horizon-infrastructure
   - radiation-shielding
   - carbon-nanotube
-description: "The engineering case for Ceres over Luna, Mars, and other belt candidates — water ice, mineral abundance, low gravity, radiation shielding from the rock itself, and carbonaceous chondrite feedstock for the materials that make permanent presence possible."
 ---
 
-# Why Ceres: The Case for the Belt
 
 ## Summary
 

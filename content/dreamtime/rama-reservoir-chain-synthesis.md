@@ -14,10 +14,8 @@ tags:
   - port-augusta
   - dreamtime-stairway
   - rama
-description: "The Rama Reservoir Chain — 16 nodes stepping 400km south along the Gawler Craton western corridor from Kati Thanda to the corridor high point. A gravity-fed pipeline connects the terminal node to Port Augusta. Each node a permanent freshwater reservoir. The city grows along it."
 ---
 
-# Rama Reservoir Chain: A Linear Node Synthesis
 
 ## Summary
 

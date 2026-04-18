@@ -10,10 +10,8 @@ tags:
   - body-design
   - space-operations
   - long-horizon-infrastructure
-description: "What a purpose-built physical form for a CNT-native mind actually requires — not humanoid, shaped by the task environment. Vacuum, low gravity, radiation, manipulation requirements specific to belt operations. Small, specialist, replaceable."
 ---
 
-# The Carbon Body: Form Follows Environment
 
 *Stub. Synthesis forthcoming.*
 

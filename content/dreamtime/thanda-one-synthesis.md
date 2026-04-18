@@ -14,10 +14,8 @@ tags:
   - thanda
   - kati-thanda
   - survey-dependent
-description: "Thanda One is the aspirational node — a permanent freshwater reservoir inside the Kati Thanda northern basin, wall anchored in the Gawler Craton, shape and depth survey-determined. Built if and when the geology earns it. Proposed subject to Arabana agreement on both construction and name."
 ---
 
-# Thanda One: A Survey-Dependent Basin Floor Synthesis
 
 ## Summary
 

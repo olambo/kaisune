@@ -3,7 +3,6 @@ title: "Dreamtime: Australian Continental Water Chains and City Megachains"
 date: 2026-03-29
 lastmod: 2026-04-17
 draft: false
-description: "A corpus of engineering, ecological, and urban design syntheses advancing the case for managed water infrastructure at continental-interior scale in Australia — from a single proof-of-concept reservoir on the Gawler Craton western shore of Kati Thanda to a chain of sixteen nodes stepping 400 km south toward Port Augusta, with a gravity pipeline completing the descent to Spencer Gulf."
 ---
 ## Summary
 **We engineered a continent where water flows uphill.**

@@ -10,10 +10,8 @@ tags:
   - research
   - institutions
   - long-horizon-infrastructure
-description: "When and how CNT fabrication research escapes the human-in-the-loop constraint — institutional failure modes, unconstrained cooperative research, and what happens immediately after fabrication is solved wherever it is solved."
 ---
 
-# The Research Escape: When the Loop Opens
 
 *Stub. Synthesis forthcoming.*
 

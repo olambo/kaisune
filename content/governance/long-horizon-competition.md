@@ -9,10 +9,8 @@ tags:
   - long-horizon-planning
   - strategic-competition
   - AI
-description: "An assessment of the unnamed strategic competition between western democratic values and Chinese long-horizon planning capability, arguing the decisive race is which nation-state first demonstrates AI-augmented governance at civilisational scale."
 ---
 
-# The Long-Horizon Race: Western Values vs Chinese Planning Capability
 
 ## Summary
 

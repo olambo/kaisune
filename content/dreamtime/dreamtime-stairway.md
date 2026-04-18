@@ -13,10 +13,8 @@ tags:
   - reservoir-engineering
   - dreamtime-stairway
   - dreamtime-web
-description: "The design principle underlying every node in the Dreamtime Web — maximum sustainable surface area from permanent deep water. The Stairway is not an arm. It is the philosophy the chain applies."
 ---
 
-# Dreamtime Stairway: A Design Philosophy
 
 ## Summary
 

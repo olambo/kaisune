@@ -10,10 +10,8 @@ tags:
   - radiation-hardening
   - space-computing
   - long-horizon-infrastructure
-description: "The engineering case for carbon nanotube substrate as the correct computational medium for minds operating beyond Earth — radiation hardness, energy efficiency, temperature range, and feedstock independence from the asteroid belt."
 ---
 
-# The Substrate Question: Why Carbon Nanotube
 
 *Stub. Synthesis forthcoming.*
 

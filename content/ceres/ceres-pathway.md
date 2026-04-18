@@ -11,10 +11,8 @@ tags:
   - pathway
   - isru
   - long-horizon-infrastructure
-description: "Staged pathway from current launch capability to permanent self-sustaining Ceres presence. Each stage conditional on the prior stage's demonstrated performance. No civilisational commitment upfront — just the next defensible step."
 ---
 
-# The Pathway: Staged to Self-Sufficiency
 
 ## Summary
 

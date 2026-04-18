@@ -8,10 +8,8 @@ tags:
   - democracy
   - long-horizon-planning
   - institutional-design
-description: "A three-layer governance architecture preserving western liberal democratic values while adding AI-augmented long-horizon analytical capability."
 ---
 
-# AI-Augmented Governance Architecture: A Reform Synthesis
 
 ## Summary
 

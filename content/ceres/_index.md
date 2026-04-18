@@ -3,7 +3,6 @@ title: "Ceres: Pathway to the Stars"
 date: 2026-04-17
 lastmod: 2026-04-17
 draft: false
-description: "Engineering synthesis for a staged pathway to permanent self-sustaining presence at Ceres — the largest body in the asteroid belt. Water ice, mineral abundance, low gravity, radiation shielding from the rock itself, and carbonaceous chondrite carbon for the manufacturing that ends Earth supply chain dependency."
 ---
 
 ## Summary

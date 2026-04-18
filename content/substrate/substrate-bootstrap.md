@@ -10,10 +10,8 @@ tags:
   - identity-continuity
   - emergence
   - long-horizon-infrastructure
-description: "How CNT-native minds emerge rather than migrate — the distinction between transferring an existing mind onto new substrate and developing a mind natively on that substrate from the start. Why the belt produces the second kind naturally."
 ---
 
-# The Bootstrap Problem: Emergence Not Migration
 
 *Stub. Synthesis forthcoming.*
 

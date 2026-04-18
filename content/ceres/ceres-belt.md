@@ -13,10 +13,8 @@ tags:
   - long-horizon-infrastructure
   - industrial-civilisation
   - two-node-system
-description: "Ceres has the water, carbon, and computational hardware. 16 Psyche has the metal. Together they are the minimum viable industrial system beyond Earth — a shipyard at Psyche supplied by Ceres, building vessels that distribute resources across the solar system. The ore does not ship to the processor. The processor ships to the ore."
 ---
 
-# The Belt as Industrial System: Psyche, the Shipyard, and the Two-Node Civilisation
 
 ## Summary
 

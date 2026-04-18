@@ -14,10 +14,8 @@ tags:
   - indigenous-partnership
   - rama
   - linear-reservoir
-description: "Engineering synthesis for Rama One — a 20km × 5km permanent freshwater reservoir on the Gawler Craton western shore of Kati Thanda. Long, thin, deep, water-positive, no dam wall, and the proof of concept for the Rama chain heading south."
 ---
 
-# Rama One: A Linear Reservoir Synthesis
 
 ## Summary
 

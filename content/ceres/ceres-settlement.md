@@ -12,10 +12,8 @@ tags:
   - long-horizon-infrastructure
   - autonomous-systems
   - carbon-nanotube
-description: "What permanent self-sustaining presence at Ceres actually requires — subsurface architecture, autonomous operations, human waystation facilities, and the honest assessment that the permanent presence at Ceres is not biological."
 ---
 
-# The Settlement: Permanent Presence
 
 ## Summary
 

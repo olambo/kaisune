@@ -13,10 +13,8 @@ tags:
   - carbon-nanotube
   - water-extraction
   - manufacturing
-description: "The engineering core of the Ceres project — water ice extraction, regolith processing, orbital power delivery, closed-loop life support, and the CNT fabrication pathway that ends dependence on Earth supply chains."
 ---
 
-# In-Situ Resource Utilisation: Living Off the Rock
 
 ## Summary
 

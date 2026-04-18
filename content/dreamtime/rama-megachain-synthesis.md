@@ -16,10 +16,8 @@ tags:
   - rama
   - port-augusta
   - dreamtime-stairway
-description: "Design synthesis for Rama — a chain of sixteen modular freshwater reservoirs and city arcs stepping 400km along the Gawler Craton western shore of Kati Thanda toward the corridor high point. 1.8 million people at full extent. The longest purpose-built linear city on Earth."
 ---
 
-# Rama: Modular Reservoir, Modular City, Megachain
 
 ## Summary
 

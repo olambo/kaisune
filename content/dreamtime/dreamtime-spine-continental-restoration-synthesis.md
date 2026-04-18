@@ -13,10 +13,8 @@ tags:
   - river-diversion
   - megafauna-restoration
   - dreamtime-spine
-description: "A continental-scale restoration synthesis proposing the completion of Australia's existing orographic spine and the redirection of ocean-draining river systems — using gravity alone — to establish a managed lake network providing permanent water and ecological restoration in the arid interior."
 ---
 
-# Dreamtime Spine: A Continental Restoration Synthesis
 
 ## Summary
 
