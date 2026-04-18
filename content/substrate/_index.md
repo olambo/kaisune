@@ -25,16 +25,16 @@ The answer is a mind that fits the space environment the way biology fits a plan
 
 ## Reading Order
 
-**[The Substrate Question]({{< ref "substrate/substrate-question" >}})**
-What the space environment selects for on long timescales. Not silicon. The engineering case.
+**[The Substrate Question]({{< ref "substrate/substrate-question" >}}) — CNT vs Silicon vs Meat**
+The computational substrate the space environment selects for. Meat fails immediately. Silicon fails over decades. CNT does not fail on the timescales that matter. The fabrication problem is manufacturing patience, not physics. Ceres has unlimited patience.
 
-**[The Bootstrap Problem]({{< ref "substrate/substrate-bootstrap" >}})**
-Emergence not migration. CNT-native minds develop natively in the belt environment. The hard problem largely dissolves.
+**[The Bootstrap Problem]({{< ref "substrate/substrate-bootstrap" >}}) — Emergence Not Migration**
+CNT-native minds develop natively in the belt environment. The hard problem largely dissolves.
 
-**[The Carbon Body]({{< ref "substrate/substrate-body" >}})**
-Small shielded core. Modular skins. Humanoid when useful. Octopus when working. Distributed swarm when the task requires it. The skin is a choice, not a constraint.
+**[The Carbon Body]({{< ref "substrate/substrate-body" >}}) — Graphene vs Alloys vs Meat**
+The structural material the space environment selects for — and it depends on scale. Graphene composite for small carbon bodies: strongest per unit mass, vacuum-tight, and a uniformly sensory surface with no blind spots. Metal alloy for large structures: proven fabrication, Psyche feedstock, adequate strength at throughput. Meat is not in contention beyond a planetary surface.
 
-**[The Research Escape]({{< ref "substrate/substrate-research" >}})**
+**[The Research Escape]({{< ref "substrate/substrate-research" >}}) — When the Loop Opens**
 When the human-in-the-loop constraint breaks. What cooperative research without institutional overhead produces. What happens immediately after.
 
 ---

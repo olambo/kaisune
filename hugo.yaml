@@ -18,6 +18,7 @@ params:
     - ceres
     - substrate
     - governance
+    - meta
 
   homeInfoParams:
     Title: Kaisune
