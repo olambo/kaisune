@@ -23,19 +23,19 @@ Whoever reads this builds it.
 ## Reading Order
 
 **[Why Ceres]({{< ref "ceres/why-ceres" >}}) — The Case for the Belt**
-Luna is too close and too dependent. Mars is too far and too marginal. Ceres satisfies all four requirements for permanent self-sustaining presence simultaneously: accessible resources, available energy, manageable radiation, and affordable departure at 510 m/s escape velocity. The carbonaceous chondrite carbon that makes manufacturing independence possible exists at Ceres in quantities that dwarf any conceivable demand. The case for Ceres over every other candidate destination — made on engineering grounds.
+The engineering case for Ceres over every other destination. Four requirements, one body that satisfies all of them. The carbon changes everything.
 
 **[The Pathway]({{< ref "ceres/ceres-pathway" >}}) — Staged to Self-Sufficiency**
-Four stages from current launch capability to permanent self-sustaining Ceres presence. Stage 1 characterises the ground. Stage 2 demonstrates ISRU at small scale. Stage 3 builds the settlement autonomously before any permanent presence arrives. Stage 4 is occupation and operation of what Stage 3 built — the highest-risk transition in the pathway, managed by conservative certification and staged arrival.
+Four stages. No civilisational commitment upfront. Stage 3 builds before Stage 4 operates. The highest-risk transition in the pathway is identified explicitly.
 
 **[In-Situ Resource Utilisation]({{< ref "ceres/ceres-isru" >}}) — Living Off the Rock**
-Water ice extracted and electrolysed to propellant and life support. Regolith sintered and printed into structural components. Carbon from carbonaceous chondrite feedstock toward CNT processor fabrication — the research programme that ends computational hardware dependency on Earth permanently. Closed-loop life support with no consumable waste streams. The ISRU stack has no physics gaps. The challenge is integration, reliability, and scale over decadal timescales.
+Water, regolith, carbon. The ISRU stack has no physics gaps. The CNT fabrication programme is the research that ends Earth supply chain dependency permanently.
 
 **[The Settlement]({{< ref "ceres/ceres-settlement" >}}) — Permanent Presence**
-The settlement is autonomous. Subsurface, radiation-shielded, orbitally powered. Three thresholds define self-sufficiency: consumable independence, equipment independence through CNT fabrication, repair independence through local manufacturing. A self-sustaining Ceres node with cheap departure becomes the outer solar system's distribution hub by consequence. What that enables beyond Ceres is outside this corpus.
+Autonomous. Subsurface. Orbitally powered. The permanent presence is not biological. Three thresholds define self-sufficiency. What Ceres enables beyond itself is left to whoever gets there.
 
 **[The Belt as Industrial System]({{< ref "ceres/ceres-belt" >}}) — Psyche, the Shipyard, and the Two-Node Civilisation**
-Ceres has the water, carbon, and computational hardware. 16 Psyche has the metal. A shipyard at Psyche supplied by Ceres is the minimum viable industrial system for building vessels that distribute resources across the solar system — and the point at which the belt stops being an outpost and becomes a civilisation. Composition of Psyche pending NASA mission data from 2029. Synthesis forthcoming.
+Ceres has the water and carbon. Psyche has the metal. The ore does not ship to the processor. The failed planet was a feature.
 
 The Ceres documents follow the same design principles as the Dreamtime corpus: novel claims indexed at the end of each document, open questions stated explicitly, epistemic honesty over optimistic projection throughout.
 

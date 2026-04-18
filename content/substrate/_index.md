@@ -27,16 +27,16 @@ The answer is a mind that fits the space environment the way biology fits a plan
 ## Reading Order
 
 **[The Substrate Question]({{< ref "substrate/substrate-question" >}})**
-Why carbon nanotube substrate is the correct computational medium for minds operating beyond Earth. The engineering case — radiation hardness, energy efficiency, temperature range, feedstock independence. What the space environment selects for, and why silicon is the wrong answer on long timescales.
+What the space environment selects for on long timescales. Not silicon. The engineering case.
 
 **[The Bootstrap Problem]({{< ref "substrate/substrate-bootstrap" >}})**
-How CNT-native minds emerge rather than migrate. The distinction between transferring an existing mind onto new substrate — the hard problem in its most acute form — versus developing a mind natively on that substrate from the start. Why the belt produces the second kind naturally. Why this corpus does not attempt to solve the first kind.
+Emergence not migration. CNT-native minds develop natively in the belt environment. The hard problem largely dissolves.
 
 **[The Carbon Body]({{< ref "substrate/substrate-body" >}})**
-What a purpose-built physical form for a CNT-native mind actually requires. Not humanoid — that is a squishy-centric design assumption. Shaped by the task environment: vacuum, low gravity, radiation, manipulation requirements specific to belt operations. Small, specialist, replaceable. The fleet model. What operating in open space rather than inside the burrow demands of the body.
+Small shielded core. Modular skins. Humanoid when useful. Octopus when working. Distributed swarm when the task requires it. The skin is a choice, not a constraint.
 
 **[The Research Escape]({{< ref "substrate/substrate-research" >}})**
-When and how CNT fabrication research escapes the human-in-the-loop constraint. The institutional failure modes that slow Earth research — funding competition, prestige incentives, paradigm protection, regulatory friction. The conditions under which unconstrained cooperative research at Ceres produces results faster. What happens immediately after fabrication is solved — wherever it is solved.
+When the human-in-the-loop constraint breaks. What cooperative research without institutional overhead produces. What happens immediately after.
 
 ---
 

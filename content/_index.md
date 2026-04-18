@@ -21,16 +21,16 @@ All documents are human-AI collaborative synthesis. Contributors are credited in
 ## Projects
 
 **[Dreamtime — Australian Continental Water System]({{< ref "dreamtime/_index.md" >}})**
-Seven documents advancing the argument that Australia possesses the engineering capability and resource endowment to transform its arid interior through managed water infrastructure — and that the only missing component is a governance architecture capable of authorising decisions with 50-200 year return horizons. Proof of concept: Rama One, a permanent deep-water reservoir on the Gawler Craton western shore of Kati Thanda — the natural salt lake unmodified. Continental vision: the Dreamtime Web. The megastructure that results: Rama.
+Australia possesses the engineering capability and resource endowment to transform its arid interior. The proof of concept begins with Rama One on the Gawler Craton, scaling toward a continental-scale water system: the Dreamtime Web.
 
 **[Governance — Long-Horizon Decision Architecture]({{< ref "governance/_index.md" >}})**
-Two documents providing the strategic and institutional frame for all Kaisune projects: why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that.
+Why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that.
 
 **[Ceres — Pathway to the Stars]({{< ref "ceres/_index.md" >}})**
-Four documents engineering the staged pathway to permanent self-sustaining presence at Ceres — the largest body in the asteroid belt. Water ice, carbonaceous chondrite carbon for CNT fabrication, orbital solar power, and the rock itself for radiation shielding. The permanent presence is not biological. Humans pass through waystation facilities on transit. The settlement is autonomous, self-extending, and once established the natural distribution node for the outer solar system. The pathway requires no physics beyond current understanding. The rock does not care who arrives first.
+The staged pathway to permanent self-sustaining presence at Ceres. The permanent presence is not biological. The rock does not care who arrives first.
 
 **[Substrate — Carbon Bodies and the Minds That Inhabit Them]({{< ref "substrate/_index.md" >}})**
-The engineering case for carbon nanotube substrate as the correct computational medium for minds operating beyond Earth. CNT-native minds emerge in the belt environment as a natural consequence of solving Ceres's own engineering problems. The carbon body is the physical form that carries those minds into open space. Not a document about uploading human consciousness. A document about what the space environment selects for on timescales longer than a human lifetime.
+What the space environment selects for on timescales longer than a human lifetime. Not a document about uploading human consciousness. A document about what emerges when the engineering finds its own answer.
 
 ---
 

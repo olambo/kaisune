@@ -23,7 +23,7 @@ Ceres is 940km in diameter, the largest body in the asteroid belt. Surface gravi
 
 It is not the closest destination. It is the right one.
 
-Luna is too close — permanently within Earth's gravity well and political reach, dependent on resupply, unable to serve as a long-horizon independent node. Mars is too far and too marginal — thin atmosphere that helps with neither radiation protection nor resource extraction, surface gravity high enough to make departure expensive. The outer solar system is too cold and too distant for near-term operations.
+Luna is too close — permanently within Earth's gravity well and political reach, dependent on resupply, unable to serve as a long-horizon independent node. Mars is too far into a gravity well and marginal at best — thin atmosphere that helps with neither radiation protection nor resource extraction, 5,030 m/s escape velocity making departure expensive, no carbon for manufacturing independence. The outer solar system is too cold and too distant for near-term operations.
 
 Ceres sits at the intersection of four engineering requirements for permanent self-sustaining presence: accessible resources, available energy, manageable radiation, and affordable departure. No other candidate destination satisfies all four at Ceres's combination of distance, size, and composition.
 
@@ -109,7 +109,7 @@ Three light-seconds from Earth. Communication lag negligible. Resupply feasible.
 
 **Mars**
 
-Escape velocity 5,030 m/s — significantly more expensive to leave than Ceres. The atmosphere is too thin to provide radiation protection and too thick to ignore for landing and ascent. Subsurface habitation is still required. Mars has water ice but basaltic composition — carbon is not abundant. The manufacturing independence pathway that Ceres's carbon supply enables is not available at Mars from in-situ resources. Mars is also further from the asteroid belt's resource abundance; a Ceres-based operation has the full belt within reach at low departure cost.
+Mars is too far into a gravity well and marginal at best. Escape velocity 5,030 m/s — significantly more expensive to leave than Ceres. The atmosphere is too thin to provide radiation protection and too thick to ignore for landing and ascent. Subsurface habitation is still required. Mars has water ice but basaltic composition — carbon is not abundant. The manufacturing independence pathway that Ceres's carbon supply enables is not available at Mars from in-situ resources. Mars is also further from the asteroid belt's resource abundance; a Ceres-based operation has the full belt within reach at low departure cost.
 
 **The outer solar system**
 

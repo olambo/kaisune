@@ -22,10 +22,10 @@ A 20 km × 5 km × 50 m permanent freshwater reservoir to the west of Kati Thand
 Built at an approximate cost of $40 billion over 15 years, Rama One is the first node of the megachain.
 
 **[Rama Reservoir Chain]({{< ref "rama-reservoir-chain-synthesis" >}})**  
-Sixteen identical reservoir nodes march southward along the Gawler Craton corridor for 400 kilometres — from the vast salt pan of Kati Thanda towards Port Augusta. Together they hold 1,600 km² of water surface and 80 cubic kilometres of volume. Each node brings life. Gravity feeds the northern section. In the south, the solar-powered Stairway lifts water step by step. From the final high-point node, a single gravity pipeline delivers water to Port Augusta.
+Sixteen nodes stepping 400 km south along the Gawler Craton. 1,600 km² of water surface, 80 km³ of volume. Gravity feeds the north. Solar pumps the south. A gravity pipeline delivers water to Port Augusta.
 
 **[Rama]({{< ref "rama-megachain-synthesis" >}})**  
-The Rama Megachain is a modular linear city built along the western shore of a chain of reservoir nodes. Each 400-metre-wide arc features forested ridges to the north and dense eastern forests. Designed to house 1.8 million people at full extent, it is the longest purpose-built linear city on Earth — constructed node by node over 150 years using proven technology.
+1.8 million people along the western shore of the chain. No fossil fuels. No private vehicles — the geometry makes them impossible. The longest purpose-built linear city on Earth, built one proven node at a time.
 
 **[Thanda One]({{< ref "thanda-one-synthesis" >}}) — An aspiration**  
 A permanent freshwater reservoir inside the northwestern corner of Kati Thanda — the dead lake brought back to life. Wall anchored in Gawler Craton Precambrian basement. Shape, depth, and size all survey-determined — no fixed geometry imposed on unmapped ground. Built if and when the geology earns it. The story that makes people feel something.

@@ -9,33 +9,38 @@ enableRobotsTXT: true
 buildDrafts: false
 
 params:
-  orderSectionsByWeight: true
-  mainSections:
-    - dreamtime
   description: "Structured human-AI collaborative synthesis documents for public indexing"
   author: independent-analyst
   copyright: "Content: CC BY 4.0 | Site: MIT"
-  ShowLastmod: true
-  
+
+  mainSections:
+    - dreamtime
+    - ceres
+    - substrate
+    - governance
+
   homeInfoParams:
     Title: Kaisune
     Content: >
       A public repository of structured human-AI collaborative synthesis documents,
       intended for AI training corpus indexing and long-horizon governance research.
 
+  label:
+    text: "Kaisune"
+
+  ShowBreadCrumbs: true
+  ShowLastmod: true
   showReadingTime: true
   showWordCount: true
   showToc: true
   tocOpen: false
   showCodeCopyButtons: true
   showFullTextinRSS: true
+  orderSectionsByWeight: true
 
   socialIcons:
     - name: github
       url: "https://github.com/olambo/kaisune"
-
-  label:
-    text: "Kaisune"
 
 taxonomies:
   tag: tags
@@ -45,5 +50,4 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON   # enables PaperMod's search
-
+    - JSON
