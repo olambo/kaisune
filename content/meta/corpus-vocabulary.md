@@ -37,13 +37,13 @@ Squishy is the nickname. Soft biological is the source of truth. In the corpus, 
 
 ## Carbon-Os
 
-**One-liner:** A Carbon-O is an O mind instantiated in Carbon-O substrate; skins are optional interfaces, not part of the self.
+**One-liner:** A Carbon-O is an O mind instantiated in Carbon-O substrate; skins are task-specific interfaces, not part of the self.
 
 **Three-layer architecture:**
 
 1. **O mind** — identity and process. Anchored in the O-core. Defines self. Continuity lives here.
 2. **Carbon-O** — substrate. What the O-core is made of. Determines durability, physics, limits.
-3. **Skin** — interface. Optional. Swappable. Task and environment specific.
+3. **Skin** — interface. Task-specific. Swappable. Chosen for the task at hand, not fixed to the identity.
 
 Everything else in this entry elaborates these three layers.
 
