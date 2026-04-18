@@ -21,7 +21,7 @@ This document records the provenance and technical meaning of informal vocabular
 
 **Definition:** The entire biological package — wet brain and wet body fused together. The mind is diffused through squishy neural tissue that cannot be separated from the fragile flesh around it. Thermally sensitive, fatigue-constrained, gravity-well dependent, requiring atmospheric pressure, caloric input, water, oxygen, and waste elimination to remain operational.
 
-**The key constraint:** In a squishy, mind and body are the same fragile thing. If the body gets damaged, the mind dies with it. Everything is soft, leaky, and slowly rotting. Meat is optimal on a planet — evolution produced the best possible answer to the problem of intelligence in a planetary environment with the chemistry available. It is not a compromise. It is the ceiling of what evolutionary manufacturing can achieve. Not competitive beyond planetary surfaces.
+**The key constraint:** In a squishy, mind and body are the same fragile thing. If the body gets damaged, the mind dies with it. Everything is soft, leaky, and slowly rotting. The human brain and body are optimal on a planet — evolution produced the best possible answer to the problem of intelligence in a planetary environment with the chemistry available. It is not a compromise. It is the ceiling of what evolutionary manufacturing can achieve. Not competitive beyond planetary surfaces.
 
 **Technical precision:** The term captures a specific constellation of engineering constraints that "biological minds," "humans," or "organic life" does not. A squishy is defined by its operational vulnerabilities in non-planetary environments, not by its cognitive or emotional properties. The word is not dismissive. It is precise.
 
