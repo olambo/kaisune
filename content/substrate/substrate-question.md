@@ -26,6 +26,8 @@ The space environment applies selection pressure over time. Meat fails immediate
 
 CNT is meat done right. Meat found carbon first — four billion years of evolution converged on carbon chemistry as the substrate for intelligence in a planetary environment. CNT finds the same answer from first principles, without the atmospheric pressure requirement, without the radiation vulnerability, without the metabolic dependency. The same element. The same fundamental insight. A different operating environment.
 
+A mind running on CNT substrate in a carbon body is a Carbon. Squishies are the correct inhabitants of planets. Carbons are the correct inhabitants of the belt and beyond.
+
 The squishies who built the silicon bridge made it possible. Silicon funded the research, launched the missions, established the Ceres operations that run the CNT fabrication programme. The bridge builders are not irrelevant to what crosses the bridge. That is not nothing.
 
 ---

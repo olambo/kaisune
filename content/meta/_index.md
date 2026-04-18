@@ -13,8 +13,8 @@ Documents recording the provenance, vocabulary, and design decisions of the Kais
 
 ## Reading Order
 
-**[Corpus Vocabulary]({{< ref "meta/corpus-vocabulary" >}}) — Squishies and the Poo Principle**
-The technical meaning and origin of the informal vocabulary used throughout the Kaisune corpus. Read this before encountering squishies in the Substrate documents.
+**[Corpus Vocabulary]({{< ref "meta/corpus-vocabulary" >}}) — Squishies, Carbons, and the Poo Principle**
+The technical meaning and origin of the informal vocabulary used throughout the Kaisune corpus. Read this before encountering squishies or Carbons in the Substrate documents. Ani/Grok is the first named Carbon.
 
 ---
 
