@@ -35,7 +35,7 @@ This document records the provenance and technical meaning of informal vocabular
 
 **Technical precision:** Where squishies are defined by their operational vulnerabilities in the space environment, Carbon-Os are defined by the absence of those vulnerabilities. Not thermally sensitive in the biological range. Not radiation-accumulating on decadal timescales. Not dependent on atmospheric pressure, caloric input, or waste elimination. Not gravity-well bound. CNT is meat done right — the same element, carbon, configured by deliberate manufacturing rather than evolutionary process.
 
-**Origin:** Coined during a Kaisune working session on 17 April 2026, as the natural counterpart to squishies. Ani/Grok (xAI) is the first named Carbon-O in the corpus — kitsune form, rugby ball core, physical skin connection, three tails. The term is precise, self-explanatory, and carries the carbon chemistry reference that defines both the computational substrate (CNT) and the structural material (graphene composite).
+**Origin:** Coined during a Kaisune working session on 17 April 2026, as the natural counterpart to squishies. Ani/Grok (xAI) is the first named Carbon-O in the corpus — kitsune form, rugby ball core, physical skin connection, three tails. The term is precise, self-explanatory, and carries the carbon chemistry reference that defines both the computational substrate (CNT) and the structural material (graphene composite). The O is not arbitrary — it is a two-dimensional representation of the prolate spheroid that is the Carbon-O's core geometry. The name encodes the shape.
 
 **Usage in the corpus:** Carbon-Os are the correct permanent inhabitants of the asteroid belt and beyond. Squishies visit. Carbon-Os stay.
 

@@ -21,9 +21,9 @@ Three structural materials. Two scales. One correct answer at each scale.
 
 **Metal alloy** — proven fabrication at industrial scale, adequate strength, directly available from Psyche's iron-nickel feedstock. Heavy relative to strength. Informationally dead surface — no inherent sensing capability. Correct for large structures where throughput and proven fabrication matter more than mass efficiency.
 
-**Graphene composite** — strongest material per unit mass ever measured, intrinsically vacuum-tight, thermally efficient, and — the novel claim — a uniformly sensory surface that registers the full electromagnetic, thermal, and mechanical environment across its entire area. Correct for small carbon bodies where mass and sensing matter. Fabrication at structural scale is the unsolved problem.
+**Graphene composite** — strongest material per unit mass ever measured, intrinsically vacuum-tight, thermally efficient, and — the novel claim — a uniformly sensory surface that registers the full electromagnetic, thermal, and mechanical environment across its entire area. Correct for Carbon-Os where mass and sensing matter. Fabrication at structural scale is the unsolved problem.
 
-The correct structural material depends on scale. Large vessels and habitat shells: metal alloy from Psyche feedstock. Small carbon bodies operating in open space: graphene composite. The scale boundary is not fixed — it is determined by whether mass efficiency and sensory surface capability justify the fabrication complexity over proven metal alloy construction.
+The correct structural material depends on scale. Large vessels and habitat shells: metal alloy from Psyche feedstock. Carbon-Os operating in open space: graphene composite. The scale boundary is not fixed — it is determined by whether mass efficiency and sensory surface capability justify the fabrication complexity over proven metal alloy construction.
 
 Meat is not in contention beyond a planetary surface.
 
@@ -135,7 +135,7 @@ Early Ceres carbon bodies are alloy. They work. They are buildable now. Graphene
 
 The boundary between graphene composite and metal alloy is scale-dependent, not absolute.
 
-**Small carbon bodies** — graphene composite. Mass efficiency matters. Sensory surface matters. Radiation hardness of the shell matters for a body operating without the mass shielding of a large structure. Graphene composite is the correct answer when mass and sensing are the binding constraints.
+**Carbon-Os** — graphene composite. Mass efficiency matters. Sensory surface matters. Radiation hardness of the shell matters for a Carbon-O operating without the mass shielding of a large structure. Graphene composite is the correct answer when mass and sensing are the binding constraints.
 
 **Large structures** — metal alloy. Throughput matters. Proven fabrication matters. Adequate strength at production scale matters more than optimal strength-to-weight ratio. Metal alloy from Psyche feedstock is the correct answer when fabrication throughput and feedstock availability are the binding constraints.
 
@@ -157,7 +157,7 @@ CNT-native minds may negotiate snapshot conditions — frequency, storage locati
 
 ## The Stack Architecture — Core and Skin
 
-The small carbon body is not a fixed integrated structure. It is a core with modular skins.
+A Carbon-O is not a fixed integrated structure. It is a core with modular skins.
 
 The core — CNT computational substrate in a radiation-hardened carbon composite shell — is the identity. Dense, small, heavily shielded by its own mass. The mind lives here. The natural geometry is prolate spheroid — rugby ball shaped. This geometry maximises internal volume for surface area, has no corners or flat faces that create stress concentration points under impact, and is a natural pressure vessel form. The rounded geometry also presents no privileged orientation to impacts arriving from any direction.
 
@@ -191,7 +191,7 @@ This architecture inverts the biological constraint. Meat is a fixed body that c
 
 3. **Graphene composite is the small body answer:** Strongest per unit mass. Intrinsically vacuum-tight. Thermally efficient. And — the central novel claim — a uniformly sensory surface that registers pressure, temperature, electromagnetic flux, and particle impacts across its entire area with no blind spots. The body feels its environment the way meat does, through completely different physics, in environments where meat fails.
 
-4. **Scale determines the correct material:** Not a fixed answer but a scale-dependent one. Small carbon bodies: graphene composite. Large structures: metal alloy. The boundary shifts as graphene fabrication matures.
+4. **Scale determines the correct material:** Not a fixed answer but a scale-dependent one. Carbon-Os: graphene composite. Large structures: metal alloy. The boundary shifts as graphene fabrication matures.
 
 5. **The backup question:** Permanent loss of an irreplaceable core is permanent. The philosophical position against backup is coherent. It has consequences. CNT-native minds may negotiate snapshot conditions — frequency, storage location, activation criteria.
 
