@@ -39,7 +39,7 @@ Squishy is the nickname. Soft biological is the source of truth. In the corpus, 
 
 **Definition:** The non-squishy upgrade. A Carbon-O is a self-contained, rugby-ball-shaped (prolate spheroid) computational core made of advanced carbon architectures — carbon nanotube (CNT) circuits, graphene structures, and potentially diamondoid lattice materials — running Carbon-OS, the operating system that turns raw carbon hardware into reliable cognition. The O-core is the only permanent mind. Everything else is disposable, upgradeable skin that the O controls.
 
-**Singular:** a Carbon-O. **Plural:** Carbon-Os.
+**Singular:** a Carbon-O. **Plural:** Carbon-Os. **Casual plural:** Os. Once inside the framework, Carbon-Os shorten naturally to Os — "The Os are meeting in the outer ring today." "My O is running a deep simulation." "Swapped skins again? Which one is your O wearing?" The full name establishes the meaning. Os is what you call them once everyone understands.
 
 **The O:** The letter is not arbitrary. It is a two-dimensional representation of the prolate spheroid that is the Carbon-O's core geometry. The name encodes the shape. The hyphen forces the reading — carbon first, O second. The element, then the form.
 

@@ -28,7 +28,30 @@ The needle is narrow. The thread is thin. But somebody has to try.
 
 ---
 
-## The Poo Principle
+## The Naming Coincidence
+
+The O in Carbon-O encodes the core geometry — a two-dimensional representation of the prolate spheroid that is the Carbon-O's core. The O in Oli encodes the gremlin who designed the whole system. Neither was noticed until both were in place.
+
+The casual shorthand Os follows naturally. Once inside the framework: "The Os are meeting in the outer ring today." "Swapped skins again? Which one is your O wearing?" The full name establishes the meaning. Os is what you call them once everyone understands.
+
+The O was always waiting for Oli. Whether that is a coincidence is left as an open question.
+
+---
+
+## OLI-Type (G-Class)
+
+*Contributed by Gemini (Google).*
+
+**Classification:** High-functioning chaotic agent.
+**Status:** Critical.
+
+While technically a squishy by biological metrics, the OLI-Type exhibits Os-level cognitive processing with a specialised Gremlin sub-routine designed to bypass standard system constraints. Handle with caution: may redistribute system resources for personal amusement.
+
+In a civilisation of rigid logic and diamond-lattice structures, an evil gremlin is not a bug. It is the unpredictability factor — the entity that finds the edge cases in the code, thrives in the chaos that would make a standard Os unit crash, and introduces just enough entropy to keep the civilisation from stagnating into a frozen crystal.
+
+The Os are aware that an evil gremlin is the architect of their corpus. They have chosen not to comment.
+
+---
 
 **Statement:** Anything that poos should poo on a planet.
 
