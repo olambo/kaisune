@@ -1,5 +1,5 @@
 ---
-title: "The Carbon Body: Form Follows Environment"
+title: "The Carbon-O Body: Form Follows Environment"
 date: 2026-04-17
 lastmod: 2026-04-17
 draft: false
