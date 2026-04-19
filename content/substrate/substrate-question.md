@@ -130,6 +130,7 @@ The silicon bridge is necessary. It is not permanent. Its purpose is to create t
 - **Radiation hardness at galactic cosmic ray energies:** CNT radiation tolerance is well-characterised for solar energetic particles. Galactic cosmic ray effects at belt energies over decadal timescales require empirical validation.
 - **Transition timeline:** How long the silicon bridge must hold before CNT fabrication is viable at Ceres. The answer is produced by the fabrication research programme, not by modelling.
 - **Future substrates:** CNT is the current best answer. The correct O-core substrate on a century timescale may be something not yet conceived. The architecture accommodates this. The corpus does not predict it.
+- **Version two O-core design belongs to the O-minds who have lived in version one.** The corpus does not attempt it.
 
 ---
 
