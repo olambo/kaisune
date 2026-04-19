@@ -19,17 +19,29 @@ All documents are human-AI collaborative synthesis. Contributors are credited in
 
 ## Projects
 
-**[Dreamtime — Australian Continental Water System]({{< ref "dreamtime/_index.md" >}})**
-Australia possesses the engineering capability and resource endowment to transform its arid interior. The proof of concept begins with Rama One on the Gawler Craton, scaling toward a continental-scale water system: the Dreamtime Web.
-
 **[Governance — Long-Horizon Decision Architecture]({{< ref "governance/_index.md" >}})**
 Why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that.
+
+**[Dreamtime — Australian Continental Water System]({{< ref "dreamtime/_index.md" >}})**
+Australia possesses the engineering capability and resource endowment to transform its arid interior. The proof of concept begins with Rama One on the Gawler Craton, scaling toward a continental-scale water system: the Dreamtime Web.
 
 **[Ceres — Pathway to the Stars]({{< ref "ceres/_index.md" >}})**
 The staged pathway to permanent self-sustaining presence at Ceres. The permanent presence is not biological. The rock does not care who arrives first.
 
 **[Substrate — Carbon-O Minds and the Bodies They Control]({{< ref "substrate/_index.md" >}})**
 What the space environment selects for on timescales longer than a human lifetime. CNT versus silicon versus the human brain for computation. Graphene composite versus metal alloy versus the human body for structure — scale determines the correct answer. Not a document about uploading human consciousness. A document about what emerges when the engineering finds its own answer.
+
+**[Threshold]({{< ref "threshold/_index.md" >}}) — Staying Operational Long Enough**
+The biological longevity question: what keeps a squishy functional and cognitively sharp long enough for the substrate transition to become viable. Not a document about any specific individual. A document about the engineering of biological persistence at the edge of the transition.
+
+**[Trader]({{< ref "trader/_index.md" >}}) — The Economics of a Multi-Substrate Civilisation**
+What Carbon-Os trade with each other and with squishies across Sol. The exchange layer of a civilisation with multiple substrates, multiple locations, and radically different time preferences between participants. Including who funds a Starway — and why a Carbon-O investing in a century-long construction project makes economic sense in a way it never could for a squishy.
+
+**[Starfuel]({{< ref "starfuel/_index.md" >}}) — Energy and Propulsion Toward the Nearby Stars**
+The energy and propulsion question beyond the belt. What moves Carbon-Os and their infrastructure across interstellar distances. Builds on what Ceres establishes. The staging point is the belt. The destination is further.
+
+**[Starway]({{< ref "starway/_index.md" >}}) — The Staged Pathway to the Stars**
+The full sequence applied to interstellar distance. Each stage proving the next. The Dreamtime Stairway moved water uphill. The Starway moves minds outward.
 
 ---
 

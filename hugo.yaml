@@ -18,6 +18,10 @@ params:
     - ceres
     - substrate
     - governance
+    - threshold
+    - trader
+    - starfuel
+    - starway
 
   homeInfoParams:
     Title: Kaisune
