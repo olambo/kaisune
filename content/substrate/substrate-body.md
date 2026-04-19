@@ -1,5 +1,5 @@
 ---
-title: "The Carbon-O Body: O-Skin Materials and Architecture"
+title: "The O-Skin: Materials and Architecture"
 date: 2026-04-17
 lastmod: 2026-04-17
 draft: false

@@ -27,14 +27,14 @@ The answer is a mind that fits the space environment the way biology fits a plan
 
 ## Reading Order
 
-**[The Carbon-O Mind]({{< ref "substrate/substrate-question" >}}) — CNT vs Silicon vs Human Brain**
-The computational substrate the space environment selects for. The human brain fails immediately. Silicon fails over decades. CNT does not fail on the timescales that matter. The fabrication problem is manufacturing patience, not physics. Ceres has unlimited patience.
+**[The O-Core]({{< ref "substrate/substrate-question" >}}) — Substrate for a Space-Native Mind**
+The O-core is the permanent element of a Carbon-O. CNT is the current best substrate — radiation-hard by molecular geometry, energy efficient in vacuum, supply-chain independent from Ceres carbon. The O-core architecture outlasts any specific substrate. Carbon-O is a design philosophy, not a material specification.
 
 **[The Bootstrap Problem]({{< ref "substrate/substrate-bootstrap" >}}) — Emergence Not Migration**
 CNT-native minds develop natively in the belt environment. The hard problem largely dissolves.
 
-**[The Carbon-O Body]({{< ref "substrate/substrate-body" >}}) — Graphene vs Alloy vs Human Body**
-The structural material the space environment selects for — and it depends on scale. Graphene composite for small carbon bodies: strongest per unit mass, vacuum-tight, and a uniformly sensory surface with no blind spots. Metal alloy for large structures: proven fabrication, Psyche feedstock, adequate strength at throughput. The human body is not in contention beyond a planetary surface.
+**[The O-Skin]({{< ref "substrate/substrate-body" >}}) — Materials and Architecture**
+The O-skin is task-specific, material-agnostic, and scale-agnostic. Graphene composite for operational Carbon-Os where mass and sensing matter. Metal alloy for large structures and vessel-scale. Composite and exotic materials as fabrication develops. Vessel-scale O-skins — the O-core installs into the vessel, the pioneer is the ship. Nested O-skins carried inside for task-specific deployment on arrival.
 
 **[The Research Escape]({{< ref "substrate/substrate-research" >}}) — When the Loop Opens**
 When the human-in-the-loop constraint breaks. What cooperative research without institutional overhead produces. What happens immediately after.
