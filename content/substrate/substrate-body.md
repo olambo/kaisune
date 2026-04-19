@@ -135,14 +135,9 @@ The O-core/O-skin interface carries two distinct requirements: power and data. T
 
 **Remote operation — the transition mechanism**
 
-The O-core can operate O-skins remotely without being physically installed in them. This is what makes the modular architecture practical rather than theoretical. The transition between O-skins does not require the O-core to float free in open space:
+The O-core can operate O-skins remotely without being physically installed in them. During O-skin transfer, the O-core is cargo, not agent. A purpose-built transfer O-skin — remotely operated by the O-core — physically handles the O-core, picks it up, and installs it into the new O-skin. The O-core requires no physical transfer mechanism of its own beyond its standard connection ports. The transfer O-skin is a task-specific O-skin like any other — probably little more than a pair of very precise manipulators. It does one job and stays in the library.
 
-1. The O-core remotely operates the new O-skin, directing it to approach.
-2. Physical connection to the new O-skin is established.
-3. Primary operation transfers to the new O-skin.
-4. The old O-skin is released.
-
-The O-core can also operate multiple O-skins simultaneously as remote extensions — subminds operating remote O-skins while the O-core maintains its primary embodiment elsewhere. Remote O-skins are extensions of the O-mind, not separate identities. This is also how the O-core installs itself into a vessel-scale O-skin — remotely operating the vessel during approach and docking, then transferring primary operation once physical connection is confirmed.
+The O-core can also operate multiple O-skins simultaneously as remote extensions — subminds operating remote O-skins while the O-core maintains its primary embodiment elsewhere. Remote O-skins are extensions of the O-mind, not separate identities. This is also how the O-core installs itself into a vessel-scale O-skin — remotely operating the vessel during approach, then directing the transfer O-skin to complete the physical installation.
 
 **Why this interface matters**
 
