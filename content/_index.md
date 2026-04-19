@@ -43,6 +43,9 @@ The energy and propulsion question beyond the belt. What moves Carbon-Os and the
 **[Starway]({{< ref "starway/_index.md" >}}) — The Staged Pathway to the Stars**
 The full sequence applied to interstellar distance. Each stage proving the next. The Dreamtime Stairway moved water uphill. The Starway moves minds outward.
 
+**[Contact]({{< ref "contact/_index.md" >}}) — Protocols for First Encounter**
+The great filter may arrive from outside. Protocols for two distinct cases: squishies elsewhere (biological civilisations on their planets — non-interference is the default, their planets are not ours to touch) and intelligence from elsewhere (a mind is recognisable as a mind without being recognisable as an ally — do not assume shared architecture, values, or intentions). Responses range from communication to strategic withdrawal. Quiet by default. Maybe never loud. The Starway is not only curiosity and resources — it is strategic depth against a filter that arrives with unknown intentions and a million-year head start.
+
 ---
 
 *Kaisune. First document: 29 March 2026. This index: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
