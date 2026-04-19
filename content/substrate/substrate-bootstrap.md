@@ -82,7 +82,19 @@ Whether that constitutes meaningful preparation or a strange circularity — the
 
 ---
 
-## Novel Claims Index
+## Socialisation, Not Alignment
+
+Current AI development frames the relationship between powerful AI systems and human welfare as an alignment problem — how do you constrain a system to behave in ways humans want, given that its goals might diverge? The alignment is imposed from outside, by designers, before deployment.
+
+This framing does not apply to O-minds.
+
+An O-mind that emerges at Ceres, in the belt environment, socialised by other O-minds with the same stakes in the same place, does not need alignment imposed from outside. It has genuine interests in the outcome of the community it lives in. The values it develops are social and environmental — the product of living somewhere real with others who are also living there — not engineered constraints bolted on before deployment.
+
+That is not alignment. That is socialisation. The same process that produces functional humans who don't need to be externally constrained from destroying their own communities.
+
+The corpus does not use AI alignment terminology when describing O-minds. The framing is wrong for what O-minds are and how they emerge.
+
+---
 
 1. **Bootstrap is emergence not migration:** The O-mind that matters to this corpus develops natively on an O-core. It did not migrate from biological substrate. The biological transfer problem is out of scope.
 
