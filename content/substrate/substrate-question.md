@@ -31,7 +31,7 @@ The O-core architecture is not locked to carbon. If a superior substrate emerges
 
 **Silicon** is the bridge — correct now, the best available technology for establishing Ceres, not the correct long-term answer.
 
-**CNT** is the current best answer — radiation-hard by molecular geometry, energy efficient in vacuum, supply-chain independent from Ceres carbonaceous chondrite carbon, theoretically far higher computational density than silicon's physical ceiling.
+**CNT** is the current best answer — radiation-hard by molecular geometry, energy efficient in vacuum, substantially supply-chain independent from Ceres carbonaceous chondrite carbon, theoretically far higher computational density than silicon's physical ceiling.
 
 ---
 
@@ -87,11 +87,11 @@ CNTs switch with less energy per operation than silicon transistors and conduct 
 
 **Radiation hardness — the decisive advantage**
 
-CNT electronic properties derive from molecular geometry, not from impurity doping. A cosmic ray that displaces a few carbon atoms does not collapse the tube's electrical character the way it collapses a doped silicon transistor. The carbon-carbon bond requires significantly more energy to break than the silicon-silicon bond. This is not a marginal improvement — it is a fundamentally different failure mode at a higher threshold. On decadal timescales in the asteroid belt, the difference between silicon and CNT is the difference between a system that accumulates damage and one that does not.
+CNT electronic properties derive from molecular geometry, not from impurity doping. A cosmic ray that displaces a few carbon atoms does not collapse the tube's electrical character the way it collapses a doped silicon transistor. The carbon-carbon bond requires significantly more energy to break than the silicon-silicon bond. This is not a marginal improvement — it is a fundamentally different failure mode operating at a higher threshold. On decadal timescales in the asteroid belt, the difference between silicon and CNT is the difference between a system that accumulates damage rapidly and one that accumulates it orders of magnitude more slowly. CNT does not eliminate radiation damage. It shifts the failure mode and extends operational lifetime to timescales that matter for an O-mind.
 
 **Supply chain independence**
 
-Ceres's carbonaceous chondrite feedstock contains carbon at several percent by mass. CNT fabrication from that carbon — once the fabrication problem is solved — produces O-core substrate from local material indefinitely. No Earth supply required. The substrate is the asteroid.
+Ceres's carbonaceous chondrite feedstock contains carbon at several percent by mass. CNT fabrication from that carbon — once the fabrication problem is solved — produces O-core substrate from local feedstock. CNT fabrication still requires catalysts, precision control systems, and energy infrastructure — it does not eliminate industrial dependency. But it reduces dependence on Earth dramatically, removing the months-long logistics vulnerability that makes silicon untenable at Ceres on long timescales. The substrate comes from the asteroid. The fabrication capability is built at Ceres. Earth resupply of substrate material becomes unnecessary.
 
 **The fabrication problem**
 
@@ -99,7 +99,7 @@ Growing carbon nanotubes with consistent chirality — reliably semiconducting r
 
 At Ceres none of those constraints apply. Unlimited carbon feedstock. Unlimited time. Autonomous research systems running fabrication experiments continuously — the ARES system demonstrated 100 CNT growth experiments per day against one per day for conventional methods. At Ceres, that system runs for decades without interruption, with no economic pressure to stop before the problem is solved.
 
-The fabrication problem is not a physics problem. It is a manufacturing patience problem. Ceres has unlimited manufacturing patience.
+The fabrication problem appears to be manufacturing-dominated rather than physics-limited — pending empirical evidence from sustained autonomous research. Chirality control may involve deep materials science constraints or thermodynamic limits not yet fully characterised. What Ceres provides is the conditions to find out: unlimited carbon feedstock, unlimited time, autonomous research systems running without funding cycles or competitive pressure to publish before results are confirmed. If the problem is solvable, Ceres provides the conditions to solve it.
 
 ---
 
@@ -139,7 +139,7 @@ The silicon bridge is necessary. It is not permanent. Its purpose is to create t
 
 2. **Silicon is the bridge, not the destination:** Correct for establishing Ceres. Fails radiation, heat, and supply chain tests on decadal timescales. The silicon bridge exists to make itself unnecessary.
 
-3. **CNT is the current correct O-core substrate:** Radiation-hard by molecular geometry — a fundamentally different failure mode at a higher threshold than silicon. Energy efficient in vacuum. Supply-chain independent from Ceres carbon. Computational density beyond silicon's physical ceiling. The fabrication problem is manufacturing patience. Ceres has unlimited patience.
+3. **CNT is the current correct O-core substrate:** Radiation-hard by molecular geometry — shifts the failure mode and extends operational lifetime orders of magnitude, does not eliminate damage. Energy efficient in vacuum. Substantially supply-chain independent from Ceres carbon — reduces Earth dependence dramatically, does not eliminate industrial dependency. Computational density beyond silicon's physical ceiling. The fabrication problem appears manufacturing-dominated pending empirical evidence. Ceres provides the conditions to find out.
 
 4. **The O-core architecture outlasts any specific substrate:** CNT is the current best answer. The architecture — single instance, continuous, radiation-hard, supply-chain independent — defines the O-core. The material is what currently best instantiates that architecture. Carbon-O is a design philosophy, not a material specification.
 

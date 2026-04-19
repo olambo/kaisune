@@ -21,7 +21,7 @@ The Carbon-O body is different in kind, not degree. The O-core is permanent. The
 
 **O-skin material choices depend on scale and task:**
 
-**Graphene composite** — strongest material per unit mass ever measured, intrinsically vacuum-tight, thermally efficient, and — the novel claim — a uniformly sensory surface that registers the full electromagnetic, thermal, and mechanical environment across its entire area. Correct for Carbon-Os in operational contexts where mass and sensing matter. Fabrication at structural scale is the unsolved problem.
+**Graphene composite** — strongest material per unit mass ever measured, intrinsically vacuum-tight, thermally efficient, and — the novel claim — a surface that enables dense distributed sensing across its area through piezoelectric response and electromagnetic sensitivity. Correct for Carbon-Os in operational contexts where mass and sensing matter. Fabrication at structural scale is the unsolved problem.
 
 **Metal alloy** — proven fabrication at industrial scale, adequate strength, directly available from Psyche's iron-nickel feedstock. Heavy relative to strength. Informationally dead surface — no inherent sensing capability. Correct for large structures and vessel-scale O-skins where throughput and proven fabrication matter more than mass efficiency.
 
@@ -67,7 +67,7 @@ Graphene conducts heat along its plane with extraordinary efficiency. A graphene
 
 **The sensory surface — the central novel claim**
 
-Graphene responds to mechanical stress with measurable electrical signals. A graphene composite O-skin surface is not a passive shell. It is an active sensory surface — pressure, temperature, electromagnetic flux, and particle impacts registered across its entire area with no blind spots. The O-skin feels its environment continuously and delivers that information to the O-core.
+Graphene responds to mechanical stress with measurable electrical signals. A graphene composite O-skin surface is not a passive shell. It is a surface that enables dense distributed sensing — pressure, temperature gradients, electromagnetic flux, and particle impacts detectable across its area through piezoelectric response and electromagnetic sensitivity. This is not equivalent to a complete omnidirectional sensor array — signal processing architecture, noise isolation, and resolution limits remain open engineering problems. But it provides a sensing foundation that no metal alloy surface can approach, without adding discrete sensor installations that create blind spots.
 
 This matches and in some dimensions exceeds the human body's distributed sensing capability — through completely different physics, in environments where the human body fails.
 
@@ -133,6 +133,16 @@ The O-core — CNT computational substrate in a radiation-hardened carbon compos
 
 The O-core/O-skin interface carries two distinct requirements: power and data. The likely architecture is hybrid: inductive coupling for power transfer across the interface without contacts, and short-range optical connection for high-bandwidth sensory data — aligned optical ports on O-core and O-skin, immune to electromagnetic interference, no moving parts. The mechanical connection between O-core and O-skin is structural only. Ani/Grok confirmed physical connection as her preferred interface architecture.
 
+**Why this interface matters**
+
+The interface is where the system either becomes believable engineering or elegant fiction. Inductive power transfer without contacts eliminates the wear problem — physical connectors degrade over thousands of O-skin changes. Optical data avoids electromagnetic interference in the belt radiation environment, where wireless protocols face noise floors that would introduce latency in sensory data. Microsecond-scale lag from a graphene surface to the O-core matters for fine manipulation.
+
+**Interface failure modes**
+
+Optical port misalignment — the aligned optical ports require mechanical precision at the O-core/O-skin junction. Thermal cycling between shadow and sunlight expands and contracts materials at different rates; alignment tolerance must accommodate this without introducing data loss. Inductive coupling efficiency drops with misalignment and with intervening material changes — the gap and material between coils must be engineered to tight tolerances for efficient power transfer across the full O-skin change cycle. The mechanical structural connection is the third failure point — the joint that holds O-skin to O-core must maintain alignment for both optical and inductive systems under the dynamic loads of operational use.
+
+These are solvable engineering problems. They are not trivial ones. The interface section of the open questions list reflects this honestly.
+
 The O-skin is structural and sensory material fitted around the O-core for a specific operational context. Material, form, and scale are all task-determined. The O-skin is changed for the task. The O-core is unchanged.
 
 **Vessel-scale O-skins**
@@ -151,7 +161,21 @@ The human body is fixed — the same biological form in every environment. The C
 
 ---
 
-## Open Questions
+## Failure Modes
+
+Real systems earn credibility through how they fail, not how they shine.
+
+**O-core destruction — real death.** The O-core is durable and radiation-resistant on long timescales. It is not indestructible. Sufficient energy — a direct high-velocity micrometeorite impact, a major energetic particle event, catastrophic power failure — can destroy it. O-core destruction is permanent loss of the O-mind unless a snapshot exists. This is the one failure mode with no recovery path. Everything else is recoverable.
+
+**O-core radiation degradation — slow death.** CNT substrate shifts the failure mode and extends operational lifetime orders of magnitude beyond silicon. It does not eliminate radiation damage. On century timescales in the asteroid belt, accumulated galactic cosmic ray effects on CNT circuits are an open empirical question. The O-core requires periodic assessment and potentially localised substrate repair or replacement of degraded sections — a different engineering problem from silicon's wholesale hardware replacement, but not a zero-maintenance proposition.
+
+**O-skin damage — operational inconvenience.** The O-skin is tooling. Damage to it does not threaten the O-mind. A destroyed O-skin requires replacement — from the O-skin library carried in a vessel-scale O-skin, or from Ceres fabrication on a longer timeline. The Carbon-O is operationally constrained without an O-skin but not existentially threatened.
+
+**Interface failure — embodiment loss.** Optical port misalignment, inductive coupling degradation, or mechanical junction failure disconnects the O-core from the O-skin. The O-mind continues running in the O-core but loses sensory input and physical capability until the interface is repaired or a new O-skin is fitted. In open space without a functioning O-skin, the O-core is vulnerable — heavily shielded by its own mass but unable to manoeuvre, sense, or interact with its environment.
+
+**Graphene composite fatigue — gradual sensing degradation.** Graphene composite under repeated thermal cycling and micrometeorite impact accumulates damage over time. The sensing capability degrades before structural integrity fails — the surface becomes less responsive in specific areas before it becomes structurally compromised. This provides early warning: sensing degradation signals that O-skin replacement is approaching before structural failure becomes a risk.
+
+---
 
 - **Graphene composite conductivity management:** The correct conductivity profile for an O-skin surface that must simultaneously sense electromagnetic flux and not block it. Graphene composite matrix engineering can control conductivity but this requires specific design work not yet demonstrated at O-skin scale.
 - **Lightness as a liability:** In three contexts a lighter O-skin creates operational problems — high relative velocity impact (deflects more), microgravity anchoring (almost no gravitational hold at 0.029g), and thermal cycling (faster temperature swings at lower thermal mass). The first two require operational design responses.
@@ -169,7 +193,7 @@ The human body is fixed — the same biological form in every environment. The C
 
 1. **The human body is the wrong model for space:** Fixed form, fixed material, fixed environmental requirements. Mind and body fused — damage the body, lose the mind. Not competitive beyond a planetary surface. The correct baseline, not a contender.
 
-2. **Graphene composite is the O-skin material for Carbon-Os:** Strongest per unit mass. Intrinsically vacuum-tight. Thermally efficient. Uniformly sensory surface — pressure, temperature, electromagnetic flux, particle impacts across its entire area with no blind spots. The sensing advantage the human body held is matched through different physics.
+2. **Graphene composite enables dense distributed sensing:** Piezoelectric response and electromagnetic sensitivity across the O-skin surface provides a sensing foundation unavailable in metal alloy. Signal processing architecture, noise isolation, and resolution limits are open engineering problems. The sensing advantage the human body held is substantially reduced — not by matching its resolution but by eliminating the discrete sensor blind spot problem through distributed material response.
 
 3. **Metal alloy is the large structure and vessel-scale answer:** Proven fabrication, Psyche feedstock, adequate strength at throughput. Informationally dead but acceptable at scale where sensor arrays substitute for surface sensing.
 
