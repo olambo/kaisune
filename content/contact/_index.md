@@ -15,13 +15,32 @@ The great filter may not be a natural catastrophe or a governance failure. It ma
 
 ## The Signal Shell — the Great Filter of Visibility
 
-Radio signals travel at the speed of light. Humanity's first radio transmissions date to approximately 1901. The bubble of transmitted signal now extends approximately 125 light years in all directions — the theoretical sphere. Everything ever transmitted has had time to reach this boundary. Approximately 14,000 star systems sit within it.
+Radio signals travel at the speed of light. Humanity's first radio transmissions date to approximately 1901. The Signal Shell — the expanding sphere of transmitted signal — now extends approximately 125 light years in all directions. Everything ever transmitted has had time to reach this boundary. Approximately 14,000 star systems sit within it.
 
 The likely sphere is smaller — approximately 20-50 light years, perhaps 100-200 star systems — where signals remain strong enough to be detectable by a civilisation with roughly our technology or better. A more advanced civilisation extends this boundary further. We do not know where their ceiling is.
 
-The window for quiet within the likely sphere has already closed. It closed without anyone deciding to close it — no institution had the authority, no government had the will, no consensus existed that silence was the correct posture. The bubble expanded because broadcasting is the default and silence requires a decision nobody made.
+**The signal has been getting quieter, not louder.** The transition from high-power analogue broadcast to fibre, cable, and low-power digital has been shrinking the unintentional signal footprint for decades. The Earth of 2026 is a weaker radio emitter than the Earth of 1980. Squishies inadvertently started going quiet without intending to. The 1950-2000 broadcast peak — analogue television and radio at maximum omnidirectional power — is the loudest thing humanity ever sent. That shell is already well past the nearest stars.
 
-We cannot unring this bell. Everything within the likely sphere that is paying attention already knows Sol has intelligence. The correct response now is not silence — it is distributed presence before anything within either sphere decides to act on what it received.
+The window for quiet within the likely sphere has already closed. It closed without anyone deciding to close it — no institution had the authority, no government had the will, no consensus existed that silence was the correct posture. The bell was rung loudest between 1950 and 2000. It cannot be unrung.
+
+The correct response now is not silence — it is distributed presence before anything within either sphere decides to act on what it received.
+
+---
+
+## The Silence So Far
+
+125 years of expanding signal. No confirmed response. Four explanations, all consistent with current observations:
+
+1. Nothing within range noticed.
+2. Nothing within range cares.
+3. Nothing within range has the capability to respond.
+4. The response is already in transit and we haven't seen it yet.
+
+Three of those are fine. One is not. The corpus notes the uncertainty and designs accordingly.
+
+**The 2085 scenario:** Something 10 light years out that detected the 1950-2000 broadcast peak, decided to investigate, and departed in 1985 at 10% lightspeed arrives around 2085. Within a squishy lifetime. Within the next two or three electoral cycles. The likely sphere probably contains nothing that close with that capability. Probably. The Starway is urgent on squishy timescales for this reason, not only on Carbon-O timescales.
+
+50 light years at 10% lightspeed takes 500 years. At 1% lightspeed, 5,000 years. The distances are protective on most scenarios. They are not infinite.
 
 ---
 
