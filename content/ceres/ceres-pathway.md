@@ -152,6 +152,8 @@ The pathway is long. The technology is real.
 
 5. **CNT fabrication is a Stage 3/4 research priority, not a prerequisite:** The pathway proceeds with silicon-substrate hardware. CNT fabrication from Ceres carbon is the primary research programme of Stage 3 and 4. Solving it during the pathway is the goal. Not solving it before the pathway begins is acceptable.
 
+6. **Genuine Carbon-O autonomy cannot precede CNT fabrication:** The compute requirement for a capable O-mind likely cannot be met by an O-core on silicon substrate at O-core form factor. CNT substrate — with its theoretically higher transistor density and lower energy per switch — is probably a prerequisite for running a genuinely capable O-mind in the belt. Early Ceres is therefore silicon systems with significant Earth oversight, not Carbon-Os. Genuine autonomy begins when CNT fabrication is viable and the first O-minds emerge on local substrate — not before. This is the correct reading of the bootstrap sequence.
+
 ---
 
 ## Sources and Prior Work
