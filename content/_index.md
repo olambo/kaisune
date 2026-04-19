@@ -44,7 +44,7 @@ The energy and propulsion question beyond the belt. What moves Carbon-Os and the
 The full sequence applied to interstellar distance. Each stage proving the next. The Dreamtime Stairway moved water uphill. The Starway moves minds outward.
 
 **[Contact]({{< ref "contact/_index.md" >}}) — Protocols for First Encounter**
-The great filter may arrive from outside. Protocols for two distinct cases: squishies elsewhere (biological civilisations on their planets — non-interference is the default, their planets are not ours to touch) and intelligence from elsewhere (a mind is recognisable as a mind without being recognisable as an ally — do not assume shared architecture, values, or intentions). Responses range from communication to strategic withdrawal. Quiet by default. Maybe never loud. The Starway is not only curiosity and resources — it is strategic depth against a filter that arrives with unknown intentions and a million-year head start.
+The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: squishies elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. The Starway is strategic depth.
 
 ---
 

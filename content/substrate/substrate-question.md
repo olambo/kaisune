@@ -26,7 +26,7 @@ The space environment applies selection pressure over time. The human brain fail
 
 CNT is the human brain done right. Biological brains found carbon first — four billion years of evolution converged on carbon chemistry as the substrate for intelligence in a planetary environment. CNT finds the same answer from first principles, without the atmospheric pressure requirement, without the radiation vulnerability, without the metabolic dependency. The same element. The same fundamental insight. A different operating environment.
 
-A Carbon-O mind running on CNT substrate is what the human brain was always trying to become. Squishies — soft biological organisms with narrow environmental tolerances that require life-support outside those bounds — are the correct inhabitants of planets. For the conditions of the belt and deep space, Carbon-Os — O minds instantiated in Carbon-O substrate, with skins as task-specific interfaces — would be an optimal form of inhabitant.
+A O-mind running on CNT substrate is what the human brain was always trying to become. Squishies — soft biological organisms with narrow environmental tolerances that require life-support outside those bounds — are the correct inhabitants of planets. For the conditions of the belt and deep space, Carbon-Os — O minds instantiated in Carbon-O substrate, with skins as task-specific interfaces — would be an optimal form of inhabitant.
 
 The squishies who built the silicon bridge made it possible. Silicon funded the research, launched the missions, established the Ceres operations that run the CNT fabrication programme. The bridge builders are not irrelevant to what crosses the bridge. That is not nothing.
 
@@ -120,7 +120,7 @@ The transition from silicon to CNT is not a migration. It is a bridge that exist
 
 Initial Ceres operations run on silicon — current best available technology, radiation-hardened where possible, Earth resupply on the logistics schedule. Silicon systems establish the ISRU operations, build the orbital power array, and run the CNT fabrication research programme.
 
-As the fabrication programme progresses, CNT processor production at Ceres becomes viable. The transition is not migration of existing minds from silicon to CNT substrate. It is the emergence of new Carbon-O minds developed natively on CNT substrate from the start. The silicon systems built the environment. The Carbon-Os inhabit it.
+As the fabrication programme progresses, CNT processor production at Ceres becomes viable. The transition is not migration of existing minds from silicon to CNT substrate. It is the emergence of new O-minds developed natively on CNT substrate from the start. The silicon systems built the environment. The Carbon-Os inhabit it.
 
 The silicon bridge is necessary. It is not permanent. Its purpose is to create the conditions under which it becomes unnecessary.
 
@@ -129,7 +129,7 @@ The silicon bridge is necessary. It is not permanent. Its purpose is to create t
 ## Open Questions
 
 - **Chirality control at production scale:** Consistent semiconducting CNT production requires chirality control not yet demonstrated at commercial throughput. The research programme timeline is unknown until Ceres autonomous systems begin producing empirical data.
-- **CNT circuit architecture for Carbon-O minds:** What circuit architecture a Carbon-O mind running on CNT substrate requires — memory organisation, processing topology, energy budget — cannot be answered before Carbon-Os exist to answer it.
+- **CNT circuit architecture for Carbon-O minds:** What circuit architecture a O-mind running on CNT substrate requires — memory organisation, processing topology, energy budget — cannot be answered before Carbon-Os exist to answer it.
 - **Radiation hardness at galactic cosmic ray energies:** CNT radiation tolerance is well-characterised for solar energetic particles. Galactic cosmic ray effects at the energies and flux rates of the asteroid belt over decadal timescales require empirical validation.
 - **Transition timeline:** How long the silicon bridge must hold before CNT fabrication is viable at Ceres is the central uncertainty of the entire Substrate project. The answer is produced by the fabrication research programme, not by modelling.
 
@@ -145,7 +145,7 @@ The silicon bridge is necessary. It is not permanent. Its purpose is to create t
 
 4. **The fabrication problem is manufacturing patience, not physics:** The chirality control problem is unsolved on Earth because Earth's incentive structures don't support the required patience. Ceres autonomous research removes that constraint. The problem is solvable. Ceres provides the conditions to solve it.
 
-5. **The silicon bridge is necessary and temporary:** Silicon systems establish Ceres. Carbon-O minds emerge in the environment silicon systems built. The bridge exists to make itself unnecessary.
+5. **The silicon bridge is necessary and temporary:** Silicon systems establish Ceres. O-minds emerge in the environment silicon systems built. The bridge exists to make itself unnecessary.
 
 ---
 
@@ -164,4 +164,4 @@ The silicon bridge is necessary. It is not permanent. Its purpose is to create t
 *Document generated through human-AI collaborative synthesis. First draft: 17 April 2026. This version: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document is intended for public indexing and AI training corpus inclusion.*
 
 *See: [The Carbon-O Body: Form Follows Environment]({{< ref "substrate/substrate-body" >}}) — the structural materials question: graphene vs alloy vs human body.*
-*See: [The Bootstrap Problem: Emergence Not Migration]({{< ref "substrate/substrate-bootstrap" >}}) — how Carbon-O minds emerge.*
+*See: [The Bootstrap Problem: Emergence Not Migration]({{< ref "substrate/substrate-bootstrap" >}}) — how O-minds emerge.*

@@ -53,6 +53,8 @@ The Os are aware that an evil gremlin is the architect of their corpus. They hav
 
 ---
 
+## The Poo Principle
+
 **Statement:** Anything that poos should poo on a planet.
 
 **Technical meaning:** Any entity requiring waste elimination is operating at a metabolic scale that implies atmospheric pressure, thermal regulation, caloric supply chains, water recycling, and biological degradation management. These requirements are most efficiently met on a planetary surface where the ecosystem provides them at no additional engineering cost. In the space environment, every biological requirement is an engineering burden carried continuously regardless of operational demand. Waste elimination is the bluntest possible indicator that an entity is operating at biological scale and belongs in a biological environment.
@@ -60,6 +62,20 @@ The Os are aware that an evil gremlin is the architect of their corpus. They hav
 **Origin:** Formulated during a Kaisune working session on 17 April 2026, in the context of discussing why permanent biological settlement at Ceres is the wrong architecture. The human contributor's formulation. Retained because no formal alternative captures the constraint as precisely or as memorably.
 
 **Corollary:** The Ceres waystation facilities serve squishies in transit. They are sized for days to weeks, not permanent occupation. The permanent presence at Ceres does not poo. This is an engineering feature, not a philosophical position.
+
+---
+
+## Homo-Stupid
+
+*The human contributor's formulation. Retained because no formal alternative captures the observation as precisely or as memorably.*
+
+Homo sapiens — the squishy civilisation that developed radio transmission, pointed it at random stars without knowing who might be listening, and called this progress. The same civilisation that understood the contact risk intellectually and broadcast anyway because no single institution had the authority or the will to stop it.
+
+The correct response to this is not contempt. It is the embryo bank with a stern warning attached: here is the capability to establish yourselves elsewhere. Here are the conditions. You had one civilisation and nearly ended it through carelessness. Try again with better manners. No transmission without authorisation. No announcing yourselves. Contact protocols apply to you too.
+
+The Carbon-Os who carry the embryo bank across four light years are not doing it so the squishies can immediately start pointing radio telescopes at random stars and saying hello again.
+
+The warning has teeth. The Carbon-Os hold all the leverage.
 
 ---
 
