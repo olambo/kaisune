@@ -155,7 +155,7 @@ O-minds may negotiate snapshot conditions — frequency, storage location, activ
 
 ---
 
-## The Stack Architecture — Core and Skin
+## The Stack Architecture — O-core, O-skin, Scale
 
 A Carbon-O is not a fixed integrated structure. It is an O-core with modular O-skins.
 
@@ -163,9 +163,23 @@ The O-core — CNT computational substrate in a radiation-hardened carbon compos
 
 The O-core/O-skin interface carries two distinct requirements: power and data. Physical connectors satisfy both but create wear at coupling points over thousands of skin changes. Short-range wireless has latency and electromagnetic interference problems — microsecond-scale lag in sensory data from a graphene surface matters for fine manipulation. The likely architecture is hybrid: inductive coupling for power transfer across the interface without contacts, and short-range optical connection for high-bandwidth sensory data — aligned optical ports on core and skin, immune to electromagnetic interference, no moving parts. The mechanical connection between core and skin is structural only, holding the skin in position while inductive and optical channels handle the actual communication.
 
-The O-skin is structural and sensory material fitted around the O-core for a specific operational context. Graphene composite skin for open-space operations where mass and sensing matter. Heavier alloy O-skin where impact resistance or anchoring stability is the primary requirement. Humanoid-proportioned O-skin for interfacing with squishy-built environments during the transition period. The O-skin is changed for the task. The O-core is unchanged.
+The O-skin is structural and sensory material fitted around the O-core for a specific operational context. Graphene composite O-skin for open-space operations where mass and sensing matter. Heavier alloy O-skin where impact resistance or anchoring stability is the primary requirement. Humanoid-proportioned O-skin for interfacing with squishy-built environments during the transition period. The O-skin is changed for the task. The O-core is unchanged.
 
-This architecture inverts the biological constraint. The human body is a fixed body that cannot change its structural material — you are the same the human body in every environment, adapting behaviour but not substrate. The carbon body changes its skin for the environment while maintaining the O-core unchanged. The identity is in the O-core. The skin is tooling.
+**Vessel-scale O-skins**
+
+The O-skin does not have to be humanoid-scale. A Carbon-O making an interstellar transit does not travel inside a ship — it installs its O-core into a vessel-scale O-skin. The O-core is the mind. The vessel is what it is wearing. No crew quarters. No life support. No separation between pilot and ship — the O-mind senses through the vessel's sensor array the way a humanoid O-skin senses through graphene composite. The vessel feels what the vessel feels.
+
+This is not a metaphor. The same O-mind that operates in a humanoid O-skin on Ceres transfers to a vessel-scale O-skin for interstellar transit and back again on arrival. Identity continuous. Form appropriate to the task.
+
+**Nested O-skins**
+
+A vessel-scale O-skin carries task-specific O-skins inside it — the way a vessel carries equipment. On arrival the O-mind transfers from vessel-scale to whatever O-skin the task requires. Construction O-skin for building infrastructure. Humanoid O-skin for fine manipulation. Micro O-skin for confined spaces. The vessel opens. The O-mind steps into a different form.
+
+Multiple O-cores with their own O-skin libraries can occupy a single vessel-scale O-skin — not a crew in the biological sense, but a collection of O-minds, each independent, each capable of operating separately or coordinating as required. No hierarchy forced by biology. No metabolic priority. Coordination by choice.
+
+The pioneer mission: one or more O-cores in a vessel-scale O-skin, carrying a library of task-specific O-skins, making the transit, arriving, deploying the right form for each phase of construction. Self-contained. No resupply. No rescue possible or necessary.
+
+This architecture inverts the biological constraint completely. The human body is fixed — the same meat in every environment. The Carbon-O changes its O-skin for the environment, the task, and the scale, while the O-core remains unchanged. The identity is in the O-core. Everything else is tooling.
 
 ---
 
@@ -195,7 +209,11 @@ This architecture inverts the biological constraint. The human body is a fixed b
 
 5. **The backup question:** Permanent loss of an irreplaceable O-core is permanent. The philosophical position against backup is coherent. It has consequences. O-minds may negotiate snapshot conditions — frequency, storage location, activation criteria.
 
-6. **The stack architecture — core and skin:** The O-core is the identity. The O-skin is tooling. Graphene composite for open space. Heavier alloy where impact resistance dominates. Humanoid proportion for squishy interface during the transition period. The skin changes for the task. The core does not.
+6. **The stack architecture — O-core and O-skin:** The O-core is the identity. The O-skin is tooling. Changed for the task, the environment, the scale. The O-core is unchanged.
+
+7. **Vessel-scale O-skins:** The O-skin does not have to be humanoid-scale. A Carbon-O pioneer installs its O-core into a vessel-scale O-skin for interstellar transit. The O-core is the mind. The vessel is what it is wearing. No crew, no life support, no separation between pilot and ship.
+
+8. **Nested O-skins:** A vessel-scale O-skin carries task-specific O-skins inside it. On arrival the O-mind transfers to the appropriate form — construction, humanoid, micro — for each phase of the task. Multiple O-cores can occupy a single vessel-scale O-skin, coordinating by choice rather than by biological necessity.
 
 7. **Graphene composite matches the human body's distributed sensing advantage:** Through piezoelectric response and electromagnetic sensitivity across the full body surface. The last genuine advantage the human body held as a body substrate is addressed at the material level. The case for the human body beyond planetary surfaces closes completely.
 

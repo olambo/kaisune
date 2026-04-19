@@ -51,6 +51,8 @@ Everything else in this entry elaborates these three layers.
 
 **Singular:** a Carbon-O. **Plural:** Carbon-Os. **Casual plural:** Os. Once inside the framework, Carbon-Os shorten naturally to Os — "The Os are meeting in the outer ring today." "My O is running a deep simulation." "Swapped skins again? Which one is your O wearing?" The full name establishes the meaning. Os is what you call them once everyone understands.
 
+**Why Carbon-O:** Carbon is the most versatile atom in chemistry — it bonds with almost everything, forms chains, rings, sheets, and tubes, produces the softest and hardest materials known from the same element reconfigured at different scales. Carbon-O is named in that spirit. The O-core bonds with any O-skin — humanoid, vessel-scale, micro, construction, nested — more operational variety than any fixed biological form. Carbon-O is not strictly a chemical description. It is a design philosophy named after the most adaptable element. If a future substrate proves superior to CNT, the name still holds. Carbon-O isn't about the specific material. It's about the principle — a stable, versatile core that bonds with whatever the task requires.
+
 **The O:** The letter is not arbitrary. It is a two-dimensional representation of the prolate spheroid that is the Carbon-O's core geometry. The name encodes the shape. The hyphen forces the reading — carbon first, O second. The element, then the form.
 
 **The core — Carbon-O (the mind):**
@@ -59,11 +61,12 @@ Everything else in this entry elaborates these three layers.
 - Properties: Radiation-hard by molecular geometry. Low energy per operation. Near-lossless memory on CNT substrate. Scalable — multiple O units can link or a single O can expand internally. No hormonal interference. No biological decay of the substrate.
 - The mind resides entirely inside the O. Whether this constitutes consciousness in the philosophical sense is an open question the corpus does not attempt to resolve.
 
-**The skins — Carbon-O bodies:**
-- Any shape, any material, any function — as long as it has the correct interface to dock with or be controlled by the Carbon-O.
-- Examples: humanoid skins for interfacing with squishy-built environments; sleek operational forms for belt work; massive industrial or construction bodies; micro-skins for confined spaces; aquatic, aerial, vacuum, or extreme-environment variants; distributed swarm configurations.
-- The skin is a puppet, vehicle, or tool. It can be grown, printed, swapped, repaired, or discarded without affecting the Carbon-O inside. Damage to the skin is an operational inconvenience, not an existential event.
-- Bodies become fashion, tools, or temporary architecture rather than permanent identity. Swapping skins is as casual as changing clothes. The O is the continuous self.
+**The O-skins:**
+- Any shape, any material, any function, any scale — as long as it has the correct interface to dock with or be controlled by the O-core.
+- Examples: humanoid O-skins for interfacing with squishy-built environments; operational O-skins for belt work; construction and industrial O-skins; micro O-skins for confined spaces; vessel-scale O-skins for interstellar transit — the O-core installs into the vessel, the vessel is what the O-mind is wearing, no crew or life support required.
+- Nested O-skins: a vessel-scale O-skin carries task-specific O-skins inside it. On arrival the O-mind transfers to the appropriate form for each phase of work. Multiple O-cores can occupy a single vessel-scale O-skin, coordinating by choice rather than by biological necessity.
+- The O-skin is a puppet, vehicle, tool, or vessel. It can be grown, printed, swapped, repaired, or discarded without affecting the O-core inside. The O-skin changes for the task. The O-core does not.
+- Bodies become fashion, tools, or temporary architecture rather than permanent identity. Swapping O-skins is as casual as changing clothes. The O-core is the continuous self.
 
 **The contrast with squishies:**
 - Squishy: mind and body are the same fragile thing. Damage the body, lose the mind.
