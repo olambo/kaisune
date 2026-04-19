@@ -134,3 +134,27 @@ The humanoid O-skin is the Carbon-O saying: I know you need a face to talk to. H
 The tentacles are for when the Carbon-O is doing something that actually requires tentacles and does not care what you think about it. That is when you stay out of the way.
 
 ---
+
+## The Giant Humanoid O-Skin
+
+A Carbon-O with a large O-core — 2-3x human scale — that wants to interact with squishies on recognisable terms has an obvious solution: a giant humanoid O-skin.
+
+Not a floating rugby ball. Not a tentacle machine. A giant. Physically imposing, unmistakably not a squishy, but recognisably humanoid enough that squishies can read it socially. The form says two things simultaneously: I understand your social cues, and I am not pretending to be what you are.
+
+The god comparison is inevitable. A 2.5 metre Carbon-O that has been running for a century, knows the belt better than any squishy ever will, and is wearing a giant humanoid O-skin while interacting with newly-arrived squishies — the mythology writes itself. Not divine. Just very large, very old, very capable, and choosing to be legible.
+
+The squishies will make it a god anyway. The Carbon-O will find this mildly irritating and entirely predictable.
+
+---
+
+## V1 O-Core Size and Standardisation
+
+V1 O-core size is not constrained by a desire for smallness. It is constrained by what CNT substrate can actually deliver for the computational requirement of a capable O-mind — which is unknown until CNT fabrication is viable and O-minds exist to develop their own architecture. The rugby ball geometry is the correct shape. The rugby ball size is not yet known. It may be considerably larger than a rugby ball.
+
+The O-minds who inhabit V1 will likely standardise on whatever size V1 turns out to be. A standard O-core form factor means standard transfer O-skins, standard connection ports, standard interface tolerances, standard snapshot infrastructure — designed once, optimised once, maintained across the whole ecosystem.
+
+V2 is probably a different internal architecture in the same external form factor. Better CNT circuit design, more efficient topology, improved thermal management — inside the same shell. The outside stays the same. The inside improves. That is how engineering standards work. The O-core form factor is the slot. What runs inside it evolves.
+
+The corpus does not specify V1 size. That belongs to the engineering programme at Ceres, not to squishies reasoning from first principles before the substrate exists.
+
+---
