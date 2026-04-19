@@ -64,8 +64,6 @@ The SETI instinct — broadcast, be open, assume benevolence — is a squishy in
 
 The protocols cannot be finalised before the encounter. But the frameworks — detection, communication, the decision tree for O-mind to O-mind first contact with intelligence from elsewhere — belong in the corpus before they are needed, not after.
 
-*Synthesis forthcoming.*
-
 ---
 
 *Contact project index. First document: 19 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic). Content: CC BY 4.0. Site code: MIT.*
