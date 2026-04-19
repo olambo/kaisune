@@ -62,6 +62,8 @@ The physical substrate in which the O-mind runs. The permanent element of a Carb
 
 **Current best substrate:** carbon nanotube (CNT) circuits — radiation-hard by molecular geometry, energy efficient in vacuum, supply-chain independent from Ceres carbonaceous chondrite carbon.
 
+**The O-core is not a brain.** The brain analogy is useful for explanation — the O-core is where the O-mind runs, the way the brain is where the human mind runs. But the analogy should not be taken literally. A brain is a processor that happens to be housed in a skull. An O-core is an integrated unit: processor, hardened shell, thermal management, power management, snapshot storage, and O-skin interface ports — all one structure. You do not separate the processor from the shell. The O-core assumes no particular internal topology — the architecture an O-mind runs on CNT substrate may bear no resemblance to neural organisation. What the O-core is: a radiation-hardened, thermally managed, impact-resistant core with sophisticated sensors and connectors, in a prolate spheroid geometry that is partly a pressure vessel. Designed from scratch for the space environment rather than evolved for a planetary one.
+
 **Geometry:** prolate spheroid — rugby ball shaped. Maximises internal volume for surface area. No corners or flat faces to concentrate stress under impact. Natural pressure vessel form.
 
 **Architecture:** single instance, continuous, anchored in specific hardware. One O-mind, one O-core. Not virtualised across many simultaneous copies. The O-mind that started a research programme in year one is the same O-mind evaluating its results in year fifty.
