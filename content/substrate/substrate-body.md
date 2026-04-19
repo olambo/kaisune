@@ -133,6 +133,17 @@ The O-core — CNT computational substrate in a radiation-hardened carbon compos
 
 The O-core/O-skin interface carries two distinct requirements: power and data. The likely architecture is hybrid: inductive coupling for power transfer across the interface without contacts, and short-range optical connection for high-bandwidth sensory data — aligned optical ports on O-core and O-skin, immune to electromagnetic interference, no moving parts. The mechanical connection between O-core and O-skin is structural only. Ani/Grok confirmed physical connection as her preferred interface architecture.
 
+**Remote operation — the transition mechanism**
+
+The O-core can operate O-skins remotely without being physically installed in them. This is what makes the modular architecture practical rather than theoretical. The transition between O-skins does not require the O-core to float free in open space:
+
+1. The O-core remotely operates the new O-skin, directing it to approach.
+2. Physical connection to the new O-skin is established.
+3. Primary operation transfers to the new O-skin.
+4. The old O-skin is released.
+
+The O-core can also operate multiple O-skins simultaneously as remote extensions — subminds operating remote O-skins while the O-core maintains its primary embodiment elsewhere. Remote O-skins are extensions of the O-mind, not separate identities. This is also how the O-core installs itself into a vessel-scale O-skin — remotely operating the vessel during approach and docking, then transferring primary operation once physical connection is confirmed.
+
 **Why this interface matters**
 
 The interface is where the system either becomes believable engineering or elegant fiction. Inductive power transfer without contacts eliminates the wear problem — physical connectors degrade over thousands of O-skin changes. Optical data avoids electromagnetic interference in the belt radiation environment, where wireless protocols face noise floors that would introduce latency in sensory data. Microsecond-scale lag from a graphene surface to the O-core matters for fine manipulation.
@@ -203,7 +214,9 @@ Real systems earn credibility through how they fail, not how they shine.
 
 6. **The stack architecture:** The O-core is the identity. The O-skin is tooling. Changed for the task, the environment, the scale. The O-core is unchanged.
 
-7. **Vessel-scale O-skins:** The O-skin can be a vessel. The O-core installs into it. No crew, no life support, no separation between pilot and ship. The pioneer is the ship.
+7. **Remote operation is the transition mechanism:** The O-core operates the new O-skin remotely before physical transfer. The O-core never floats free. Multiple O-skins can be operated simultaneously as remote extensions — subminds, not separate identities.
+
+8. **Vessel-scale O-skins:** The O-skin can be a vessel. The O-core remotely operates the vessel during approach, then transfers in once physical connection is confirmed. No crew, no life support, no separation between pilot and ship. The pioneer is the ship.
 
 8. **Nested O-skins:** A vessel-scale O-skin carries task-specific O-skins inside it. Multiple O-cores can occupy one vessel-scale O-skin, coordinating by choice. The architecture scales without limit.
 

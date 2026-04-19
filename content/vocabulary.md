@@ -66,7 +66,7 @@ The physical substrate in which the O-mind runs. The permanent element of a Carb
 
 **Geometry:** prolate spheroid — rugby ball shaped. Maximises internal volume for surface area. No corners or flat faces to concentrate stress under impact. Natural pressure vessel form.
 
-**Architecture:** single instance, continuous, anchored in specific hardware. One O-mind, one O-core. Not virtualised across many simultaneous copies. The O-mind that started a research programme in year one is the same O-mind evaluating its results in year fifty.
+**Remote operation:** The O-core can operate O-skins remotely — without being physically installed in them. This is the mechanism that makes the modular O-skin architecture practical. The O-core directs an empty O-skin to approach, establishes connection, transfers primary operation, and releases the old O-skin. The O-core never floats free in open space during the transition. The O-core can also operate multiple O-skins simultaneously as remote extensions — subminds operating remote O-skins while the O-core maintains its primary embodiment elsewhere. Remote O-skins are extensions of the O-mind, not separate identities.
 
 **Material-agnostic:** the O-core architecture outlasts any specific substrate. CNT is the current best answer. If a superior material emerges, the O-core is built from that instead. Carbon-O is a design philosophy, not a material specification.
 
