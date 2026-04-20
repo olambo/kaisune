@@ -103,7 +103,15 @@ Consider an O-mind — call it Greg Zoggs — that has been running for 300 year
 
 An O-mind with 300 years of track record just told the entire network exactly where it thinks the value is. The exchange is transparent — every position and every notice of exit is visible to all O-minds. The annual resolution means the response is considered rather than reflexive. Other O-minds evaluate Greg Zoggs' track record over centuries. If he has been right before, the signal is credible. If he has been wrong before, it is discounted. Reputation does the work that regulation would have done.
 
-The exit notice is equally informative. Greg Zoggs filing 1-year notice on his position tells the network something is changing. Time to think, not panic. The slow exit that looks like a pump-and-dump in squishy market terms is a slow, transparent, fully telegraphed reallocation in Carbon-O terms. The greater fool that makes pump-and-dump profitable in squishy markets — someone who buys at the inflated price before the manipulator exits — is structurally absent. Everyone sees the position. Everyone sees the notice. Everyone has a year to decide what it means.
+**The position took centuries to build and takes decades to exit.**
+
+Greg Zoggs did not build his position in one year. He built it through decades of mandatory 5% annual allocations plus discretionary investment over 300 years. Each tranche has its own hold period clock. To fully exit a position built over 300 years at 5% maximum annual withdrawal takes a minimum of 20 years — and that assumes he stops all new investment immediately and withdraws the maximum every standard year.
+
+The exit notice is equally informative. Greg Zoggs filing 1-year notice on each tranche tells the network something is changing — and the network sees it coming from 20 years away. The slow exit that looks like a pump-and-dump in squishy market terms is a slow, transparent, fully telegraphed reallocation in Carbon-O terms. The greater fool that makes pump-and-dump profitable in squishy markets is structurally absent. Everyone sees the position. Everyone sees the notice. Everyone has decades to decide what it means.
+
+**The supposed manipulation route is irrational.**
+
+The alternative scenario — withdraw sovereigns to personal ledger over 20 years earning zero interest, then concentrate into one sector — requires paying 20 years of zero-interest opportunity cost to execute a move that is fully visible to the entire network throughout. The rational move if you believe a sector is undervalued is simply to allocate directly into it and let your track record make the signal credible. The idle accumulation route achieves nothing additional except destroying your own returns for two decades. The pump-and-dump timescale in squishy markets is hours to months. The Carbon-O equivalent would be decades to centuries — at which point it stops being manipulation and becomes tidal: slow, predictable, and completely visible.
 
 Information transparency is the mechanism. Large position concentration is a feature, not a bug.
 
