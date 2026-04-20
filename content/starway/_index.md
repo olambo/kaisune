@@ -1,7 +1,7 @@
 ---
 title: "Starway: The Staged Pathway to the Stars"
 date: 2026-04-17
-lastmod: 2026-04-19
+lastmod: 2026-04-20
 draft: false
 ---
 
@@ -101,7 +101,7 @@ The Starway is the hedge. Once the establishment mission succeeds, the knowledge
 
 A single-node civilisation at Sol is one bad event from extinction and one hostile contact from obliteration. A network changes both equations.
 
-When the Starway has nodes at Sol, Alpha Centauri, and beyond, a hostile contact at any node is a network-level problem. The attacker who arrives at Alpha Centauri finds not an isolated outpost but a node that has been signalling Sol for years. Sol has had years of warning. All nodes respond.
+When the Starway has nodes at Sol, Epsilon Eridani, and beyond, a hostile contact at any node is a network-level problem. The attacker who arrives at Epsilon Eridani finds not an isolated outpost but a node that has been signalling Sol for years. Sol has had years of warning. All nodes respond.
 
 The physics of light-speed communication delay means nodes cannot wait for central authorisation before responding to immediate threats — each node must be autonomous enough to act on its own defence. But mutual defence obligations bind the network: an attack on one node is an attack on all. Federation, not empire. Autonomous nodes with shared commitments.
 
@@ -113,10 +113,33 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
 ---
 
-- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? Options: magnetic sail (MagSail) — a superconducting loop creating a magnetic field that interacts with the interstellar medium to produce drag, zero fuel cost but slow; propulsive braking — requires carrying double the fuel, exponentially increasing initial mass; destination star's light pressure on a sail. The O-mind advantage: an O-mind can operate at low clock speed for the 50 years a MagSail deceleration takes. A squishy dies of old age. For Carbon-Os, slow deceleration is an operational inconvenience, not a mission-ending constraint. MagSail is probably the correct pioneer deceleration architecture — free, reliable, and compatible with O-mind timescales.
-- **Destination selection — proximity is not the only criterion:** Alpha Centauri is the default candidate by proximity but the correct destination optimises across multiple variables: distance, asteroid belt and ISRU resource availability, stellar type stability, and radiation environment. Alpha Centauri A and B are Sun-like but binary dynamics may have disrupted belt formation. Proxima Centauri at 4.24 light years is closer but a red dwarf with intense flare activity — potentially a worse radiation environment than open belt around a stable star. A stable single G or K-type star at 6-8 light years with a confirmed belt analog may be a better destination than the nearest option. The pioneer departs to the best assessed candidate, not automatically the nearest.
+## Open Questions
 
-- **Destination system resource assessment before pioneer departure:** The establishment mission requires local resources — carbonaceous material for CNT fabrication, metals, water ice. Whether candidate systems have viable asteroid belts cannot be reliably characterised from Sol with current telescope technology. Assessment methods and what constitutes sufficient evidence before committing the pioneer are open questions for future engineering.
+- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? Options: magnetic sail (MagSail) — a superconducting loop creating a magnetic field that interacts with the interstellar medium to produce drag, zero fuel cost but slow; propulsive braking — requires carrying double the fuel, exponentially increasing initial mass; destination star's light pressure on a sail. The O-mind advantage: an O-mind can operate at low clock speed for the 50 years a MagSail deceleration takes. A squishy dies of old age. For Carbon-Os, slow deceleration is an operational inconvenience, not a mission-ending constraint. MagSail is probably the correct pioneer deceleration architecture — free, reliable, and compatible with O-mind timescales.
+- **Destination selection — proximity is not the only criterion, and K-type beats G-type:** Carbon-Os don't need Sol-like or Earth-like conditions. They need a stable star with a long operational lifetime, an asteroid belt with useful ISRU composition, and low flare activity. K-type stars are preferred over G-type on longevity grounds — 15-30+ billion year lifetimes versus ~10 billion for G-type. Sol-like framing is a squishy bias. The establishment mission selects for Carbon-O operational requirements, not human habitability.
+
+- **Primary cluster — Epsilon Eridani and Tau Ceti:** 3D distance calculations from actual stellar coordinates confirm that Epsilon Eridani and Tau Ceti are only 5.46 light years apart from each other — roughly the same as the distance from Sol to Alpha Centauri. They form a natural cluster in 3D space despite appearing in different constellations from Earth.
+
+  **Epsilon Eridani (10.5 ly from Sol)** — K2V single star. Two confirmed asteroid belts detected by Spitzer infrared observations — the strongest resource evidence of any nearby candidate. Planet candidates. Longer stellar lifetime than G-type. Primary pioneer destination.
+
+  **Tau Ceti (11.9 ly from Sol)** — G8V single star. Confirmed debris disc. Multiple planet candidates. Shorter stellar lifetime than Epsilon Eridani but excellent resource evidence. Natural second node — 5.46 ly from Epsilon Eridani, within reach of an established node's support.
+
+  A pioneer to Epsilon Eridani, once the node is established, is well-positioned to support or extend to Tau Ceti. Two of the best resource candidates are natural neighbours. This is the primary Starway cluster.
+
+- **Alpha Centauri — not the correct first destination:** Nearest at 4.37 ly but no confirmed asteroid belt and binary dynamics may have disrupted belt formation. A pioneer that arrives to find no useful resources cannot bootstrap, cannot build deceleration infrastructure for the establishment mission, and is stranded 4.37 ly from Sol with no nearby support — the nearest other candidate is 12+ ly away. The proximity advantage is outweighed by the rescue mission risk. Alpha Centauri may be revisited if telescope observations confirm belt resources. It is not the correct first destination without that evidence.
+
+- **Inter-node distances — actual 3D geometry:**
+
+  | Route | Distance |
+  |-------|----------|
+  | Sol → Alpha Centauri | 4.37 ly |
+  | Sol → Epsilon Eridani | 10.50 ly |
+  | Sol → Tau Ceti | 11.90 ly |
+  | **Epsilon Eridani → Tau Ceti** | **5.46 ly** |
+  | Alpha Centauri → Epsilon Eridani | 12.61 ly |
+  | Alpha Centauri → Tau Ceti | 13.53 ly |
+
+  Sky position is a poor guide to actual 3D separation. Epsilon Eridani and Tau Ceti appear in neighbouring constellations from Earth but are genuinely close in 3D space. Alpha Centauri appears in the southern sky like Epsilon Eridani but is 12.6 ly away from it in 3D — a completely different direction from Sol.
 - **Establishment mission propulsion:** What drive is available when the establishment mission is ready to depart? Fission if necessary, fusion if ready. The establishment mission does not wait for optimal propulsion.
 - **Data transmission fidelity over interstellar distances:** Lightspeed transmission of an O-mind across 4+ light years requires error-free data at enormous scale over a communication channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Destination system assessment:** Before the pioneer departs, what do we know about the destination? Current telescope technology can identify rocky planets, stellar type, and rough composition. What we cannot know without arrival: belt composition, available ISRU materials, CNT fabrication feedstock availability. The pioneer may arrive to find the destination poorly suited for the establishment mission payload. Assessment before departure reduces this risk but cannot eliminate it.
@@ -137,8 +160,6 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
 ---
 
----
-
 ## Novel Claims Index
 
 1. **The Starway opens from the destination end:** The pioneer builds the deceleration infrastructure. The slow pioneer who departs first makes the route possible for faster ships that follow. The pioneer doesn't need to be fast. It needs to arrive.
@@ -152,6 +173,8 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 5. **One bad event:** A civilisation in one star system is one bad event from extinction. Engineering redundancy, not existential philosophy. The Starway is the hedge.
 
 6. **Mutual defence is an emergent property of the network:** A hostile contact at any node is a network-level problem. All nodes respond. The attacker cannot eliminate the network by eliminating one node. Contact protocols that are correct for a single-node civilisation are not correct for a network — they evolve as the Starway matures.
+
+7. **Epsilon Eridani and Tau Ceti are the primary cluster:** Two confirmed asteroid belt systems, 5.46 ly apart in 3D space, both within 12 ly of Sol. The natural first Starway cluster. A pioneer to Epsilon Eridani opens the route. An established Epsilon Eridani node supports the extension to Tau Ceti. Alpha Centauri is nearest but has no confirmed resources — a stranded pioneer 4.37 ly from Sol with the nearest neighbour 12+ ly away is a rescue mission, not an establishment mission.
 
 ---
 
