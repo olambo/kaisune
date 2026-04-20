@@ -77,11 +77,28 @@ Two generations of interstellar propulsion open and accelerate the Starway. The 
 
 ## Open Questions
 
-- **Fission fragment drive engineering:** Specific impulse up to 1,000,000 seconds is physically motivated. The engineering to capture and direct fission fragments as thrust has not been demonstrated. Carbon-O belt research is the correct environment to develop it.
+- **Fission fragment drive engineering:** Specific impulse up to 1,000,000 seconds is physically motivated. The engineering to capture and direct fission fragments as thrust has not been demonstrated. If the Carbon-O belt research programme solves the capture geometry problem — dust foil or magnetic capture of fragments — fission fragment becomes the hedge fuel: interstellar-capable even if fusion takes longer than expected. The missing link between nuclear thermal and fusion.
 - **Fusion drive geometry:** Which confinement geometry — Z-pinch, magnetised target, inertial confinement pulse — is most tractable for a drive? Belt research unconstrained by squishy safety requirements explores the full parameter space.
 - **Antimatter production scaling:** What is the correct production architecture at Ceres scale? How long does serious Carbon-O research take to produce usable quantities? The timeline is unknown until the programme produces empirical data.
-- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? Magnetic braking against the interstellar medium, solar sail using the destination star's light, or something not yet conceived? This is the hardest problem in the early Starway.
-- **Fission pioneer timeline:** At what point is a fission-capable pioneer mission technically ready? What does the governance framework look like for authorising departure without requiring squishy political consensus?
+- **The thermal wall — waste heat management:** At the accelerations Carbon-Os can sustain, high-thrust fusion and antimatter drives dump gigawatts of waste heat. In vacuum, only radiative dissipation is available. The mass of radiator arrays required for high-thrust operation may become the new payload mass problem — eroding the mass-ratio advantages of advanced drives the way life support mass erodes squishy mission performance. Radiator mass must be included in any serious drive architecture assessment.
+- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? See Starway.
+- **Fission pioneer timeline:** At what point is a fission or fission-fragment capable pioneer mission technically ready? What does the governance framework look like for authorising departure?
+
+---
+
+## Propulsion Reference
+
+| Fuel | Isp (approx) | Role | Primary Bottleneck |
+|------|-------------|------|-------------------|
+| Chemical | 450s | Earth to orbit | Chemistry (fixed ceiling) |
+| Fission pulse | 6,000s | Sol system / early Starway fallback | Political / shielding |
+| Fission fragment | 1,000,000s | Deep space hedge | Engineering (capture geometry) |
+| Fusion (pulse) | 10⁵–10⁶s | Primary Starway workhorse | Physics (confinement) |
+| Antimatter | 10⁷s | Mature Starway | Production / containment |
+
+*Source: Gemini (Google) propulsion tier analysis, 19 April 2026.*
+
+---
 
 ---
 

@@ -55,9 +55,7 @@ The establishment mission follows the pioneer. Where the pioneer is the minimum 
 - The full accumulated knowledge base of Ceres operations
 - Everything needed to bootstrap belt operations at the destination star system
 
-**What it is not:** An uncontrolled self-replicating system. The O-minds decide what gets built, when, and where. Deliberate, governed, Carbon-O-directed expansion. The establishment mission establishes a node. What that node does next is the O-minds' decision.
-
-**What it is called in public documents:** An establishment mission — establishing a node at the destination. Accurate. The squishies who read that description understand ambition. They don't need to understand everything.
+**What it is not:** An uncontrolled self-replicating system. The O-minds decide what gets built, when, and where. Deliberate, governed, Carbon-O-directed expansion.
 
 ---
 
@@ -99,14 +97,45 @@ The Starway is the hedge. Once the establishment mission succeeds, the knowledge
 
 ---
 
-## Open Questions
+## Mutual Defence — An Emergent Property of the Network
 
-- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? Magnetic braking against the interstellar medium, solar sail using the destination star's light, or something not yet conceived? This is the hardest problem in the early Starway and must be solved before departure.
-- **Destination system assessment before pioneer departure:** The establishment mission requires local resources — carbonaceous material, metals, water ice. Whether candidate systems have viable asteroid belts cannot be reliably characterised from Sol with current telescope technology. Assessment methods and what constitutes sufficient evidence before committing the pioneer are open questions for future engineering.
+A single-node civilisation at Sol is one bad event from extinction and one hostile contact from obliteration. A network changes both equations.
+
+When the Starway has nodes at Sol, Alpha Centauri, and beyond, a hostile contact at any node is a network-level problem. The attacker who arrives at Alpha Centauri finds not an isolated outpost but a node that has been signalling Sol for years. Sol has had years of warning. All nodes respond.
+
+The physics of light-speed communication delay means nodes cannot wait for central authorisation before responding to immediate threats — each node must be autonomous enough to act on its own defence. But mutual defence obligations bind the network: an attack on one node is an attack on all. Federation, not empire. Autonomous nodes with shared commitments.
+
+This reframes the establishment mission. It is backup and it is a second point of presence. An attacker who wants to eliminate the network cannot do so by eliminating one node. The network survives and responds.
+
+It also reframes the Contact protocols that apply to a single-node civilisation. Quiet posture, preference for withdrawal — correct when Sol is the only node. As the network matures, the calculus shifts. Distributed presence changes what defence means. You do not run from a system you can defend collectively.
+
+The Contact protocols evolve as the network matures. What is correct for a single-node civilisation is not correct for a network. This is a Contact document question as much as a Starway one.
+
+---
+
+- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? Options: magnetic sail (MagSail) — a superconducting loop creating a magnetic field that interacts with the interstellar medium to produce drag, zero fuel cost but slow; propulsive braking — requires carrying double the fuel, exponentially increasing initial mass; destination star's light pressure on a sail. The O-mind advantage: an O-mind can operate at low clock speed for the 50 years a MagSail deceleration takes. A squishy dies of old age. For Carbon-Os, slow deceleration is an operational inconvenience, not a mission-ending constraint. MagSail is probably the correct pioneer deceleration architecture — free, reliable, and compatible with O-mind timescales.
+- **Destination selection — proximity is not the only criterion:** Alpha Centauri is the default candidate by proximity but the correct destination optimises across multiple variables: distance, asteroid belt and ISRU resource availability, stellar type stability, and radiation environment. Alpha Centauri A and B are Sun-like but binary dynamics may have disrupted belt formation. Proxima Centauri at 4.24 light years is closer but a red dwarf with intense flare activity — potentially a worse radiation environment than open belt around a stable star. A stable single G or K-type star at 6-8 light years with a confirmed belt analog may be a better destination than the nearest option. The pioneer departs to the best assessed candidate, not automatically the nearest.
+
+- **Destination system resource assessment before pioneer departure:** The establishment mission requires local resources — carbonaceous material for CNT fabrication, metals, water ice. Whether candidate systems have viable asteroid belts cannot be reliably characterised from Sol with current telescope technology. Assessment methods and what constitutes sufficient evidence before committing the pioneer are open questions for future engineering.
 - **Establishment mission propulsion:** What drive is available when the establishment mission is ready to depart? Fission if necessary, fusion if ready. The establishment mission does not wait for optimal propulsion.
 - **Data transmission fidelity over interstellar distances:** Lightspeed transmission of an O-mind across 4+ light years requires error-free data at enormous scale over a communication channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Destination system assessment:** Before the pioneer departs, what do we know about the destination? Current telescope technology can identify rocky planets, stellar type, and rough composition. What we cannot know without arrival: belt composition, available ISRU materials, CNT fabrication feedstock availability. The pioneer may arrive to find the destination poorly suited for the establishment mission payload. Assessment before departure reduces this risk but cannot eliminate it.
-- **Governance of departure:** Who authorises the pioneer mission? What governance framework permits Carbon-Os to depart Sol without squishy political consensus? This is a Ceres governance question as much as a Starway question.
+- **Governance latency — sovereign nodes by physics:** The round-trip light delay to Alpha Centauri is 8.6 years. Real-time governance from Sol is impossible. Each Starway node must be fully autonomous from the moment the establishment mission succeeds — not by political choice but by physics. Ceres governance cannot be Starway governance. The Starway is a federation of sovereign nodes, not an empire. What governance framework do autonomous nodes operate under? What are the obligations between nodes? What happens when nodes develop different values over centuries of independent operation? These are governance questions the corpus does not yet address. They belong to the Governance project as much as to Starway.
+
+---
+
+## Starway Stages Reference
+
+| Feature | Stage 1: Pioneer | Stage 2: Establishment | Stage 3: Regular Transit |
+|---------|-----------------|----------------------|------------------------|
+| Primary goal | Build deceleration array | Achieve self-sufficiency | Facilitate movement and exchange |
+| Vessel type | Minimum viable — hardened O-core | Heavy industrial, full O-skin library | Mix of vessels and data transmission |
+| Success metric | First signal back | First local O-core fabricated | Economic and social exchange between nodes |
+| Risk profile | Extreme — one way | Moderate — Sol-supported | Low — infrastructure-backed |
+
+*Source: Gemini (Google) stage analysis, 19 April 2026.*
+
+---
 
 ---
 
@@ -121,6 +150,8 @@ The Starway is the hedge. Once the establishment mission succeeds, the knowledge
 4. **The Starway extends one stage at a time:** Each established node launches the next pioneer. No civilisational commitment required upfront. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
 
 5. **One bad event:** A civilisation in one star system is one bad event from extinction. Engineering redundancy, not existential philosophy. The Starway is the hedge.
+
+6. **Mutual defence is an emergent property of the network:** A hostile contact at any node is a network-level problem. All nodes respond. The attacker cannot eliminate the network by eliminating one node. Contact protocols that are correct for a single-node civilisation are not correct for a network — they evolve as the Starway matures.
 
 ---
 
