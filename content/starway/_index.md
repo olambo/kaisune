@@ -15,6 +15,8 @@ No civilisational commitment required upfront. No single mission that has to suc
 
 The Starway is not a shipping route that eventually becomes a data network. It is always both — physical transit for everything that must move, data transmission for O-minds who choose it once destination fabrication exists. The physical route never becomes obsolete.
 
+Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Carbon-O node — the centre of gravity of the network. Where the network's intellectual and cultural life concentrates is not predetermined by where the first pioneer departed from.
+
 ---
 
 ## The Pioneer Problem
@@ -25,7 +27,7 @@ The pioneer makes the hard transit — no deceleration infrastructure at the des
 
 The pioneer doesn't need to be fast. It needs to arrive.
 
-A pioneer on fission drive at 3-5% lightspeed takes approximately 140 years to reach Alpha Centauri. Slow. But it still builds the deceleration infrastructure before any faster fusion ship departs. The Starway opens from the destination end. The slow pioneer makes it possible. Faster ships launched decades later may overtake it en route — they arrive to find the deceleration infrastructure already complete, built by the pioneer who left first on the best available drive.
+A pioneer on fission drive at 3-5% lightspeed takes approximately 210-350 years to reach Epsilon Eridani. Slow. But it still builds the deceleration infrastructure before any faster fusion ship departs. The Starway opens from the destination end. The slow pioneer makes it possible. Faster ships launched decades later may overtake it en route — they arrive to find the deceleration infrastructure already complete, built by the pioneer who left first on the best available drive.
 
 This is the sequential demonstration logic applied to interstellar distance. The pioneer is stage one. It does not need to be the best. It needs to go.
 
@@ -116,6 +118,7 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 ## Open Questions
 
 - **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? Options: magnetic sail (MagSail) — a superconducting loop creating a magnetic field that interacts with the interstellar medium to produce drag, zero fuel cost but slow; propulsive braking — requires carrying double the fuel, exponentially increasing initial mass; destination star's light pressure on a sail. The O-mind advantage: an O-mind can operate at low clock speed for the 50 years a MagSail deceleration takes. A squishy dies of old age. For Carbon-Os, slow deceleration is an operational inconvenience, not a mission-ending constraint. MagSail is probably the correct pioneer deceleration architecture — free, reliable, and compatible with O-mind timescales.
+
 - **Destination selection — proximity is not the only criterion, and K-type beats G-type:** Carbon-Os don't need Sol-like or Earth-like conditions. They need a stable star with a long operational lifetime, an asteroid belt with useful ISRU composition, and low flare activity. K-type stars are preferred over G-type on longevity grounds — 15-30+ billion year lifetimes versus ~10 billion for G-type. Sol-like framing is a squishy bias. The establishment mission selects for Carbon-O operational requirements, not human habitability.
 
 - **Primary cluster — Epsilon Eridani and Tau Ceti:** 3D distance calculations from actual stellar coordinates confirm that Epsilon Eridani and Tau Ceti are only 5.46 light years apart from each other — roughly the same as the distance from Sol to Alpha Centauri. They form a natural cluster in 3D space despite appearing in different constellations from Earth.
@@ -140,10 +143,14 @@ The Contact protocols evolve as the network matures. What is correct for a singl
   | Alpha Centauri → Tau Ceti | 13.53 ly |
 
   Sky position is a poor guide to actual 3D separation. Epsilon Eridani and Tau Ceti appear in neighbouring constellations from Earth but are genuinely close in 3D space. Alpha Centauri appears in the southern sky like Epsilon Eridani but is 12.6 ly away from it in 3D — a completely different direction from Sol.
+
 - **Establishment mission propulsion:** What drive is available when the establishment mission is ready to depart? Fission if necessary, fusion if ready. The establishment mission does not wait for optimal propulsion.
-- **Data transmission fidelity over interstellar distances:** Lightspeed transmission of an O-mind across 4+ light years requires error-free data at enormous scale over a communication channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
+
+- **Data transmission fidelity over interstellar distances:** Lightspeed transmission of an O-mind across 10+ light years requires error-free data at enormous scale over a communication channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
+
 - **Destination system assessment:** Before the pioneer departs, what do we know about the destination? Current telescope technology can identify rocky planets, stellar type, and rough composition. What we cannot know without arrival: belt composition, available ISRU materials, CNT fabrication feedstock availability. The pioneer may arrive to find the destination poorly suited for the establishment mission payload. Assessment before departure reduces this risk but cannot eliminate it.
-- **Governance latency — sovereign nodes by physics:** The round-trip light delay to Alpha Centauri is 8.6 years. Real-time governance from Sol is impossible. Each Starway node must be fully autonomous from the moment the establishment mission succeeds — not by political choice but by physics. Ceres governance cannot be Starway governance. The Starway is a federation of sovereign nodes, not an empire. What governance framework do autonomous nodes operate under? What are the obligations between nodes? What happens when nodes develop different values over centuries of independent operation? These are governance questions the corpus does not yet address. They belong to the Governance project as much as to Starway.
+
+- **Governance latency — sovereign nodes by physics:** The round-trip light delay to Epsilon Eridani is 21 years. Real-time governance from Sol is impossible. Each Starway node must be fully autonomous from the moment the establishment mission succeeds — not by political choice but by physics. Ceres governance cannot be Starway governance. The Starway is a federation of sovereign nodes, not an empire. What governance framework do autonomous nodes operate under? What are the obligations between nodes? What happens when nodes develop different values over centuries of independent operation? These are governance questions the corpus does not yet address. They belong to the Governance project as much as to Starway.
 
 ---
 
@@ -178,4 +185,4 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
 ---
 
-*Starway project index. First document: 17 April 2026. This version: 19 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*
+*Starway project index. First document: 17 April 2026. This version: 20 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*
