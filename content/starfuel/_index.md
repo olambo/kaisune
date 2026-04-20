@@ -55,9 +55,19 @@ The belt is the correct research location — same reasons as fusion, plus: anti
 
 Antimatter runs concurrently with fusion from the earliest Ceres research capability. The timelines are different. Both programmes run simultaneously. Delay in starting antimatter is permanent cost on a century-scale timeline.
 
----
+### Laser Sail — Probably Not Useful at Carbon-O Scale
 
-## The Propulsion Sequence
+Not a fuel in the conventional sense — the energy stays at Sol. The ship is just a sail and payload. The Sol-end laser array is the engine.
+
+**The physics:** A powerful laser array at Sol pushes a reflective sail to a significant fraction of lightspeed. Breakthrough Starshot demonstrated the concept at gram scale targeting 20% lightspeed for probes. The constraint: acceleration scales inversely with mass. A gram-scale probe reaches 20% lightspeed. A kilogram-scale payload reaches much less. A tonne-scale payload requires an absurdly large laser array.
+
+**The O-core mass problem:** An O-core in carbon composite with CNT substrate, thermal management, snapshot storage, and interface hardware is probably tens of kilograms at minimum — and V1 size is unknown. At that mass, laser sail terminal velocity drops to fractions of a percent of lightspeed. Transit time to Alpha Centauri becomes thousands of years. Fusion drives almost certainly outperform laser sail at any payload mass useful for Carbon-O operations.
+
+Laser sail is noted as a concept and set aside. Fusion is the practical early Starway propulsion.
+
+*The Sol-end laser array and destination deceleration infrastructure are Starway architecture. See [Starway]({{< ref "starway/" >}}).*
+
+---
 
 **Chemical** — Earth departure only. Gets equipment off the planet. Ends at low Earth orbit.
 
@@ -67,7 +77,7 @@ Antimatter runs concurrently with fusion from the earliest Ceres research capabi
 
 **Antimatter** — mature Starway. Decades per light year. The correct fuel for an interstellar civilisation. Century-scale concurrent research programme.
 
-Two generations of interstellar propulsion. The first opens the Starway. The second makes it fast enough to matter.
+Two generations of interstellar propulsion open and accelerate the Starway. The physical route never becomes obsolete — equipment, materials, and O-minds who prefer the journey over data transmission will always require it. See Starway for the full picture.
 
 ---
 
@@ -95,7 +105,9 @@ Two generations of interstellar propulsion. The first opens the Starway. The sec
 
 6. **Antimatter is the Carbon-O research field of choice:** Century-scale problem. 100% conversion efficiency. The O-mind continuity that makes the research programme viable. Runs concurrently with fusion from the start. Delay is permanent cost.
 
-7. **Two propulsion generations open and mature the Starway:** Fusion opens it. Antimatter makes it fast. Both research programmes run simultaneously from the earliest Ceres research capability.
+7. **Laser sail probably not useful at Carbon-O payload mass:** Terminal velocity drops dramatically above gram scale. At O-core mass, fusion drives almost certainly outperform. Noted and set aside.
+
+8. **The physical route never becomes obsolete:** Equipment and materials cannot be transmitted as data. O-minds who prefer continuous existence over data transmission will choose the journey — a century in interstellar space is not a hardship for a mind that does not age, and the question of whether a transmitted O-mind is the same O-mind or a copy is one the corpus does not resolve. The Starway carries both data and ships indefinitely.
 
 ---
 
