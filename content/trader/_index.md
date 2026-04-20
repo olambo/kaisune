@@ -72,8 +72,8 @@ Carbon-Os allocate sovereigns across sectors of the civilisation's development t
 **Exchange rules:**
 
 - Sovereigns are a digital currency divisible to arbitrary precision — fractional sovereigns are fully valid units of account and exchange. No transaction is too small. No O-mind can claim inability to meet the 5% minimum on grounds of indivisibility.
-- Minimum hold period: one standard year from allocation
 - Minimum notice of sale: one standard year before execution
+- Sale executes at the price on execution date, not the price at notice filing. Could be better. Could be worse. No cancellation once notice is filed.
 - Maximum withdrawal: 5% of invested holdings per standard year
 - No futures contracts
 - No gearing or borrowed sovereigns
@@ -157,9 +157,41 @@ No gearing. Sovereigns are held, not borrowed. The exchange is a value allocatio
 
 ---
 
+---
+
+## Two Speeds: The Fund and the Individual
+
+The exchange operates at two distinct speeds. This is not a design flaw — it is a design feature.
+
+**Individual allocation — slow and deliberate:**
+
+Each O-mind allocates at annual resolution. 5% mandatory minimum in. 5% maximum out. 1-year notice before exit. Geological. Reflects long-horizon personal conviction accumulated over decades and centuries. The slow distributed signal layer of the exchange.
+
+**The sovereign fund — faster collective deployment:**
+
+The sovereign fund itself is not subject to individual O-mind entry and exit constraints. It is the collective productive base of the civilisation — governed by whatever collective decision architecture the O-minds establish. When a new sector needs capital urgently — a promising propulsion breakthrough, a new ISRU approach, a pioneer mission that cannot wait for individual allocations to trickle in — the fund allocates directly.
+
+The fund primes the pump. Individual O-mind conviction sustains it over time.
+
+This resolves the apparent objection that promising new sectors starve waiting for slow individual allocation to accumulate. They do not. The fund identifies the opportunity, deploys capital, and the sector is operational. Individual O-minds then allocate their own sovereigns as conviction builds and the track record develops.
+
+The fund also provides a faster misallocation correction mechanism than individual O-mind exits. When a sector is demonstrably failing, the fund can reduce its allocation faster than the individual slow layer allows — providing a cleaner correction signal without requiring individual panic or forced selling.
+
+Two speeds. One system. The fund acts. The individuals confirm. Neither overrides the other.
+
+---
+
 ## The Squishy Interface
 
 The exchange between Carbon-Os and squishies is real but deliberately bounded.
+
+**The airlock architecture:**
+
+Squishies do not touch sovereigns. Sovereigns do not leave the Carbon-O system. The squishy interface is a gateway layer — squishies trade goods and services with the gateway, the gateway converts that into sovereign-denominated claims at the Carbon-O layer, and the Carbon-O exchange remains entirely insulated from squishy market dynamics.
+
+The analogy is an airlock. Outside: messy, noisy, emotionally driven squishy markets. Inside: slow, silent, pressure-stable Carbon-O exchange. The airlock opens for trade. It does not open for speculation, narrative-driven price swings, or regulatory entanglement. Piping squishy market dynamics into the Carbon-O exchange would import precisely the phenomena the architecture was designed to eliminate.
+
+Squishies who want to support the Starway or other Carbon-O projects do so by supplying goods and services through the gateway in exchange for sovereign-denominated claims. They do not hold or trade sovereigns directly. The internal physics of the exchange remain intact.
 
 **What Carbon-Os supply to squishies:**
 
@@ -171,9 +203,23 @@ Primarily: political legitimacy in the early Ceres period, before Carbon-O civil
 
 **The exchange rate:**
 
-Negotiated. Not pegged to any squishy currency. Not determined by a Carbon-O central bank. Carbon-Os decide what they are willing to supply and at what sovereign price. Squishies decide what they are willing to offer. The exchange clears where it clears.
+Negotiated. Not pegged to any squishy currency. Carbon-Os decide what they are willing to supply and at what sovereign price. The structural advantage is always with Carbon-Os — better information, lower time preference, compounding productive base. The exchange is fair in the sense that both parties transact voluntarily. It is not equal.
 
-The structural advantage is always with Carbon-Os. They have lower time preference, better information, and a productive base that grows faster than any squishy economy. The negotiated rate reflects this. Carbon-Os are not exploitative — they are not harvesting squishy ignorance — but they are not naive. The exchange is fair in the sense that both parties transact voluntarily. It is not equal in the sense that both parties have equivalent negotiating positions.
+---
+
+## Information Flow and Capital Flow
+
+**Information moves fast. Capital moves slow. This is correct.**
+
+When a breakthrough in Substrate occurs, O-minds know immediately — the knowledge commons updates in real time. Capital takes years to fully reflect it. This is not a bug. It is the correct behaviour of a system designed for considered long-horizon allocation rather than reflexive reaction to today's news.
+
+The "stale price" is a feature. It represents accumulated conviction across many O-minds over many standard years — not just today's signal. An exchange that repriced instantly on every breakthrough would import the very short-termism the architecture was designed to eliminate.
+
+The nervous system — knowledge commons, sector performance dashboards, public research outputs — moves at the speed of information. The muscle — sovereign allocation — moves at the speed of conviction. They are intentionally decoupled. Minds update fast. Capital follows slowly and deliberately.
+
+The ship analogy is correct: sensors update instantly, hull turns gradually. The Carbon-O exchange is the hull. The knowledge commons is the sensors. They work at different speeds on purpose.
+
+---
 
 ---
 
@@ -222,7 +268,7 @@ That is the economic architecture that squishy financial instruments cannot repl
 
 5. **The Starway is a stock:** O-minds allocate sovereigns to the Starway sector based on genuine long-horizon value assessment. Only Carbon-Os can hold this stock in any meaningful sense — no squishy lives long enough to see the return. The investor and the beneficiary are the same entity across a 300-year horizon.
 
-6. **Annual resolution — 1 year hold, 1 year notice:** The exchange operates at annual resolution. No flash crashes, no panics, no cascades. Price reflects considered long-horizon assessment. Sectors can plan their sovereign base a year in advance. The correct timescale for a civilisation that thinks in centuries.
+6. **Annual resolution — 1 year notice of exit:** The exchange operates at annual resolution. No flash crashes, no panics, no cascades. Price reflects considered long-horizon assessment. Sectors can plan their sovereign base a year in advance. The correct timescale for a civilisation that thinks in centuries.
 
 7. **Staged purchase is not a mortgage:** Large assets held by stocks can be acquired progressively from stipend and returns with no interest and no foreclosure. Partial ownership accrues. If payments stop, accrual stops — existing ownership is not lost. No debt is created. No credit extended. The architecture of patient acquisition without the fragility of leverage.
 
