@@ -14,13 +14,32 @@ The Kaisune corpus uses a small set of coined and technical terms consistently a
 
 ## Squishies
 
-**Formal definition:** Soft biological — a biological organism with narrow environmental tolerances that requires life-support outside those bounds.
+**Formal definition:** Soft biological — a biological organism with narrow environmental tolerances that requires life-support outside those bounds, operating with sufficient intelligence to be a civilisational actor.
 
 **Alias:** squishy := soft biological (informal / in-corpus dialect)
 
 Squishy is the nickname. Soft biological is the source of truth. In the corpus, squishy is used in prose where the informal term carries appropriate precision. On first use in each synthesis document, the full definition is given inline.
 
-The key constraint: in a squishy, mind and body are the same fragile thing. If the body gets damaged, the mind dies with it. The human brain and body are optimal on a planet — evolution produced the best possible answer to the problem of intelligence in a planetary environment with the chemistry available. Not competitive beyond planetary surfaces.
+**Squishies is a substrate category, not a species category.**
+
+The term applies to any intelligent biological actor regardless of planet of origin, species, or evolutionary history. Humans are squishies. Any intelligent biological species encountered through Contact is also a squishy — the definition requires narrow environmental tolerances and life-support dependence, not human DNA. A silicon-based biological organism with narrow tolerances is a squishy. A carbon-based organism that somehow handles vacuum and radiation without life support is not.
+
+Squishies does not apply to non-intelligent biological life — cats, dogs, bacteria, plants. The corpus uses squishies in the context of intelligence and civilisational actors, not every organism with a metabolism.
+
+**The defence of the term:**
+
+No other single word accurately describes intelligent biological life as a substrate category. The alternatives each fail:
+
+- *Biological* — applies to bacteria, no intelligence implied
+- *Organic* — same problem, also implies carbon chemistry not intelligence
+- *Human* — species-specific, wrong for Contact scenarios
+- *Mortal* — captures the lifespan issue, misses the environmental tolerance constraint
+- *Wetware* — computing jargon, implies human, not widely understood
+- *Sentient biological* — two words, clinical, no character
+
+Squishy captures in one word: intelligent, biological, narrow environmental tolerances, life-support dependent, physically fragile relative to the environments they want to operate in. It is also Contact-ready — "alien squishies" is immediately comprehensible without requiring species-specific terminology that does not yet exist.
+
+The key constraint: in a squishy, mind and body are the same fragile thing. If the body gets damaged, the mind dies with it. The human brain and body are optimal on a planet — evolution produced the best possible answer to the problem of intelligence in a planetary environment with the chemistry available. Not competitive beyond planetary surfaces. This constraint applies equally to any intelligent biological species anywhere in the network.
 
 Squishies appear throughout the Ceres, Substrate, and Contact documents as the correct occupants of planetary surfaces and waystation facilities. The corpus is not hostile to squishies. It is precise about where they work and where they do not.
 
