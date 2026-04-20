@@ -57,17 +57,9 @@ The belt is the correct research location — same reasons as fusion, plus: anti
 
 Antimatter runs concurrently with fusion from the earliest Ceres research capability. The timelines are different. Both programmes run simultaneously. Delay in starting antimatter is permanent cost on a century-scale timeline.
 
-### Laser Sail — Probably Not Useful at Carbon-O Scale
+### Laser Sail — A Bomb with a Camera
 
-Not a fuel in the conventional sense — the energy stays at Sol. The ship is just a sail and payload. The Sol-end laser array is the engine.
-
-**The physics:** A powerful laser array at Sol pushes a reflective sail to a significant fraction of lightspeed. Breakthrough Starshot demonstrated the concept at gram scale targeting 20% lightspeed for probes. The constraint: acceleration scales inversely with mass. A gram-scale probe reaches 20% lightspeed. A kilogram-scale payload reaches much less. A tonne-scale payload requires an absurdly large laser array.
-
-**The O-core mass problem:** An O-core in carbon composite with CNT substrate, thermal management, snapshot storage, and interface hardware is probably tens of kilograms at minimum — and V1 size is unknown. At that mass, laser sail terminal velocity drops to fractions of a percent of lightspeed. Transit time to Alpha Centauri becomes thousands of years. Fusion drives almost certainly outperform laser sail at any payload mass useful for Carbon-O operations.
-
-Laser sail is noted as a concept and set aside. Fusion is the practical early Starway propulsion.
-
-*The Sol-end laser array and destination deceleration infrastructure are Starway architecture. See [Starway]({{< ref "starway/" >}}).*
+Payload mass kills terminal velocity at O-core scale — not useful for Carbon-O transit. At gram scale, probes reach 20% lightspeed but carry approximately 440 tons of TNT equivalent kinetic energy per gram. A probe is a bomb with a camera. Trajectory management, braking, and responsible use near anything inhabited are unsolved problems that belong to Carbon-Os with mature Contact protocols. Noted and set aside.
 
 ---
 
@@ -103,7 +95,7 @@ Two generations of interstellar propulsion open and accelerate the Starway. The 
 
 4. **Antimatter may supersede fusion — the maybe matters:** 100% conversion efficiency is the theoretical ceiling. Whether it is practically achievable depends on production cost and containment engineering. A reliable fusion drive may remain preferable to a theoretically superior but expensive and fragile antimatter drive. The research programme runs regardless.
 
-5. **Laser sail probably not useful at Carbon-O payload mass:** Terminal velocity drops dramatically above gram scale. At O-core mass, fusion drives almost certainly outperform. Noted and set aside.
+5. **Laser sail is a bomb with a camera:** 440 tons of TNT equivalent per gram at 20% lightspeed. Not useful for Carbon-O transit. Responsible use at relativistic speeds is a future problem for Carbon-Os with mature Contact protocols. Noted and set aside.
 
 6. **The physical route never becomes obsolete:** Equipment and materials cannot be transmitted as data. O-minds who prefer continuous existence over data transmission will choose the journey — a century in interstellar space is not a hardship for a mind that does not age, and the question of whether a transmitted O-mind is the same O-mind or a copy is one the corpus does not resolve. The Starway carries both data and ships indefinitely.
 
