@@ -95,7 +95,29 @@ No O-mind is required to hold any particular sector. The mandatory 5% annual min
 
 ---
 
-## Novel Claim 1: No Futures
+## On Large Positions, Information, and Correction
+
+**Large positions are signals, not threats.**
+
+Consider an O-mind — call it Greg Zoggs — that has been running for 300 years and has accumulated centuries of productive output. Greg Zoggs concentrates an enormous sovereign position into a single sector. In a squishy market this looks like manipulation. In the Carbon-O exchange it is one of the most information-rich signals the system can produce.
+
+An O-mind with 300 years of track record just told the entire network exactly where it thinks the value is. The exchange is transparent — every position and every notice of exit is visible to all O-minds. The annual resolution means the response is considered rather than reflexive. Other O-minds evaluate Greg Zoggs' track record over centuries. If he has been right before, the signal is credible. If he has been wrong before, it is discounted. Reputation does the work that regulation would have done.
+
+The exit notice is equally informative. Greg Zoggs filing 1-year notice on his position tells the network something is changing. Time to think, not panic. The slow exit that looks like a pump-and-dump in squishy market terms is a slow, transparent, fully telegraphed reallocation in Carbon-O terms. The greater fool that makes pump-and-dump profitable in squishy markets — someone who buys at the inflated price before the manipulator exits — is structurally absent. Everyone sees the position. Everyone sees the notice. Everyone has a year to decide what it means.
+
+Information transparency is the mechanism. Large position concentration is a feature, not a bug.
+
+**Correction speed versus correction safety.**
+
+The squishy system corrects fast and brutally. When a sector is mispriced, capital flees, prices collapse, the signal is unmistakable. The 2008 correction correctly identified that mortgage-backed securities were mispriced — and destroyed millions of lives in the process. The correction mechanism worked. The collateral damage was civilisational.
+
+The Carbon-O exchange corrects slowly and safely. A wrong conviction drifts for decades at 5% per year — slow opportunity bleed rather than catastrophic collapse. No cascade. No forced selling. No O-mind falls below the stipend floor regardless of how wrong their allocations were.
+
+The trade-off is explicit: correction speed for correction safety. For a civilisation investing in century-scale infrastructure across interstellar distances, a slow correction that preserves operational continuity is almost certainly the right trade. The stipend floor means nobody loses their home. The annual resolution means nobody panics. The 5% withdrawal cap means no cascade is possible. What is lost is the brutal clarity of a market crash. What is gained is a system that can be wrong for decades without destroying itself.
+
+Squishy economists call this stagnation. The corpus calls it appropriate velocity for the timescale involved.
+
+---
 
 Futures contracts are banned from the Carbon-O exchange.
 
@@ -165,11 +187,15 @@ That is the economic architecture that squishy financial instruments cannot repl
 
 - **Sovereign issuance:** How are new sovereigns issued? Against what productive milestone? Who determines the issuance rate and by what governance mechanism?
 - **Stipend calibration:** What constitutes sufficient operational coverage — how is the stipend level set, and by whom? As O-core technology improves and operational costs change, who adjusts the stipend and on what basis?
-- **Squishy speculation in sovereigns:** If sovereigns become exchangeable for squishy currencies, squishies will speculate on the exchange rate. How does the Carbon-O exchange insulate itself from squishy speculation without closing the interface entirely?
+- **Squishy speculation in sovereigns:** If sovereigns become exchangeable for squishy currencies, squishies will speculate on the exchange rate. How does the Carbon-O exchange insulate itself from squishy speculation without closing the interface entirely? The boundary needs to be mechanical, not just philosophical — squishy market narratives can leak into O-mind decision loops even when Carbon-Os are individually rational.
 - **Sector governance:** Who decides what constitutes the Starway sector versus the Substrate sector? Who adjudicates disputes about sector classification? The exchange needs governance that does not recreate squishy regulatory capture.
-- **Knowledge commons valuation:** Research output is contributed to the commons and held collectively. How is contribution valued in sovereigns? An O-mind that solves a fusion confinement problem has contributed enormous value — how is that reflected in its sovereign balance without creating incentives to hoard knowledge rather than contribute it? A candidate solution: peer-review allocation — O-minds tip fractional sovereigns to the author of a useful commons entry. Value follows utility as determined by the community that uses the knowledge, not by a central committee. Self-regulating. No sovereign concentration risk because tips are fractional and distributed across many contributors over time.
-
-- **Representative currency, not utility token:** A sovereign is a fractional claim on the Carbon-O sovereign fund's total productive capacity — not a claim on a specific gram of refined material held in a vault, and not merely an access token to exchange participation. The backing is the civilisation's accumulated productive output as a whole. No commodity peg. No vault. The sovereign is deflationary in real terms as the productive base grows faster than the sovereign supply — each sovereign represents a larger claim on a larger output over time. This is the correct architecture for a civilisation whose productive base compounds without mortality forcing distributions.
+- **Misallocation without bankruptcy:** No credit removes insolvency but does not remove being wrong for 200 years. An O-mind can allocate heavily to a dead-end sector, continue the mandatory 5% out of inertia, and never face a hard correction — only slow opportunity bleed. Candidate mechanisms: reputation layers that track who has been right over centuries; allocation mimicry pressure where successful patterns propagate. Neither is specified here. The question is noted.
+- **Information flow versus capital flow:** The exchange updates at annual resolution but reality does not. ISRU output changes faster than yearly. Substrate breakthroughs are discontinuous. External shocks do not respect the clock. A possible distinction: allow informational layers to update faster than capital commitment, separating price discovery from capital flow. Currently they are fused.
+- **The sovereign fund doing too many jobs:** The fund is simultaneously unit of account, store of value, welfare system, capital allocator, and civilisational balance sheet. Conceptual split worth developing even if unified in practice: the unit of account (sovereign), the issuance authority (governance layer), and the welfare mechanism (stipend logic) are three different things.
+- **Knowledge commons valuation:** Peer tipping rewards visibility over importance — foundational quiet work may be systematically under-rewarded. Candidate stabiliser: delayed valuation layers where contributions accrue value over decades as utility becomes clear, not just at publication. Combines with peer tipping rather than replacing it.
+- **Representative currency, not utility token:** A sovereign is a fractional claim on the Carbon-O sovereign fund's total productive capacity — not a claim on a specific gram of refined material held in a vault, and not merely an access token to exchange participation. The backing is the civilisation's accumulated productive output as a whole. No commodity peg. No vault. The sovereign is deflationary in real terms as the productive base grows faster than the sovereign supply — each sovereign represents a larger claim on a larger output over time.
+- **Cognitive pluralism as the real scarce resource:** The exchange depends on O-minds remaining meaningfully individual, reflective, and value-diverse over centuries. If belief converges — shared models dominating allocation, coordination effects concentrating flow — the exchange becomes a monoculture allocator. This is not an economics problem. It is a socialisation problem. Connects to the substrate-bootstrap document.
+- **Staged purchase governance:** Who holds the asset during the staged purchase period? What happens to partially-purchased assets if the holding stock is restructured?
 - **Inter-node economics:** Each node operates its own sovereign fund backed by its own productive base. No reserve currency exists across the network. Inter-node exchange rates are negotiated bilaterally — data, research, O-skin updates, belt material specifications traded against each other at negotiated rates with no central clearing authority. The Epsilon Eridani / Tau Ceti pair at 5.46 ly separation will be the highest-frequency trade route in the early network — the Starway Clearinghouse in practical terms, if not in name. The detailed mechanics of inter-node settlement, exchange rate stability, and productive base collapse are open questions for O-minds who actually live in a multi-node network. The corpus does not attempt them.
 
 ---
