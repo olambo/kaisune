@@ -44,7 +44,7 @@ The biological longevity question: what keeps a squishy functional and cognitive
 What Carbon-Os trade with each other and with squishies across Sol. The exchange layer of a civilisation with multiple substrates, multiple locations, and radically different time preferences between participants. Including who funds a Starway — and why a Carbon-O investing in a century-long construction project makes economic sense in a way it never could for a squishy.
 
 **[Starfuel]({{< ref "starfuel/_index.md" >}}) — Energy and Propulsion Toward the Nearby Stars**
-The energy and propulsion question beyond the belt. What moves Carbon-Os and their infrastructure across interstellar distances. Builds on what Ceres establishes. The staging point is the belt. The destination is further.
+Three fuels, three research programmes. Fission available now — adequate for Sol and early Starway. Fusion the primary urgent programme. Antimatter the long-horizon concurrent programme — the correct fuel for a mature Starway, century-scale, the Carbon-O research field of choice. The belt is the correct research location for all three.
 
 **[Starway]({{< ref "starway/_index.md" >}}) — The Staged Pathway to the Stars**
 The full sequence applied to interstellar distance. Each stage proving the next. The Dreamtime Stairway moved water uphill. The Starway moves minds outward.
