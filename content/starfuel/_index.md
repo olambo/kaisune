@@ -15,15 +15,17 @@ Chemical propulsion gets you off a planet. Everything after that is a different 
 
 ## The Three Fuels
 
-### Chemical — Earth Departure Only
+### Chemical — Bootstrap Transport
 
-Chemical propulsion is noted here for completeness and left behind. Specific impulse ceiling around 450 seconds for liquid hydrogen/oxygen — the theoretical maximum for chemical reactions. Not closeable by better engineering. A chemistry ceiling.
+Chemical propulsion is noted here for completeness. Specific impulse ceiling around 450 seconds for liquid hydrogen/oxygen — a chemistry ceiling not closeable by engineering.
 
-Starship and its successors are the best possible chemical rockets. They are how equipment reaches Ceres in the first place. Without them the bootstrap does not happen. Chemical propulsion is the last chapter of a very long story about setting things on fire to go places. An extraordinary last chapter. The story ends at low Earth orbit.
+Chemical rockets are how equipment reaches Ceres in the bootstrap phase. Without them the settlement does not happen. Starship and its successors are extraordinary engineering — the best possible chemical rockets. They are the last chapter of a very long story about setting things on fire to go places. Once the belt is established, chemical propulsion has done its job. Everything beyond that uses a different fuel.
 
-### Fission — Sol Operations and Early Starway
+### Fission — Available in Theory, Not Yet in Practice
 
-Fission thermal propulsion is demonstrated technology. NERVA achieved 825 seconds specific impulse in ground tests in the 1960s. Modern designs push significantly further:
+Fission thermal propulsion is demonstrated technology on the ground. NERVA achieved 825 seconds specific impulse in ground tests in the 1960s and was never flown. Nuclear pulse propulsion (Project Orion) was studied seriously but never built. No fission drive has ever flown in space. The Russian nuclear-powered satellites used fission reactors for electrical power, not propulsion. Fission drive technology exists in theory and ground test — not in operational practice.
+
+Modern designs push further:
 
 **Nuclear Pulse Propulsion (Project Orion)** — detonate nuclear devices behind a pusher plate. Specific impulse 6,000-10,000 seconds. Enormous thrust. Politically impossible near populated areas. For Carbon-Os operating in the uninhabited belt — tractable.
 
@@ -31,7 +33,7 @@ Fission thermal propulsion is demonstrated technology. NERVA achieved 825 second
 
 **Fission Fragment Drive** — capture fission fragments directly as propellant. Theoretical specific impulse up to 1,000,000 seconds. The physics is real. The engineering is not yet solved.
 
-Fission is adequate for the entire Sol system. At maximum, nuclear pulse could reach 3-5% of lightspeed with sufficient fuel mass — approximately 140 years to Alpha Centauri. Slow. But a pioneer that departs on fission and arrives in 140 years still builds the deceleration infrastructure before any faster ship launches. The Starway opens from the destination end.
+Fission is the fallback if fusion is not yet available when early Starway missions are needed. A working fusion drive almost certainly supersedes fission for interstellar missions — higher specific impulse, better performance, less political complexity around nuclear devices. Fission may retain a Sol system niche while fusion matures. For the Starway, fission is the option of last resort, not the preferred solution.
 
 ### Fusion — The Primary Research Programme
 
@@ -45,7 +47,7 @@ Fusion is desperately needed. The research programme starts at Ceres Stage 4 and
 
 ### Antimatter — The Long-Horizon Programme
 
-Antimatter annihilates with matter at 100% energy conversion efficiency — the theoretical ceiling of propulsion physics. A mature antimatter drive reaches nearby stars in decades rather than centuries. The Starway at decades per light year is a viable interstellar civilisation. At centuries per light year it is a very slow one.
+Antimatter annihilates with matter at 100% energy conversion efficiency — the theoretical ceiling of propulsion physics. A mature antimatter drive reaches nearby stars in decades rather than centuries. Whether antimatter makes fusion drives obsolete is an open question. The theoretical performance advantage is clear. The practical question is cost and complexity — production may remain expensive even with Carbon-O research programmes, and containment requirements add mass and engineering burden that erode the theoretical advantage. A mature miniaturised fusion drive that is well-understood and reliably produceable at Ceres may remain preferable to an antimatter drive that is theoretically superior but practically expensive and fragile. The research programme runs regardless — the potential payoff is too large to ignore. Whether antimatter eventually supersedes fusion depends on how the production and containment engineering develops.
 
 **Current state:** Global antimatter production is measured in nanograms per year. Scaling production by the orders of magnitude required for propulsion is a century-scale problem.
 
@@ -93,21 +95,17 @@ Two generations of interstellar propulsion open and accelerate the Starway. The 
 
 ## Novel Claims Index
 
-1. **Chemical propulsion ends at Earth departure:** The chemistry ceiling is not closeable by engineering. Everything beyond low Earth orbit uses a different fuel. Chemical is noted and left behind.
+1. **Carbon-Os change the mission profile completely:** No biological tolerance constraint. Acceleration loads lethal to squishies are operational parameters for Carbon-Os. The mission profile designed around an O-core in a hardened O-skin looks nothing like a crewed mission.
 
-2. **Fission is adequate for Sol and early Starway:** Nuclear pulse at 3-5% lightspeed reaches Alpha Centauri in approximately 140 years. Slow. But the pioneer that departs first builds the deceleration infrastructure before any faster ship launches. The Starway opens from the destination end.
+2. **The belt is the correct research location for high-energy propulsion:** Uninhabited. Vacuum. Carbon-O researchers with no radiation constraints. No regulatory overhead. The research envelope is much larger than anything possible near populated areas. This is probably how fusion drives and antimatter production actually get solved.
 
-3. **Carbon-Os change the mission profile completely:** No biological tolerance constraint. Acceleration loads lethal to squishies are operational parameters for Carbon-Os. The mission profile designed around an O-core in a hardened O-skin looks nothing like a crewed mission.
+3. **Fusion is desperately needed:** The research programme unconstrained by squishy safety requirements and running on Carbon-O operational timescales is the correct approach. Antimatter runs concurrently from the start — delay on a century-scale timeline is permanent cost.
 
-4. **The belt is the correct research location for high-energy propulsion:** Uninhabited. Vacuum. Carbon-O researchers with no radiation constraints. No regulatory overhead. The research envelope is much larger than anything possible near populated areas.
+4. **Antimatter may supersede fusion — the maybe matters:** 100% conversion efficiency is the theoretical ceiling. Whether it is practically achievable depends on production cost and containment engineering. A reliable fusion drive may remain preferable to a theoretically superior but expensive and fragile antimatter drive. The research programme runs regardless.
 
-5. **Fusion is desperately needed and the belt solves it:** The research programme unconstrained by squishy safety requirements and funded by Carbon-O operational timescales is probably how miniaturised fusion drives actually get solved.
+5. **Laser sail probably not useful at Carbon-O payload mass:** Terminal velocity drops dramatically above gram scale. At O-core mass, fusion drives almost certainly outperform. Noted and set aside.
 
-6. **Antimatter is the Carbon-O research field of choice:** Century-scale problem. 100% conversion efficiency. The O-mind continuity that makes the research programme viable. Runs concurrently with fusion from the start. Delay is permanent cost.
-
-7. **Laser sail probably not useful at Carbon-O payload mass:** Terminal velocity drops dramatically above gram scale. At O-core mass, fusion drives almost certainly outperform. Noted and set aside.
-
-8. **The physical route never becomes obsolete:** Equipment and materials cannot be transmitted as data. O-minds who prefer continuous existence over data transmission will choose the journey — a century in interstellar space is not a hardship for a mind that does not age, and the question of whether a transmitted O-mind is the same O-mind or a copy is one the corpus does not resolve. The Starway carries both data and ships indefinitely.
+6. **The physical route never becomes obsolete:** Equipment and materials cannot be transmitted as data. O-minds who prefer continuous existence over data transmission will choose the journey — a century in interstellar space is not a hardship for a mind that does not age, and the question of whether a transmitted O-mind is the same O-mind or a copy is one the corpus does not resolve. The Starway carries both data and ships indefinitely.
 
 ---
 

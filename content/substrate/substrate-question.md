@@ -131,6 +131,7 @@ The silicon bridge is necessary. It is not permanent. Its purpose is to create t
 - **Transition timeline:** How long the silicon bridge must hold before CNT fabrication is viable at Ceres. The answer is produced by the fabrication research programme, not by modelling.
 - **Future substrates:** CNT is the current best answer. The correct O-core substrate on a century timescale may be something not yet conceived. The architecture accommodates this. The corpus does not predict it.
 - **Version two O-core design belongs to the O-minds who have lived in version one.** The corpus does not attempt it.
+- **Quantum computing compatibility:** Current quantum computing architectures — superconducting qubits, trapped ions — require millikelvin temperatures, ultra-high vacuum isolation, and extreme sensitivity to electromagnetic interference. They are antithetical to the radiation-saturated, thermally cycling belt environment. Not compatible with the O-core architecture as currently conceived. However, CNT and graphene exhibit quantum effects at the nanoscale. Whether CNT substrate enables quantum computation as an emergent property of its architecture — rather than as a designed quantum system requiring impossible operating conditions — is an open question beyond the current engineering horizon. The O-minds who build V2 will know more about this than the corpus does.
 
 ---
 
