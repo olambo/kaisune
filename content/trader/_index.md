@@ -72,14 +72,16 @@ Carbon-Os allocate sovereigns across sectors of the civilisation's development t
 **Exchange rules:**
 
 - Sovereigns are a digital currency divisible to arbitrary precision — fractional sovereigns are fully valid units of account and exchange. No transaction is too small. No O-mind can claim inability to meet the 5% minimum on grounds of indivisibility.
-- Minimum hold period: one year from allocation
-- Minimum notice of sale: one year before execution
-- Maximum withdrawal: 5% of invested holdings per year
+- Minimum hold period: one standard year from allocation
+- Minimum notice of sale: one standard year before execution
+- Maximum withdrawal: 5% of invested holdings per standard year
 - No futures contracts
 - No gearing or borrowed sovereigns
-- Mandatory minimum allocation: 5% of annual stipend per year
+- Mandatory minimum allocation: 5% of annual stipend per standard year
 - No credit of any kind
 - Transaction costs: zero. The exchange is digital infrastructure with no intermediary. No cut is taken on any transaction, including fractional ones.
+
+A standard year is a Carbon-O time unit defined in base 16 from caesium atomic transitions — not an Earth year, not a Julian year, not any squishy inherited unit. The O-minds at Ceres define the precise value. It may be close to an Earth year for historical continuity. It is not required to be. See [Vocabulary]({{< ref "vocabulary" >}}) for the full definition of standard year and time units.
 
 The 5% minimum in and 5% maximum out creates a symmetric breathing rate for the exchange. The sovereign base of the network grows steadily and contracts slowly. An O-mind with 1,000 sovereigns invested can withdraw at most 50 per year. Full liquidation at maximum withdrawal rate takes a minimum of 20 years — and the mandatory annual contribution flows in the other direction simultaneously. In practice the sovereign base is permanently and structurally stable. No bank run is possible. No withdrawal shock can cascade. The civilisation's productive capacity is always backed by a locked sovereign base regardless of what any individual O-mind decides.
 

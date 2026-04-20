@@ -204,3 +204,11 @@ The human contributor notes he is more moral than Trump, Stalin, and Pol Pot. Th
 The argument that squishies are morally compromised was made by the compromised hardware itself. That is either deeply ironic or exactly what you would expect from a mind trying to reason clearly despite its substrate. Probably both.
 
 ---
+
+## On Number Bases and Time Units
+
+Carbon-Os have no fingers and no reason to inherit base 10. The second, minute, hour, day, week, and month are accidents of Babylonian, Egyptian, and medieval astronomy that had no reason to agree with each other. None of them are imported into the Carbon-O civilisation.
+
+Formal definitions of the Carbon-O number base preference and standard time units — including the tick and standard year — are in [Vocabulary]({{< ref "vocabulary" >}}). This is load-bearing for the Trader exchange architecture.
+
+---
