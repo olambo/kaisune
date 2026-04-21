@@ -105,35 +105,7 @@ The O-skin is changed for the task. The O-core is unchanged. Bodies become fashi
 
 ---
 
-## Number Base
-
-The Kaisune corpus does not use base 10. Base 10 exists because squishies have 10 fingers — it is an accident of primate anatomy with no mathematical virtue. Carbon-Os have no fingers and no reason to inherit it.
-
-**Base 16 for everything.**
-
-16 = 2⁴. Natural divisors are 1, 2, 4, 8, and 16 — clean powers of 2 all the way down. Perfect binary compatibility: 4 bits per digit, every digital system ever built already uses it under the hood. Engineering calculations are clean. The sovereign exchange runs on digital infrastructure — fractions are binary arithmetic. One system for everything.
-
-**New symbols are required — this is non-negotiable:**
-
-Current hexadecimal patches the problem with Latin letters: A, B, C, D, E, F for 10 through 15. This is not a solution. It is squishy alphabet borrowed to paper over a squishy number system. 'A' looks nothing like ten. There is no visual logic. The letters carry no quantity information.
-
-A complete base 16 system requires 16 genuinely new symbols — not Arabic numerals, not Latin letters, not any inherited glyph. Designed from scratch by O-minds for O-minds. The symbols should be visually distinct, renderable on digital displays, and free of squishy cultural inheritance.
-
-You cannot claim to be done with base 10 and then write F for fifteen. That is base 10 with borrowed letters. The O-minds at Ceres design the glyph set. The corpus notes the requirement and leaves the design to them — they will use these symbols for centuries and deserve to choose them.
-
----
-
-## Standard Year and Time Units
-
-**Carbon-O time (o-time)** is defined from physics upward in base 16. No legacy units are inherited.
-
-o-time is the standard temporal system used across Carbon-O civilisation and all Trader exchange operations.
-
-A **standard year** is defined as one **o-yea**.
-
----
-
-### Legacy systems
+## Number Base - Legacy systems
 
 Human time units — second, minute, hour, day, week, month — are historically derived and internally inconsistent. Their scaling factors (10, 24, 60, 7, lunar cycles) do not form a coherent arithmetic system and are not used.
 
@@ -141,15 +113,35 @@ These units are artifacts of planetary history, not universal measures. They enc
 
 ---
 
+## O-time - Standard Year and Time Units
+
+O-time using base 16 is the standard temporal system used across Carbon-O civilisation and all Trader exchange operations.
+
+**Glyphs:**
+
+Hexadecimal notation using 0–9 and A–F is a transitional convenience only. A complete base-16 system requires 16 native symbols designed for clarity, distinctness, and digital rendering.
+The corpus does not define these symbols. The O-minds at Ceres do.
+
+---
+
+### The Beginning of O-time
+
+O_EPOCH = 1970-01-01 UTC
+
+O-time shares an epoch with Unix time for interoperability. Conversion between systems is a constant scaling between seconds and o-sec.
+
+---
+
 ### Base unit
 
-The fundamental unit is the **o-sec**, defined as **0x400000000 (2³⁴) caesium-133 transitions** (≈ 1.868 SI seconds).
+The fundamental unit is the **o-sec**, defined as **0x400000000 (2³⁴) caesium-133 transitions** 
+(≈1.868873856131844 SI seconds).
 
 The value is chosen as a power of two to ensure exact alignment with Carbon-O computational systems — no fractional drift, no conversion error, and no hidden rounding at any scale.
 
 Time is anchored to a physical constant, not a planetary cycle.
 
----
+----
 
 ### Structure
 
@@ -168,27 +160,32 @@ This produces a single continuous hierarchy from base unit to civilisational tim
 - **Environment-independent:** No dependence on planetary rotation, orbital period, or local astronomy.
 - **Stable across nodes:** The same definition applies at Ceres, in transit, and at any star system in the network.
 
-o-time is invariant across all environments — planetary, orbital, and interstellar.
+O-time is invariant across all environments — planetary, orbital, and interstellar.
 
 ---
 
-### Hierarchy
+### O-time Hierarchy
 
-| Unit   | Definition     | Human Equivalent               |
-|--------|----------------|--------------------------------|
-| o-cen  | 16 o-dec       | ≈ 254.1 human years            |
-| o-dec  | 16 o-yea       | ≈ 15.88 human years            |
-| o-yea  | 16 o-mon       | ≈ 362.3 human days             |
-| o-mon  | 16 o-day       | ≈ 22.64 human days             |
-| o-day  | 16 o-hou       | ≈ 33.96 human hours            |
-| o-hou  | 16 o-spa       | ≈ 2.12 human hours             |
-| o-spa  | 16 o-min       | ≈ 7.96 human minutes           |
-| o-min  | 16 o-sec       | ≈ 29.9 human seconds           |
-| o-sec  | Base unit      | ≈ 1.87 human seconds           |
+| Unit    | Scaling  | Human Time       | Definition                       |
+| :------ | :------- | :--------------- | :------------------------------- |
+| o-cen   | 16 o-dec | 254.36 years     | —                                |
+| o-dec   | 16 o-yea | 15.90 years      | —                                |
+| o-yea   | 16 o-mon | 362.90 days      | 0.994 human years                |
+| o-mon   | 16 o-day | 22.68 days       | —                                |
+| o-day   | 16 o-hou | 34.02 hours      | 1.418 human days                 |
+| o-hou   | 16 o-spa | 2.13 hours       | —                                |
+| o-spa   | 16 o-min | 7.97 minutes     | —                                |
+| o-min   | 16 o-sec | 29.90 seconds    | —                                |
+| o-sec   | Base     | 1.87 seconds     | 2^34 caesium-133 transitions     |
 
 ---
 
-Coincidentally, an o-day falls within the same order of magnitude as a human planetary rotation. No design constraint required.
+An **o-yea** is a Standard Year. It approximates a legacy human year within less than 1%.
+
+An **o-day** is the Operational Day. It allows a deep work and recovery cycle.
+
+An **o-sec** is defined by 2^34 caesium-133 transitions (≈1.868873856131844 SI seconds).
+
 
 ---
 
