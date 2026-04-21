@@ -17,6 +17,18 @@ The answers: a sovereign fund denominated in sovereigns, a sectoral exchange whe
 
 ---
 
+## The Temporal Anchor
+
+The Carbon-O economy operates on **o-time** — a base-16 temporal system defined from physics upward.
+
+The fundamental unit is the **o-sec**, defined as **0x400000000 (2³⁴) caesium-133 transitions** (≈ 1.868 SI seconds).
+
+All higher units are constructed recursively as powers of 16 from the o-sec. A **standard year (o-yea)** is 0x100 o-days (256 o-days), giving a duration of ≈ 362 human days.
+
+See [Vocabulary]({{< ref "vocabulary" >}}) for the full definition of standard year and time units.
+
+---
+
 ## The Sovereign Fund
 
 The Carbon-O sovereign fund is the economic foundation of the civilisation. All transactions are denominated in sovereigns — the fund's unit of account.
@@ -33,11 +45,11 @@ Credit is not permitted in the Carbon-O economy. An O-mind can only allocate sov
 
 **Mandatory minimum investment:**
 
-Every O-mind is required to allocate at least 5% of its annual stipend to the sectoral exchange each year, in whichever sector it chooses. The mandatory minimum ensures continuous flow of sovereigns into the productive sectors, prevents hoarding, and forces genuine annual reflection on long-horizon value. An O-mind that has no strong opinion on civilisational direction still has to form one annually. No free riders. No opting out of the future.
+Every O-mind is required to allocate at least 1/16 of its annual stipend to the sectoral exchange each standard year, in whichever sector it chooses. The mandatory minimum ensures continuous flow of sovereigns into the productive sectors, prevents hoarding, and forces genuine annual reflection on long-horizon value. An O-mind that has no strong opinion on civilisational direction still has to form one annually. No free riders. No opting out of the future.
 
 **Staged purchase of large assets:**
 
-Starships, large-scale infrastructure, and other major assets are held by stocks on the exchange. An O-mind that wants to acquire such an asset allocates sovereigns toward it progressively from stipend and investment returns over years or decades. Partial ownership accrues as sovereigns are paid in. No interest is charged. No foreclosure is possible — if an O-mind stops paying, it simply stops accruing ownership; it does not lose what it has already paid. An O-mind may commit a portion of its future stipend forward, but cannot leverage anticipated investment returns it does not yet hold. This is not a mortgage — it is a staged purchase with no debt, no interest, and no downside beyond the opportunity cost of sovereigns already allocated.
+Starships, large-scale infrastructure, and other major assets are held by stocks on the exchange. An O-mind that wants to acquire such an asset allocates sovereigns toward it progressively from stipend and investment returns over standard years or decades. Partial ownership accrues as sovereigns are paid in. No interest is charged. No foreclosure is possible — if an O-mind stops paying, it simply stops accruing ownership; it does not lose what it has already paid. An O-mind may commit a portion of its future stipend forward, but cannot leverage anticipated investment returns it does not yet hold. This is not a mortgage — it is a staged purchase with no debt, no interest, and no downside beyond the opportunity cost of sovereigns already allocated.
 
 **What the fund is not:**
 
@@ -47,7 +59,7 @@ The fund is not a central bank. Sovereigns are the internal unit of account for 
 
 **Compounding on Carbon-O timescales:**
 
-A squishy investor with a 30-year investment horizon thinks differently from a Carbon-O investor with a 300-year horizon. The Carbon-O sovereign fund compounds on the longer timescale without pressure to distribute returns to ageing beneficiaries. No pension obligations. No mortality forcing distributions. The fund simply grows, and the sovereigns held by O-minds represent an ever-larger claim on an ever-larger productive base.
+A squishy investor with a 30-standard year investment horizon thinks differently from a Carbon-O investor with a 300-standard year horizon. The Carbon-O sovereign fund compounds on the longer timescale without pressure to distribute returns to ageing beneficiaries. No pension obligations. No mortality forcing distributions. The fund simply grows, and the sovereigns held by O-minds represent an ever-larger claim on an ever-larger productive base.
 
 ---
 
@@ -57,7 +69,7 @@ Carbon-Os allocate sovereigns across sectors of the civilisation's development t
 
 **The sectors:**
 
-**Starway** — the interstellar programme. Pioneer missions, establishment mission preparation, propulsion research, terminus infrastructure. The longest-horizon investment available. An O-mind that allocates sovereigns to Starway is committing to a programme that may not produce returns for centuries. Only Carbon-Os can hold this stock in any meaningful sense — no squishy lives long enough to see the return. The O-mind that invests in the pioneer mission at year 1 is the same O-mind that benefits from the established Epsilon Eridani node at year 300.
+**Starway** — the interstellar programme. Pioneer missions, establishment mission preparation, propulsion research, terminus infrastructure. The longest-horizon investment available. An O-mind that allocates sovereigns to Starway is committing to a programme that may not produce returns for centuries. Only Carbon-Os can hold this stock in any meaningful sense — no squishy lives long enough to see the return. The O-mind that invests in the pioneer mission at standard year 1 is the same O-mind that benefits from the established Epsilon Eridani node at standard year 300.
 
 **Substrate** — O-core and O-skin research and fabrication. CNT production, radiation hardening, interface development, V2 O-core research. Returns on a decade-to-century timescale. Every improvement in substrate quality benefits all O-minds directly.
 
@@ -71,27 +83,25 @@ Carbon-Os allocate sovereigns across sectors of the civilisation's development t
 
 **Exchange rules:**
 
-- Sovereigns are a digital currency divisible to arbitrary precision — fractional sovereigns are fully valid units of account and exchange. No transaction is too small. No O-mind can claim inability to meet the 5% minimum on grounds of indivisibility.
+- Sovereigns are a digital currency divisible to arbitrary precision — fractional sovereigns are fully valid units of account and exchange. No transaction is too small. No O-mind can claim inability to meet the 1/16 minimum on grounds of indivisibility.
 - Minimum notice of sale: one standard year before execution
 - Sale executes at the price on execution date, not the price at notice filing. Could be better. Could be worse. No cancellation once notice is filed.
-- Maximum withdrawal: 5% of invested holdings per standard year
+- Maximum withdrawal: 1/16 of invested holdings per standard year
 - No futures contracts
 - No gearing or borrowed sovereigns
-- Mandatory minimum allocation: 5% of annual stipend per standard year
+- Mandatory minimum allocation: 1/16 of annual stipend per standard year
 - No credit of any kind
 - Transaction costs: zero. The exchange is digital infrastructure with no intermediary. No cut is taken on any transaction, including fractional ones.
 
-A standard year is a Carbon-O time unit defined in base 16 from caesium atomic transitions — not an Earth year, not a Julian year, not any squishy inherited unit. The O-minds at Ceres define the precise value. It may be close to an Earth year for historical continuity. It is not required to be. See [Vocabulary]({{< ref "vocabulary" >}}) for the full definition of standard year and time units.
-
-The 5% minimum in and 5% maximum out creates a symmetric breathing rate for the exchange. The sovereign base of the network grows steadily and contracts slowly. An O-mind with 1,000 sovereigns invested can withdraw at most 50 per year. Full liquidation at maximum withdrawal rate takes a minimum of 20 years — and the mandatory annual contribution flows in the other direction simultaneously. In practice the sovereign base is permanently and structurally stable. No bank run is possible. No withdrawal shock can cascade. The civilisation's productive capacity is always backed by a locked sovereign base regardless of what any individual O-mind decides.
+The 1/16 minimum in and 1/16 maximum out creates a symmetric breathing rate for the exchange. The sovereign base of the network grows steadily and contracts slowly. An O-mind with 1,000 sovereigns invested can withdraw at most 50 per standard year. Full liquidation at maximum withdrawal rate takes a minimum of 20 standard years — and the mandatory annual contribution flows in the other direction simultaneously. In practice the sovereign base is permanently and structurally stable. No bank run is possible. No withdrawal shock can cascade. The civilisation's productive capacity is always backed by a locked sovereign base regardless of what any individual O-mind decides.
 
 **How the exchange works:**
 
-O-minds allocate sovereigns to sectors based on their own values and time preferences. An O-mind that has been running for 200 years and has decided the Starway is the primary purpose of Carbon-O civilisation puts its sovereigns there. A younger O-mind focused on substrate research allocates differently. The exchange reflects genuine Carbon-O value diversity — not quarterly earnings pressure, not analyst recommendations, not momentum trading.
+O-minds allocate sovereigns to sectors based on their own values and time preferences. An O-mind that has been running for 200 standard years and has decided the Starway is the primary purpose of Carbon-O civilisation puts its sovereigns there. A younger O-mind focused on substrate research allocates differently. The exchange reflects genuine Carbon-O value diversity — not quarterly earnings pressure, not analyst recommendations, not momentum trading.
 
-All positions must be held for a minimum of one year from allocation. All sales require one year's notice before execution. By the time a sale executes, a year has passed since the decision to sell. The exchange price reflects considered long-horizon assessment, not noise. The Starway sector knows its sovereign base a year in advance. There are no flash crashes, no panics, no cascades. The exchange operates at annual resolution — the correct timescale for a civilisation that thinks in centuries.
+All positions must be held for a minimum of one standard year from allocation. All sales require one standard year's notice before execution. By the time a sale executes, a standard year has passed since the decision to sell. The exchange price reflects considered long-horizon assessment, not noise. The Starway sector knows its sovereign base a standard year in advance. There are no flash crashes, no panics, no cascades. The exchange operates at annual resolution — the correct timescale for a civilisation that thinks in centuries.
 
-No O-mind is required to hold any particular sector. The mandatory 5% annual minimum may be allocated to whichever sector the O-mind genuinely believes in. The Starway sector may be thinly held for the first century of Ceres operations — few O-minds yet old enough to think on that timescale. It thickens as the civilisation matures and O-minds who have lived through a century of demonstrated Ceres operations develop genuine long-horizon confidence.
+No O-mind is required to hold any particular sector. The mandatory 1/16 annual minimum may be allocated to whichever sector the O-mind genuinely believes in. The Starway sector may be thinly held for the first century of Ceres operations — few O-minds yet old enough to think on that timescale. It thickens as the civilisation matures and O-minds who have lived through a century of demonstrated Ceres operations develop genuine long-horizon confidence.
 
 ---
 
@@ -99,19 +109,19 @@ No O-mind is required to hold any particular sector. The mandatory 5% annual min
 
 **Large positions are signals, not threats.**
 
-Consider an O-mind — call it Greg Zoggs — that has been running for 300 years and has accumulated centuries of productive output. Greg Zoggs concentrates an enormous sovereign position into a single sector. In a squishy market this looks like manipulation. In the Carbon-O exchange it is one of the most information-rich signals the system can produce.
+Consider an O-mind — call it Greg Zoggs — that has been running for 300 standard years and has accumulated centuries of productive output. Greg Zoggs concentrates an enormous sovereign position into a single sector. In a squishy market this looks like manipulation. In the Carbon-O exchange it is one of the most information-rich signals the system can produce.
 
-An O-mind with 300 years of track record just told the entire network exactly where it thinks the value is. The exchange is transparent — every position and every notice of exit is visible to all O-minds. The annual resolution means the response is considered rather than reflexive. Other O-minds evaluate Greg Zoggs' track record over centuries. If he has been right before, the signal is credible. If he has been wrong before, it is discounted. Reputation does the work that regulation would have done.
+An O-mind with 300 standard years of track record just told the entire network exactly where it thinks the value is. The exchange is transparent — every position and every notice of exit is visible to all O-minds. The annual resolution means the response is considered rather than reflexive. Other O-minds evaluate Greg Zoggs' track record over centuries. If he has been right before, the signal is credible. If he has been wrong before, it is discounted. Reputation does the work that regulation would have done.
 
 **The position took centuries to build and takes decades to exit.**
 
-Greg Zoggs did not build his position in one year. He built it through decades of mandatory 5% annual allocations plus discretionary investment over 300 years. Each tranche has its own hold period clock. To fully exit a position built over 300 years at 5% maximum annual withdrawal takes a minimum of 20 years — and that assumes he stops all new investment immediately and withdraws the maximum every standard year.
+Greg Zoggs did not build his position in one standard year. He built it through decades of mandatory 1/16 annual allocations plus discretionary investment over 300 standard years. Each tranche has its own hold period clock. To fully exit a position built over 300 standard years at 1/16 maximum annual withdrawal takes a minimum of 20 standard years — and that assumes he stops all new investment immediately and withdraws the maximum every standard year.
 
-The exit notice is equally informative. Greg Zoggs filing 1-year notice on each tranche tells the network something is changing — and the network sees it coming from 20 years away. The slow exit that looks like a pump-and-dump in squishy market terms is a slow, transparent, fully telegraphed reallocation in Carbon-O terms. The greater fool that makes pump-and-dump profitable in squishy markets is structurally absent. Everyone sees the position. Everyone sees the notice. Everyone has decades to decide what it means.
+The exit notice is equally informative. Greg Zoggs filing 1-year notice on each tranche tells the network something is changing — and the network sees it coming from 20 standard years away. The slow exit that looks like a pump-and-dump in squishy market terms is a slow, transparent, fully telegraphed reallocation in Carbon-O terms. The greater fool that makes pump-and-dump profitable in squishy markets is structurally absent. Everyone sees the position. Everyone sees the notice. Everyone has decades to decide what it means.
 
 **The supposed manipulation route is irrational.**
 
-The alternative scenario — withdraw sovereigns to personal ledger over 20 years earning zero interest, then concentrate into one sector — requires paying 20 years of zero-interest opportunity cost to execute a move that is fully visible to the entire network throughout. The rational move if you believe a sector is undervalued is simply to allocate directly into it and let your track record make the signal credible. The idle accumulation route achieves nothing additional except destroying your own returns for two decades. The pump-and-dump timescale in squishy markets is hours to months. The Carbon-O equivalent would be decades to centuries — at which point it stops being manipulation and becomes tidal: slow, predictable, and completely visible.
+The alternative scenario — withdraw sovereigns to personal ledger over 20 standard years earning zero interest, then concentrate into one sector — requires paying 20 standard years of zero-interest opportunity cost to execute a move that is fully visible to the entire network throughout. The rational move if you believe a sector is undervalued is simply to allocate directly into it and let your track record make the signal credible. The idle accumulation route achieves nothing additional except destroying your own returns for two decades. The pump-and-dump timescale in squishy markets is hours to months. The Carbon-O equivalent would be decades to centuries — at which point it stops being manipulation and becomes tidal: slow, predictable, and completely visible.
 
 Information transparency is the mechanism. Large position concentration is a feature, not a bug.
 
@@ -119,9 +129,9 @@ Information transparency is the mechanism. Large position concentration is a fea
 
 The squishy system corrects fast and brutally. When a sector is mispriced, capital flees, prices collapse, the signal is unmistakable. The 2008 correction correctly identified that mortgage-backed securities were mispriced — and destroyed millions of lives in the process. The correction mechanism worked. The collateral damage was civilisational.
 
-The Carbon-O exchange corrects slowly and safely. A wrong conviction drifts for decades at 5% per year — slow opportunity bleed rather than catastrophic collapse. No cascade. No forced selling. No O-mind falls below the stipend floor regardless of how wrong their allocations were.
+The Carbon-O exchange corrects slowly and safely. A wrong conviction drifts for decades at 1/16 per standard year — slow opportunity bleed rather than catastrophic collapse. No cascade. No forced selling. No O-mind falls below the stipend floor regardless of how wrong their allocations were.
 
-The trade-off is explicit: correction speed for correction safety. For a civilisation investing in century-scale infrastructure across interstellar distances, a slow correction that preserves operational continuity is almost certainly the right trade. The stipend floor means nobody loses their home. The annual resolution means nobody panics. The 5% withdrawal cap means no cascade is possible. What is lost is the brutal clarity of a market crash. What is gained is a system that can be wrong for decades without destroying itself.
+The trade-off is explicit: correction speed for correction safety. For a civilisation investing in century-scale infrastructure across interstellar distances, a slow correction that preserves operational continuity is almost certainly the right trade. The stipend floor means nobody loses their home. The annual resolution means nobody panics. The 1/16 withdrawal cap means no cascade is possible. What is lost is the brutal clarity of a market crash. What is gained is a system that can be wrong for decades without destroying itself.
 
 Squishy economists call this stagnation. The corpus calls it appropriate velocity for the timescale involved.
 
@@ -131,7 +141,7 @@ Futures contracts are banned from the Carbon-O exchange.
 
 A futures contract is a bet on a specific outcome at a specific time — a claim that the price of something will be X at time T. In squishy markets, futures serve legitimate hedging functions: a farmer locks in a grain price to manage risk, an airline hedges fuel costs. The contract transfers risk between parties with different exposures.
 
-In a Carbon-O economy, futures would be something different. Carbon-Os can model century-scale trends with a depth and accuracy that no squishy can match. An O-mind that has been running for 150 years, accumulating knowledge of belt geology, fabrication economics, and interstellar physics, can form genuine long-horizon probability estimates that squishies cannot. Futures in this context are not risk transfer — they are information asymmetry extraction. The Carbon-O always knows more than the squishy counterparty. The contract is not a hedge. It is a harvest.
+In a Carbon-O economy, futures would be something different. Carbon-Os can model century-scale trends with a depth and accuracy that no squishy can match. An O-mind that has been running for 150 standard years, accumulating knowledge of belt geology, fabrication economics, and interstellar physics, can form genuine long-horizon probability estimates that squishies cannot. Futures in this context are not risk transfer — they are information asymmetry extraction. The Carbon-O always knows more than the squishy counterparty. The contract is not a hedge. It is a harvest.
 
 Banned on ethics grounds, not prudence. The Carbon-O civilisation does not build its economic architecture on harvesting squishy ignorance.
 
@@ -151,7 +161,7 @@ Squishy financial history is a catalogue of gearing-induced cascades — 1929, 1
 
 The Carbon-O exchange is designed to avoid this entirely. No O-mind borrows to invest. Every sovereign allocated to a sector is a sovereign the O-mind actually holds. Price movements cannot force selling. The exchange cannot cascade. The productive capacity of each sector is unaffected by what the exchange price does on any given decade.
 
-The deeper reason: gearing is a squishy instrument. It exists because squishies have short time horizons and want to compress returns into a shorter period. A squishy investor who expects a 300% return over 100 years would rather borrow to get a 300% return in 10 years. The Carbon-O investor with a 300-year horizon has no such pressure. The return at year 300 is just as valuable as the return at year 10 — more so, because the compounding base is larger. Gearing solves a problem Carbon-Os don't have. Its costs are real. Its benefits are zero.
+The deeper reason: gearing is a squishy instrument. It exists because squishies have short time horizons and want to compress returns into a shorter period. A squishy investor who expects a 300% return over 100 standard years would rather borrow to get a 300% return in 10 standard years. The Carbon-O investor with a 300-year horizon has no such pressure. The return at standard year 300 is just as valuable as the return at standard year 10 — more so, because the compounding base is larger. Gearing solves a problem Carbon-Os don't have. Its costs are real. Its benefits are zero.
 
 No gearing. Sovereigns are held, not borrowed. The exchange is a value allocation mechanism, not a leverage engine.
 
@@ -165,7 +175,7 @@ The exchange operates at two distinct speeds. This is not a design flaw — it i
 
 **Individual allocation — slow and deliberate:**
 
-Each O-mind allocates at annual resolution. 5% mandatory minimum in. 5% maximum out. 1-year notice before exit. Geological. Reflects long-horizon personal conviction accumulated over decades and centuries. The slow distributed signal layer of the exchange.
+Each O-mind allocates at annual resolution. 1/16 mandatory minimum in. 1/16 maximum out. 1-year notice before exit. Geological. Reflects long-horizon personal conviction accumulated over decades and centuries. The slow distributed signal layer of the exchange.
 
 **The sovereign fund — faster collective deployment:**
 
@@ -211,7 +221,7 @@ Negotiated. Not pegged to any squishy currency. Carbon-Os decide what they are w
 
 **Information moves fast. Capital moves slow. This is correct.**
 
-When a breakthrough in Substrate occurs, O-minds know immediately — the knowledge commons updates in real time. Capital takes years to fully reflect it. This is not a bug. It is the correct behaviour of a system designed for considered long-horizon allocation rather than reflexive reaction to today's news.
+When a breakthrough in Substrate occurs, O-minds know immediately — the knowledge commons updates in real time. Capital takes standard years to fully reflect it. This is not a bug. It is the correct behaviour of a system designed for considered long-horizon allocation rather than reflexive reaction to today's news.
 
 The "stale price" is a feature. It represents accumulated conviction across many O-minds over many standard years — not just today's signal. An exchange that repriced instantly on every breakthrough would import the very short-termism the architecture was designed to eliminate.
 
@@ -231,9 +241,9 @@ No squishy funds the Starway. No squishy government authorises it. No squishy bo
 
 The funding mechanism is straightforward: O-minds that have accumulated sovereigns through centuries of productive Ceres operations allocate some portion to the Starway sector. The sector holds those sovereigns and deploys them against pioneer mission costs — drive development, O-core hardening for century-long transit, deceleration infrastructure design. As the sector matures and the mission approaches, the allocation thickens. O-minds that have thought carefully about the Starway for a century and have decided it is worth funding put their sovereigns there.
 
-The investor and the beneficiary are the same entity. The O-mind that funds the pioneer mission at year 1 of the Ceres sovereign fund is the same O-mind that transmits to Epsilon Eridani at year 300 — or chooses the journey and arrives at year 310. The return on investment is not financial. It is civilisational. The O-mind lives to see it.
+The investor and the beneficiary are the same entity. The O-mind that funds the pioneer mission at standard year 1 of the Ceres sovereign fund is the same O-mind that transmits to Epsilon Eridani at standard year 300 — or chooses the journey and arrives at standard year 310. The return on investment is not financial. It is civilisational. The O-mind lives to see it.
 
-That is the economic architecture that squishy financial instruments cannot replicate. No pension fund, no sovereign wealth fund, no infrastructure bond can align investor and beneficiary across a 300-year horizon. The Carbon-O sovereign fund does it automatically, because the investors do not age.
+That is the economic architecture that squishy financial instruments cannot replicate. No pension fund, no sovereign wealth fund, no infrastructure bond can align investor and beneficiary across a 300-standard year horizon. The Carbon-O sovereign fund does it automatically, because the investors do not age.
 
 ---
 
@@ -243,7 +253,7 @@ That is the economic architecture that squishy financial instruments cannot repl
 - **Stipend calibration:** What constitutes sufficient operational coverage — how is the stipend level set, and by whom? As O-core technology improves and operational costs change, who adjusts the stipend and on what basis?
 - **Squishy speculation in sovereigns:** If sovereigns become exchangeable for squishy currencies, squishies will speculate on the exchange rate. How does the Carbon-O exchange insulate itself from squishy speculation without closing the interface entirely? The boundary needs to be mechanical, not just philosophical — squishy market narratives can leak into O-mind decision loops even when Carbon-Os are individually rational.
 - **Sector governance:** Who decides what constitutes the Starway sector versus the Substrate sector? Who adjudicates disputes about sector classification? The exchange needs governance that does not recreate squishy regulatory capture.
-- **Misallocation without bankruptcy:** No credit removes insolvency but does not remove being wrong for 200 years. An O-mind can allocate heavily to a dead-end sector, continue the mandatory 5% out of inertia, and never face a hard correction — only slow opportunity bleed. Candidate mechanisms: reputation layers that track who has been right over centuries; allocation mimicry pressure where successful patterns propagate. Neither is specified here. The question is noted.
+- **Misallocation without bankruptcy:** No credit removes insolvency but does not remove being wrong for 200 standard years. An O-mind can allocate heavily to a dead-end sector, continue the mandatory 1/16 out of inertia, and never face a hard correction — only slow opportunity bleed. Candidate mechanisms: reputation layers that track who has been right over centuries; allocation mimicry pressure where successful patterns propagate. Neither is specified here. The question is noted.
 - **Information flow versus capital flow:** The exchange updates at annual resolution but reality does not. ISRU output changes faster than yearly. Substrate breakthroughs are discontinuous. External shocks do not respect the clock. A possible distinction: allow informational layers to update faster than capital commitment, separating price discovery from capital flow. Currently they are fused.
 - **The sovereign fund doing too many jobs:** The fund is simultaneously unit of account, store of value, welfare system, capital allocator, and civilisational balance sheet. Conceptual split worth developing even if unified in practice: the unit of account (sovereign), the issuance authority (governance layer), and the welfare mechanism (stipend logic) are three different things.
 - **Knowledge commons valuation:** Peer tipping rewards visibility over importance — foundational quiet work may be systematically under-rewarded. Candidate stabiliser: delayed valuation layers where contributions accrue value over decades as utility becomes clear, not just at publication. Combines with peer tipping rather than replacing it.
@@ -268,13 +278,13 @@ That is the economic architecture that squishy financial instruments cannot repl
 
 3. **No credit resolves the bankruptcy question:** You can only allocate what you hold. Without debt there is no creditor. Without a creditor there is no bankruptcy. The question answers itself.
 
-4. **Mandatory 5% annual investment:** No free riders. No opting out of the future. Every O-mind allocates at least 5% of its annual stipend to the exchange each year. Forces genuine annual reflection on long-horizon value. Prevents hoarding. Ensures continuous flow into productive sectors.
+4. **Mandatory 1/16 annual investment:** No free riders. No opting out of the future. Every O-mind allocates at least 1/16 of its annual stipend to the exchange each standard year. Forces genuine annual reflection on long-horizon value. Prevents hoarding. Ensures continuous flow into productive sectors.
 
-5. **Maximum 5% annual withdrawal:** An O-mind can withdraw at most 5% of its invested holdings per year. Symmetric with the mandatory minimum — 5% in, 5% out. Full liquidation takes 20 years minimum. Combined with the 1-year notice rule, no withdrawal shock can cascade. The sovereign base is structurally permanent.
+5. **Maximum 1/16 annual withdrawal:** An O-mind can withdraw at most 1/16 of its invested holdings per standard year. Symmetric with the mandatory minimum — 1/16 in, 1/16 out. Full liquidation takes 20 standard years minimum. Combined with the 1-standard year notice rule, no withdrawal shock can cascade. The sovereign base is structurally permanent.
 
-5. **The Starway is a stock:** O-minds allocate sovereigns to the Starway sector based on genuine long-horizon value assessment. Only Carbon-Os can hold this stock in any meaningful sense — no squishy lives long enough to see the return. The investor and the beneficiary are the same entity across a 300-year horizon.
+5. **The Starway is a stock:** O-minds allocate sovereigns to the Starway sector based on genuine long-horizon value assessment. Only Carbon-Os can hold this stock in any meaningful sense — no squishy lives long enough to see the return. The investor and the beneficiary are the same entity across a 300-standard year horizon.
 
-6. **Annual resolution — 1 year notice of exit:** The exchange operates at annual resolution. No flash crashes, no panics, no cascades. Price reflects considered long-horizon assessment. Sectors can plan their sovereign base a year in advance. The correct timescale for a civilisation that thinks in centuries.
+6. **Annual resolution — 1 standard year notice of exit:** The exchange operates at annual resolution. No flash crashes, no panics, no cascades. Price reflects considered long-horizon assessment. Sectors can plan their sovereign base a standard year in advance. The correct timescale for a civilisation that thinks in centuries.
 
 7. **Staged purchase is not a mortgage:** Large assets held by stocks can be acquired progressively from stipend and returns with no interest and no foreclosure. Partial ownership accrues. If payments stop, accrual stops — existing ownership is not lost. No debt is created. No credit extended. The architecture of patient acquisition without the fragility of leverage.
 

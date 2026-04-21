@@ -181,10 +181,10 @@ o-time is invariant across all environments — planetary, orbital, and interste
 | o-yea  | 16 o-mon       | ≈ 362.3 human days             |
 | o-mon  | 16 o-day       | ≈ 22.64 human days             |
 | o-day  | 16 o-hou       | ≈ 33.96 human hours            |
-| o-hou  | 16 o-spa       | ≈ 2.12 human hours (127.4 min) |
+| o-hou  | 16 o-spa       | ≈ 2.12 human hours             |
 | o-spa  | 16 o-min       | ≈ 7.96 human minutes           |
 | o-min  | 16 o-sec       | ≈ 29.9 human seconds           |
-| o-sec  | Base unit      | ≈ 1.868 SI seconds             |
+| o-sec  | Base unit      | ≈ 1.87 human seconds           |
 
 ---
 
