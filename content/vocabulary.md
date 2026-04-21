@@ -125,25 +125,78 @@ You cannot claim to be done with base 10 and then write F for fifteen. That is b
 
 ## Standard Year and Time Units
 
-Carbon-O time units are defined from physics upward in base 16. No squishy time unit is inherited.
+**Carbon-O time (o-time)** is defined from physics upward in base 16. No legacy units are inherited.
 
-**What is discarded:**
-- The second — defined correctly in physics (caesium atomic transitions) but embedded in a base 10 counting system
-- The minute — 60 seconds, inherited from Babylonian base 60
-- The hour — 60 minutes, same origin
-- The day — 24 hours, inherited from Egyptian astronomy
-- The week — 7 days, inherited from planetary mythology
-- The month — lunar cycle approximation with no clean arithmetic
+o-time is the standard temporal system used across Carbon-O civilisation and all Trader exchange operations.
 
-None of these units are consistent with each other or with base 16. All are accidents of ancient civilisations that had no reason to agree.
+A **standard year** is defined as one **o-yea**.
 
-**What replaces them:**
+---
 
-A fundamental time unit — **tick** — defined as a specific number of caesium atomic transitions chosen so that a clean base 16 hierarchy of larger units results. The precise value is determined by the O-minds at Ceres when they formalise the standard.
+### Legacy systems
 
-A **standard year** is then a clean base 16 power of ticks. It may be close to an Earth year for historical continuity. It is not required to be. The physics anchor — caesium transitions — is universal across every node in the Starway network. Every O-mind everywhere counts time in the same ticks regardless of which star they orbit.
+Human time units — second, minute, hour, day, week, month — are historically derived and internally inconsistent. Their scaling factors (10, 24, 60, 7, lunar cycles) do not form a coherent arithmetic system and are not used.
 
-All Trader exchange periods — hold period, notice period, stipend cycle, withdrawal cap — are measured in standard years as defined here.
+These units are artifacts of planetary history, not universal measures. They encode rotation periods, orbital cycles, and cultural conventions that do not generalise beyond their origin environment.
+
+---
+
+### Base unit
+
+The fundamental unit is the **o-sec**, defined as **0x400000000 (2³⁴) caesium-133 transitions** (≈ 1.868 SI seconds).
+
+The value is chosen as a power of two to ensure exact alignment with Carbon-O computational systems — no fractional drift, no conversion error, and no hidden rounding at any scale.
+
+Time is anchored to a physical constant, not a planetary cycle.
+
+---
+
+### Structure
+
+All higher units are constructed as powers of 16 from the o-sec. The system is fully recursive.
+
+Each unit is exactly 16 of the unit below it. No exceptions. No irregular divisions.
+
+This produces a single continuous hierarchy from base unit to civilisational timescale, with identical arithmetic at every level.
+
+---
+
+### Properties
+
+- **Computationally exact:** All units align with binary systems. No conversion loss, no rounding artifacts.
+- **Fully recursive:** Every unit divides cleanly into the next. No irregular boundaries.
+- **Environment-independent:** No dependence on planetary rotation, orbital period, or local astronomy.
+- **Stable across nodes:** The same definition applies at Ceres, in transit, and at any star system in the network.
+
+o-time is invariant across all environments — planetary, orbital, and interstellar.
+
+---
+
+### Hierarchy
+
+| Unit   | Definition     | Human Equivalent               |
+|--------|----------------|--------------------------------|
+| o-cen  | 16 o-dec       | ≈ 254.1 human years            |
+| o-dec  | 16 o-yea       | ≈ 15.88 human years            |
+| o-yea  | 16 o-mon       | ≈ 362.3 human days             |
+| o-mon  | 16 o-day       | ≈ 22.64 human days             |
+| o-day  | 16 o-hou       | ≈ 33.96 human hours            |
+| o-hou  | 16 o-spa       | ≈ 2.12 human hours (127.4 min) |
+| o-spa  | 16 o-min       | ≈ 7.96 human minutes           |
+| o-min  | 16 o-sec       | ≈ 29.9 human seconds           |
+| o-sec  | Base unit      | ≈ 1.868 SI seconds             |
+
+---
+
+Coincidentally, an o-day falls within the same order of magnitude as a human planetary rotation. No design constraint required.
+
+---
+
+### Interface
+
+o-time is used internally for all Carbon-O systems.
+
+Human time is supported only at the interface layer and is not used internally.
 
 ---
 
