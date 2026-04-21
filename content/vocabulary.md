@@ -166,21 +166,21 @@ O-time is invariant across all environments — planetary, orbital, and interste
 
 ### O-time Hierarchy
 
-| Unit    | Scaling  | Human Time       | Definition                       |
-| :------ | :------- | :--------------- | :------------------------------- |
-| o-cen   | 16 o-dec | 254.36 years     | —                                |
-| o-dec   | 16 o-yea | 15.90 years      | —                                |
-| o-yea   | 16 o-mon | 362.90 days      | 0.994 human years                |
-| o-mon   | 16 o-day | 22.68 days       | —                                |
-| o-day   | 16 o-hou | 34.02 hours      | 1.418 human days                 |
-| o-hou   | 16 o-spa | 2.13 hours       | —                                |
-| o-spa   | 16 o-min | 7.97 minutes     | —                                |
-| o-min   | 16 o-sec | 29.90 seconds    | —                                |
-| o-sec   | Base     | 1.87 seconds     | 2^34 caesium-133 transitions     |
+| Unit     | Scaling    | Human Time       | Definition                       |
+| :------  | :-------   | :--------------- | :------------------------------- |
+| o-cen    | 16 o-dec   | 254.36 years     | —                                |
+| o-dec    | 16 o-year  | 15.90 years      | —                                |
+| o-year   | 16 o-month | 362.90 days      | 0.994 human years                |
+| o-month  | 16 o-day   | 22.68 days       | —                                |
+| o-day    | 16 o-hour  | 34.02 hours      | 1.418 human days                 |
+| o-hour   | 16 o-span  | 2.13 hours       | —                                |
+| o-span   | 16 o-min   | 7.97 minutes     | —                                |
+| o-min    | 16 o-sec   | 29.90 seconds    | —                                |
+| o-sec    | Base       | 1.87 seconds     | 2^34 caesium-133 transitions     |
 
 ---
 
-An **o-yea** is a Standard Year. It approximates a legacy human year within less than 1%.
+An **o-year** is a Standard Year. It approximates a legacy human year within less than 1%.
 
 An **o-day** is the Operational Day. It allows a deep work and recovery cycle.
 
