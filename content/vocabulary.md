@@ -115,6 +115,8 @@ These units are artifacts of planetary history, not universal measures. They enc
 
 ## O-time - Standard Year and Time Units
 
+{{< o-time >}}
+
 O-time using base 16 is the standard temporal system used across Carbon-O civilisation and all Trader exchange operations.
 
 **Glyphs:**
