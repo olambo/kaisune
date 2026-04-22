@@ -29,7 +29,7 @@
       margin-top: 0;
       margin-bottom: 15px;
       color: var(--dim-color);
-      font-size: 1rem;
+      font-size: 0.9rem;
       text-transform: lowercase;
       letter-spacing: 1px;
     }
@@ -37,7 +37,6 @@
     .o-table {
       width: 100%;
       border-collapse: collapse;
-      table-layout: fixed; 
       margin-bottom: 30px;
     }
 
@@ -48,10 +47,23 @@
       border-bottom: 1px solid var(--border-color);
     }
 
+    /* THE BUFFER: 80px gap to protect the orc column */
+    .o-table th:first-child,
+    .o-table td:first-child {
+      width: 160px;
+      padding-right: 80px; 
+      white-space: nowrap;
+    }
+
+    .o-table th:nth-child(2),
+    .o-table td:nth-child(2) {
+      width: 100px;
+    }
+
     .o-table th {
       color: var(--header-text);
       font-weight: 600;
-      font-size: 0.95rem;
+      font-size: 0.85rem;
       text-transform: lowercase;
     }
 
@@ -71,6 +83,12 @@
       font-family: 'JetBrains Mono', monospace;
       font-size: 0.75rem;
       cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    #copy-btn:hover {
+      border-color: #666;
+      color: #fff;
     }
   </style>
 </head>
@@ -80,17 +98,22 @@
   <h3>o-time epoch (hex)</h3>
   <table class="o-table">
     <thead>
-      <tr><th>cyc</th><th>mon</th><th>day</th><th>ora</th><th>arc</th><th>min</th><th>sec</th></tr>
+      <tr><th>cyc</th><th>mon</th><th>day</th><th>ora</th><th>arc</th><th>min</th><th>tic</th></tr>
     </thead>
     <tbody>
       <tr id="o-time-row" class="o-row"><td colspan="7">...</td></tr>
     </tbody>
   </table>
 
-  <h3>Orc time (time-zone projection)</h3>
+  <h3>orc-time (time-zone projection)</h3>
   <table class="o-table">
     <thead>
-      <tr><th>todays date &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th>orc</th><th>min(0.5m)&nbsp;&nbsp;</th><th>tic(1.8s)</th></tr>
+      <tr>
+        <th>date</th>
+        <th>orc(2h8m)</th>
+        <th>min(0.5m)</th>
+        <th>tic(1.8s)</th>
+      </tr>
     </thead>
     <tbody>
       <tr id="orc-time-row" class="o-row"><td colspan="4">...</td></tr>
@@ -116,9 +139,9 @@
     return ((nowMs * SI_TRANSITIONS_PER_SEC) / 1000n) / O_SEC_TRANSITIONS;
   }
 
-  function computeOOTime() {
+  function computeOrcTime() {
     const now = new Date();
-    const resetPoint = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 1);
+    const resetPoint = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0);
     let diffMs = BigInt(now.getTime() - resetPoint.getTime());
     if (diffMs < 0n) diffMs = 0n;
     return ((diffMs * SI_TRANSITIONS_PER_SEC) / 1000n) / O_SEC_TRANSITIONS;
@@ -126,39 +149,36 @@
 
   function render() {
     const oVal = computeOTime();
-    const ooVal = computeOOTime();
+    const orcVal = computeOrcTime();
     const now = new Date();
     const dateStr = now.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
 
-    // 1. o-time (7-tier substrate)
     let rO = oVal;
-    const s_o = toHex(Number(rO & 0xFn)); rO >>= 4n; 
-    const m_o = toHex(Number(rO & 0xFn)); rO >>= 4n; 
+    const tic_o = toHex(Number(rO & 0xFn)); rO >>= 4n; 
+    const min_o = toHex(Number(rO & 0xFn)); rO >>= 4n; 
     const arc_o = toHex(Number(rO & 0xFn)); rO >>= 4n;
     const ora_o = toHex(Number(rO & 0xFn)); rO >>= 4n;
     const day_o = toHex(Number(rO & 0xFn)); rO >>= 4n;
     const mon_o = toHex(Number(rO & 0xFn)); rO >>= 4n;
     const cyc_o = toHex(rO);
 
-    // 2. orc-time (local hybrid)
-    let rOO = ooVal;
-    const s = toHex(Number(rOO & 0xFn)); rOO >>= 4n; 
-    const m = toHex(Number(rOO & 0xFn)); rOO >>= 4n; 
-    const orc = toHex(Number(rOO & 0xFFn), 2);
+    let rOrc = orcVal;
+    const tic_orc = toHex(Number(rOrc & 0xFn)); rOrc >>= 4n; 
+    const min_orc = toHex(Number(rOrc & 0xFn)); rOrc >>= 4n; 
+    const orc_id = toHex(Number(rOrc & 0xFFn), 2);
 
     document.getElementById("o-time-row").innerHTML = 
-      `<td>${cyc_o}</td><td>${mon_o}</td><td>${day_o}</td><td>${ora_o}</td><td>${arc_o}</td><td>${m_o}</td><td>${s_o}</td>`;
+      `<td>${cyc_o}</td><td>${mon_o}</td><td>${day_o}</td><td>${ora_o}</td><td>${arc_o}</td><td>${min_o}</td><td>${tic_o}</td>`;
     
     document.getElementById("orc-time-row").innerHTML = 
-      `<td>${dateStr}</td><td>${orc}</td><td>${m}</td><td>${s}</td>`;
+      `<td>${dateStr}</td><td>${orc_id}</td><td>${min_orc}</td><td>${tic_orc}</td>`;
   }
 
-window.copyAllMarkdown = function() {
+  window.copyAllMarkdown = function() {
     const oVal = computeOTime();
-    const ooVal = computeOOTime();
+    const orcVal = computeOrcTime();
     const dateStr = new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
 
-    // 1. Logic for o-time substrate
     let rO = oVal;
     const tic_o = toHex(Number(rO & 0xFn)); rO >>= 4n;
     const min_o = toHex(Number(rO & 0xFn)); rO >>= 4n;
@@ -168,30 +188,27 @@ window.copyAllMarkdown = function() {
     const mon_o = toHex(Number(rO & 0xFn)); rO >>= 4n;
     const cyc_o = toHex(rO);
 
-    // 2. Logic for orc-time local
-    let rOO = ooVal;
-    const tic_oo = toHex(Number(rOO & 0xFn)); rOO >>= 4n;
-    const min_oo = toHex(Number(rOO & 0xFn)); rOO >>= 4n;
-    const orc_oo = toHex(Number(rOO & 0xFFn), 2);
+    let rOrc = orcVal;
+    const tic_orc = toHex(Number(rOrc & 0xFn)); rOrc >>= 4n;
+    const min_orc = toHex(Number(rOrc & 0xFn)); rOrc >>= 4n;
+    const orc_id = toHex(Number(rOrc & 0xFFn), 2);
 
-    // Padding helper for alignment
     const pad = (s, n) => s.toString().padEnd(n, ' ');
 
-    // Indented Manifest Construction
     const md = "  ### Temporal Manifest\n\n" +
-               "  **o-time substrate (hex)**\n" +
+               "  **o-time epoch (hex)**\n" +
                "  | cyc | mon | day | ora | arc | min | tic |\n" +
                "  |-----|-----|-----|-----|-----|-----|-----|\n" +
                "  | " + [
                  pad(cyc_o, 3), pad(mon_o, 3), pad(day_o, 3), pad(ora_o, 3), pad(arc_o, 3), pad(min_o, 3), pad(tic_o, 3)
                ].join(" | ") + " |\n\n" +
-               "  **Orc time (time-zone projection)**\n" +
-               "  | date         | orc | min(0.5m) | tic(1.8s) |\n" + 
-               "  |--------------|-----|-----------|-----------|\n" +
-               "  | " + pad(dateStr, 11) + 
-               "  | " + pad(orc_oo, 3) + 
-               " | " + pad(min_oo, 9) + 
-               " | " + pad(tic_oo, 9) + " |";
+               "  **orc-time (time-zone projection)**\n" +
+               "  | date          | orc(2h8m) | min(0.5m) | tic(1.8s) |\n" + 
+               "  |---------------|-----------|-----------|-----------|\n" +
+               "  | " + pad(dateStr, 12) + 
+               "  | " + pad(orc_id, 9) + 
+               " | " + pad(min_orc, 9) + 
+               " | " + pad(tic_orc, 9) + " |";
 
     navigator.clipboard.writeText(md).then(() => {
         const btn = document.getElementById("copy-btn");
@@ -199,7 +216,7 @@ window.copyAllMarkdown = function() {
         btn.innerText = "manifest copied";
         setTimeout(() => btn.innerText = originalText, 1200);
     });
-}
+  }
 
   setInterval(render, 150);
   render();
