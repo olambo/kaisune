@@ -1,7 +1,7 @@
 ---
 title: "Vocabulary: Key Terms of the Kaisune Corpus"
 date: 2026-04-17
-lastmod: 2026-04-19
+lastmod: 2026-04-22
 draft: false
 weight: 1
 ---
@@ -128,7 +128,7 @@ The corpus does not define these symbols. The O-minds at Ceres do.
 
 ### The Beginning of O-time
 
-O_EPOCH = 1970-01-01 UTC
+O-epoch = 1970-01-01 UTC
 
 O-time shares an epoch with Unix time for interoperability. Conversion between systems is a constant scaling between seconds and o-sec.
 
