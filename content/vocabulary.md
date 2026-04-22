@@ -182,7 +182,9 @@ O-time is invariant across all environments — planetary, orbital, and interste
 
 ---
 
-An **o-year** is a Standard Year. It approximates a legacy human year within less than 1%.
+### o-ora o-day o-sec
+
+An **o-ora** is a Standard Year. It approximates a legacy human year within less than 1%.
 
 An **o-day** is the Operational Day. It allows a deep work and recovery cycle.
 
