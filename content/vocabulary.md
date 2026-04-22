@@ -169,12 +169,12 @@ O-time is invariant across all environments — planetary, orbital, and interste
 | Unit     | Scaling    | Human Time       | Definition                       |
 | :------  | :-------   | :--------------- | :------------------------------- |
 | o-cen    | 16 o-dec   | 254.36 years     | —                                |
-| o-dec    | 16 o-year  | 15.90 years      | —                                |
-| o-year   | 16 o-month | 362.90 days      | 0.994 human years                |
-| o-month  | 16 o-day   | 22.68 days       | —                                |
-| o-day    | 16 o-hour  | 34.02 hours      | 1.418 human days                 |
-| o-hour   | 16 o-span  | 2.13 hours       | —                                |
-| o-span   | 16 o-min   | 7.97 minutes     | —                                |
+| o-dec    | 16 o-cyc   | 15.90 years      | —                                |
+| o-cyc    | 16 o-mon   | 362.90 days      | 0.994 human years                |
+| o-mon    | 16 o-day   | 22.68 days       | —                                |
+| o-day    | 16 o-ora   | 34.02 hours      | 1.418 human days                 |
+| o-ora    | 16 o-arc   | 2.13 hours       | —                                |
+| o-arc    | 16 o-min   | 7.97 minutes     | —                                |
 | o-min    | 16 o-sec   | 29.90 seconds    | —                                |
 | o-sec    | Base       | 1.87 seconds     | 2^34 caesium-133 transitions     |
 
