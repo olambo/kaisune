@@ -130,13 +130,13 @@ The corpus does not define these symbols. The O-minds at Ceres do.
 
 O-epoch = 1970-01-01 UTC
 
-O-time shares an epoch with Unix time for interoperability. Conversion between systems is a constant scaling between seconds and o-sec.
+O-time shares an epoch with Unix time for interoperability. Conversion between systems is a constant scaling between seconds and o-tic.
 
 ---
 
 ### Base unit
 
-The fundamental unit is the **o-sec**, defined as **0x400000000 (2³⁴) caesium-133 transitions** 
+The fundamental unit is the **o-tic**, defined as **0x400000000 (2³⁴) caesium-133 transitions** 
 (≈1.868873856131844 SI seconds).
 
 The value is chosen as a power of two to ensure exact alignment with Carbon-O computational systems — no fractional drift, no conversion error, and no hidden rounding at any scale.
@@ -147,7 +147,7 @@ Time is anchored to a physical constant, not a planetary cycle.
 
 ### Structure
 
-All higher units are constructed as powers of 16 from the o-sec. The system is fully recursive.
+All higher units are constructed as powers of 16 from the o-tic. The system is fully recursive.
 
 Each unit is exactly 16 of the unit below it. No exceptions. No irregular divisions.
 
@@ -172,23 +172,23 @@ O-time is invariant across all environments — planetary, orbital, and interste
 | :------  | :-------   | :--------------- | :------------------------------- |
 | o-cen    | 16 o-dec   | 254.36 years     | —                                |
 | o-dec    | 16 o-cyc   | 15.90 years      | —                                |
-| o-cyc    | 16 o-mon   | 362.90 days      | 0.994 human years                |
-| o-mon    | 16 o-day   | 22.68 days       | —                                |
+| o-cyc    | 16 o-mth   | 362.90 days      | 0.994 human years                |
+| o-mth    | 16 o-day   | 22.68 days       | —                                |
 | o-day    | 16 o-ora   | 34.02 hours      | 1.418 human days                 |
 | o-ora    | 16 o-arc   | 2.13 hours       | —                                |
 | o-arc    | 16 o-min   | 7.97 minutes     | —                                |
-| o-min    | 16 o-sec   | 29.90 seconds    | —                                |
-| o-sec    | Base       | 1.87 seconds     | 2^34 caesium-133 transitions     |
+| o-min    | 16 o-tic   | 29.90 seconds    | —                                |
+| o-tic    | Base       | 1.87 seconds     | 2^34 caesium-133 transitions     |
 
 ---
 
-### o-ora o-day o-sec
+### o-ora o-day o-tic
 
 An **o-ora** is a Standard Year. It approximates a legacy human year within less than 1%.
 
 An **o-day** is the Operational Day. It allows a deep work and recovery cycle.
 
-An **o-sec** is defined by 2^34 caesium-133 transitions (≈1.868873856131844 SI seconds).
+An **o-tic** is defined by 2^34 caesium-133 transitions (≈1.868873856131844 SI seconds).
 
 
 ---
