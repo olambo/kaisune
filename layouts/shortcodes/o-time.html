@@ -106,7 +106,7 @@
                 // 1 SI Second = 9,192,631,770 transitions of Caesium-133
                 const SI_TRANSITIONS_PER_SEC = 9192631770n;
 
-                // 1 o-sec = 2^34 transitions = 17,179,869,184 transitions
+                // 1 o-tic = 2^34 transitions = 17,179,869,184 transitions
                 // This equals ~1.868873856131844 SI seconds.
                 const O_SEC_TRANSITIONS = 17179869184n;
 
@@ -128,7 +128,7 @@
                     let r = totalTransitionsSinceEpoch / O_SEC_TRANSITIONS;
 
                     // Bit-shift through the hierarchy (Base 16)
-                    const o_sec = Number(r & 0xfn);
+                    const o_tic = Number(r & 0xfn);
                     r >>= 4n;
                     const o_min = Number(r & 0xfn);
                     r >>= 4n;
@@ -142,7 +142,7 @@
                     r >>= 4n;
                     const o_cyc = r;
 
-                    return { o_cyc, o_mth, o_day, o_ora, o_arc, o_min, o_sec };
+                    return { o_cyc, o_mth, o_day, o_ora, o_arc, o_min, o_tic };
                 }
 
                 function render() {
@@ -154,7 +154,7 @@
                         toHex(t.o_ora),
                         toHex(t.o_arc),
                         toHex(t.o_min),
-                        toHex(t.o_sec),
+                        toHex(t.o_tic),
                     ];
 
                     const row = document.getElementById("o-time-row");
@@ -175,11 +175,11 @@
                         toHex(t.o_ora),
                         toHex(t.o_arc),
                         toHex(t.o_min),
-                        toHex(t.o_sec),
+                        toHex(t.o_tic),
                     ];
 
                     const md =
-                        "| cyc | mth | day | ora | arc | min | sec |\n" +
+                        "| cyc | mth | day | ora | arc | min | tic |\n" +
                         "| :-- | :-- | :-- | :-- | :-- | :-- | :-- |\n" +
                         "| " +
                         cells.join(" | ") +
@@ -196,7 +196,7 @@
                 };
 
                 // Poll every 100ms to catch the transition immediately,
-                // though the o-sec value will only change every ~1.87s.
+                // though the o-tic value will only change every ~1.87s.
                 setInterval(render, 100);
                 render();
             })();
