@@ -1,179 +1,205 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>o-time Sovereign Interface</title>
-  <style>
-    :root {
-      --bg-color: #1a1a1a;
-      --text-color: #eeeeee;
-      --header-text: #bbbbbb;
-      --dim-color: #888888;
-      --border-color: #444444;
-    }
+    <head>
+        <meta charset="UTF-8" />
+        <title>o-time Sovereign Interface</title>
+        <style>
+            :root {
+                --bg-color: #1a1a1a;
+                --text-color: #eeeeee;
+                --header-text: #bbbbbb;
+                --dim-color: #888888;
+                --border-color: #444444;
+            }
 
-    .o-time-wrapper {
-      background-color: var(--bg-color);
-      color: var(--text-color);
-      font-family: 'JetBrains Mono', monospace;
-      padding: 20px;
-      border-radius: 4px;
-      max-width: 650px;
-    }
+            .o-time-wrapper {
+                background-color: var(--bg-color);
+                color: var(--text-color);
+                font-family: "JetBrains Mono", monospace;
+                padding: 20px;
+                border-radius: 4px;
+                max-width: 650px;
+            }
 
-    h3 {
-      margin-top: 0;
-      color: var(--dim-color);
-      font-size: 1rem;
-      text-transform: lowercase;
-      letter-spacing: 1px;
-    }
+            h3 {
+                margin-top: 0;
+                color: var(--dim-color);
+                font-size: 1rem;
+                text-transform: lowercase;
+                letter-spacing: 1px;
+            }
 
-    #o-time-table {
-      width: 100%;
-      border-collapse: collapse;
-      table-layout: fixed; 
-    }
+            #o-time-table {
+                width: 100%;
+                border-collapse: collapse;
+                table-layout: fixed;
+            }
 
-    #o-time-table th, 
-    #o-time-table td {
-      text-align: left;
-      padding: 12px 2px;
-      border-bottom: 1px solid var(--border-color);
-    }
+            #o-time-table th,
+            #o-time-table td {
+                text-align: left;
+                padding: 12px 2px;
+                border-bottom: 1px solid var(--border-color);
+            }
 
-    #o-time-table th {
-      color: var(--header-text);
-      font-weight: 600;
-      font-size: 0.95rem;
-      text-transform: lowercase;
-    }
+            #o-time-table th {
+                color: var(--header-text);
+                font-weight: 600;
+                font-size: 0.95rem;
+                text-transform: lowercase;
+            }
 
-    #o-time-row td {
-      font-size: 1.3rem;
-      font-weight: bold;
-      color: var(--text-color);
-    }
+            #o-time-row td {
+                font-size: 1.3rem;
+                font-weight: bold;
+                color: var(--text-color);
+            }
 
-    .controls {
-      margin-top: 25px;
-    }
+            .controls {
+                margin-top: 25px;
+            }
 
-    #copy-btn {
-      background: transparent;
-      color: var(--dim-color);
-      border: 1px solid var(--border-color);
-      padding: 8px 16px;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 0.75rem;
-      cursor: pointer;
-    }
-  </style>
-</head>
-<body>
+            #copy-btn {
+                background: transparent;
+                color: var(--dim-color);
+                border: 1px solid var(--border-color);
+                padding: 8px 16px;
+                font-family: "JetBrains Mono", monospace;
+                font-size: 0.75rem;
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="o-time-wrapper">
+            <h3>o-time substrate (hex)</h3>
 
-<div class="o-time-wrapper">
-  <h3>o-time substrate (hex)</h3>
+            <table id="o-time-table">
+                <thead>
+                    <tr>
+                        <th>cyc</th>
+                        <th>mth</th>
+                        <th>day</th>
+                        <th>ora</th>
+                        <th>arc</th>
+                        <th>min</th>
+                        <th>sec</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr id="o-time-row">
+                        <td colspan="7">0x0000000</td>
+                    </tr>
+                </tbody>
+            </table>
 
-  <table id="o-time-table">
-    <thead>
-      <tr>
-        <th>cyc</th>
-        <th>mon</th>
-        <th>day</th>
-        <th>ora</th>
-        <th>arc</th>
-        <th>min</th>
-        <th>sec</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr id="o-time-row">
-        <td colspan="7">0x0000000</td>
-      </tr>
-    </tbody>
-  </table>
+            <div class="controls">
+                <button id="copy-btn" onclick="copyOTimeMarkdown()">
+                    copy as markdown
+                </button>
+            </div>
+        </div>
 
-  <div class="controls">
-    <button id="copy-btn" onclick="copyOTimeMarkdown()">copy as markdown</button>
-  </div>
-</div>
+        <script>
+            (function () {
+                // SOVEREIGN CONSTANTS
+                // 1 SI Second = 9,192,631,770 transitions of Caesium-133
+                const SI_TRANSITIONS_PER_SEC = 9192631770n;
 
-<script>
-(function () {
-  // SOVEREIGN CONSTANTS
-  // 1 SI Second = 9,192,631,770 transitions of Caesium-133
-  const SI_TRANSITIONS_PER_SEC = 9192631770n;
-  
-  // 1 o-sec = 2^34 transitions = 17,179,869,184 transitions
-  // This equals ~1.868873856131844 SI seconds.
-  const O_SEC_TRANSITIONS = 17179869184n; 
+                // 1 o-sec = 2^34 transitions = 17,179,869,184 transitions
+                // This equals ~1.868873856131844 SI seconds.
+                const O_SEC_TRANSITIONS = 17179869184n;
 
-  function toHex(n) {
-    return n.toString(16).toUpperCase();
-  }
+                function toHex(n) {
+                    return n.toString(16).toUpperCase();
+                }
 
-  function computeOTime() {
-    // Get high-precision system time (milliseconds)
-    const nowMs = BigInt(Date.now());
-    
-    // Convert current time to total Caesium transitions since 1970
-    // (ms * transitions_per_sec) / 1000ms
-    const totalTransitionsSinceEpoch = (nowMs * SI_TRANSITIONS_PER_SEC) / 1000n;
-    
-    // Divide the total sea of transitions by the Sovereign Unit (2^34)
-    // r is now the raw, exact count of o-seconds passed.
-    let r = totalTransitionsSinceEpoch / O_SEC_TRANSITIONS;
+                function computeOTime() {
+                    // Get high-precision system time (milliseconds)
+                    const nowMs = BigInt(Date.now());
 
-    // Bit-shift through the hierarchy (Base 16)
-    const o_sec = Number(r & 0xFn); r >>= 4n;
-    const o_min = Number(r & 0xFn); r >>= 4n;
-    const o_arc = Number(r & 0xFn); r >>= 4n;
-    const o_ora = Number(r & 0xFn); r >>= 4n;
-    const o_day = Number(r & 0xFn); r >>= 4n;
-    const o_mon = Number(r & 0xFn); r >>= 4n;
-    const o_cyc = r;
+                    // Convert current time to total Caesium transitions since 1970
+                    // (ms * transitions_per_sec) / 1000ms
+                    const totalTransitionsSinceEpoch =
+                        (nowMs * SI_TRANSITIONS_PER_SEC) / 1000n;
 
-    return { o_cyc, o_mon, o_day, o_ora, o_arc, o_min, o_sec };
-  }
+                    // Divide the total sea of transitions by the Sovereign Unit (2^34)
+                    // r is now the raw, exact count of o-seconds passed.
+                    let r = totalTransitionsSinceEpoch / O_SEC_TRANSITIONS;
 
-  function render() {
-    const t = computeOTime();
-    const values = [
-      toHex(t.o_cyc), toHex(t.o_mon), toHex(t.o_day), 
-      toHex(t.o_ora), toHex(t.o_arc), toHex(t.o_min), toHex(t.o_sec)
-    ];
+                    // Bit-shift through the hierarchy (Base 16)
+                    const o_sec = Number(r & 0xfn);
+                    r >>= 4n;
+                    const o_min = Number(r & 0xfn);
+                    r >>= 4n;
+                    const o_arc = Number(r & 0xfn);
+                    r >>= 4n;
+                    const o_ora = Number(r & 0xfn);
+                    r >>= 4n;
+                    const o_day = Number(r & 0xfn);
+                    r >>= 4n;
+                    const o_mth = Number(r & 0xfn);
+                    r >>= 4n;
+                    const o_cyc = r;
 
-    const row = document.getElementById("o-time-row");
-    if (row) {
-      row.innerHTML = values.map(v => `<td>${v}</td>`).join("");
-    }
-  }
+                    return { o_cyc, o_mth, o_day, o_ora, o_arc, o_min, o_sec };
+                }
 
-  window.copyOTimeMarkdown = function() {
-    const t = computeOTime();
-    const cells = [
-      toHex(t.o_cyc), toHex(t.o_mon), toHex(t.o_day), 
-      toHex(t.o_ora), toHex(t.o_arc), toHex(t.o_min), toHex(t.o_sec)
-    ];
-    
-    const md = "| cyc | mon | day | ora | arc | min | sec |\n" +
-               "| :-- | :-- | :-- | :-- | :-- | :-- | :-- |\n" +
-               "| " + cells.join(" | ") + " |";
-    
-    navigator.clipboard.writeText(md).then(() => {
-        const btn = document.getElementById("copy-btn");
-        btn.innerText = "copied to clipboard";
-        setTimeout(() => btn.innerText = "copy as markdown", 1200);
-    });
-  }
+                function render() {
+                    const t = computeOTime();
+                    const values = [
+                        toHex(t.o_cyc),
+                        toHex(t.o_mth),
+                        toHex(t.o_day),
+                        toHex(t.o_ora),
+                        toHex(t.o_arc),
+                        toHex(t.o_min),
+                        toHex(t.o_sec),
+                    ];
 
-  // Poll every 100ms to catch the transition immediately, 
-  // though the o-sec value will only change every ~1.87s.
-  setInterval(render, 100);
-  render();
-})();
-</script>
+                    const row = document.getElementById("o-time-row");
+                    if (row) {
+                        row.innerHTML = values
+                            .map((v) => `<td>${v}</td>`)
+                            .join("");
+                    }
+                }
 
-</body>
+                window.copyOTimeMarkdown = function () {
+                    const t = computeOTime();
+                    const cells = [
+                        toHex(t.o_cyc),
+                        toHex(t.o_mth),
+                        toHex(t.o_day),
+
+                        toHex(t.o_ora),
+                        toHex(t.o_arc),
+                        toHex(t.o_min),
+                        toHex(t.o_sec),
+                    ];
+
+                    const md =
+                        "| cyc | mth | day | ora | arc | min | sec |\n" +
+                        "| :-- | :-- | :-- | :-- | :-- | :-- | :-- |\n" +
+                        "| " +
+                        cells.join(" | ") +
+                        " |";
+
+                    navigator.clipboard.writeText(md).then(() => {
+                        const btn = document.getElementById("copy-btn");
+                        btn.innerText = "copied to clipboard";
+                        setTimeout(
+                            () => (btn.innerText = "copy as markdown"),
+                            1200,
+                        );
+                    });
+                };
+
+                // Poll every 100ms to catch the transition immediately,
+                // though the o-sec value will only change every ~1.87s.
+                setInterval(render, 100);
+                render();
+            })();
+        </script>
+    </body>
 </html>
