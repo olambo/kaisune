@@ -89,7 +89,7 @@
 <body>
 
 <div class="o-time-wrapper">
-  <h3>o-time epoch (sovereign)</h3>
+  <h3>o-time epoch (hex)</h3>
   <table class="o-table">
     <thead>
       <tr><th>cyc</th><th>mth</th><th>day</th><th>ora</th><th>arc</th><th>min</th><th>tic</th></tr>
@@ -124,7 +124,7 @@
   const SI_TRANSITIONS_PER_SEC = 9192631770n;
   const O_SEC_TRANSITIONS = 17179869184n; 
 
-  const glyphs = "0123456789abcdef";
+  const glyphs = "0123456789ABCDEF";
 
   function toSovereign(n) {
     return glyphs[Number(n) & 0xF];
@@ -196,7 +196,7 @@
     const pad = (s, n) => s.toString().padEnd(n, ' ');
 
     const md = "  ### Temporal Manifest\n\n" +
-               "  **o-time epoch (sovereign)**\n" +
+               "  **o-time epoch (hex)**\n" +
                "  | cyc | mth | day | ora | arc | min | tic |\n" +
                "  |-----|-----|-----|-----|-----|-----|-----|\n" +
                "  | " + [

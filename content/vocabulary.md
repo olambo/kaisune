@@ -113,7 +113,7 @@ These units are artifacts of planetary history, not universal measures. They enc
 
 ---
 
-## O-time - Standard Year and Time Units
+## O-time - Time Units
 
 {{< o-time >}}
 
