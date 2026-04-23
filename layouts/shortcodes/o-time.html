@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>o-time Sovereign Interface</title>
+        <title>o-time Interface</title>
         <style>
             :root {
                 --bg-color: #1a1a1a;
@@ -12,19 +12,23 @@
                 --border-color: #444444;
             }
 
+            body { background-color: #111; padding: 20px; }
+
             .o-time-wrapper {
                 background-color: var(--bg-color);
                 color: var(--text-color);
                 font-family: "JetBrains Mono", monospace;
-                padding: 20px;
+                padding: 25px;
                 border-radius: 4px;
-                max-width: 650px;
+                max-width: 700px;
+                border: 1px solid #222;
             }
 
             h3 {
                 margin-top: 0;
+                margin-bottom: 15px;
                 color: var(--dim-color);
-                font-size: 1rem;
+                font-size: 0.9rem;
                 text-transform: lowercase;
                 letter-spacing: 1px;
             }
@@ -33,6 +37,7 @@
                 width: 100%;
                 border-collapse: collapse;
                 table-layout: fixed;
+                margin-bottom: 20px;
             }
 
             #o-time-table th,
@@ -45,7 +50,7 @@
             #o-time-table th {
                 color: var(--header-text);
                 font-weight: 600;
-                font-size: 0.95rem;
+                font-size: 0.85rem;
                 text-transform: lowercase;
             }
 
@@ -55,9 +60,7 @@
                 color: var(--text-color);
             }
 
-            .controls {
-                margin-top: 25px;
-            }
+            .controls { margin-top: 10px; }
 
             #copy-btn {
                 background: transparent;
@@ -67,6 +70,12 @@
                 font-family: "JetBrains Mono", monospace;
                 font-size: 0.75rem;
                 cursor: pointer;
+                transition: all 0.2s;
+            }
+            
+            #copy-btn:hover {
+                border-color: #666;
+                color: #fff;
             }
         </style>
     </head>
@@ -77,6 +86,7 @@
             <table id="o-time-table">
                 <thead>
                     <tr>
+                        <th>dec</th>
                         <th>cyc</th>
                         <th>mth</th>
                         <th>day</th>
@@ -88,7 +98,7 @@
                 </thead>
                 <tbody>
                     <tr id="o-time-row">
-                        <td colspan="7">0x0000000</td>
+                        <td colspan="8">...</td>
                     </tr>
                 </tbody>
             </table>
@@ -102,61 +112,35 @@
 
         <script>
             (function () {
-                // SOVEREIGN CONSTANTS
-                // 1 SI Second = 9,192,631,770 transitions of Caesium-133
                 const SI_TRANSITIONS_PER_SEC = 9192631770n;
-
-                // 1 o-tic = 2^34 transitions = 17,179,869,184 transitions
-                // This equals ~1.868873856131844 SI seconds.
                 const O_SEC_TRANSITIONS = 17179869184n;
+                
+                // UPPERCASE GLYPHS: Efficient mapping for the "industrial" look
+                const glyphs = "0123456789ABCDEF";
 
                 function toHex(n) {
-                    return n.toString(16).toUpperCase();
+                    return glyphs[Number(n) & 0xF];
                 }
 
                 function computeOTime() {
-                    // Get high-precision system time (milliseconds)
                     const nowMs = BigInt(Date.now());
+                    const totalTransitions = (nowMs * SI_TRANSITIONS_PER_SEC) / 1000n;
+                    let r = totalTransitions / O_SEC_TRANSITIONS;
 
-                    // Convert current time to total Caesium transitions since 1970
-                    // (ms * transitions_per_sec) / 1000ms
-                    const totalTransitionsSinceEpoch =
-                        (nowMs * SI_TRANSITIONS_PER_SEC) / 1000n;
+                    const o_tic = toHex(r); r >>= 4n;
+                    const o_min = toHex(r); r >>= 4n;
+                    const o_arc = toHex(r); r >>= 4n;
+                    const o_ora = toHex(r); r >>= 4n;
+                    const o_day = toHex(r); r >>= 4n;
+                    const o_mth = toHex(r); r >>= 4n;
+                    const o_cyc = toHex(r); r >>= 4n;
+                    const o_dec = toHex(r); 
 
-                    // Divide the total sea of transitions by the Sovereign Unit (2^34)
-                    // r is now the raw, exact count of o-seconds passed.
-                    let r = totalTransitionsSinceEpoch / O_SEC_TRANSITIONS;
-
-                    // Bit-shift through the hierarchy (Base 16)
-                    const o_tic = Number(r & 0xfn);
-                    r >>= 4n;
-                    const o_min = Number(r & 0xfn);
-                    r >>= 4n;
-                    const o_arc = Number(r & 0xfn);
-                    r >>= 4n;
-                    const o_ora = Number(r & 0xfn);
-                    r >>= 4n;
-                    const o_day = Number(r & 0xfn);
-                    r >>= 4n;
-                    const o_mth = Number(r & 0xfn);
-                    r >>= 4n;
-                    const o_cyc = r;
-
-                    return { o_cyc, o_mth, o_day, o_ora, o_arc, o_min, o_tic };
+                    return [o_dec, o_cyc, o_mth, o_day, o_ora, o_arc, o_min, o_tic];
                 }
 
                 function render() {
-                    const t = computeOTime();
-                    const values = [
-                        toHex(t.o_cyc),
-                        toHex(t.o_mth),
-                        toHex(t.o_day),
-                        toHex(t.o_ora),
-                        toHex(t.o_arc),
-                        toHex(t.o_min),
-                        toHex(t.o_tic),
-                    ];
-
+                    const values = computeOTime();
                     const row = document.getElementById("o-time-row");
                     if (row) {
                         row.innerHTML = values
@@ -166,38 +150,24 @@
                 }
 
                 window.copyOTimeMarkdown = function () {
-                    const t = computeOTime();
-                    const cells = [
-                        toHex(t.o_cyc),
-                        toHex(t.o_mth),
-                        toHex(t.o_day),
+                    const values = computeOTime();
+                    const pad = (s, n) => s.toString().padEnd(n, ' ');
 
-                        toHex(t.o_ora),
-                        toHex(t.o_arc),
-                        toHex(t.o_min),
-                        toHex(t.o_tic),
-                    ];
-
-                    const md =
-                        "| cyc | mth | day | ora | arc | min | tic |\n" +
-                        "| :-- | :-- | :-- | :-- | :-- | :-- | :-- |\n" +
-                        "| " +
-                        cells.join(" | ") +
-                        " |";
+                    const md = "  ### Temporal Manifest\n\n" +
+                               "  **o-time epoch (hex)**\n" +
+                               "  | dec | cyc | mth | day | ora | arc | min | tic |\n" +
+                               "  |-----|-----|-----|-----|-----|-----|-----|-----|\n" +
+                               "  | " + values.map(v => pad(v, 3)).join(" | ") + " |";
 
                     navigator.clipboard.writeText(md).then(() => {
                         const btn = document.getElementById("copy-btn");
+                        const oldText = btn.innerText;
                         btn.innerText = "copied to clipboard";
-                        setTimeout(
-                            () => (btn.innerText = "copy as markdown"),
-                            1200,
-                        );
+                        setTimeout(() => btn.innerText = oldText, 1200);
                     });
                 };
 
-                // Poll every 100ms to catch the transition immediately,
-                // though the o-tic value will only change every ~1.87s.
-                setInterval(render, 100);
+                setInterval(render, 150);
                 render();
             })();
         </script>
