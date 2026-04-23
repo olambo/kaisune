@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>o-time & orc-time (Sovereign 0-f)</title>
+  <title>o-time & orc-time</title>
   <style>
     :root {
       --bg-color: #1a1a1a;
@@ -67,6 +67,8 @@
       color: var(--text-color);
     }
 
+    .controls { margin-top: 10px; }
+
     #copy-btn {
       background: transparent;
       color: var(--dim-color);
@@ -122,7 +124,6 @@
   const SI_TRANSITIONS_PER_SEC = 9192631770n;
   const O_SEC_TRANSITIONS = 17179869184n; 
 
-  // THE GLYPH MAP: O(1) efficiency. No logic, just pointers.
   const glyphs = "0123456789abcdef";
 
   function toSovereign(n) {
@@ -130,37 +131,38 @@
   }
 
   function computeOTime() {
-    return ((BigInt(Date.now()) * SI_TRANSITIONS_PER_SEC) / 1000n) / O_SEC_TRANSITIONS;
+    const nowMs = BigInt(Date.now());
+    return ((nowMs * SI_TRANSITIONS_PER_SEC) / 1000n) / O_SEC_TRANSITIONS;
   }
 
   function computeOrcTime() {
     const now = new Date();
-    const reset = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0);
-    const diffMs = BigInt(now - reset);
+    const resetPoint = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0);
+    let diffMs = BigInt(now.getTime() - resetPoint.getTime());
+    if (diffMs < 0n) diffMs = 0n;
     return ((diffMs * SI_TRANSITIONS_PER_SEC) / 1000n) / O_SEC_TRANSITIONS;
   }
 
   function render() {
     const oVal = computeOTime();
     const orcVal = computeOrcTime();
-    const dateStr = new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+    const now = new Date();
+    const dateStr = now.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
 
-    // Extract O-Time components
     let rO = oVal;
-    const tic_o = toSovereign(rO); rO >>= 4n;
-    const min_o = toSovereign(rO); rO >>= 4n;
-    const arc_o = toSovereign(rO); rO >>= 4n;
-    const ora_o = toSovereign(rO); rO >>= 4n;
-    const day_o = toSovereign(rO); rO >>= 4n;
-    const mon_o = toSovereign(rO); rO >>= 4n;
+    const tic_o = toSovereign(rO & 0xFn); rO >>= 4n; 
+    const min_o = toSovereign(rO & 0xFn); rO >>= 4n; 
+    const arc_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const ora_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const day_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const mon_o = toSovereign(rO & 0xFn); rO >>= 4n;
     const cyc_o = rO.toString(16).toLowerCase();
 
-    // Extract Orc-Time components
     let rOrc = orcVal;
-    const tic_orc = toSovereign(rOrc); rOrc >>= 4n;
-    const min_orc = toSovereign(rOrc); rOrc >>= 4n;
-    const arc_orc = toSovereign(rOrc); rOrc >>= 4n;
-    const ora_orc = toSovereign(rOrc);
+    const tic_orc = toSovereign(rOrc & 0xFn); rOrc >>= 4n; 
+    const min_orc = toSovereign(rOrc & 0xFn); rOrc >>= 4n; 
+    const arc_orc = toSovereign(rOrc & 0xFn); rOrc >>= 4n;
+    const ora_orc = toSovereign(rOrc & 0xFn);
     const orc_id = `${ora_orc}${arc_orc}`;
 
     document.getElementById("o-time-row").innerHTML = 
@@ -171,19 +173,48 @@
   }
 
   window.copyAllMarkdown = function() {
-    const oText = document.getElementById("o-time-row").innerText.split('\t').join(' | ');
-    const orcCells = document.getElementById("orc-time-row").getElementsByTagName("td");
-    const dateStr = orcCells[0].innerText;
-    const orc_id = orcCells[1].innerText;
-    const min_orc = orcCells[2].innerText;
-    const tic_orc = orcCells[3].innerText;
+    const oVal = computeOTime();
+    const orcVal = computeOrcTime();
+    const dateStr = new Date().toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
 
-    const md = `### Temporal Manifest\n\n**o-time epoch (sovereign)**\n| cyc | mon | day | ora | arc | min | tic |\n|---|---|---|---|---|---|---|\n| ${oText.replace(/\n/g, ' | ')} |\n\n**orc-time (projection)**\n| date | orc | min | tic |\n|---|---|---|---|\n| ${dateStr} | ${orc_id} | ${min_orc} | ${tic_orc} |`;
+    let rO = oVal;
+    const tic_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const min_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const arc_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const ora_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const day_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const mon_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const cyc_o = rO.toString(16).toLowerCase();
+
+    let rOrc = orcVal;
+    const tic_orc = toSovereign(rOrc & 0xFn); rOrc >>= 4n;
+    const min_orc = toSovereign(rOrc & 0xFn); rOrc >>= 4n;
+    const arc_orc = toSovereign(rOrc & 0xFn); rOrc >>= 4n;
+    const ora_orc = toSovereign(rOrc & 0xFn);
+    const orc_id = `${ora_orc}${arc_orc}`;
+
+    const pad = (s, n) => s.toString().padEnd(n, ' ');
+
+    const md = "  ### Temporal Manifest\n\n" +
+               "  **o-time epoch (sovereign)**\n" +
+               "  | cyc | mon | day | ora | arc | min | tic |\n" +
+               "  |-----|-----|-----|-----|-----|-----|-----|\n" +
+               "  | " + [
+                  pad(cyc_o, 3), pad(mon_o, 3), pad(day_o, 3), pad(ora_o, 3), pad(arc_o, 3), pad(min_o, 3), pad(tic_o, 3)
+                ].join(" | ") + " |\n\n" +
+               "  **orc-time (time-zone projection)**\n" +
+               "  | date          | orc(2h8m) | min(0.5m) | tic(1.8s) |\n" + 
+               "  |---------------|-----------|-----------|-----------|\n" +
+               "  | " + pad(dateStr, 12) + 
+               "  | " + pad(orc_id, 9) + 
+               " | " + pad(min_orc, 9) + 
+               " | " + pad(tic_orc, 9) + " |";
 
     navigator.clipboard.writeText(md).then(() => {
         const btn = document.getElementById("copy-btn");
+        const originalText = btn.innerText;
         btn.innerText = "manifest copied";
-        setTimeout(() => btn.innerText = "copy manifest as markdown", 1200);
+        setTimeout(() => btn.innerText = originalText, 1200);
     });
   }
 
