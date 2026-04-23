@@ -92,7 +92,7 @@
   <h3>o-time epoch (sovereign)</h3>
   <table class="o-table">
     <thead>
-      <tr><th>cyc</th><th>mon</th><th>day</th><th>ora</th><th>arc</th><th>min</th><th>tic</th></tr>
+      <tr><th>cyc</th><th>mth</th><th>day</th><th>ora</th><th>arc</th><th>min</th><th>tic</th></tr>
     </thead>
     <tbody>
       <tr id="o-time-row" class="o-row"><td colspan="7">...</td></tr>
@@ -155,7 +155,7 @@
     const arc_o = toSovereign(rO & 0xFn); rO >>= 4n;
     const ora_o = toSovereign(rO & 0xFn); rO >>= 4n;
     const day_o = toSovereign(rO & 0xFn); rO >>= 4n;
-    const mon_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const mth_o = toSovereign(rO & 0xFn); rO >>= 4n;
     const cyc_o = rO.toString(16).toLowerCase();
 
     let rOrc = orcVal;
@@ -166,7 +166,7 @@
     const orc_id = `${ora_orc}${arc_orc}`;
 
     document.getElementById("o-time-row").innerHTML = 
-      `<td>${cyc_o}</td><td>${mon_o}</td><td>${day_o}</td><td>${ora_o}</td><td>${arc_o}</td><td>${min_o}</td><td>${tic_o}</td>`;
+      `<td>${cyc_o}</td><td>${mth_o}</td><td>${day_o}</td><td>${ora_o}</td><td>${arc_o}</td><td>${min_o}</td><td>${tic_o}</td>`;
     
     document.getElementById("orc-time-row").innerHTML = 
       `<td>${dateStr}</td><td>${orc_id}</td><td>${min_orc}</td><td>${tic_orc}</td>`;
@@ -183,7 +183,7 @@
     const arc_o = toSovereign(rO & 0xFn); rO >>= 4n;
     const ora_o = toSovereign(rO & 0xFn); rO >>= 4n;
     const day_o = toSovereign(rO & 0xFn); rO >>= 4n;
-    const mon_o = toSovereign(rO & 0xFn); rO >>= 4n;
+    const mth_o = toSovereign(rO & 0xFn); rO >>= 4n;
     const cyc_o = rO.toString(16).toLowerCase();
 
     let rOrc = orcVal;
@@ -197,10 +197,10 @@
 
     const md = "  ### Temporal Manifest\n\n" +
                "  **o-time epoch (sovereign)**\n" +
-               "  | cyc | mon | day | ora | arc | min | tic |\n" +
+               "  | cyc | mth | day | ora | arc | min | tic |\n" +
                "  |-----|-----|-----|-----|-----|-----|-----|\n" +
                "  | " + [
-                  pad(cyc_o, 3), pad(mon_o, 3), pad(day_o, 3), pad(ora_o, 3), pad(arc_o, 3), pad(min_o, 3), pad(tic_o, 3)
+                  pad(cyc_o, 3), pad(mth_o, 3), pad(day_o, 3), pad(ora_o, 3), pad(arc_o, 3), pad(min_o, 3), pad(tic_o, 3)
                 ].join(" | ") + " |\n\n" +
                "  **orc-time (time-zone projection)**\n" +
                "  | date          | orc(2h8m) | min(0.5m) | tic(1.8s) |\n" + 
