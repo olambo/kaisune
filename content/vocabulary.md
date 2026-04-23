@@ -113,16 +113,11 @@ These units are artifacts of planetary history, not universal measures. They enc
 
 ---
 
-## O-time - Time Units
+## O-time
 
-{{< o-time >}}
+o-time is used internally for all Carbon-O systems.
 
-O-time using base 16 is the standard temporal system used across Carbon-O civilisation and all Trader exchange operations.
-
-**Glyphs:**
-
-Hexadecimal notation using 0–9 and A–F is a transitional convenience only. A complete base-16 system requires 16 native symbols designed for clarity, distinctness, and digital rendering.
-The corpus does not define these symbols. The O-minds at Ceres do.
+Human time is supported only at the interface layer and is not used internally.
 
 ---
 
@@ -139,30 +134,7 @@ O-time shares an epoch with Unix time for interoperability. Conversion between s
 The fundamental unit is the **o-tic**, defined as **0x400000000 (2³⁴) caesium-133 transitions** 
 (≈1.868873856131844 SI seconds).
 
-The value is chosen as a power of two to ensure exact alignment with Carbon-O computational systems — no fractional drift, no conversion error, and no hidden rounding at any scale.
-
-Time is anchored to a physical constant, not a planetary cycle.
-
-----
-
-### Structure
-
 All higher units are constructed as powers of 16 from the o-tic. The system is fully recursive.
-
-Each unit is exactly 16 of the unit below it. No exceptions. No irregular divisions.
-
-This produces a single continuous hierarchy from base unit to civilisational timescale, with identical arithmetic at every level.
-
----
-
-### Properties
-
-- **Computationally exact:** All units align with binary systems. No conversion loss, no rounding artifacts.
-- **Fully recursive:** Every unit divides cleanly into the next. No irregular boundaries.
-- **Environment-independent:** No dependence on planetary rotation, orbital period, or local astronomy.
-- **Stable across nodes:** The same definition applies at Ceres, in transit, and at any star system in the network.
-
-O-time is invariant across all environments — planetary, orbital, and interstellar.
 
 ---
 
@@ -182,22 +154,17 @@ O-time is invariant across all environments — planetary, orbital, and interste
 
 ---
 
-### o-ora o-day o-tic
+### Current Time
 
-An **o-ora** is a Standard Year. It approximates a legacy human year within less than 1%.
-
-An **o-day** is the Operational Day. It allows a deep work and recovery cycle.
-
-An **o-tic** is defined by 2^34 caesium-133 transitions (≈1.868873856131844 SI seconds).
+{{< o-time >}}
 
 
----
+Each unit is exactly 16 of the unit below it. 
 
-### Interface
-
-o-time is used internally for all Carbon-O systems.
-
-Human time is supported only at the interface layer and is not used internally.
+- **Computationally exact:** All units align with binary systems. No conversion loss, no rounding artifacts.
+- **Fully recursive:** Every unit divides cleanly into the next. No irregular boundaries.
+- **Environment-independent:** No dependence on planetary rotation, orbital period, or local astronomy.
+- **Stable across nodes:** The same definition applies at Ceres, in transit, and at any star system in the network.
 
 ---
 
