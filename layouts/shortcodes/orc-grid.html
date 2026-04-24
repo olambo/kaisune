@@ -104,9 +104,9 @@
     }
 
     td.cell.partial {
-      background: var(--partial);
-      color: #665530;
-      border-color: #3a3a20;
+      background: var(--surface);
+      color: var(--border);
+      border-color: var(--border);
     }
 
     td.cell.active {
@@ -144,6 +144,22 @@
       font-size: 0.65rem;
       color: var(--dim);
     }
+
+    #hover-status {
+      margin-top: 10px;
+      font-size: 0.75rem;
+      color: var(--mid);
+      letter-spacing: 1px;
+      min-height: 1.2em;
+    }
+
+    #hover-status .orc-ref { color: var(--accent); }
+
+    td.cell.quarter-marker { border-color: #5a2a6a; background: #2a1a3a; }
+    td.cell.third-marker { border-color: #7a4a10; background: #3a2008; }
+
+    td.cell.quarter-marker.active,
+    td.cell.third-marker.active { background: var(--accent); border-color: var(--accent); }
   </style>
 </head>
 <body>
@@ -163,6 +179,8 @@
 <div class="progress-bar">
   <div class="progress-fill" id="progress"></div>
 </div>
+
+<div id="hover-status"></div>
 
 <footer id="footer-note"></footer>
 
@@ -246,12 +264,40 @@
           td.textContent = '·';
         } else {
           td.textContent = GLYPHS[o] + GLYPHS[a];
+          if (idx === 45 || idx === 90 || idx === 135)       td.classList.add('quarter-marker');
+          else if (idx === 60 || idx === 120) td.classList.add('third-marker');
         }
 
         tr.appendChild(td);
       }
       tbl.appendChild(tr);
     }
+
+    // Hover: show squishy time range for hovered cell
+    document.getElementById('grid').addEventListener('mouseover', e => {
+      const td = e.target.closest('td.cell');
+      if (!td || td.classList.contains('invalid')) {
+        document.getElementById('hover-status').innerHTML = '';
+        return;
+      }
+      const idx = parseInt(td.dataset.orc);
+      const startSec = Math.floor(idx * ARC_MS / 1000);
+      const endSec   = Math.floor((idx + 1) * ARC_MS / 1000);
+      const fmt = s => {
+        const h = Math.floor(s / 3600);
+        const m = Math.floor((s % 3600) / 60);
+        return (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+      };
+      const oraD  = Math.floor(idx / 16);
+      const arcD  = idx % 16;
+      const label = GLYPHS[oraD] + GLYPHS[arcD];
+      document.getElementById('hover-status').innerHTML =
+        `orc <span class="orc-ref">${label}</span>  →  ${fmt(startSec)} – ${fmt(endSec)}`;
+    });
+
+    document.getElementById('grid').addEventListener('mouseleave', () => {
+      document.getElementById('hover-status').innerHTML = '';
+    });
 
     // Footer: compute B4 start time
     const b4StartSec = Math.floor(PARTIAL_ORC * ARC_MS / 1000);
