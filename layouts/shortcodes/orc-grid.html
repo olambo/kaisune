@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>orc-grid</title>
+  <style>
+    :root {
+      --bg:      #111111;
+      --surface: #1a1a1a;
+      --border:  #333333;
+      --dim:     #555555;
+      --mid:     #888888;
+      --text:    #eeeeee;
+      --accent:  #c8a96e;
+      --partial: #2a2a1a;
+      --invalid: #161616;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'JetBrains Mono', 'Fira Mono', monospace;
+      padding: 24px;
+    }
+
+    header { margin-bottom: 20px; }
+
+    header h2 {
+      font-size: 0.85rem;
+      color: var(--mid);
+      font-weight: 400;
+      letter-spacing: 1px;
+      text-transform: lowercase;
+      margin-bottom: 6px;
+    }
+
+    #live-display {
+      font-size: 1.6rem;
+      font-weight: bold;
+      color: var(--text);
+      letter-spacing: 2px;
+    }
+
+    #live-display .orc-val { color: var(--accent); }
+
+    #live-display .detail {
+      font-size: 0.85rem;
+      color: var(--mid);
+      font-weight: 400;
+      margin-left: 16px;
+    }
+
+    .grid-wrapper { overflow-x: auto; }
+
+    table { border-collapse: collapse; margin-top: 8px; }
+
+    th {
+      color: var(--dim);
+      font-size: 0.7rem;
+      font-weight: 400;
+      padding: 4px 6px;
+      text-align: center;
+    }
+
+    .row-label {
+      color: var(--mid);
+      font-size: 0.75rem;
+      padding: 6px 12px 6px 0;
+      text-align: right;
+      white-space: nowrap;
+      vertical-align: middle;
+    }
+
+    .row-label .ora-id {
+      color: var(--text);
+      font-size: 0.85rem;
+    }
+
+    .row-label .clock {
+      color: var(--dim);
+      font-size: 0.65rem;
+      display: block;
+      margin-top: 1px;
+    }
+
+    td.cell {
+      width: 38px;
+      height: 38px;
+      text-align: center;
+      vertical-align: middle;
+      font-size: 0.8rem;
+      border: 1px solid var(--border);
+      cursor: default;
+      background: var(--surface);
+      color: var(--mid);
+    }
+
+    td.cell.invalid {
+      background: var(--invalid);
+      color: var(--border);
+      border-color: #1e1e1e;
+    }
+
+    td.cell.partial {
+      background: var(--partial);
+      color: #665530;
+      border-color: #3a3a20;
+    }
+
+    td.cell.active {
+      background: var(--accent);
+      color: #111;
+      font-weight: bold;
+      border-color: var(--accent);
+    }
+
+    td.cell.past  { color: #3a3a3a; }
+    td.cell.future { color: var(--dim); }
+
+    td.cell:not(.invalid):hover {
+      border-color: #666;
+      color: var(--text);
+    }
+
+    .progress-bar {
+      margin-top: 20px;
+      height: 3px;
+      background: var(--border);
+      border-radius: 2px;
+      overflow: hidden;
+      max-width: 628px;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: var(--accent);
+      transition: width 0.3s linear;
+    }
+
+    footer {
+      margin-top: 14px;
+      font-size: 0.65rem;
+      color: var(--dim);
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h2>orc-time — daily grid</h2>
+  <div id="live-display">
+    orc <span class="orc-val" id="orc-now">--</span>
+    <span class="detail" id="detail-now"></span>
+  </div>
+</header>
+
+<div class="grid-wrapper">
+  <table id="grid"></table>
+</div>
+
+<div class="progress-bar">
+  <div class="progress-fill" id="progress"></div>
+</div>
+
+<footer id="footer-note"></footer>
+
+<script>
+(function () {
+  const SI_PER_SEC = 9192631770n;
+  const O_TIC      = 17179869184n;   // 2^34 caesium transitions
+  const GLYPHS     = "0123456789ABCDEF";
+
+  // Arc duration in ms (float — used only for wall-clock labels, not time calc)
+  // 256 tics × O_TIC / SI_PER_SEC × 1000
+  const ARC_MS = 256 * Number(O_TIC) / Number(SI_PER_SEC) * 1000;
+  const ORA_MS = 16 * ARC_MS;
+
+  // 86400000 / ARC_MS = 180.545 arcs per day
+  // Orcs 00–B3 (idx 0–179): fully within the day
+  // Orc  B4   (idx 180):    starts ~23:55:29, straddles midnight — partial
+  // Orcs B5–BF (idx 181+):  never active
+  const PARTIAL_ORC = 180;
+
+  function getOrcState() {
+    const now      = new Date();
+    const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0, 0);
+    const diffMs   = BigInt(now - midnight);
+
+    // BigInt: ms → o-tics (no float precision loss)
+    const tics = (diffMs * SI_PER_SEC) / (1000n * O_TIC);
+
+    // o-tic base; o-min = 16 tic; o-arc = 256 tic; o-ora = 4096 tic
+    const ora = Number(tics >> 12n);
+    const arc = Number((tics >> 8n) & 0xFn);
+    const min = Number((tics >> 4n) & 0xFn);
+
+    const orcIndex = ora * 16 + arc;
+    const orcStr   = GLYPHS[Math.min(ora, 15)] + GLYPHS[arc];
+
+    return { ora, arc, min, orcIndex, orcStr, now };
+  }
+
+  function oraClockLabel(oraIndex) {
+    const totalSec = Math.floor(oraIndex * ORA_MS / 1000);
+    const h = Math.floor(totalSec / 3600);
+    const m = Math.floor((totalSec % 3600) / 60);
+    return (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+  }
+
+  function buildGrid() {
+    const tbl = document.getElementById('grid');
+    tbl.innerHTML = '';
+
+    // Header row
+    const headRow = document.createElement('tr');
+    headRow.appendChild(document.createElement('th'));
+    for (let a = 0; a < 16; a++) {
+      const th = document.createElement('th');
+      th.textContent = GLYPHS[a];
+      headRow.appendChild(th);
+    }
+    tbl.appendChild(headRow);
+
+    // Data rows: ora 0–B
+    for (let o = 0; o <= 11; o++) {
+      const tr = document.createElement('tr');
+
+      const lbl = document.createElement('td');
+      lbl.className = 'row-label';
+      lbl.innerHTML = `<span class="ora-id">${GLYPHS[o]}</span><span class="clock">${oraClockLabel(o)}</span>`;
+      tr.appendChild(lbl);
+
+      for (let a = 0; a < 16; a++) {
+        const idx = o * 16 + a;
+        const td  = document.createElement('td');
+        td.className   = 'cell';
+        td.dataset.orc = idx;
+
+        if (idx === PARTIAL_ORC) {
+          td.classList.add('partial');
+          td.textContent = GLYPHS[o] + GLYPHS[a];
+        } else if (idx > PARTIAL_ORC) {
+          td.classList.add('invalid');
+          td.textContent = '·';
+        } else {
+          td.textContent = GLYPHS[o] + GLYPHS[a];
+        }
+
+        tr.appendChild(td);
+      }
+      tbl.appendChild(tr);
+    }
+
+    // Footer: compute B4 start time
+    const b4StartSec = Math.floor(PARTIAL_ORC * ARC_MS / 1000);
+    const h = Math.floor(b4StartSec / 3600);
+    const m = Math.floor((b4StartSec % 3600) / 60);
+    const s = b4StartSec % 60;
+    document.getElementById('footer-note').textContent =
+      `00–B3: 180 full orcs  ·  B4 partial: ${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')} → midnight  ·  B5–BF: never active`;
+  }
+
+  function update() {
+    const state = getOrcState();
+
+    document.getElementById('orc-now').textContent = state.orcStr;
+    document.getElementById('detail-now').textContent =
+      `min ${GLYPHS[state.min]}  ·  ${state.now.toLocaleTimeString('en-GB')}`;
+
+    document.querySelectorAll('td.cell').forEach(td => {
+      const idx = parseInt(td.dataset.orc);
+      td.classList.remove('active', 'past', 'future');
+      if (td.classList.contains('invalid')) return;
+      if (idx === state.orcIndex)    td.classList.add('active');
+      else if (idx < state.orcIndex) td.classList.add('past');
+      else                           td.classList.add('future');
+    });
+
+    // Progress bar: fraction of day elapsed
+    const elapsed = state.now - new Date(state.now.getFullYear(), state.now.getMonth(), state.now.getDate());
+    document.getElementById('progress').style.width = (elapsed / 86400000 * 100).toFixed(4) + '%';
+  }
+
+  buildGrid();
+  update();
+  setInterval(update, 500);
+})();
+</script>
+</body>
+</html>
