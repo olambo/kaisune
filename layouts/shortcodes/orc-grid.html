@@ -168,6 +168,7 @@
   <h2>orc-time — daily grid</h2>
   <div id="live-display">
     orc <span class="orc-val" id="orc-now">--</span>
+    <span class="detail" id="tii-now"></span>
     <span class="detail" id="detail-now"></span>
   </div>
 </header>
@@ -213,11 +214,13 @@
     const ora = Number(tics >> 12n);
     const arc = Number((tics >> 8n) & 0xFn);
     const min = Number((tics >> 4n) & 0xFn);
+    const tic = Number(tics & 0xFn);
 
     const orcIndex = ora * 16 + arc;
     const orcStr   = GLYPHS[Math.min(ora, 15)] + GLYPHS[arc];
+    const tiiStr   = GLYPHS[min] + GLYPHS[tic];
 
-    return { ora, arc, min, orcIndex, orcStr, now };
+    return { ora, arc, min, tic, orcIndex, orcStr, tiiStr, now };
   }
 
   function oraClockLabel(oraIndex) {
@@ -311,9 +314,10 @@
   function update() {
     const state = getOrcState();
 
-    document.getElementById('orc-now').textContent = state.orcStr;
+    document.getElementById('orc-now').textContent  = state.orcStr;
+    document.getElementById('tii-now').textContent  = `tii ${state.tiiStr}`;
     document.getElementById('detail-now').textContent =
-      `min ${GLYPHS[state.min]}  ·  ${state.now.toLocaleTimeString('en-GB')}`;
+      `·  ${state.now.toLocaleTimeString('en-GB')}`;
 
     document.querySelectorAll('td.cell').forEach(td => {
       const idx = parseInt(td.dataset.orc);
