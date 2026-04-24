@@ -136,6 +136,8 @@ The fundamental unit is the **o-tic**, defined as **0x400000000 (2³⁴) caesium
 
 All higher units are constructed as powers of 16 from the o-tic. The system is fully recursive.
 
+**Sub-tic precision** extends the hierarchy downward by the same rule: each level below the o-tic is 2^4 finer, giving 2^30, 2^26, 2^22 transitions and so on. A full timestamp including sub-tic precision is still a single integer — no fractional fields, no floating point, just more bits of the same number.
+
 **Why 2³⁴:** The exponent was chosen so that the o-cyc — the natural year-scale unit, 16⁶ o-tics — lands within 0.6% of one Earth solar year (362.90 days). This is not a concession to Earth-centrism; it is a consequence of anchoring the epoch at 1970-01-01 UTC. Approximate annual alignment makes the system human-readable at civilisational timescales without importing human calendar arithmetic at the unit level. No adjacent power of 2 produces this alignment: 2³³ halves the o-cyc to ~181 days and places the o-tic uncomfortably close to one SI second, inviting conflation. 2³⁴ is the unique solution.
 
 ---
