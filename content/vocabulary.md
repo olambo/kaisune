@@ -172,12 +172,6 @@ Each unit is exactly 16 of the unit below it.
 
 ---
 
-**Acknowledgement: John W. Nystrom (1824–1885)**
-
-John Nystrom, a Swedish-American engineer, proposed a complete base-16 system in *Project of a New System of Arithmetic, Weight, Measure and Coins* (1862), including a hexadecimal time system he called "tonal time." He identified the fundamental problem correctly: human time units are arbitrary artifacts of planetary history, internally inconsistent, and should be replaced with a coherent base-16 system. His instinct was sound. His execution was constrained by the tools available — no physical constant to anchor the base unit, no binary computing to motivate the choice, no means of rapid iteration. He worked alone, self-published, and was largely ignored. O-time inherits the correct insight and builds from where he could not go.
-
----
-
 ### Orc-time — Squishy-day Projection
 
 Squishies cannot use o-time natively: the o-day is 34.02 hours, incompatible with the biological rest cycle. Orc-time is the interface projection — a read of o-time anchored to local midnight rather than the o-epoch.
@@ -193,5 +187,7 @@ Orc-time is supported at the squishy interface layer only. Carbon-Os use o-time 
 {{< orc-time >}}
 
 ---
+
+*John W. Nystrom (1824–1885) identified the same top-level problem in* Project of a New System of Arithmetic, Weight, Measure and Coins *(1862): human time units are planetary artifacts and base 16 is the correct replacement. O-time was developed independently.*
 
 *Vocabulary document. First version: 17 April 2026. This version: 24 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, o-time rationale, orc-time projection; Ani/Grok (xAI) — O-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus; ChatGPT (OpenAI) — soft biological / squishy alias structure. Content: CC BY 4.0.*
