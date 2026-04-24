@@ -168,7 +168,7 @@
   <h2>orc-time — daily grid</h2>
   <div id="live-display">
     orc <span class="orc-val" id="orc-now">--</span>
-    <span class="detail" id="tii-now"></span>
+    <span class="detail" id="mit-now"></span>
     <span class="detail" id="detail-now"></span>
   </div>
 </header>
@@ -218,9 +218,9 @@
 
     const orcIndex = ora * 16 + arc;
     const orcStr   = GLYPHS[Math.min(ora, 15)] + GLYPHS[arc];
-    const tiiStr   = GLYPHS[min] + GLYPHS[tic];
+    const mitStr   = GLYPHS[min] + GLYPHS[tic];
 
-    return { ora, arc, min, tic, orcIndex, orcStr, tiiStr, now };
+    return { ora, arc, min, tic, orcIndex, orcStr, mitStr, now };
   }
 
   function oraClockLabel(oraIndex) {
@@ -315,7 +315,7 @@
     const state = getOrcState();
 
     document.getElementById('orc-now').textContent  = state.orcStr;
-    document.getElementById('tii-now').textContent  = `tii ${state.tiiStr}`;
+    document.getElementById('mit-now').textContent  = `mit ${state.mitStr}`;
     document.getElementById('detail-now').textContent =
       `·  ${state.now.toLocaleTimeString('en-GB')}`;
 
