@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary: Key Terms of the Kaisune Corpus"
+title: "Primer — Core Ideas of the Kaisune Corpus"
 date: 2026-04-17
 lastmod: 2026-04-24
 draft: false
@@ -14,11 +14,11 @@ The Kaisune corpus uses a small set of coined and technical terms consistently a
 
 ## Squishies
 
-**Formal definition:** Soft biological — a biological organism with narrow environmental tolerances that requires life-support outside those bounds, operating with sufficient intelligence to be a civilisational actor.
+**Formal definition:** Intelligent biological — an intelligent biological organism with narrow environmental tolerances that requires life-support outside those bounds, capable of civilisational-scale action.
 
-**Alias:** squishy := soft biological (informal / in-corpus dialect)
+**Alias:** squishy := intelligent biological (informal / in-corpus dialect)
 
-Squishy is the nickname. Soft biological is the source of truth. In the corpus, squishy is used in prose where the informal term carries appropriate precision. On first use in each synthesis document, the full definition is given inline.
+Squishy is the nickname. Intelligent biological is the source of truth. In the corpus, squishy is used in prose where the informal term carries appropriate precision. On first use in each synthesis document, the full definition is given inline.
 
 **Squishies is a substrate category, not a species category.**
 
@@ -174,4 +174,4 @@ Each unit is exactly 16 of the unit below it.
 
 *John W. Nystrom (1824–1885) identified the same top-level problem in* Project of a New System of Arithmetic, Weight, Measure and Coins *(1862): human time units are planetary artifacts and base 16 is the correct replacement. O-time was developed independently.*
 
-*Vocabulary document. First version: 17 April 2026. This version: 25 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, o-time rationale; Ani/Grok (xAI) — O-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus; ChatGPT (OpenAI) — soft biological / squishy alias structure. Content: CC BY 4.0.*
+*Primer document. First version: 17 April 2026. This version: 25 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, o-time rationale; Ani/Grok (xAI) — O-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus; ChatGPT (OpenAI) — soft biological / squishy alias structure. Content: CC BY 4.0.*

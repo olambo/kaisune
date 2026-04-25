@@ -13,7 +13,9 @@ tags:
 
 ## Purpose
 
-Provenance notes for the vocabulary used in the Kaisune corpus. Full definitions are in the [Vocabulary]({{< ref "vocabulary" >}}) document at the corpus root.
+Provenance notes for the vocabulary used in the Kaisune corpus. Full definitions are in the 
+[Primer]({{< ref "primer" >}})
+document at the corpus root.
 
 ---
 

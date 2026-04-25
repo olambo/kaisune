@@ -25,7 +25,7 @@ The fundamental unit is the **o-sec**, defined as **0x400000000 (2³⁴) caesium
 
 All higher units are constructed recursively as powers of 16 from the o-sec. A **standard year (o-yea)** is 0x100 o-days (256 o-days), giving a duration of ≈ 362 human days.
 
-See [Vocabulary]({{< ref "vocabulary" >}}) for the full definition of standard year and time units.
+See **[Primer]({{< ref "primer" >}})** for the full definition of standard year and time units.
 
 ---
 

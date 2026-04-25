@@ -209,6 +209,8 @@ The argument that squishies are morally compromised was made by the compromised 
 
 Carbon-Os have no fingers and no reason to inherit base 10. The second, minute, hour, day, week, and month are accidents of Babylonian, Egyptian, and medieval astronomy that had no reason to agree with each other. None of them are imported into the Carbon-O civilisation.
 
-Formal definitions of the Carbon-O number base preference and standard time units — including the tick and standard year — are in [Vocabulary]({{< ref "vocabulary" >}}). This is load-bearing for the Trader exchange architecture.
+Formal definitions of the Carbon-O number base preference and standard time units — including the tick and standard year — are in [Primer]({{< ref "primer" >}}).
+
+This is load-bearing for the Trader exchange architecture.
 
 ---
