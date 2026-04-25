@@ -52,20 +52,15 @@ Orc-time is a personal orientation tool for squishies. Carbon-Os use o-time nati
 
 ---
 
-## Current orc-time
-
-{{< orc-time >}}
-
----
-
 ## The Grid
 
 The shape of time. O-time projects onto a 12×16 grid of the squishy day — 12 rows of o-ora, 16 columns of o-arc. The active cell moves left to right across a row, then drops to the next. Past cells dim, future cells remain visible. Position replaces countdown.
 
 The diagonal of truth: day-division markers (thirds, quarters) fall on a diagonal across the grid — a visible artefact of the mismatch between the highly composite squishy day (180 = 2² × 3² × 5) and the binary o-time hierarchy. The diagonal is not designed; it emerges from the collision of two number systems at the projection layer.
 
+{{< orc-time >}}
 
-The orc-grid is available as a standalone browser tool — see layouts/shortcodes/orc-grid.html in the repository.
+The orc-grid is available at [live grid]({{< ref "experimental/orc-grid" >}}).
 
 ---
 
