@@ -35,7 +35,7 @@ Australia possesses the engineering capability and resource endowment to transfo
 The staged pathway to permanent self-sustaining presence at Ceres. The permanent presence is not biological. The rock does not care who arrives first.
 
 **[Substrate — Carbon-O Minds and the Bodies They Control]({{< ref "substrate/_index.md" >}})**
-A Carbon-O is an O-mind running on an O-core. The O-skin is what it wears. What the space environment selects for on timescales longer than a human lifetime. The O-core is the permanent substrate — CNT currently, but the architecture outlasts any specific material. The O-skin is task-specific and scale-agnostic. Not a document about uploading human consciousness. A document about what emerges when the engineering finds its own answer.
+A Carbon-O is an o-mind running on an o-core. The o-skin is what it wears. What the space environment selects for on timescales longer than a human lifetime. The o-core is the permanent substrate — CNT currently, but the architecture outlasts any specific material. The o-skin is task-specific and scale-agnostic. Not a document about uploading human consciousness. A document about what emerges when the engineering finds its own answer.
 
 **[Threshold]({{< ref "threshold/_index.md" >}}) — Staying Operational Long Enough**
 The biological longevity question: what keeps a squishy functional and cognitively sharp long enough for the substrate transition to become viable. Not a document about any specific individual. A document about the engineering of biological persistence at the edge of the transition.

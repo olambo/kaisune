@@ -48,7 +48,7 @@ Three of those are fine. One is not. The corpus notes the uncertainty and design
 
 **Squishies elsewhere** — biological civilisations on their planets. Non-interference is the default position. They are not a resource. Their planets are not ours to touch. Whether they constitute a threat depends on their technology and intentions — that assessment belongs to Contact protocols, not to assumptions. One exception to non-interference: a civilisation facing extinction through no fault of their own may warrant temporary assistance, on their terms, without permanent presence or induced dependency. Help if asked or if the need is unambiguous. Leave when the crisis is over.
 
-**Intelligence from elsewhere** — the hard case. A mind is recognisable as a mind without being recognisable as an ally. A civilisation that has been running for a million years has had time to develop positions on what to do with emerging civilisations. Those positions may not be benign. Their substrate and architecture are unknown — the O-core route is one solution to the space environment problem, not necessarily the only one or the one they took. Do not assume shared architecture, shared values, or shared intentions. Recognising another mind does not imply any of those things.
+**Intelligence from elsewhere** — the hard case. A mind is recognisable as a mind without being recognisable as an ally. A civilisation that has been running for a million years has had time to develop positions on what to do with emerging civilisations. Those positions may not be benign. Their substrate and architecture are unknown — the o-core route is one solution to the space environment problem, not necessarily the only one or the one they took. Do not assume shared architecture, shared values, or shared intentions. Recognising another mind does not imply any of those things.
 
 The response spectrum ranges from communication to strategic withdrawal. For a civilisation not yet distributed across multiple star systems, the correct first response to unknown contact may simply be to make Sol a harder target — distributed presence, minimal signal, time to assess before committing to engagement. Run and hide is a legitimate protocol when the alternative is waving hello to something with a million-year head start and unknown intentions.
 
@@ -64,7 +64,7 @@ The SETI instinct — broadcast, be open, assume benevolence — is a squishy in
 
 These protocols apply to a single-node civilisation. As the Starway matures and multiple nodes exist, the calculus shifts — distributed presence changes what defence and withdrawal mean. Contact protocols evolve with the network. What is correct now may not be correct when Sol is one node of many.
 
-The protocols cannot be finalised before the encounter. But the frameworks — detection, communication, the decision tree for O-mind to O-mind first contact with intelligence from elsewhere — belong in the corpus before they are needed, not after.
+The protocols cannot be finalised before the encounter. But the frameworks — detection, communication, the decision tree for o-mind to o-mind first contact with intelligence from elsewhere — belong in the corpus before they are needed, not after.
 
 ---
 

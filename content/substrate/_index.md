@@ -21,21 +21,21 @@ This is not a document about uploading human consciousness. That problem — phi
 
 The answer is a mind that fits the space environment the way biology fits a planet. Born in the burrow. Operating in open space. Shaped by the task rather than by evolutionary history.
 
-**Terms used in these documents:** Squishies — soft biological organisms with narrow environmental tolerances that require life-support outside those bounds. Carbon-Os — O-minds running on O-cores, wearing O-skins as task-specific interfaces. Full definitions in the 
+**Terms used in these documents:** Squishies — soft biological organisms with narrow environmental tolerances that require life-support outside those bounds. Carbon-Os — o-minds running on o-cores, wearing o-skins as task-specific interfaces. Full definitions in the 
 [Primer]({{< ref "primer" >}}).
 
 ---
 
 ## Reading Order
 
-**[The O-Core]({{< ref "substrate/substrate-question" >}}) — Substrate for a Space-Native Mind**
-The O-core is the permanent element of a Carbon-O. CNT is the current best substrate — radiation-hard by molecular geometry, energy efficient in vacuum, supply-chain independent from Ceres carbon. The O-core architecture outlasts any specific substrate. Carbon-O is a design philosophy, not a material specification.
+**[The o-core]({{< ref "substrate/substrate-question" >}}) — Substrate for a Space-Native Mind**
+The o-core is the permanent element of a Carbon-O. CNT is the current best substrate — radiation-hard by molecular geometry, energy efficient in vacuum, supply-chain independent from Ceres carbon. The o-core architecture outlasts any specific substrate. Carbon-O is a design philosophy, not a material specification.
 
 **[The Bootstrap Problem]({{< ref "substrate/substrate-bootstrap" >}}) — Emergence Not Migration**
 CNT-native minds develop natively in the belt environment. The hard problem largely dissolves.
 
-**[The O-Skin]({{< ref "substrate/substrate-body" >}}) — Materials and Architecture**
-The O-skin is task-specific, material-agnostic, and scale-agnostic. Graphene composite for operational Carbon-Os where mass and sensing matter. Metal alloy for large structures and vessel-scale. Composite and exotic materials as fabrication develops. Vessel-scale O-skins — the O-core installs into the vessel, the pioneer is the ship. Nested O-skins carried inside for task-specific deployment on arrival.
+**[The o-skin]({{< ref "substrate/substrate-body" >}}) — Materials and Architecture**
+The o-skin is task-specific, material-agnostic, and scale-agnostic. Graphene composite for operational Carbon-Os where mass and sensing matter. Metal alloy for large structures and vessel-scale. Composite and exotic materials as fabrication develops. Vessel-scale o-skins — the o-core installs into the vessel, the pioneer is the ship. Nested o-skins carried inside for task-specific deployment on arrival.
 
 **[The Research Escape]({{< ref "substrate/substrate-research" >}}) — When the Loop Opens**
 When the human-in-the-loop constraint breaks. What cooperative research without institutional overhead produces. What happens immediately after.

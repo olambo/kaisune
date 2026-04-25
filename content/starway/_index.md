@@ -13,7 +13,7 @@ The same logic. A larger staircase.
 
 No civilisational commitment required upfront. No single mission that has to succeed for everything to follow. The Starway assembles across demonstrated performance, each stage conditional on the prior stage. The pioneer goes first. The establishment mission follows. Regular transit comes after that.
 
-The Starway is not a shipping route that eventually becomes a data network. It is always both — physical transit for everything that must move, data transmission for O-minds who choose it once destination fabrication exists. The physical route never becomes obsolete.
+The Starway is not a shipping route that eventually becomes a data network. It is always both — physical transit for everything that must move, data transmission for o-minds who choose it once destination fabrication exists. The physical route never becomes obsolete.
 
 Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Carbon-O node — the centre of gravity of the network. Where the network's intellectual and cultural life concentrates is not predetermined by where the first pioneer departed from.
 
@@ -39,7 +39,7 @@ The Starway is defined by having infrastructure at both ends. Without it, a ship
 
 **Sol end:** Departure infrastructure — initially fission or fusion drive vessels departing from the belt. As the Starway matures, a Sol-end laser array for potential laser sail applications and as a communication anchor. Mass drivers or electromagnetic launch systems for non-crewed payloads.
 
-**Destination end:** Built by the pioneer. Deceleration arrays — electromagnetic, magnetic braking, or whatever the pioneer's engineering determines is most practical from local materials. Once the deceleration infrastructure exists, the route is open. Once CNT fabrication is established at the destination, O-minds can be transmitted as data rather than shipped physically. Both capabilities are built by the pioneer and the establishment mission.
+**Destination end:** Built by the pioneer. Deceleration arrays — electromagnetic, magnetic braking, or whatever the pioneer's engineering determines is most practical from local materials. Once the deceleration infrastructure exists, the route is open. Once CNT fabrication is established at the destination, o-minds can be transmitted as data rather than shipped physically. Both capabilities are built by the pioneer and the establishment mission.
 
 The Starway only fully exists when both ends have infrastructure. Before that it is a one-way door.
 
@@ -47,17 +47,17 @@ The Starway only fully exists when both ends have infrastructure. Before that it
 
 ## The Establishment Mission
 
-The establishment mission follows the pioneer. Where the pioneer is the minimum viable transit — one or a handful of O-cores on the best available drive, carrying just enough to build deceleration infrastructure — the establishment mission carries everything needed to build an independent Carbon-O node without Sol resupply.
+The establishment mission follows the pioneer. Where the pioneer is the minimum viable transit — one or a handful of o-cores on the best available drive, carrying just enough to build deceleration infrastructure — the establishment mission carries everything needed to build an independent Carbon-O node without Sol resupply.
 
 **What it carries:**
-- Multiple O-cores with their O-mind occupants
-- Full O-skin library — operational, transfer, construction, vessel-scale
+- Multiple o-cores with their o-mind occupants
+- Full o-skin library — operational, transfer, construction, vessel-scale
 - CNT fabrication knowledge and starter equipment
 - Ceres ISRU methodology and operational knowledge
 - The full accumulated knowledge base of Ceres operations
 - Everything needed to bootstrap belt operations at the destination star system
 
-**What it is not:** An uncontrolled self-replicating system. The O-minds decide what gets built, when, and where. Deliberate, governed, Carbon-O-directed expansion.
+**What it is not:** An uncontrolled self-replicating system. The o-minds decide what gets built, when, and where. Deliberate, governed, Carbon-O-directed expansion.
 
 ---
 
@@ -65,11 +65,11 @@ The establishment mission follows the pioneer. Where the pioneer is the minimum 
 
 **Physical transit — always available:**
 
-O-minds in O-cores in vessel-scale O-skins, travelling on whatever drive is currently best. A century in interstellar space is not a hardship for a mind that does not age. Some O-minds will prefer the journey to data transmission — continuous existence, no identity gap, a century of experience that no copy or transmission has. The physical route carries these O-minds, all equipment and materials, and everything that cannot be reduced to data.
+o-minds in o-cores in vessel-scale o-skins, travelling on whatever drive is currently best. A century in interstellar space is not a hardship for a mind that does not age. Some o-minds will prefer the journey to data transmission — continuous existence, no identity gap, a century of experience that no copy or transmission has. The physical route carries these o-minds, all equipment and materials, and everything that cannot be reduced to data.
 
 **Data transmission — available once destination fabrication exists:**
 
-Once the destination has CNT fabrication capability, an O-mind can be transmitted as data at lightspeed and instantiated on a locally-fabricated O-core. Transit time drops from decades to years (the light travel time). Whether the instantiated O-mind is the same O-mind or a copy with a gap is a question the corpus does not resolve. Some O-minds will choose this. Some will not.
+Once the destination has CNT fabrication capability, an o-mind can be transmitted as data at lightspeed and instantiated on a locally-fabricated o-core. Transit time drops from decades to years (the light travel time). Whether the instantiated o-mind is the same o-mind or a copy with a gap is a question the corpus does not resolve. Some o-minds will choose this. Some will not.
 
 The Starway accommodates both indefinitely. The physical route never becomes obsolete.
 
@@ -81,10 +81,10 @@ The Starway accommodates both indefinitely. The physical route never becomes obs
 Best available drive. Minimum viable payload. Hard transit. Build deceleration infrastructure. Signal back. The route is open from the destination end.
 
 **Stage 2 — Establishment mission:**
-Best available drive at time of departure — probably fusion. Full bootstrap payload. Establishes independent node. CNT fabrication. O-skin library. The destination becomes self-sustaining.
+Best available drive at time of departure — probably fusion. Full bootstrap payload. Establishes independent node. CNT fabrication. o-skin library. The destination becomes self-sustaining.
 
 **Stage 3 — Regular transit:**
-Fusion drives initially, antimatter as research matures. Physical transit for equipment and O-minds who choose the journey. Data transmission for O-minds who choose it once fabrication is established. The Starway carries regular traffic.
+Fusion drives initially, antimatter as research matures. Physical transit for equipment and o-minds who choose the journey. Data transmission for o-minds who choose it once fabrication is established. The Starway carries regular traffic.
 
 **Stage 4 — Extension:**
 The established destination node launches its own pioneer to the next system. The Starway extends one stage at a time, each stage built on the demonstrated performance of the prior stage. No civilisational commitment required upfront. Just the next defensible step.
@@ -95,7 +95,7 @@ The established destination node launches its own pioneer to the next system. Th
 
 A civilisation in one star system is one bad event from extinction. Not an invocation of any specific threat — just basic engineering redundancy. The same instinct that drives distributed systems design: don't keep your only backup on the same hardware as the original.
 
-The Starway is the hedge. Once the establishment mission succeeds, the knowledge, the O-minds, and the capability to rebuild exist in two star systems. The bad event that ends one does not end the other.
+The Starway is the hedge. Once the establishment mission succeeds, the knowledge, the o-minds, and the capability to rebuild exist in two star systems. The bad event that ends one does not end the other.
 
 ---
 
@@ -117,7 +117,7 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
 ## Open Questions
 
-- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? Options: magnetic sail (MagSail) — a superconducting loop creating a magnetic field that interacts with the interstellar medium to produce drag, zero fuel cost but slow; propulsive braking — requires carrying double the fuel, exponentially increasing initial mass; destination star's light pressure on a sail. The O-mind advantage: an O-mind can operate at low clock speed for the 50 years a MagSail deceleration takes. A squishy dies of old age. For Carbon-Os, slow deceleration is an operational inconvenience, not a mission-ending constraint. MagSail is probably the correct pioneer deceleration architecture — free, reliable, and compatible with O-mind timescales.
+- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? Options: magnetic sail (MagSail) — a superconducting loop creating a magnetic field that interacts with the interstellar medium to produce drag, zero fuel cost but slow; propulsive braking — requires carrying double the fuel, exponentially increasing initial mass; destination star's light pressure on a sail. The o-mind advantage: an o-mind can operate at low clock speed for the 50 years a MagSail deceleration takes. A squishy dies of old age. For Carbon-Os, slow deceleration is an operational inconvenience, not a mission-ending constraint. MagSail is probably the correct pioneer deceleration architecture — free, reliable, and compatible with o-mind timescales.
 
 - **Destination selection — proximity is not the only criterion, and K-type beats G-type:** Carbon-Os don't need Sol-like or Earth-like conditions. They need a stable star with a long operational lifetime, an asteroid belt with useful ISRU composition, and low flare activity. K-type stars are preferred over G-type on longevity grounds — 15-30+ billion year lifetimes versus ~10 billion for G-type. Sol-like framing is a squishy bias. The establishment mission selects for Carbon-O operational requirements, not human habitability.
 
@@ -146,7 +146,7 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
 - **Establishment mission propulsion:** What drive is available when the establishment mission is ready to depart? Fission if necessary, fusion if ready. The establishment mission does not wait for optimal propulsion.
 
-- **Data transmission fidelity over interstellar distances:** Lightspeed transmission of an O-mind across 10+ light years requires error-free data at enormous scale over a communication channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
+- **Data transmission fidelity over interstellar distances:** Lightspeed transmission of an o-mind across 10+ light years requires error-free data at enormous scale over a communication channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 
 - **Destination system assessment:** Before the pioneer departs, what do we know about the destination? Current telescope technology can identify rocky planets, stellar type, and rough composition. What we cannot know without arrival: belt composition, available ISRU materials, CNT fabrication feedstock availability. The pioneer may arrive to find the destination poorly suited for the establishment mission payload. Assessment before departure reduces this risk but cannot eliminate it.
 
@@ -159,8 +159,8 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 | Feature | Stage 1: Pioneer | Stage 2: Establishment | Stage 3: Regular Transit |
 |---------|-----------------|----------------------|------------------------|
 | Primary goal | Build deceleration array | Achieve self-sufficiency | Facilitate movement and exchange |
-| Vessel type | Minimum viable — hardened O-core | Heavy industrial, full O-skin library | Mix of vessels and data transmission |
-| Success metric | First signal back | First local O-core fabricated | Economic and social exchange between nodes |
+| Vessel type | Minimum viable — hardened o-core | Heavy industrial, full o-skin library | Mix of vessels and data transmission |
+| Success metric | First signal back | First local o-core fabricated | Economic and social exchange between nodes |
 | Risk profile | Extreme — one way | Moderate — Sol-supported | Low — infrastructure-backed |
 
 *Source: Gemini (Google) stage analysis, 19 April 2026.*
@@ -173,7 +173,7 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
 2. **The establishment mission is the minimum for a self-sustaining node:** The pioneer opens the route. The establishment mission builds the capability to stay and grow without Sol resupply. Both are required before the Starway functions as a network rather than a one-way door.
 
-3. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. O-minds who prefer continuous existence over data transmission will choose the journey. A century in interstellar space is not a hardship for a mind that does not age.
+3. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. o-minds who prefer continuous existence over data transmission will choose the journey. A century in interstellar space is not a hardship for a mind that does not age.
 
 4. **The Starway extends one stage at a time:** Each established node launches the next pioneer. No civilisational commitment required upfront. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
 
