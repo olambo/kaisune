@@ -19,7 +19,7 @@ All documents are human-AI collaborative synthesis. Contributors are credited in
 
 ## Primer
 
-Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: squishies, Carbon-Os, O-mind, O-core, O-skin.
+Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: Squishies, Carbon-Os, o-mind, o-core, o-skin, o-time.
 
 ---
 
