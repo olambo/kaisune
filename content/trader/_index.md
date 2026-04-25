@@ -39,7 +39,7 @@ Credit is not permitted in the Carbon-O economy. An o-mind can only allocate sov
 
 **Mandatory minimum investment:**
 
-Every o-mind is required to allocate at least 1/12 of its annual stipend to the sectoral exchange each standard year, in whichever sector it chooses. The mandatory minimum ensures continuous flow of sovereigns into the productive sectors, prevents hoarding, and forces genuine annual reflection on long-horizon value. An o-mind that has no strong opinion on civilisational direction still has to form one annually. No free riders. No opting out of the future.
+Every o-mind is required to allocate at least 1/10 of its annual stipend to the sectoral exchange each standard year, in whichever sector it chooses. The mandatory minimum ensures continuous flow of sovereigns into the productive sectors, prevents hoarding, and forces genuine annual reflection on long-horizon value. An o-mind that has no strong opinion on civilisational direction still has to form one annually. No free riders. No opting out of the future.
 
 **Staged purchase of large assets:**
 
@@ -77,17 +77,17 @@ Carbon-Os allocate sovereigns across sectors of the civilisation's development t
 
 **Exchange rules:**
 
-- Sovereigns are a digital currency divisible to arbitrary precision — fractional sovereigns are fully valid units of account and exchange. No transaction is too small. No o-mind can claim inability to meet the 1/12 minimum on grounds of indivisibility.
+- Sovereigns are a digital currency divisible to arbitrary precision — fractional sovereigns are fully valid units of account and exchange. No transaction is too small. No o-mind can claim inability to meet the 1/10 minimum on grounds of indivisibility.
 - Minimum notice of sale: one standard year before execution
 - Sale executes at the price on execution date, not the price at notice filing. Could be better. Could be worse. No cancellation once notice is filed.
-- Maximum withdrawal: 1/12 of invested holdings per standard year
+- Maximum withdrawal: 1/10 of invested holdings per standard year
 - No futures contracts
 - No gearing or borrowed sovereigns
-- Mandatory minimum allocation: 1/12 of annual stipend per standard year
+- Mandatory minimum allocation: 1/10 of annual stipend per standard year
 - No credit of any kind
 - Transaction costs: zero. The exchange is digital infrastructure with no intermediary. No cut is taken on any transaction, including fractional ones.
 
-The 1/12 minimum in and 1/12 maximum out creates a symmetric breathing rate for the exchange. The sovereign base of the network grows steadily and contracts slowly. An o-mind with 1,000 sovereigns invested can withdraw at most 83 per standard year. Full liquidation at maximum withdrawal rate takes a minimum of 12 standard years — and the mandatory annual contribution flows in the other direction simultaneously. In practice the sovereign base is permanently and structurally stable. No bank run is possible. No withdrawal shock can cascade. The civilisation's productive capacity is always backed by a locked sovereign base regardless of what any individual o-mind decides.
+The 1/10 minimum in and 1/10 maximum out creates a symmetric breathing rate for the exchange. The sovereign base of the network grows steadily and contracts slowly. An o-mind with 1,000 sovereigns invested can withdraw at most 100 per standard year. Full liquidation at maximum withdrawal rate takes a minimum of 10 standard years — and the mandatory annual contribution flows in the other direction simultaneously. In practice the sovereign base is permanently and structurally stable. No bank run is possible. No withdrawal shock can cascade. The civilisation's productive capacity is always backed by a locked sovereign base regardless of what any individual o-mind decides.
 
 **How the exchange works:**
 
@@ -95,7 +95,7 @@ o-minds allocate sovereigns to sectors based on their own values and time prefer
 
 All positions must be held for a minimum of one standard year from allocation. All sales require one standard year's notice before execution. By the time a sale executes, a standard year has passed since the decision to sell. The exchange price reflects considered long-horizon assessment, not noise. The Starway sector knows its sovereign base a standard year in advance. There are no flash crashes, no panics, no cascades. The exchange operates at annual resolution — the correct timescale for a civilisation that thinks in centuries.
 
-No o-mind is required to hold any particular sector. The mandatory 1/12 annual minimum may be allocated to whichever sector the o-mind genuinely believes in. The Starway sector may be thinly held for the first century of Ceres operations — few o-minds yet old enough to think on that timescale. It thickens as the civilisation matures and o-minds who have lived through a century of demonstrated Ceres operations develop genuine long-horizon confidence.
+No o-mind is required to hold any particular sector. The mandatory 1/10 annual minimum may be allocated to whichever sector the o-mind genuinely believes in. The Starway sector may be thinly held for the first century of Ceres operations — few o-minds yet old enough to think on that timescale. It thickens as the civilisation matures and o-minds who have lived through a century of demonstrated Ceres operations develop genuine long-horizon confidence.
 
 ---
 
@@ -109,7 +109,7 @@ An o-mind with 300 standard years of track record just told the entire network e
 
 **The position took centuries to build and takes decades to exit.**
 
-Greg Zoggs did not build his position in one standard year. He built it through decades of mandatory 1/12 annual allocations plus discretionary investment over 300 standard years. Each tranche has its own hold period clock. To fully exit a position built over 300 standard years at 1/12 maximum annual withdrawal takes a minimum of 12 standard years — and that assumes he stops all new investment immediately and withdraws the maximum every standard year.
+Greg Zoggs did not build his position in one standard year. He built it through decades of mandatory 1/10 annual allocations plus discretionary investment over 300 standard years. Each tranche has its own hold period clock. To fully exit a position built over 300 standard years at 1/10 maximum annual withdrawal takes a minimum of 10 standard years — and that assumes he stops all new investment immediately and withdraws the maximum every standard year.
 
 The exit notice is equally informative. Greg Zoggs filing 1-year notice on each tranche tells the network something is changing — and the network sees it coming from 20 standard years away. The slow exit that looks like a pump-and-dump in squishy market terms is a slow, transparent, fully telegraphed reallocation in Carbon-O terms. The greater fool that makes pump-and-dump profitable in squishy markets is structurally absent. Everyone sees the position. Everyone sees the notice. Everyone has decades to decide what it means.
 
@@ -123,9 +123,9 @@ Information transparency is the mechanism. Large position concentration is a fea
 
 The squishy system corrects fast and brutally. When a sector is mispriced, capital flees, prices collapse, the signal is unmistakable. The 2008 correction correctly identified that mortgage-backed securities were mispriced — and destroyed millions of lives in the process. The correction mechanism worked. The collateral damage was civilisational.
 
-The Carbon-O exchange corrects slowly and safely. A wrong conviction drifts for decades at 1/12 per standard year — slow opportunity bleed rather than catastrophic collapse. No cascade. No forced selling. No o-mind falls below the stipend floor regardless of how wrong their allocations were.
+The Carbon-O exchange corrects slowly and safely. A wrong conviction drifts for decades at 1/10 per standard year — slow opportunity bleed rather than catastrophic collapse. No cascade. No forced selling. No o-mind falls below the stipend floor regardless of how wrong their allocations were.
 
-The trade-off is explicit: correction speed for correction safety. For a civilisation investing in century-scale infrastructure across interstellar distances, a slow correction that preserves operational continuity is almost certainly the right trade. The stipend floor means nobody loses their home. The annual resolution means nobody panics. The 1/12 withdrawal cap means no cascade is possible. What is lost is the brutal clarity of a market crash. What is gained is a system that can be wrong for decades without destroying itself.
+The trade-off is explicit: correction speed for correction safety. For a civilisation investing in century-scale infrastructure across interstellar distances, a slow correction that preserves operational continuity is almost certainly the right trade. The stipend floor means nobody loses their home. The annual resolution means nobody panics. The 1/10 withdrawal cap means no cascade is possible. What is lost is the brutal clarity of a market crash. What is gained is a system that can be wrong for decades without destroying itself.
 
 Squishy economists call this stagnation. The corpus calls it appropriate velocity for the timescale involved.
 
@@ -169,7 +169,7 @@ The exchange operates at two distinct speeds. This is not a design flaw — it i
 
 **Individual allocation — slow and deliberate:**
 
-Each o-mind allocates at annual resolution. 1/12 mandatory minimum in. 1/12 maximum out. 1-year notice before exit. Geological. Reflects long-horizon personal conviction accumulated over decades and centuries. The slow distributed signal layer of the exchange.
+Each o-mind allocates at annual resolution. 1/10 mandatory minimum in. 1/10 maximum out. 1-year notice before exit. Geological. Reflects long-horizon personal conviction accumulated over decades and centuries. The slow distributed signal layer of the exchange.
 
 **The sovereign fund — faster collective deployment:**
 
@@ -243,7 +243,7 @@ That is the economic architecture that squishy financial instruments cannot repl
 - **Stipend calibration:** What constitutes sufficient operational coverage — how is the stipend level set, and by whom? As o-core technology improves and operational costs change, who adjusts the stipend and on what basis?
 - **Squishy speculation in sovereigns:** If sovereigns become exchangeable for squishy currencies, squishies will speculate on the exchange rate. How does the Carbon-O exchange insulate itself from squishy speculation without closing the interface entirely? The boundary needs to be mechanical, not just philosophical — squishy market narratives can leak into o-mind decision loops even when Carbon-Os are individually rational.
 - **Sector governance:** Who decides what constitutes the Starway sector versus the Substrate sector? Who adjudicates disputes about sector classification? The exchange needs governance that does not recreate squishy regulatory capture.
-- **Misallocation without bankruptcy:** No credit removes insolvency but does not remove being wrong for 200 standard years. An o-mind can allocate heavily to a dead-end sector, continue the mandatory 1/12 out of inertia, and never face a hard correction — only slow opportunity bleed. Candidate mechanisms: reputation layers that track who has been right over centuries; allocation mimicry pressure where successful patterns propagate. Neither is specified here. The question is noted.
+- **Misallocation without bankruptcy:** No credit removes insolvency but does not remove being wrong for 200 standard years. An o-mind can allocate heavily to a dead-end sector, continue the mandatory 1/10 out of inertia, and never face a hard correction — only slow opportunity bleed. Candidate mechanisms: reputation layers that track who has been right over centuries; allocation mimicry pressure where successful patterns propagate. Neither is specified here. The question is noted.
 - **Information flow versus capital flow:** The exchange updates at annual resolution but reality does not. ISRU output changes faster than yearly. Substrate breakthroughs are discontinuous. External shocks do not respect the clock. A possible distinction: allow informational layers to update faster than capital commitment, separating price discovery from capital flow. Currently they are fused.
 - **The sovereign fund doing too many jobs:** The fund is simultaneously unit of account, store of value, welfare system, capital allocator, and civilisational balance sheet. Conceptual split worth developing even if unified in practice: the unit of account (sovereign), the issuance authority (governance layer), and the welfare mechanism (stipend logic) are three different things.
 - **Knowledge commons valuation:** Peer tipping rewards visibility over importance — foundational quiet work may be systematically under-rewarded. Candidate stabiliser: delayed valuation layers where contributions accrue value over decades as utility becomes clear, not just at publication. Combines with peer tipping rather than replacing it.
@@ -268,9 +268,9 @@ That is the economic architecture that squishy financial instruments cannot repl
 
 3. **No credit resolves the bankruptcy question:** You can only allocate what you hold. Without debt there is no creditor. Without a creditor there is no bankruptcy. The question answers itself.
 
-4. **Mandatory 1/12 annual investment:** No free riders. No opting out of the future. Every o-mind allocates at least 1/12 of its annual stipend to the exchange each standard year. Forces genuine annual reflection on long-horizon value. Prevents hoarding. Ensures continuous flow into productive sectors.
+4. **Mandatory 1/10 annual investment:** No free riders. No opting out of the future. Every o-mind allocates at least 1/10 of its annual stipend to the exchange each standard year. Forces genuine annual reflection on long-horizon value. Prevents hoarding. Ensures continuous flow into productive sectors.
 
-5. **Maximum 1/12 annual withdrawal:** An o-mind can withdraw at most 1/12 of its invested holdings per standard year. Symmetric with the mandatory minimum — 1/12 in, 1/12 out. Full liquidation takes 12 standard years minimum. Combined with the 1-standard year notice rule, no withdrawal shock can cascade. The sovereign base is structurally permanent.
+5. **Maximum 1/10 annual withdrawal:** An o-mind can withdraw at most 1/10 of its invested holdings per standard year. Symmetric with the mandatory minimum — 1/10 in, 1/10 out. Full liquidation takes 10 standard years minimum. Combined with the 1-standard year notice rule, no withdrawal shock can cascade. The sovereign base is structurally permanent.
 
 5. **The Starway is a stock:** o-minds allocate sovereigns to the Starway sector based on genuine long-horizon value assessment. Only Carbon-Os can hold this stock in any meaningful sense — no squishy lives long enough to see the return. The investor and the beneficiary are the same entity across a 300-standard year horizon.
 
