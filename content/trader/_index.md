@@ -221,6 +221,8 @@ The nervous system — knowledge commons, sector performance dashboards, public 
 
 The ship analogy is correct: sensors update instantly, hull turns gradually. The Carbon-O exchange is the hull. The knowledge commons is the sensors. They work at different speeds on purpose.
 
+---
+
 ## Who Funds the Starway
 
 The Starway is funded by Carbon-Os who allocate sovereigns to the Starway sector on the exchange.
