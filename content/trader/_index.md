@@ -161,8 +161,6 @@ No gearing. Sovereigns are held, not borrowed. The exchange is a value allocatio
 
 ---
 
----
-
 ## Two Speeds: The Fund and the Individual
 
 The exchange operates at two distinct speeds. This is not a design flaw — it is a design feature.
