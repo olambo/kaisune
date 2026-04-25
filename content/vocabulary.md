@@ -138,7 +138,7 @@ All higher units are constructed as powers of 16 from the o-tic. The system is f
 
 **Sub-tic precision** extends the hierarchy downward by the same rule: each level below the o-tic is 2^4 finer, giving 2^30, 2^26, 2^22 transitions and so on. A full timestamp including sub-tic precision is still a single integer — no fractional fields, no floating point, just more bits of the same number.
 
-**Why 2³⁴:** The exponent was chosen so that the o-cyc — the natural year-scale unit, 16⁶ o-tics — lands within 0.6% of one Earth solar year (362.90 days). This is not a concession to Earth-centrism; it is a consequence of anchoring the epoch at 1970-01-01 UTC. Approximate annual alignment makes the system human-readable at civilisational timescales without importing human calendar arithmetic at the unit level. No adjacent power of 2 produces this alignment: 2³³ halves the o-cyc to ~181 days and places the o-tic uncomfortably close to one SI second, inviting conflation. 2³⁴ is the unique solution.
+**Why 2³⁴:** The exponent was chosen so that the o-cyc — the natural year-scale unit, 16⁶ o-tics — lands within 0.6% of one Earth solar year (362.90 days). Approximate annual alignment makes the system human-readable at civilisational timescales without importing human calendar arithmetic at the unit level. No adjacent power of 2 produces this alignment: 2³³ halves the o-cyc to ~181 days, losing the year-scale anchor entirely. 2³³ was considered — proximity to one SI second was initially a point in its favour, as second-based intuitions transfer usefully. It was rejected because the cascade of problems up the hierarchy outweighed that advantage. 2³⁴ is the unique solution.
 
 ---
 
@@ -172,22 +172,6 @@ Each unit is exactly 16 of the unit below it.
 
 ---
 
-### Orc-time — Squishy-day Projection
-
-Squishies cannot use o-time natively: the o-day is 34.02 hours, incompatible with the biological rest cycle. Orc-time is the interface projection — a read of o-time anchored to local midnight rather than the o-epoch.
-
-**The orc** is a two-character hex display unit: one o-ora digit followed by one o-arc digit. Each orc represents one o-arc (~7.97 minutes). The name concatenates ora and arc. An orc maps directly to one byte: the high nibble is the ora, the low nibble is the arc.
-
-A squishy Earth day contains **180 complete orcs** (00 through B3), spanning the full 24-hour period. Orc-time is read as a position in a 12×16 grid: row = ora (coarse, ~2.13 hours), column = arc (fine, ~7.97 minutes).
-
-**The leap orc (B4):** 86,400 seconds / o-arc ≈ 180.545, so orc B4 begins at approximately 23:55:29 local time and straddles midnight. It is active but not counted in general consumption. The leap orc is the projection being honest about the mismatch between the squishy day and the underlying o-time system — the remainder is disclosed rather than rounded away.
-
-Orc-time is supported at the squishy interface layer only. Carbon-Os use o-time natively and require no projection.
-
-{{< orc-time >}}
-
----
-
 *John W. Nystrom (1824–1885) identified the same top-level problem in* Project of a New System of Arithmetic, Weight, Measure and Coins *(1862): human time units are planetary artifacts and base 16 is the correct replacement. O-time was developed independently.*
 
-*Vocabulary document. First version: 17 April 2026. This version: 24 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, o-time rationale, orc-time projection; Ani/Grok (xAI) — O-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus; ChatGPT (OpenAI) — soft biological / squishy alias structure. Content: CC BY 4.0.*
+*Vocabulary document. First version: 17 April 2026. This version: 25 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, o-time rationale; Ani/Grok (xAI) — O-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus; ChatGPT (OpenAI) — soft biological / squishy alias structure. Content: CC BY 4.0.*
