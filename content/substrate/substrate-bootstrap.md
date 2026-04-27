@@ -1,7 +1,7 @@
 ---
 title: "The Bootstrap Problem: Emergence Not Migration"
 date: 2026-04-17
-lastmod: 2026-04-19
+lastmod: 2026-04-27
 draft: false
 weight: 2
 tags:
@@ -53,7 +53,7 @@ The bootstrap is the transition between those two states. It is not a designed e
 
 ## What Bootstrap Does Not Mean
 
-**Not a human upload.** The biological transfer problem is out of scope. Whether a copy of a human mind running on CNT substrate is the same mind — whether continuity of identity survives the transition from biological to silicon to carbon substrate — is a philosophical question the corpus does not attempt to resolve. An o-mind that emerged natively on an o-core does not face this question. It was never anything else.
+**Not a human upload.** The biological transfer problem is out of scope for this document. Whether continuity of identity survives substrate transition is a philosophical question this document does not attempt to resolve. An o-mind that emerged natively on an o-core does not face this question — it was never anything else. The Vero pathway — gradual enhancement of a continuous Human process onto chosen substrate — is covered in Threshold. Vero substrate and o-core architecture are structurally distinct and incompatible by design. The two research programmes do not converge.
 
 **Not a programmed agent.** An o-mind is not a system explicitly programmed to perform specific tasks. It is an intelligence that developed on an o-core in the belt environment. What it chooses to do with that intelligence is not specified in advance by its substrate or its architecture.
 
