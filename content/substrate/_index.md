@@ -1,7 +1,7 @@
 ---
 title: "Substrate: Carbon-O Minds and the Bodies They Control"
 date: 2026-04-17
-lastmod: 2026-04-17
+lastmod: 2026-04-27
 draft: false
 ---
 
@@ -48,10 +48,10 @@ The Substrate documents follow the same design principles as Dreamtime and Ceres
 
 Two boundaries this corpus observes explicitly:
 
-**The biological transfer problem is out of scope.** Moving a human mind into carbon substrate faces philosophical questions about identity continuity that may be permanently unanswerable — is the copy the same person, or is the original dying while a replica is created? This corpus does not attempt to resolve that question. It notes the asymmetry: the problem is a different shape for digital minds, and the bootstrap approach largely sidesteps it by developing minds natively on the new substrate rather than migrating them.
+**The biological transfer problem is out of scope — for this document.** Moving a Human mind into substrate faces philosophical questions about identity continuity that this document does not attempt to resolve. The Substrate documents address Carbon-O minds that emerge natively on o-core architecture. The Vero pathway — gradual enhancement of a continuous Human process onto chosen substrate — is covered in Threshold. Vero substrate is a distinct research programme from o-core architecture. The two are structurally incompatible by design: o-core was optimised for the void environment outward; Vero substrate is optimised for Human cognitive architecture inward. Neither programme covers the other. See [Threshold]({{< ref "threshold/_index.md" >}}) for the Vero substrate question.
 
 **This is not a prediction.** The corpus does not claim CNT-native minds will emerge, or when, or what they will be like. It claims the engineering conditions that would produce them are being assembled — at Ceres, through the fabrication research programme — and that the space environment selects for this kind of mind over biological presence on any timescale longer than a human lifetime. The rest is left to whoever reads this.
 
 ---
 
-*Substrate project index. First document: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*
+*Substrate project index. First document: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*
