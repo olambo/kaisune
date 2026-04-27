@@ -38,7 +38,7 @@ Human-Vero is the transition completed, or underway past the point of return —
 
 Human-Vero will likely become the space-based form. A mind that does not need life support, does not fatigue, can run distributed, and operates on timescales unconstrained by biological decay is the correct architecture for deep space and the long durations involved. This is not a value judgement. It is an engineering observation. Human remains the origin. Human-Vero is what the space environment selects for.
 
-Threshold is the gradient between them. Somewhere in Stage 1 you are clearly Human. Somewhere after gradual replacement you are clearly Human-Vero. The middle is ambiguous and the ambiguity is honest — there is no moment of crossing, only a continuous process of becoming.
+Threshold is the gradient between them. Somewhere in Stage 1 you are clearly Human. Somewhere after gradual enhancement you are clearly Human-Vero. The middle is ambiguous and the ambiguity is honest — there is no moment of crossing, only a continuous process of becoming.
 
 ---
 
@@ -84,23 +84,23 @@ Two primary options exist. Neither is prescribed here.
 
 **Immediate transfer.** The shadow brain is confirmed running at sufficient fidelity. The biological original is terminated. The shadow takes over as the continuing process. A hard cut — the biological stops, the substrate continues — but the initialisation is not a reconstruction from external observation. It is a shadow that has been tracking the original continuously, in real time, from the inside, for years. This is categorically different from any previous upload proposal.
 
-**Gradual replacement.** The infiltration platform extends from mapping to guided replacement. Neurons are replaced one at a time with substrate equivalents, the biological original never stopping. The Human remains a bounded physical entity throughout — no transfer event, no moment of discontinuity. The substrate grows from the inside and the biology recedes around it.
+**Gradual enhancement.** The infiltration platform extends from mapping to guided enhancement — neurons replaced one at a time with substrate equivalents, the biological original never stopping. The Human remains a bounded physical entity throughout — no transfer event, no moment of discontinuity. The substrate grows from the inside and the biology recedes around it.
 
-Gradual replacement can extend beyond the brain to the whole body. The same platform, operating across the full biological system, incrementally replacing biological tissue with chosen substrate throughout. The mind restructures as it migrates — shedding biological constraints incrementally as each region transitions — and the body restructures in parallel. The result is an entity that has never left itself. No transfer. No discontinuity. A continuous process of becoming something different from the inside, at a pace and in a direction chosen by the individual throughout.
+Gradual enhancement can extend beyond the brain to the whole body. The same platform, operating across the full biological system, incrementally replacing biological tissue with chosen substrate throughout. The mind restructures as it migrates — shedding biological constraints incrementally as each region transitions — and the body restructures in parallel. The result is an entity that has never left itself. No transfer. No discontinuity. A continuous process of becoming something different from the inside, at a pace and in a direction chosen by the individual throughout.
 
 The Ship of Theseus was always already sailing. Synaptic proteins turn over in days. Glial cells replace themselves continuously. Neurons undergo structural remodelling throughout life. The biological mind has never been a fixed substrate — it has always been a process running through continuously changing material. Identity persisted through all of it without philosophical crisis because the replacement was biological-to-biological and below the threshold of notice.
 
-The guided replacement pathway changes only one thing: the destination material. The process was already running. The infiltration platform participates in it with more precision and toward a chosen end. There is nothing artificial about that. The question was never whether replacement preserves identity — biology already answered that. The question is only what you are replacing with.
+The guided enhancement pathway changes only one thing: the destination material. The process was already running. The infiltration platform participates in it with more precision and toward a chosen end. There is nothing artificial about that. The question was never whether gradual change preserves identity — biology already answered that. The question is only what you are changing toward.
 
 The instinctive fear — I will be killed, something else will wake up in my place — has the direction of the threat backwards.
 
 The biological process is lossy. Memories degrade. Synaptic connections weaken. Degenerative diseases don't just kill the body — they erase the person incrementally, from the inside, before death arrives. The Human who reaches 85 with Alzheimer's was not the same person at 85 as at 65. The essence was already gone. Biology ran the replacement process without consent, without fidelity, and without mercy.
 
-The guided replacement runs it better. The shadow brain preserves the exact neural architecture in real time — not an approximation, not a reconstruction from someone else's memories, but a continuous high-fidelity model of the actual running system. The memories that biological decay would have erased are instead captured and held. The connections that would have weakened with age are mapped before they do. The degenerative process that would have slowly removed the person is interrupted and redirected.
+The guided enhancement runs it better. The shadow brain preserves the exact neural architecture in real time — not an approximation, not a reconstruction from someone else's memories, but a continuous high-fidelity model of the actual running system. The memories that biological decay would have erased are instead captured and held. The connections that would have weakened with age are mapped before they do. The degenerative process that would have slowly removed the person is interrupted and redirected.
 
-In that framing the guided replacement is not a threat to identity continuity. It is the first process in human history that actually protects it. The biological alternative does not preserve you. It degrades you slowly and calls it natural.
+In that framing the guided enhancement is not a threat to identity continuity. It is the first process in human history that actually protects it. The biological alternative does not preserve you. It degrades you slowly and calls it natural.
 
-A Human at the end of the guided replacement is more themselves — more continuous with who they were at their peak — than they would have been at 80 with an intact but deteriorating biological mind. The guided replacement doesn't interrupt the self. It rescues it from the interruption that was already coming.
+A Human at the end of the guided enhancement is more themselves — more continuous with who they were at their peak — than they would have been at 80 with an intact but deteriorating biological mind. The guided enhancement doesn't interrupt the self. It rescues it from the interruption that was already coming.
 
 What that something is remains the individual's choice. The programme does not specify a destination.
 
