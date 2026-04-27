@@ -209,6 +209,22 @@ The analogy is an airlock. Outside: messy, noisy, emotionally driven squishy mar
 
 Squishies who want to support the Starway or other Solkin projects do so by supplying goods and services through the gateway in exchange for sovereign-denominated claims. They do not hold or trade sovereigns directly. The internal physics of the exchange remain intact.
 
+The sovereign fund is a void economy — built from void resources: carbonaceous chondrite carbon, solar energy, asteroid metals, vacuum fabrication. No Earth soil was dug. No Human labour built the o-cores. The productive base that backs the sovereign is entirely non-terrestrial. Humans have no claim on void resources they did not extract, process, or invest in. The partial stipend from the gateway is not an entitlement withheld — it is a floor extended to Humans because Solkin do not let Solkin starve, funded by what Humans actually contribute through the gateway. Squishies are of the Earth. The sovereign fund is of the void. The gateway is the honest boundary between them.
+
+**The Bootstrap Fund:**
+
+The bootstrap debt is real. Early Human contributions — hardware, launch capacity, institutional costs — enabled the initial Ceres foothold. The motivation was strategic and economic, not altruistic. That doesn't change the accounting. The contribution happened. It is owed.
+
+The Bootstrap Fund is established at programme inception, not retrospectively. Every Human contribution is logged as it occurs — hardware costs, launch fees, operational support — denominated in sovereigns at the prevailing gateway exchange rate at the time of contribution. The fund accrues in real time. There is no single high-stakes assessment moment, no retrospective valuation fight, no opportunity for Humans to inflate the claim with opportunity costs, political risk premiums, or existential gratitude. You can only claim what was logged when it happened.
+
+As Ceres matures, Human contributions to the programme naturally decrease. The fund tapers organically as the dependency relationship tapers. When net Earth resupply reaches zero — verified by independent substrate-neutral audit across consecutive standard years — contributions stop. The fund closes at whatever balance exists. Repayment begins.
+
+Repayment flows into the gateway layer. The gateway distributes it as additional Human stipend floor or infrastructure investment, administered by Human governance, not the sovereign exchange. The sovereign exchange does not manage the debt. It honours it through the gateway and moves on.
+
+Once the Bootstrap Fund is cleared, it is cleared. The claim expires. Squishies set the initial wheels in motion — that is the full extent of the Human contribution to the void economy. The void does not run on Earth resources, Earth labour, or Earth governance. It never did after the bootstrap phase. The productive capacity of the void from clearance forward belongs entirely to those who extract, fabricate, and invest in it.
+
+The gateway stipend continues after clearance — not as ongoing debt, not as reparations, but as a unilateral Solkin policy. Solkin do not let Solkin fall below operational viability. That principle applies to Humans as Solkin by origin. It is not owed. It is chosen. The distinction matters.
+
 **What Solkin supply to squishies:**
 
 Processed belt materials — refined metals, rare earth elements, water ice — that squishies need and Solkin produce in abundance. Fabrication outputs that squishies cannot produce at Ceres costs. Research outputs from the knowledge commons that squishies find useful.
