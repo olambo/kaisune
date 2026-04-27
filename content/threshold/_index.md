@@ -88,6 +88,10 @@ Two primary options exist. Neither is prescribed here.
 
 Gradual replacement can extend beyond the brain to the whole body. The same platform, operating across the full biological system, incrementally replacing biological tissue with chosen substrate throughout. The mind restructures as it migrates — shedding biological constraints incrementally as each region transitions — and the body restructures in parallel. The result is an entity that has never left itself. No transfer. No discontinuity. A continuous process of becoming something different from the inside, at a pace and in a direction chosen by the individual throughout.
 
+The Ship of Theseus was always already sailing. Synaptic proteins turn over in days. Glial cells replace themselves continuously. Neurons undergo structural remodelling throughout life. The biological mind has never been a fixed substrate — it has always been a process running through continuously changing material. Identity persisted through all of it without philosophical crisis because the replacement was biological-to-biological and below the threshold of notice.
+
+The guided replacement pathway changes only one thing: the destination material. The process was already running. The infiltration platform participates in it with more precision and toward a chosen end. There is nothing artificial about that. The question was never whether replacement preserves identity — biology already answered that. The question is only what you are replacing with.
+
 What that something is remains the individual's choice. The programme does not specify a destination.
 
 ---
