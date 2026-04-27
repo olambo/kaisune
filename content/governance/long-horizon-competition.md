@@ -2,6 +2,7 @@
 title: "The Long-Horizon Race: Western Values vs Chinese Planning Capability"
 date: 2026-03-29
 draft: false
+weight: 1
 tags:
   - geopolitics
   - China
