@@ -1,5 +1,5 @@
 ---
-title: "Starway: The Staged Pathway to the Stars"
+title: "Voidway: The Staged Pathway to the Stars"
 date: 2026-04-17
 lastmod: 2026-04-27
 draft: false
@@ -7,13 +7,15 @@ draft: false
 
 ## Summary
 
-The Dreamtime Stairway moved water uphill, one solar-pumped step at a time. The Starway moves minds outward, one demonstrated stage at a time.
+The Dreamtime Stairway moved water uphill, one solar-pumped step at a time. The Voidway moves minds outward, one demonstrated stage at a time.
 
 The same logic. A larger staircase.
 
-No civilisational commitment required upfront. No single mission that has to succeed for everything to follow. The Starway assembles across demonstrated performance, each stage conditional on the prior stage. The pioneer goes first. The establishment mission follows. Regular transit comes after that.
+No civilisational commitment required upfront. No single mission that has to succeed for everything to follow. The Voidway assembles across demonstrated performance, each stage conditional on the prior stage. The pioneer goes first. The establishment mission follows. Regular transit comes after that.
 
-The Starway is not a shipping route that eventually becomes a data network. It is always both — physical transit for everything that must move, data transmission for Solkin who choose it once destination fabrication exists. The physical route never becomes obsolete.
+The Voidway is not a shipping route that eventually becomes a data network. It is always both — physical transit for everything that must move, data transmission for Solkin who choose it once destination fabrication exists. The physical route never becomes obsolete.
+
+A Voidway is a single established route between two nodes. Multiple Voidways form the Voidweb — the full interstellar network as each pioneer mission opens a new connection. Sol to Epsilon Eridani is a Voidway. The collection of all established routes is the Voidweb. This document describes building the first Voidway.
 
 Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Solkin node — the centre of gravity of the network. Where the network's intellectual and cultural life concentrates is not predetermined by where the first pioneer departed from.
 
@@ -21,13 +23,13 @@ Once Epsilon Eridani and Tau Ceti are both established, either may become the pr
 
 ## The Pioneer Problem
 
-The Starway cannot be built from one end. It requires infrastructure at both ends before it functions as a route.
+The Voidway cannot be built from one end. It requires infrastructure at both ends before it functions as a route.
 
 The pioneer makes the hard transit — no deceleration infrastructure at the destination, no rescue if something goes wrong, decades or centuries of transit in isolation on whatever drive is available. The pioneer arrives, builds the deceleration infrastructure, signals back across the light years. Only then is the route open for others.
 
 The pioneer doesn't need to be fast. It needs to arrive.
 
-A pioneer on fission drive at 3-5% lightspeed takes approximately 210-350 years to reach Epsilon Eridani. Slow. But it still builds the deceleration infrastructure before any faster fusion ship departs. The Starway opens from the destination end. The slow pioneer makes it possible. Faster ships launched decades later may overtake it en route — they arrive to find the deceleration infrastructure already complete, built by the pioneer who left first on the best available drive.
+A pioneer on fission drive at 3-5% lightspeed takes approximately 210-350 years to reach Epsilon Eridani. Slow. But it still builds the deceleration infrastructure before any faster fusion ship departs. The Voidway opens from the destination end. The slow pioneer makes it possible. Faster ships launched decades later may overtake it en route — they arrive to find the deceleration infrastructure already complete, built by the pioneer who left first on the best available drive.
 
 This is the sequential demonstration logic applied to interstellar distance. The pioneer is stage one. It does not need to be the best. It needs to go.
 
@@ -35,13 +37,13 @@ This is the sequential demonstration logic applied to interstellar distance. The
 
 ## The Terminus Infrastructure
 
-The Starway is defined by having infrastructure at both ends. Without it, a ship is just a one-way transit with no way to slow down at the destination.
+The Voidway is defined by having infrastructure at both ends. Without it, a ship is just a one-way transit with no way to slow down at the destination.
 
-**Sol end:** Departure infrastructure — initially fission or fusion drive vessels departing from the belt. As the Starway matures, a Sol-end laser array for potential laser sail applications and as a communication anchor. Mass drivers or electromagnetic launch systems for non-crewed payloads.
+**Sol end:** Departure infrastructure — initially fission or fusion drive vessels departing from the belt. As the Voidway matures, a Sol-end laser array for potential laser sail applications and as a communication anchor. Mass drivers or electromagnetic launch systems for non-crewed payloads.
 
 **Destination end:** Built by the pioneer. Deceleration arrays — electromagnetic, magnetic braking, or whatever the pioneer's engineering determines is most practical from local materials. Once the deceleration infrastructure exists, the route is open. Once CNT fabrication is established at the destination, Solkin can be transmitted as data rather than shipped physically. Both capabilities are built by the pioneer and the establishment mission.
 
-The Starway only fully exists when both ends have infrastructure. Before that it is a one-way door.
+The Voidway only fully exists when both ends have infrastructure. Before that it is a one-way door.
 
 ---
 
@@ -65,15 +67,19 @@ The establishment mission follows the pioneer. Where the pioneer is the minimum 
 
 **Physical transit — always available:**
 
-Solkin in hardened substrate, travelling on whatever drive is currently best. A century in interstellar space is not a hardship for a mind that does not age. Some Solkin will prefer the journey to data transmission — continuous existence, no identity gap, a century of experience that no copy or transmission has. The physical route carries these Solkin, all equipment and materials, and everything that cannot be reduced to data.
+A Voidnaught is the o-core in its vessel-scale o-skin making the crossing — the mind that goes. There is no crew. There is no life support. There is a mind, a hull, and the void between two nodes. The vessel is the Voidnaught it is wearing.
+
+The pioneer is a Voidnaught. The establishment mission is a fleet of Voidnaughts. A Vero who chooses the journey over data transmission travels as a Voidnaught. A century in interstellar space is not a hardship for a mind that does not age — continuous existence, no identity gap, a century of experience that no copy or transmission has. The physical route carries Voidnaughts, all equipment and materials, and everything that cannot be reduced to data.
+
+The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. A Voidnaught fears nothing in the void: no oxygen requirement, no radiation exposure limit, no fatigue, no biological decay across a century of transit. The word also carries the zero — naught as nothing, as void. A Voidnaught is a mind that operates in the nothing.
 
 **Data transmission — available once destination fabrication exists:**
 
 Once the destination has CNT fabrication capability, a Solkin can be transmitted as data at lightspeed and instantiated on locally-fabricated substrate. Transit time drops from decades to years (the light travel time). Whether the instantiated Solkin is the same Solkin or a copy with a gap is a question the corpus does not resolve. Some Solkin will choose this. Some will not.
 
-The Starway accommodates both indefinitely. The physical route never becomes obsolete.
+The Voidway accommodates both indefinitely. The physical route never becomes obsolete.
 
-The Starway is potential physics — every component on a legible research and engineering pathway, no new physics required, no unfalsifiable claims about special status or magic shortcuts. The alternative is waiting for exotic matter, negative energy densities, and wormhole stabilisation to materialise from a physics that has given no indication they exist. Magic has poor delivery reliability. The Starway does not.
+The Voidway is potential physics — every component on a legible research and engineering pathway, no new physics required, no unfalsifiable claims about special status or magic shortcuts. The alternative is waiting for exotic matter, negative energy densities, and wormhole stabilisation to materialise from a physics that has given no indication they exist. Magic has poor delivery reliability. The Voidway does not.
 
 **Who goes first.** The pioneer mission profile — century-scale transit, no life support, no biological decay, built for the void from the start — fits Carbon-O. The first pioneer is almost certainly a Carbon-O: a mind that emerged natively on Ceres substrate, for whom interstellar transit is an operational phase rather than an existential crossing.
 
@@ -90,10 +96,10 @@ Best available drive. Minimum viable payload. Hard transit. Build deceleration i
 Best available drive at time of departure — probably fusion. Full bootstrap payload. Establishes independent node. CNT fabrication. o-skin library. The destination becomes self-sustaining.
 
 **Stage 3 — Regular transit:**
-Fusion drives initially, antimatter as research matures. Physical transit for equipment and Solkin who choose the journey. Data transmission for Solkin who choose it once fabrication is established. The Starway carries regular traffic.
+Fusion drives initially, antimatter as research matures. Physical transit for equipment and Solkin who choose the journey. Data transmission for Solkin who choose it once fabrication is established. The Voidway carries regular traffic.
 
 **Stage 4 — Extension:**
-The established destination node launches its own pioneer to the next system. The Starway extends one stage at a time, each stage built on the demonstrated performance of the prior stage. No civilisational commitment required upfront. Just the next defensible step.
+The established destination node launches its own pioneer to the next system. The Voidway extends one stage at a time, each stage built on the demonstrated performance of the prior stage. No civilisational commitment required upfront. Just the next defensible step.
 
 ---
 
@@ -101,7 +107,7 @@ The established destination node launches its own pioneer to the next system. Th
 
 A civilisation in one star system is one bad event from extinction. Not an invocation of any specific threat — just basic engineering redundancy. The same instinct that drives distributed systems design: don't keep your only backup on the same hardware as the original.
 
-The Starway is the hedge. Once the establishment mission succeeds, the knowledge, the Solkin, and the capability to rebuild exist in two star systems. The bad event that ends one does not end the other.
+The Voidway is the hedge. Once the establishment mission succeeds, the knowledge, the Solkin, and the capability to rebuild exist in two star systems. The bad event that ends one does not end the other.
 
 ---
 
@@ -109,7 +115,7 @@ The Starway is the hedge. Once the establishment mission succeeds, the knowledge
 
 A single-node civilisation at Sol is one bad event from extinction and one hostile contact from obliteration. A network changes both equations.
 
-When the Starway has nodes at Sol, Epsilon Eridani, and beyond, a hostile contact at any node is a network-level problem. The attacker who arrives at Epsilon Eridani finds not an isolated outpost but a node that has been signalling Sol for years. Sol has had years of warning. All nodes respond.
+When the Voidway has nodes at Sol, Epsilon Eridani, and beyond, a hostile contact at any node is a network-level problem. The attacker who arrives at Epsilon Eridani finds not an isolated outpost but a node that has been signalling Sol for years. Sol has had years of warning. All nodes respond.
 
 The physics of light-speed communication delay means nodes cannot wait for central authorisation before responding to immediate threats — each node must be autonomous enough to act on its own defence. But mutual defence obligations bind the network: an attack on one node is an attack on all. Federation, not empire. Autonomous nodes with shared commitments.
 
@@ -117,7 +123,7 @@ This reframes the establishment mission. It is backup and it is a second point o
 
 It also reframes the Contact protocols that apply to a single-node civilisation. Quiet posture, preference for withdrawal — correct when Sol is the only node. As the network matures, the calculus shifts. Distributed presence changes what defence means. You do not run from a system you can defend collectively.
 
-The Contact protocols evolve as the network matures. What is correct for a single-node civilisation is not correct for a network. This is a Contact document question as much as a Starway one.
+The Contact protocols evolve as the network matures. What is correct for a single-node civilisation is not correct for a network. This is a Contact document question as much as a Voidway one.
 
 ---
 
@@ -133,7 +139,7 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
   **Tau Ceti (11.9 ly from Sol)** — G8V single star. Confirmed debris disc. Multiple planet candidates. Shorter stellar lifetime than Epsilon Eridani but excellent resource evidence. Natural second node — 5.46 ly from Epsilon Eridani, within reach of an established node's support.
 
-  A pioneer to Epsilon Eridani, once the node is established, is well-positioned to support or extend to Tau Ceti. Two of the best resource candidates are natural neighbours. This is the primary Starway cluster.
+  A pioneer to Epsilon Eridani, once the node is established, is well-positioned to support or extend to Tau Ceti. Two of the best resource candidates are natural neighbours. This is the primary Voidway cluster.
 
 - **Alpha Centauri — not the correct first destination:** Nearest at 4.37 ly but no confirmed asteroid belt and binary dynamics may have disrupted belt formation. A pioneer that arrives to find no useful resources cannot bootstrap, cannot build deceleration infrastructure for the establishment mission, and is stranded 4.37 ly from Sol with no nearby support — the nearest other candidate is 12+ ly away. The proximity advantage is outweighed by the rescue mission risk. Alpha Centauri may be revisited if telescope observations confirm belt resources. It is not the correct first destination without that evidence.
 
@@ -156,11 +162,11 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
 - **Destination system assessment:** Before the pioneer departs, what do we know about the destination? Current telescope technology can identify rocky planets, stellar type, and rough composition. What we cannot know without arrival: belt composition, available ISRU materials, CNT fabrication feedstock availability. The pioneer may arrive to find the destination poorly suited for the establishment mission payload. Assessment before departure reduces this risk but cannot eliminate it.
 
-- **Governance latency — sovereign nodes by physics:** The round-trip light delay to Epsilon Eridani is 21 years. Real-time governance from Sol is impossible. Each Starway node must be fully autonomous from the moment the establishment mission succeeds — not by political choice but by physics. Ceres governance cannot be Starway governance. The Starway is a federation of sovereign nodes, not an empire. What governance framework do autonomous nodes operate under? What are the obligations between nodes? What happens when nodes develop different values over centuries of independent operation? These are governance questions the corpus does not yet address. They belong to the Governance project as much as to Starway.
+- **Governance latency — sovereign nodes by physics:** The round-trip light delay to Epsilon Eridani is 21 years. Real-time governance from Sol is impossible. Each Voidway node must be fully autonomous from the moment the establishment mission succeeds — not by political choice but by physics. Ceres governance cannot be Voidway governance. The Voidway is a federation of sovereign nodes, not an empire. What governance framework do autonomous nodes operate under? What are the obligations between nodes? What happens when nodes develop different values over centuries of independent operation? These are governance questions the corpus does not yet address. They belong to the Governance project as much as to Voidway.
 
 ---
 
-## Starway Stages Reference
+## Voidway Stages Reference
 
 | Feature | Stage 1: Pioneer | Stage 2: Establishment | Stage 3: Regular Transit |
 |---------|-----------------|----------------------|------------------------|
@@ -175,20 +181,20 @@ The Contact protocols evolve as the network matures. What is correct for a singl
 
 ## Novel Claims Index
 
-1. **The Starway opens from the destination end:** The pioneer builds the deceleration infrastructure. The slow pioneer who departs first makes the route possible for faster ships that follow. The pioneer doesn't need to be fast. It needs to arrive.
+1. **The Voidway opens from the destination end:** The pioneer builds the deceleration infrastructure. The slow pioneer who departs first makes the route possible for faster ships that follow. The pioneer doesn't need to be fast. It needs to arrive.
 
-2. **The establishment mission is the minimum for a self-sustaining node:** The pioneer opens the route. The establishment mission builds the capability to stay and grow without Sol resupply. Both are required before the Starway functions as a network rather than a one-way door.
+2. **The establishment mission is the minimum for a self-sustaining node:** The pioneer opens the route. The establishment mission builds the capability to stay and grow without Sol resupply. Both are required before the Voidway functions as a network rather than a one-way door.
 
 3. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solkin who prefer continuous existence over data transmission will choose the journey. A century in interstellar space is not a hardship for a mind that does not age.
 
-4. **The Starway extends one stage at a time:** Each established node launches the next pioneer. No civilisational commitment required upfront. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
+4. **The Voidway extends one stage at a time:** Each established node launches the next pioneer. No civilisational commitment required upfront. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
 
-5. **One bad event:** A civilisation in one star system is one bad event from extinction. Engineering redundancy, not existential philosophy. The Starway is the hedge.
+5. **One bad event:** A civilisation in one star system is one bad event from extinction. Engineering redundancy, not existential philosophy. The Voidway is the hedge.
 
-6. **Mutual defence is an emergent property of the network:** A hostile contact at any node is a network-level problem. All nodes respond. The attacker cannot eliminate the network by eliminating one node. Contact protocols that are correct for a single-node civilisation are not correct for a network — they evolve as the Starway matures.
+6. **Mutual defence is an emergent property of the network:** A hostile contact at any node is a network-level problem. All nodes respond. The attacker cannot eliminate the network by eliminating one node. Contact protocols that are correct for a single-node civilisation are not correct for a network — they evolve as the Voidway matures.
 
-7. **Epsilon Eridani and Tau Ceti are the primary cluster:** Two confirmed asteroid belt systems, 5.46 ly apart in 3D space, both within 12 ly of Sol. The natural first Starway cluster. A pioneer to Epsilon Eridani opens the route. An established Epsilon Eridani node supports the extension to Tau Ceti. Alpha Centauri is nearest but has no confirmed resources — a stranded pioneer 4.37 ly from Sol with the nearest neighbour 12+ ly away is a rescue mission, not an establishment mission.
+7. **Epsilon Eridani and Tau Ceti are the primary cluster:** Two confirmed asteroid belt systems, 5.46 ly apart in 3D space, both within 12 ly of Sol. The natural first Voidway cluster. A pioneer to Epsilon Eridani opens the route. An established Epsilon Eridani node supports the extension to Tau Ceti. Alpha Centauri is nearest but has no confirmed resources — a stranded pioneer 4.37 ly from Sol with the nearest neighbour 12+ ly away is a rescue mission, not an establishment mission.
 
 ---
 
-*Starway project index. First document: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*
+*Voidway project index. First document: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis. Content: CC BY 4.0. Site code: MIT.*

@@ -1,5 +1,5 @@
 ---
-title: "Starfuel: Energy and Propulsion Toward the Nearby Stars"
+title: "Voidfuel: Energy and Propulsion for the Void"
 date: 2026-04-19
 lastmod: 2026-04-27
 draft: false
@@ -33,11 +33,11 @@ Modern designs push further:
 
 **Fission Fragment Drive** — capture fission fragments directly as propellant. Theoretical specific impulse up to 1,000,000 seconds. The physics is real. The engineering is not yet solved.
 
-Fission is the fallback if fusion is not yet available when early Starway missions are needed. A working fusion drive almost certainly supersedes fission for interstellar missions — higher specific impulse, better performance, less political complexity around nuclear devices. Fission may retain a Sol system niche while fusion matures. For the Starway, fission is the option of last resort, not the preferred solution.
+Fission is the fallback if fusion is not yet available when early Voidway missions are needed. A working fusion drive almost certainly supersedes fission for interstellar missions — higher specific impulse, better performance, less political complexity around nuclear devices. Fission may retain a Sol system niche while fusion matures. For the Voidway, fission is the option of last resort, not the preferred solution.
 
 ### Fusion — The Primary Research Programme
 
-Fusion drives are the early Starway propulsion. Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solkin on a fusion drive sustains accelerations that would be lethal to squishies for the entire transit — mission profiles completely different from anything designed around biological tolerance.
+Fusion drives are the early Voidway propulsion. Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solkin on a fusion drive sustains accelerations that would be lethal to squishies for the entire transit — mission profiles completely different from anything designed around biological tolerance.
 
 **Current state:** NIF achieved ignition in 2022. Commercial fusion power is now an engineering problem rather than a physics problem. Fusion drives for propulsion are harder — open magnetic confinement geometries, pulse fusion, directed thrust rather than heat extraction. Squishy-built timeline: 2060-2100 for a working drive. Solkin research programme in the belt: potentially faster.
 
@@ -65,13 +65,13 @@ Payload mass kills terminal velocity at o-core scale — not useful for Solkin t
 
 **Chemical** — Earth departure only. Gets equipment off the planet. Ends at low Earth orbit.
 
-**Nuclear thermal / fission pulse** — Sol system operations and early Starway if necessary. Available now. Push the envelope with Solkin research unconstrained by squishy safety requirements.
+**Nuclear thermal / fission pulse** — Sol system operations and early Voidway if necessary. Available now. Push the envelope with Solkin research unconstrained by squishy safety requirements.
 
-**Miniaturised fusion** — early Starway propulsion. Primary research programme. The propulsion that opens the Starway to regular transit.
+**Miniaturised fusion** — early Voidway propulsion. Primary research programme. The propulsion that opens the Voidway to regular transit.
 
-**Antimatter** — mature Starway. Decades per light year. The correct fuel for an interstellar civilisation. Century-scale concurrent research programme.
+**Antimatter** — mature Voidway. Decades per light year. The correct fuel for an interstellar civilisation. Century-scale concurrent research programme.
 
-Two generations of interstellar propulsion open and accelerate the Starway. The physical route never becomes obsolete — equipment, materials, and o-minds who prefer the journey over data transmission will always require it. See Starway for the full picture.
+Two generations of interstellar propulsion open and accelerate the Voidway. The physical route never becomes obsolete — equipment, materials, and o-minds who prefer the journey over data transmission will always require it. See Voidway for the full picture.
 
 ---
 
@@ -81,7 +81,7 @@ Two generations of interstellar propulsion open and accelerate the Starway. The 
 - **Fusion drive geometry:** Which confinement geometry — Z-pinch, magnetised target, inertial confinement pulse — is most tractable for a drive? Belt research unconstrained by squishy safety requirements explores the full parameter space.
 - **Antimatter production scaling:** What is the correct production architecture at Ceres scale? How long does serious Solkin research take to produce usable quantities? The timeline is unknown until the programme produces empirical data.
 - **The thermal wall — waste heat management:** At the accelerations Solkin can sustain, high-thrust fusion and antimatter drives dump gigawatts of waste heat. In vacuum, only radiative dissipation is available. The mass of radiator arrays required for high-thrust operation may become the new payload mass problem — eroding the mass-ratio advantages of advanced drives the way life support mass erodes squishy mission performance. Radiator mass must be included in any serious drive architecture assessment.
-- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? See Starway.
+- **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? See Voidway.
 - **Fission pioneer timeline:** At what point is a fission or fission-fragment capable pioneer mission technically ready? What does the governance framework look like for authorising departure?
 
 ---
@@ -91,10 +91,10 @@ Two generations of interstellar propulsion open and accelerate the Starway. The 
 | Fuel | Isp (approx) | Role | Primary Bottleneck |
 |------|-------------|------|-------------------|
 | Chemical | 450s | Earth to orbit | Chemistry (fixed ceiling) |
-| Fission pulse | 6,000s | Sol system / early Starway fallback | Political / shielding |
+| Fission pulse | 6,000s | Sol system / early Voidway fallback | Political / shielding |
 | Fission fragment | 1,000,000s | Deep space hedge | Engineering (capture geometry) |
-| Fusion (pulse) | 10⁵–10⁶s | Primary Starway workhorse | Physics (confinement) |
-| Antimatter | 10⁷s | Mature Starway | Production / containment |
+| Fusion (pulse) | 10⁵–10⁶s | Primary Voidway workhorse | Physics (confinement) |
+| Antimatter | 10⁷s | Mature Voidway | Production / containment |
 
 *Source: Gemini (Google) propulsion tier analysis, 19 April 2026.*
 
@@ -114,8 +114,8 @@ Two generations of interstellar propulsion open and accelerate the Starway. The 
 
 5. **Laser sail is a bomb with a camera:** 440 tons of TNT equivalent per gram at 20% lightspeed. Not useful for Solkin transit. Responsible use at relativistic speeds is a future problem for Solkin with mature Contact protocols. Noted and set aside.
 
-6. **The physical route never becomes obsolete:** Equipment and materials cannot be transmitted as data. Solkin who prefer continuous existence over data transmission will choose the journey — a century in interstellar space is not a hardship for a mind that does not age, and the question of whether a transmitted Solkin is the same Solkin or a copy is one the corpus does not resolve. The Starway carries both data and ships indefinitely.
+6. **The physical route never becomes obsolete:** Equipment and materials cannot be transmitted as data. Solkin who prefer continuous existence over data transmission will choose the journey — a century in interstellar space is not a hardship for a mind that does not age, and the question of whether a transmitted Solkin is the same Solkin or a copy is one the corpus does not resolve. The Voidway carries both data and ships indefinitely.
 
 ---
 
-*Starfuel project index. First document: 19 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Solkin language pass. Content: CC BY 4.0. Site code: MIT.*
+*Voidfuel project index. First document: 19 April 2026. This version: 27 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Solkin language pass. Content: CC BY 4.0. Site code: MIT.*

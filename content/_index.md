@@ -41,16 +41,16 @@ A Carbon-O is an o-mind running on an o-core. The o-skin is what it wears. What 
 The pathway from Human to Vero. It begins with capability, not with transfer. It ends wherever the individual chooses. The gradient between the two has no clean crossing point. That is by design.
 
 **[Trader — The Economics of a Multi-Substrate Civilisation]({{< ref "trader/_index.md" >}})**
-What Carbon-Os trade with each other and with squishies across Sol. The exchange layer of a civilisation with multiple substrates, multiple locations, and radically different time preferences between participants. Including who funds a Starway — and why a Carbon-O investing in a century-long construction project makes economic sense in a way it never could for a squishy.
+What Carbon-Os trade with each other and with squishies across Sol. The exchange layer of a civilisation with multiple substrates, multiple locations, and radically different time preferences between participants. Including who funds a Voidway — and why a Solkin investing in a century-long construction project makes economic sense in a way it never could for a Human.
 
-**[Starfuel — Energy and Propulsion Toward the Nearby Stars]({{< ref "starfuel/_index.md" >}})**
-Three fuels, three research programmes. Fission available now — adequate for Sol and early Starway. Fusion the primary urgent programme. Antimatter the long-horizon concurrent programme — the correct fuel for a mature Starway, century-scale, the Carbon-O research field of choice. The belt is the correct research location for all three.
+**[Voidfuel — Energy and Propulsion for the Void]({{< ref "voidfuel/_index.md" >}})**
+Three fuels, three research programmes. Fission available now — adequate for Sol and early Voidway. Fusion the primary urgent programme. Antimatter the long-horizon concurrent programme — the correct fuel for a mature Voidway, century-scale, the Solkin research field of choice. The belt is the correct research location for all three.
 
-**[Starway — The Staged Pathway to the Stars]({{< ref "starway/_index.md" >}})**
-The pioneer goes first on the best available drive, builds deceleration infrastructure at the destination, signals back. The Starway opens from the destination end. The establishment mission follows — full bootstrap payload, independent node, self-sustaining without Sol resupply. Regular transit after that, physical and data both. One bad event from extinction is basic engineering redundancy. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
+**[Voidway — The Staged Pathway to the Stars]({{< ref "voidway/_index.md" >}})**
+The pioneer goes first on the best available drive, builds deceleration infrastructure at the destination, signals back. The Voidway opens from the destination end. The establishment mission follows — full bootstrap payload, independent node, self-sustaining without Sol resupply. Regular transit after that, physical and data both. Multiple Voidways form the Voidweb — the full interstellar network as each node launches the next pioneer. One bad event from extinction is basic engineering redundancy. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
 
 **[Contact — Protocols for First Encounter]({{< ref "contact/_index.md" >}})**
-The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: squishies elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. The Starway is strategic depth. Solkin is the identity of the civilisation meeting the other.
+The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: squishies elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. The Voidway is strategic depth. Solkin is the identity of the civilisation meeting the other.
 
 ---
 
