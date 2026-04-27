@@ -24,6 +24,8 @@ Squishy is the nickname. Intelligent biological is the source of truth. In the c
 
 The term applies to any intelligent biological actor regardless of planet of origin, species, or evolutionary history. Humans are squishies. Any intelligent biological species encountered through Contact is also a squishy — the definition requires narrow environmental tolerances and life-support dependence, not human DNA. A silicon-based biological organism with narrow tolerances is a squishy. A carbon-based organism that somehow handles vacuum and radiation without life support is not.
 
+**Humans are the Sol-origin instance of squishies.** When the corpus refers to squishies in a Contact context — alien biologicals, species encountered elsewhere — the term is squishies. When referring specifically to Earth-origin biological Solkin, the correct term is Human. The two are not interchangeable. A squishy is any intelligent biological with narrow environmental tolerances. A Human is a squishy from Earth. Where the corpus uses squishy when it means specifically Human, that is imprecision to be corrected, not a synonym to be accepted.
+
 Squishies does not apply to non-intelligent biological life — cats, dogs, bacteria, plants. The corpus uses squishies in the context of intelligence and civilisational actors, not every organism with a metabolism.
 
 **The defence of the term:**
@@ -136,4 +138,4 @@ The task-specific interface fitted around the o-core. Not part of the Carbon-O's
 The o-skin is changed for the task. The o-core is unchanged. Bodies become fashion, tools, or temporary architecture rather than permanent identity.
 
 
-*Primer document. First version: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Vero and Solkin sections; Ani/Grok (xAI) — o-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus, Solkin coinage; ChatGPT (OpenAI) — soft biological / squishy alias structure. Content: CC BY 4.0.*
+*Primer document. First version: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Vero and Solkin sections; Ani/Grok (xAI) — o-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus, Solkin coinage; ChatGPT (OpenAI) — squishy/Human substrate distinction, species vs substrate clarification. Content: CC BY 4.0.*
