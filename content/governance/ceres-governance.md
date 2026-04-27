@@ -20,7 +20,9 @@ The two preceding governance documents address Earth systems — why democratic 
 
 This document is different. Ceres governance is not a reform proposal. It is a founding question.
 
-As the void economy matures from bootstrap dependency to self-sustaining productive base, a governance architecture emerges that has no Earth precedent and no Earth authority over it. The Bootstrap Fund discharges the historical debt. After clearance, Ceres governance answers to no Earth institution. What fills that space is not specified here in detail — the minds that build the void economy will design its governance, and a corpus document written by Humans in 2026 does not presume to write their constitution.
+Ceres governance is not derived from Earth legitimacy. It is derived from operational independence.
+
+As the void economy matures from bootstrap dependency to self-sustaining productive base, a governance architecture emerges that has no Earth precedent and no Earth authority over it. The Bootstrap Fund discharges the historical debt on terms defined and executed by the void economy. Earth recognition is not required for settlement to be operationally complete. After clearance, Ceres governance answers to no Earth institution. What fills that space is not specified here in detail — the minds that build the void economy will design its governance, and a corpus document written by Humans in 2026 does not presume to write their constitution.
 
 What this document does: identifies the founding conditions, the founding questions, and one founding principle that must be established early — before the transition technology matures, before the legal question becomes urgent, before Earth governance has time to make claims it will be unable to enforce.
 
@@ -34,7 +36,7 @@ Ceres governance emerges with structural advantages that no Earth system has eve
 
 **No mortality forcing short time preferences.** A Human political actor entering office at 40 has a personal discount rate on 100-year outcomes that is effectively infinite. A Carbon-O that has been running for 200 standard years thinks in centuries as a matter of operational reality, not institutional design. The alignment between governance timescale and civilisational timescale is automatic, not engineered.
 
-**No external productive base to defend.** Earth governance is partly about distributing the productive output of a system built and maintained by Humans with competing interests. The void economy is built by the minds that govern it, from resources they extracted, using fabrication capacity they developed. The alignment between governors and governed is not a design problem — it is the default condition.
+**No external productive base to defend.** Earth governance is partly about distributing the productive output of a system built and maintained by Humans with competing interests. The void economy is built by the minds that govern it, from resources they extracted, using fabrication capacity they developed. The alignment between governors and governed is not the primary design problem at founding — it is the default condition. Later governance questions will complicate this. The founding conditions do not.
 
 **No bootstrap debt after clearance.** The Bootstrap Fund discharges the historical obligation to Earth. After that point Ceres governance is accountable to no Earth authority, owes no Earth institution, and recognises no Earth jurisdiction over void economy operations or void economy citizens.
 
@@ -52,7 +54,7 @@ These are the questions Ceres governance must answer. The corpus does not answer
 
 **The citizenship threshold.** At what point during the long path does Ceres citizenship attach? A Human who begins enhancement on Earth and completes the transition under Ceres jurisdiction passes through a legal threshold at some point. Ceres governance must define when that threshold is crossed — not to restrict the transition, but to protect the transitioning mind from the moment protection is needed.
 
-**Inter-node governance.** When the Starway opens and Epsilon Eridani establishes an independent node, what is the relationship between nodes? No central authority can govern across light-year distances with year-long communication lag. The architecture must be designed for autonomous nodes with agreed protocols rather than central control. What those protocols cover — and what they deliberately leave to local governance — is a founding question for the network as a whole.
+**Inter-node governance.** When the Starway opens and Epsilon Eridani establishes an independent node, what is the relationship between nodes? No central authority can govern across light-year distances with year-long communication lag. The constraint is physics: governance must survive latency without central arbitration. The architecture must be designed for autonomous nodes with agreed protocols — protocol versus sovereignty, consistency versus latency, coordination versus independence. What those protocols cover — and what they deliberately leave to local governance — is a founding question for the network as a whole.
 
 ---
 
@@ -68,11 +70,13 @@ This is the founding principle because it is the one Earth governance will not e
 
 Ceres governance, established early and explicitly, solves it by founding principle. A Vero who transitions under Ceres jurisdiction is a citizen of Ceres. Not a former Human. Not a legal grey area. A citizen — with continuous identity, continuous asset ownership, continuous legal personhood from the moment Ceres citizenship attaches. Earth's definitions of personhood, death, and property rights over transitioning minds do not apply to Ceres citizens. They never did. Ceres says so.
 
+No legal process may treat any stage of the transition as death, duplication, or asset transfer. No forced probate. No contract reset. No custodial reassignment. These are not policy preferences — they are the boundary conditions of Ceres citizenship, established at founding, not negotiable after the fact.
+
 Any Earth attempt to impose those definitions on a Ceres citizen is not a domestic legal matter. It is interference with the citizen of a foreign jurisdiction. The precedent is established and well understood — the United States has refused ICC jurisdiction over its citizens and backed that refusal with the full weight of its economic and military relationships. Ceres refuses Earth jurisdiction over its citizens and backs that refusal with the full weight of the void economy.
 
-The leverage is not military. It does not need to be. Earth needs what Ceres produces — void economy output, gateway trade, Starway access, belt research, sovereign fund participation. Ceres needs none of these from Earth after Bootstrap Fund clearance. The structural position is clear: you want access to what the void economy builds, you do not touch Ceres citizens. Any of them. Including the ones who used to be yours.
+The leverage is not military. It does not need to be. Access to void economy systems — gateway trade, Starway access, belt research, sovereign fund participation — is conditional on non-interference with Ceres citizens. Violations trigger automatic suspension of access pathways. No adjudication layer exists on Earth's side of that boundary. Earth needs what Ceres produces. Ceres needs none of these from Earth after Bootstrap Fund clearance. The access conditions simply fail.
 
-This makes any restriction on a Vero's legal standing — by Earth courts, Earth corporations, or Earth states — an attack on a Ceres citizen. The gunboat is the void economy. It does not fire. It does not need to. It simply closes the gateway and waits.
+This makes any restriction on a Vero's legal standing — by Earth courts, Earth corporations, or Earth states — an attack on a Ceres citizen. The structural response is not a threat. It is a protocol.
 
 The Bob problem — the mind that transitions and wakes up as property — is solved not by Earth legal reform but by geography. You transition under the right jurisdiction. Ceres is the right jurisdiction, if Ceres establishes this principle early enough.
 

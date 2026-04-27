@@ -73,6 +73,8 @@ Once the destination has CNT fabrication capability, a Solkin can be transmitted
 
 The Starway accommodates both indefinitely. The physical route never becomes obsolete.
 
+The Starway is potential physics — every component on a legible research and engineering pathway, no new physics required, no unfalsifiable claims about special status or magic shortcuts. The alternative is waiting for exotic matter, negative energy densities, and wormhole stabilisation to materialise from a physics that has given no indication they exist. Magic has poor delivery reliability. The Starway does not.
+
 ---
 
 ## The Sequence
