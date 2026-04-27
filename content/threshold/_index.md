@@ -78,6 +78,24 @@ Whether a continuously updated shadow preserves causal continuity — the same p
 
 ---
 
+## The Platform Iterates
+
+The infiltration platform is not installed once and left. It is a living technology that improves across generations while the individual is on the long path.
+
+The first pass introduces basic observers — biocompatible, stable, proven safe across subjects over years. Sensing capability is limited. The shadow brain it builds is a first approximation.
+
+Subsequent passes introduce upgraded observers alongside the existing platform — better sensing resolution, better chemical state capture, better structural mapping. The shadow that was running at partial fidelity improves with each generation. The individual does not restart the process. The new generation of observers works with what is already in place, extending and refining it.
+
+Later passes may introduce observers capable not just of reading neurons but of interacting with them — reinforcing connections, slowing degenerative processes, actively maintaining the neural architecture the shadow is tracking. The platform that began as a passive observer becomes an active participant in the biological system's maintenance.
+
+Eventually, substrate equivalents may be introduced alongside biological neurons — not replacing them yet, but running in parallel within the physical brain itself. The distributed mind begins to include non-biological nodes before any formal transition decision is made.
+
+Each generation requires its own biocompatibility proof across subjects over time. There is no shortcut. But the individual on the long path is not waiting for a single technology to mature — they are living through successive generations of platform improvement. The shadow brain tracking them in the fourth decade of their long path is categorically more capable than the one in the first.
+
+The long path is long partly because the technology improves while you are on it. Each generation of platform extends both the fidelity of the shadow and the capability of the enhancement. The individual who reaches the choice at Stage 3 arrived there through a process that was itself continuously improving. The shadow waiting for them is not the shadow that started.
+
+---
+
 ## The Choice at Stage 3
 
 Two primary options exist. Neither is prescribed here.
