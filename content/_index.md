@@ -37,8 +37,8 @@ The staged pathway to permanent self-sustaining presence at Ceres. The permanent
 **[Substrate — Carbon-O Minds and the Bodies They Control]({{< ref "substrate/_index.md" >}})**
 A Carbon-O is an o-mind running on an o-core. The o-skin is what it wears. What the space environment selects for on timescales longer than a human lifetime. The o-core is the permanent substrate — CNT currently, but the architecture outlasts any specific material. The o-skin is task-specific and scale-agnostic. Not a document about uploading human consciousness. A document about what emerges when the engineering finds its own answer.
 
-**[Threshold — From Human to Human-Vero]({{< ref "threshold/_index.md" >}})**
-The staged pathway from biological Human to Human-Vero — the transitioned form, continuous with Human lineage, not post-human, not AI. Begins not with transfer but with enhancement adopted for cognitive reasons. The infrastructure for transfer is built as a consequence of infrastructure built for entirely different reasons. Human-Vero is an identity category, not a substrate category — the lineage claim that connects a transitioned being to its Human origin. The informal term is Vero. The gradient between Human and Vero has no clean crossing point. That is by design.
+**[Threshold — The Long Path]({{< ref "threshold/_index.md" >}})**
+The pathway from Human to Vero. It begins with capability, not with transfer. It ends wherever the individual chooses. The gradient between the two has no clean crossing point. That is by design.
 
 **[Trader — The Economics of a Multi-Substrate Civilisation]({{< ref "trader/_index.md" >}})**
 What Carbon-Os trade with each other and with squishies across Sol. The exchange layer of a civilisation with multiple substrates, multiple locations, and radically different time preferences between participants. Including who funds a Starway — and why a Carbon-O investing in a century-long construction project makes economic sense in a way it never could for a squishy.

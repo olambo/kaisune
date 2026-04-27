@@ -1,5 +1,5 @@
 ---
-title: "Threshold: From Human to Human-Vero"
+title: "Threshold: The Long Path"
 date: 2026-04-27
 lastmod: 2026-04-27
 draft: false
