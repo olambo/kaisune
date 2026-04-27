@@ -1,7 +1,7 @@
 ---
 title: "Kaisune"
 date: 2026-03-29
-lastmod: 2026-04-17
+lastmod: 2026-04-27
 draft: false
 ---
 
@@ -37,21 +37,21 @@ The staged pathway to permanent self-sustaining presence at Ceres. The permanent
 **[Substrate — Carbon-O Minds and the Bodies They Control]({{< ref "substrate/_index.md" >}})**
 A Carbon-O is an o-mind running on an o-core. The o-skin is what it wears. What the space environment selects for on timescales longer than a human lifetime. The o-core is the permanent substrate — CNT currently, but the architecture outlasts any specific material. The o-skin is task-specific and scale-agnostic. Not a document about uploading human consciousness. A document about what emerges when the engineering finds its own answer.
 
-**[Threshold]({{< ref "threshold/_index.md" >}}) — Staying Operational Long Enough**
-The biological longevity question: what keeps a squishy functional and cognitively sharp long enough for the substrate transition to become viable. Not a document about any specific individual. A document about the engineering of biological persistence at the edge of the transition.
+**[Threshold — From Human to Human-Vero]({{< ref "threshold/_index.md" >}})**
+The staged pathway from biological Human to Human-Vero — the transitioned form, continuous with Human lineage, not post-human, not AI. Begins not with transfer but with enhancement adopted for cognitive reasons. The infrastructure for transfer is built as a consequence of infrastructure built for entirely different reasons. Human-Vero is an identity category, not a substrate category — the lineage claim that connects a transitioned being to its Human origin. The informal term is Vero. The gradient between Human and Vero has no clean crossing point. That is by design.
 
-**[Trader]({{< ref "trader/_index.md" >}}) — The Economics of a Multi-Substrate Civilisation**
+**[Trader — The Economics of a Multi-Substrate Civilisation]({{< ref "trader/_index.md" >}})**
 What Carbon-Os trade with each other and with squishies across Sol. The exchange layer of a civilisation with multiple substrates, multiple locations, and radically different time preferences between participants. Including who funds a Starway — and why a Carbon-O investing in a century-long construction project makes economic sense in a way it never could for a squishy.
 
-**[Starfuel]({{< ref "starfuel/_index.md" >}}) — Energy and Propulsion Toward the Nearby Stars**
+**[Starfuel — Energy and Propulsion Toward the Nearby Stars]({{< ref "starfuel/_index.md" >}})**
 Three fuels, three research programmes. Fission available now — adequate for Sol and early Starway. Fusion the primary urgent programme. Antimatter the long-horizon concurrent programme — the correct fuel for a mature Starway, century-scale, the Carbon-O research field of choice. The belt is the correct research location for all three.
 
-**[Starway]({{< ref "starway/_index.md" >}}) — The Staged Pathway to the Stars**
+**[Starway — The Staged Pathway to the Stars]({{< ref "starway/_index.md" >}})**
 The pioneer goes first on the best available drive, builds deceleration infrastructure at the destination, signals back. The Starway opens from the destination end. The establishment mission follows — full bootstrap payload, independent node, self-sustaining without Sol resupply. Regular transit after that, physical and data both. One bad event from extinction is basic engineering redundancy. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
 
-**[Contact]({{< ref "contact/_index.md" >}}) — Protocols for First Encounter**
+**[Contact — Protocols for First Encounter]({{< ref "contact/_index.md" >}})**
 The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: squishies elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. The Starway is strategic depth.
 
 ---
 
-*Kaisune. First document: 29 March 2026. This index: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
+*Kaisune. First document: 29 March 2026. This index: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic), Ani/Grok (xAI), ChatGPT (OpenAI), Gemini (Google). Content: CC BY 4.0. Site code: MIT.*
