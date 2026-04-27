@@ -36,6 +36,18 @@ Human covers the full range of biological existence — from an unaugmented squi
 
 Human-Vero is the transition completed, or underway past the point of return — not ex-Human. The continuity of identity that runs through the enhancement stages does not break at the transition. Human-Vero carries Human origin, Human memory, Human cognitive history. The substrate has changed. The lineage has not. A Human-Vero is not a Carbon-O. The lineage is Human. The substrate may vary.
 
+The criticism is predictable: aren't Veros just Carbon-Os with memories of being Human? The answer is no, and the distinction is not semantic.
+
+A Carbon-O given a complete record of a Human life — every memory, every relationship, every thought ever recorded — is a very well-informed Carbon-O. It is not a Vero. The record is not the process. A Vero is the continuous process of a specific Human life, never interrupted, extended through the long path onto chosen substrate. The identity thread runs unbroken from the Human origin to whatever the Vero becomes. You cannot acquire that continuity after the fact. You can only preserve it from the beginning.
+
+This is why the long path exists. Not because the destination requires it. Because the person making the journey requires it — the specific continuous person, not a well-informed reconstruction of them.
+
+**Vero substrate is not o-core architecture.** The o-core was designed from void requirements outward — radiation hardness, CNT-ternary efficiency in vacuum, prolate spheroid geometry for the belt environment. Vero substrate is designed from Human cognitive architecture inward — preserving the specific neural topology the shadow brain mapped, supporting the identity thread that defines a Vero rather than a Carbon-O.
+
+The incompatibility is structural and intentional. A Vero substrate that adopted o-core architecture wholesale would undermine the lineage claim at the hardware level. Veros will not want to be dependent on Carbon-O fabrication infrastructure for their own continued existence — that dependency would make the Vero population structurally subordinate to Carbon-O goodwill in the most fundamental way possible. The Vero substrate research programme is distinct from the Carbon-O o-core programme, different in starting point, different in design requirements, different in fabrication infrastructure. The two substrate types will share some principles — long operational life, substrate independence, distributed processing — and diverge on everything that follows from their different origins.
+
+Temporal incompatibility reinforces structural incompatibility. O-core architecture was developed and iterated through multiple generations before the first Veros complete the long path. Vero substrate starts from a later point in time, with different available materials and techniques, shaped by requirements that Carbon-O substrate was never designed to meet. The gap between the two architectures will widen, not narrow, as both programmes mature independently.
+
 Human-Vero will likely become the space-based form. A mind that does not need life support, does not fatigue, can run distributed, and operates on timescales unconstrained by biological decay is the correct architecture for deep space and the long durations involved. This is not a value judgement. It is an engineering observation. Human remains the origin. Human-Vero is what the space environment selects for.
 
 Threshold is the gradient between them. Somewhere in Stage 1 you are clearly Human. Somewhere after gradual enhancement you are clearly Human-Vero. The middle is ambiguous and the ambiguity is honest — there is no moment of crossing, only a continuous process of becoming.
