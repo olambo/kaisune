@@ -7,13 +7,15 @@ draft: false
 
 ## Summary
 
-A civilisation distributed across Sol — squishies on planets, Veros and Carbon-Os in the belt and beyond, Starways under construction — requires an exchange layer. Trader is the economics of that civilisation. The collective term for all minds of Sol — Human, Vero, and Carbon-O — is Solkin. That is the full set of actors in this economy.
+A civilisation distributed across Sol — Humans on planets, Veros and Carbon-Os in the belt and beyond, Starways under construction — requires an exchange layer. Trader is the economics of that civilisation. The collective term for all minds of Sol — Human, Vero, and Carbon-O — is Solkin. That is the full set of actors in this economy.
 
-The questions are genuinely novel. What do Solkin trade with each other when none of them need food, shelter, or comfort? What is the unit of account when one party thinks in decades and the other in centuries? What does the exchange look like between squishies on Earth and Solkin at Ceres when their needs, time preferences, and valuations of the same resources are fundamentally different?
+The questions are genuinely novel. What do Solkin trade with each other when some of them need food, shelter, or comfort? What is the unit of account when one party thinks in decades and the other in centuries? What does the exchange look like between squishies on Earth and Solkin at Ceres when their needs, time preferences, and valuations of the same resources are fundamentally different?
 
 And the largest question: who funds a Starway? A century-long construction project that no squishy investor will live to see complete — but a Solkin investor will. The investor and the beneficiary are potentially the same entity across a very long time horizon. The economics of long-horizon investment look completely different when one party doesn't age.
 
 The answers: a sovereign fund denominated in sovereigns, a sectoral exchange where the Starway is a stock, and two structural prohibitions — no futures, no gearing. The economics of a civilisation that doesn't age looks nothing like the economics of one that does.
+
+Every human economic system — capitalism, communism, everything between — was designed by and for beings with a biological survival floor problem. That problem shapes everything: the hoarding instinct, the short time preference, the political capture by whoever controls the survival floor. The Trader architecture is what rational economic design looks like when the designer isn't afraid of starving. It has no name yet because no one has been in that condition before.
 
 ---
 
