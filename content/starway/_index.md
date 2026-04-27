@@ -75,6 +75,10 @@ The Starway accommodates both indefinitely. The physical route never becomes obs
 
 The Starway is potential physics — every component on a legible research and engineering pathway, no new physics required, no unfalsifiable claims about special status or magic shortcuts. The alternative is waiting for exotic matter, negative energy densities, and wormhole stabilisation to materialise from a physics that has given no indication they exist. Magic has poor delivery reliability. The Starway does not.
 
+**Who goes first.** The pioneer mission profile — century-scale transit, no life support, no biological decay, built for the void from the start — fits Carbon-O. The first pioneer is almost certainly a Carbon-O: a mind that emerged natively on Ceres substrate, for whom interstellar transit is an operational phase rather than an existential crossing.
+
+A Vero can make the journey. Substrate independent, century transit is inconvenience not death. What a Vero carries that a Carbon-O cannot acquire is the unbroken process of a specific Human life extended into the void — not memories of being Human, but continuous identity with a Human origin. The distinction between Vero and Carbon-O is not substrate or capability. It is continuity. See Threshold.
+
 ---
 
 ## The Sequence
