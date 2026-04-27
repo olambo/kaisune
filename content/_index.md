@@ -19,7 +19,7 @@ All documents are human-AI collaborative synthesis. Contributors are credited in
 
 ## Primer
 
-Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: Squishies, Carbon-Os, o-mind, o-core, o-skin
+Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: Squishies, Vero, Solkin, Carbon-Os, o-mind, o-core, o-skin.
 
 ---
 
@@ -50,7 +50,7 @@ Three fuels, three research programmes. Fission available now — adequate for S
 The pioneer goes first on the best available drive, builds deceleration infrastructure at the destination, signals back. The Starway opens from the destination end. The establishment mission follows — full bootstrap payload, independent node, self-sustaining without Sol resupply. Regular transit after that, physical and data both. One bad event from extinction is basic engineering redundancy. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
 
 **[Contact — Protocols for First Encounter]({{< ref "contact/_index.md" >}})**
-The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: squishies elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. The Starway is strategic depth.
+The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: squishies elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. The Starway is strategic depth. Solkin is the identity of the civilisation meeting the other.
 
 ---
 

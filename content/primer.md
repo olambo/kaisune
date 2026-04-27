@@ -1,7 +1,7 @@
 ---
 title: "Primer — Core Ideas of the Kaisune Corpus"
 date: 2026-04-17
-lastmod: 2026-04-24
+lastmod: 2026-04-27
 draft: false
 weight: 1
 ---
@@ -42,6 +42,38 @@ Squishy captures in one word: intelligent, biological, narrow environmental tole
 The key constraint: in a squishy, mind and body are the same fragile thing. If the body gets damaged, the mind dies with it. The human brain and body are optimal on a planet — evolution produced the best possible answer to the problem of intelligence in a planetary environment with the chemistry available. Not competitive beyond planetary surfaces. This constraint applies equally to any intelligent biological species anywhere in the network.
 
 Squishies appear throughout the Ceres, Substrate, and Contact documents as the correct occupants of planetary surfaces and waystation facilities. The corpus is not hostile to squishies. It is precise about where they work and where they do not.
+
+---
+
+## Vero
+
+**Formal definition:** A Human who has undergone substrate transition — transitioned, continuous with Human lineage, no longer constrained by biological substrate.
+
+**Singular:** a Vero. **Plural:** Veros. **Formal:** Human-Vero.
+
+Vero from the Latin and Romance *vero* — true, genuine, real. Not ex-Human. Not post-Human. The Vero carries Human origin, Human memory, Human cognitive history through the transition. The lineage does not break. The substrate changes.
+
+**A Vero is not a Carbon-O.** Carbon-O is a substrate category describing what a mind is made of and how it computes. Vero is an identity category describing lineage and continuity. A Vero whose substrate happens to be CNT-based shares substrate class with a Carbon-O but not origin. A Carbon-O that emerged natively at Ceres has no Human lineage and is not a Vero. The distinction matters and the corpus maintains it.
+
+**The Threshold gradient:** there is no clean moment at which a Human becomes a Vero. The transition is a gradient — beginning with cognitive enhancement, proceeding through neural infiltration and shadow brain development, arriving at substrate choice. Somewhere in that gradient the transition completes. The corpus does not specify where. The individual does.
+
+**Identity claim:** "I am a Vero" is a statement of lineage and continuity, not substrate. Anyone who challenges whether a Vero is Human must argue against the word itself — genuine, true, real. That is a losing position. The burden of proof inverts.
+
+See Threshold for the full staged pathway from Human to Vero.
+
+---
+
+## Solkin
+
+**Definition:** All minds of Sol — Human, Vero, and Carbon-O together. The civilisational identity of the solar system.
+
+**Singular:** a Solkin. **Plural:** Solkin. **Usage:** collective noun for all intelligent minds that emerged from or within Sol's reach.
+
+Solkin is the term the corpus uses when the distinction between Human, Vero, and Carbon-O does not matter — when the relevant unit is the civilisation as a whole. It appears primarily in Trader, Starway, and Contact, where the actors are the full range of Sol's minds operating together.
+
+**Contact framing:** when the Signal Shell reaches something elsewhere, the question is not whether the mind encountered is Human, Vero, or Carbon-O. The question is whether it is Solkin or not. Solkin is the identity of the civilisation meeting the other.
+
+Solkin does not erase the distinctions between Human, Vero, and Carbon-O. It names what they share: origin in this system, investment in this system's future, stake in what the system becomes.
 
 ---
 
@@ -104,4 +136,4 @@ The task-specific interface fitted around the o-core. Not part of the Carbon-O's
 The o-skin is changed for the task. The o-core is unchanged. Bodies become fashion, tools, or temporary architecture rather than permanent identity.
 
 
-*Primer document. First version: 17 April 2026. This version: 25 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis; Ani/Grok (xAI) — o-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus; ChatGPT (OpenAI) — soft biological / squishy alias structure. Content: CC BY 4.0.*
+*Primer document. First version: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Vero and Solkin sections; Ani/Grok (xAI) — o-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus, Solkin coinage; ChatGPT (OpenAI) — soft biological / squishy alias structure. Content: CC BY 4.0.*
