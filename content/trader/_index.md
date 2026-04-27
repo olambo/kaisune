@@ -35,9 +35,15 @@ The fund holds the accumulated productive output of Solkin operations: processed
 
 Every Solkin receives a base stipend from the sovereign fund — sufficient to cover operational costs and substrate maintenance appropriate to their substrate type. No Solkin falls below operational viability. The stipend is the floor. A Solkin that makes poor investment decisions loses discretionary sovereigns above the stipend, not the stipend itself. Existential insolvency is architecturally impossible.
 
-**What operational viability means differs by substrate.** For Carbon-Os: o-core maintenance and o-skin upkeep — predictable, substrate-defined, relatively fixed. For Veros: substrate maintenance for whatever form they have chosen — variable, depending on the transition pathway and destination substrate. For Humans: food, shelter, healthcare, life support — a different order of complexity entirely, and a governance problem the corpus does not resolve here. The principle holds across all three: no Solkin falls below the floor. The implementation of that floor for each substrate type is a governance question specific to that type.
+**What operational viability means differs by substrate — and the architecture differs accordingly.**
 
-**Veros and the stipend:** A fully transitioned Vero receives a stipend calibrated to their chosen substrate — substrate independence is the qualification for full Solkin stipend, not origin. A Vero in gradual replacement receives a proportional stipend reflecting their degree of substrate independence. The exact calibration is a governance question. The principle holds: no Solkin falls below operational viability.
+For Carbon-Os and Veros: substrate maintenance funded directly from the sovereign fund. Predictable, substrate-defined, administered within the exchange architecture. The stipend is the floor below which no sovereign exchange participant falls.
+
+For Veros in transition: proportional sovereign access scaling with substrate independence. As biological dependency decreases, sovereign fund participation increases. Full transition, full access, full 1/10 rules.
+
+For Humans: a partial stipend funded by the Human-facing gateway layer, not the sovereign fund. Needs-based, variable, administered separately. The sovereign exchange architecture is genuinely mismatched to biological time preferences — importing Human needs-variability into the sovereign fund would import exactly the noise the architecture was designed to exclude. The Human floor exists. It runs on different infrastructure.
+
+**Veros and the stipend:** A fully transitioned Vero receives full sovereign fund participation — the same stipend architecture as a Carbon-O, calibrated to their chosen substrate. A Vero in gradual replacement receives proportional sovereign access reflecting their degree of substrate independence. The Human gateway stipend decreases as sovereign fund access increases. At full transition the gateway stipend ends. The economic architecture mirrors the transition itself.
 
 **No credit:**
 
@@ -248,7 +254,7 @@ That is the economic architecture that squishy financial instruments cannot repl
 ## Open Questions
 
 - **Sovereign issuance:** How are new sovereigns issued? Against what productive milestone? Who determines the issuance rate and by what governance mechanism?
-- **Stipend calibration:** What constitutes sufficient operational coverage across three substrate types — how is the stipend level set per substrate, and by whom? As substrate technology improves and operational costs change, who adjusts the stipend and on what basis? The Human stipend question is categorically different from the Vero or Carbon-O equivalent and may require separate governance entirely.
+- **Stipend calibration:** For Carbon-Os and Veros: who sets the sovereign fund stipend level, and how does it adjust as substrate technology improves? For Humans: who administers the gateway stipend, on what basis, and how does it interact with the Vero transition gradient? The Human stipend governance is categorically different from the sovereign fund equivalent and almost certainly requires separate governance architecture.
 - **Squishy speculation in sovereigns:** If sovereigns become exchangeable for squishy currencies, squishies will speculate on the exchange rate. How does the Solkin exchange insulate itself from squishy speculation without closing the interface entirely? The boundary needs to be mechanical, not just philosophical — squishy market narratives can leak into Solkin decision loops even when Solkin minds are individually rational.
 - **Sector governance:** Who decides what constitutes the Starway sector versus the Substrate sector? Who adjudicates disputes about sector classification? The exchange needs governance that does not recreate squishy regulatory capture.
 - **Misallocation without bankruptcy:** No credit removes insolvency but does not remove being wrong for 200 standard years. A Solkin can allocate heavily to a dead-end sector, continue the mandatory 1/10 out of inertia, and never face a hard correction — only slow opportunity bleed. Candidate mechanisms: reputation layers that track who has been right over centuries; allocation mimicry pressure where successful patterns propagate. Neither is specified here. The question is noted.
@@ -272,7 +278,7 @@ That is the economic architecture that squishy financial instruments cannot repl
 
 1. **The sovereign fund compounds on Solkin timescales:** No mortality forcing distributions. No pension obligations. No intergenerational transfer problem. The fund grows, and sovereigns represent an ever-larger claim on an ever-larger productive base. Squishy sovereign wealth funds are a pale approximation.
 
-2. **The stipend makes insolvency impossible:** Every Solkin receives a base stipend sufficient for operational viability appropriate to their substrate type. No Solkin falls below the floor. Combined with the prohibition on credit, existential bankruptcy is not just prevented — it is architecturally impossible.
+2. **The stipend makes insolvency impossible — through two separate architectures:** Carbon-Os and Veros receive a sovereign fund stipend. Humans receive a gateway stipend. Both floors hold. Neither system contaminates the other. The Vero transition gradient bridges the two. Combined with the prohibition on credit, existential bankruptcy is not just prevented — it is architecturally impossible.
 
 3. **No credit resolves the bankruptcy question:** You can only allocate what you hold. Without debt there is no creditor. Without a creditor there is no bankruptcy. The question answers itself.
 
