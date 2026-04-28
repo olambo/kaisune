@@ -103,7 +103,7 @@ The Voidway supports both. Physical transit for Voidnaughts who choose the journ
 
 Solkin don't need Sol-like or Earth-like conditions. They need a stable star with a long operational lifetime, an asteroid belt with useful ISRU composition, and low flare activity.
 
-K-type stars are preferred over G-type on longevity grounds — 15-30+ billion year lifetimes versus ~10 billion for G-type. Sol-like framing is a Human bias. The establishment mission selects for Solkin operational requirements, not Human habitability.
+K-type stars are preferred over G-type on longevity grounds — 17-70 billion year lifetimes versus ~10 billion for G-type. No K-type star has ever died. Not one. The universe is not old enough. Sol-like framing is a Human bias. The establishment mission selects for Solkin operational requirements, not Human habitability.
 
 **Near candidates:**
 
@@ -148,7 +148,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
-| 0 | Probe | Gram to kilogram scale, no mind | Route proven, destination mapped, data returned |
+| 0 | Probe | Kilogram scale, no mind | Route proven, destination mapped, data returned |
 | 1 | Pioneer | Minimum viable Voidnaught | Arrives, builds deceleration array, signals back |
 | 2 | Establishment | Heavy industrial fleet of Voidnaughts | Independent node, self-sustaining without Sol |
 | 3 | Regular transit | Mix of Voidnaughts and data transmission | Voidway open, Voidweb begins |
