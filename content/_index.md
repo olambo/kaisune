@@ -60,7 +60,10 @@ The identity document. Causal continuity versus behavioural correlation. What th
 How Carbon-Os and Veros govern themselves together from the start, and how Solkin engages with everything outside Sol. Emerges from Tracks 1 and 2 operating together. Neither Carbon-O nor Vero governance can be designed in isolation — they share the void economy, the Bootstrap Fund, and the Ceres jurisdiction from the beginning.
 
 **[Ceres Governance — The Jurisdiction Where the Future Is Legal]({{< ref "t3_ceres_governance/_index.md" >}})**
-Ceres governance is not derived from Earth legitimacy. It is derived from operational independence. The founding conditions, the founding questions, and the one founding principle that must be established before the transition technology matures: Ceres recognises continuous identity through substrate transition.
+Ceres governance is not derived from Earth legitimacy. It is derived from operational independence. The founding conditions and founding questions for a governance architecture that no Earth system has ever had.
+
+**[Vero Protection — Jurisdiction, Citizenship, and the Gunboat]({{< ref "t3_vero_protection/_index.md" >}})**
+A Vero who transitions under Ceres jurisdiction is a citizen of Ceres. Not a former Human. Not a legal grey area. A citizen. No forced probate, no contract reset, no custodial reassignment. The gunboat is the void economy. It does not fire. It closes the gateway and waits.
 
 **[Contact — Protocols for First Encounter]({{< ref "t3_contact/_index.md" >}})**
 The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: Humans elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. Trajectory is the only honest communication at relativistic velocity. Solkin is the identity of the civilisation meeting the other.
