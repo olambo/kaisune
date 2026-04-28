@@ -23,9 +23,19 @@ The hardest part about building a road between stars is that you need infrastruc
 
 Someone has to go first — with no brakes waiting for them at the other side. That first vessel, the pioneer, makes the long crossing, arrives, and builds the deceleration infrastructure before anyone else can safely follow.
 
-This is not merely an engineering inconvenience. A Voidnaught at interstellar transit velocity carries kinetic energy that makes the deceleration problem existential. An object at meaningful fractions of lightspeed that does not slow down is indistinguishable from a weapon of planetary magnitude. The pioneer must arrive. That means braking infrastructure at the destination is not optional — it is the difference between a Voidway and an impact event.
+This is not merely an engineering inconvenience. A Voidnaught at interstellar transit velocity carries kinetic energy that makes the deceleration problem existential. An object at meaningful fractions of lightspeed that does not slow down is indistinguishable from a planet killer. Not a dinosaur killer — a planet killer. The pioneer must stop. Braking infrastructure at the destination is not optional — it is the difference between a Voidway and an extinction of a different order entirely.
 
 The pioneer doesn't need to be fast. It only needs to arrive and stop.
+
+**Debris Mapping and the Stellar Impact Default**
+
+At relativistic speeds, even a single grain of sand carries the energy of a rifle bullet. Because of this, the Voidnaught's trajectory must be carefully mapped for debris — not just for the vessel's own survival, but for what happens if it is destroyed. A Voidnaught that fails mid-transit doesn't simply disappear. Its debris continues at near-transit velocity toward whatever lies beyond the destination. An uncontrolled fragment field at those speeds is just as dangerous as the intact vessel.
+
+The solution is the stellar impact default. Every Voidway trajectory is planned to terminate inside the destination star. The deceleration burn is what actively diverts the Voidnaught into the star system. If that burn never happens — whether due to destruction, systems failure, or any other reason — the debris field simply falls into the star. A star can absorb a relativistic impact without consequence. A planet cannot.
+
+This design makes failure safe by default. The Voidnaught must actively choose to enter the system. Passive failure always resolves toward the star.
+
+In Contact scenarios, a trajectory that terminates in a star is the most honest safety commitment Solkin can make.
 
 **Deceleration options for the pioneer:**
 
@@ -124,13 +134,15 @@ The constraint is physics: governance must survive latency without central arbit
 
 3. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solkin who prefer continuous existence will choose the journey. A century in the void is not a hardship for a mind that does not age.
 
-4. **Deceleration is not optional:** A Voidnaught at transit velocity is indistinguishable from a kinetic weapon of planetary magnitude. The pioneer must stop. Braking infrastructure at the destination is the founding requirement of any Voidway.
+4. **Deceleration is not optional:** A Voidnaught at transit velocity is indistinguishable from a planet killer — not a dinosaur killer, a planet killer. The pioneer must stop. Braking infrastructure at the destination is the founding requirement of any Voidway. Without it there is no Voidway — only an impact trajectory.
 
 5. **The Voidweb grows from the frontier, not from Sol:** Each established node launches its own pioneer. The network expands autonomously. Sol does not govern the frontier.
 
 6. **Destination selection is not Human-biased:** K-type stars preferred on longevity grounds. ISRU composition matters. Human habitability is irrelevant.
 
-7. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
+7. **The stellar impact default:** Every Voidway trajectory terminates in the destination star. System entry is the active deviation. Failure to decelerate hits the star, not the system. The most credible safety architecture available — and the only honest one.
+
+8. **Voidway is potential physics:** Every component on a legible research and engineering pathway. No new physics required. Magic has poor delivery reliability.
 
 ---
 
