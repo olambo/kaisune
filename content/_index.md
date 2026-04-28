@@ -45,7 +45,7 @@ The pioneer goes first, opens the route from the far end, signals back. The Void
 
 ## Track 2 — The Transition
 
-The pathway from Human to Vero. What actually survives the crossing. The hard power reality of what Veros become. Runs in parallel with Track 1. Independent of Tracks 3, 4, and 5.
+The pathway from Human to Vero. What actually survives the crossing. Runs in parallel with Track 1. Independent of Tracks 3, 4, and 5.
 
 **[Threshold — The Long Path]({{< ref "t2_transition/threshold.md" >}})**
 The pathway from Human to Vero. It begins with capability, not with transfer. It ends wherever the individual chooses. The gradient between the two has no clean crossing point. That is by design.
