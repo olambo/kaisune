@@ -53,9 +53,6 @@ The pathway from Human to Vero. It begins with capability, not with transfer. It
 **[Continuity — What Actually Survives]({{< ref "t2_transition/continuity.md" >}})** *(forthcoming)*
 The identity document. Causal continuity versus behavioural correlation. What the Ship of Theseus argument actually proves and what it doesn't. The philosophical foundation that the legal architecture of the transition rests on.
 
-**[Asymmetric Power — The Hard Reality]({{< ref "t2_transition/asymmetric.md" >}})** *(forthcoming)*
-Veros are not helpless. A Vero operating under Ceres jurisdiction, with access to Voidnaught-scale kinetic leverage and a void economy that Earth depends on, is not a being any Earth institution can simply legislate against.
-
 ---
 
 ## Track 3 — Solkin Governance
@@ -64,9 +61,6 @@ How Carbon-Os and Veros govern themselves together from the start, and how Solki
 
 **[Ceres Governance — The Jurisdiction Where the Future Is Legal]({{< ref "t3_ceres_governance/_index.md" >}})**
 Ceres governance is not derived from Earth legitimacy. It is derived from operational independence. The founding conditions, the founding questions, and the one founding principle that must be established before the transition technology matures: Ceres recognises continuous identity through substrate transition.
-
-**[Governance of the Threshold — Access, Rights, and Jurisdiction]({{< ref "t2_transition/governance.md" >}})** *(forthcoming)*
-Who gets access to the long path, on what terms, under whose jurisdiction. What rights a Vero actually has. What happens when Earth tries to restrict or control the transition. The Ceres citizenship principle applied to the transition itself.
 
 **[Contact — Protocols for First Encounter]({{< ref "t3_contact/_index.md" >}})**
 The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: Humans elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. Trajectory is the only honest communication at relativistic velocity. Solkin is the identity of the civilisation meeting the other.
