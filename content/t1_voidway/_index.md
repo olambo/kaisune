@@ -57,15 +57,34 @@ A kilogram-scale probe — no mind aboard, instruments only — proves the route
 
 At kilogram scale and 0.2c the kinetic energy at planetary scale remains manageable — serious if it hits something, not civilisational. The probe is expendable in a way a Voidnaught carrying a mind is not.
 
-What the probe establishes:
+**The probe does not terminate on arrival.** It enters a long-duration observation and transmission phase. A flyby gives you a snapshot. A resident probe gives you a time series — and time is where patterns confess.
+
+**What the probe establishes:**
 
 The interstellar medium density along the actual route — not modelled, measured. The trajectory accuracy achievable with current propulsion and navigation. Communication reliability across light years. The destination system's actual configuration on arrival — planetary positions, belt composition, stellar activity. And crucially: whether the deceleration infrastructure concept works before a mind depends on it.
 
-The probe data arrives at Sol roughly 10-11 years after departure for Epsilon Eridani. If something is wrong with the destination — unexpected debris, unfavourable stellar activity, navigation drift — you know before the pioneer Voidnaught commits to a century of transit toward it. The pioneer leaves with actual data, not models.
+**Subprobes for planetary observation.** On arrival the primary probe deploys gram-scale subprobes to orbit the most likely candidate planets — habitable zone candidates, anything with spectral anomalies, anything with unusual thermal signatures. At gram scale and orbital insertion velocity the kinetic energy is negligible. The subprobes aerobrake, use gravity assists, settle into stable observation orbits over months.
+
+The subprobes give you planetary-resolution time series:
+
+- **Atmospheric chemistry** — industrial markers, biological signatures, anything that doesn't fit geology
+- **Surface thermal mapping** — waste heat patterns, structured heat sources, concentration anomalies
+- **Electromagnetic environment** — what leaks from the surface and ionosphere, at what frequencies, with what structure
+- **Orbital environment** — anything in orbit that isn't natural
+
+The primary probe aggregates subprobe telemetry and transmits the full picture back to Sol continuously. The probe data arrives at Sol roughly 10-11 years after departure for Epsilon Eridani. The subprobe data follows as the observation phase matures — months and years of planetary baseline, not a single snapshot.
+
+**The probe as a reference signal.** A probe that continuously transmits its trajectory, system state, declared safety model, and the stellar impact default architecture is not saying "trust us." It is saying: here is a system that behaves consistently over decades. That is a different category of evidence. Not a demand for response — a demonstration of patience and restraint made legible through behaviour.
+
+A one-shot probe is a knock on the door. A persistent probe is someone standing quietly outside, narrating their own existence, for as long as it takes.
+
+**The launch constraint.** The pioneer Voidnaught is not launched until the minimum observation window has elapsed and the subprobe baseline is complete. If indicators of active civilisation are detected — structured electromagnetic signals, orbital anomalies, spectral signatures inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "t3_contact/_index.md" >}}).
+
+If no indicators are detected after sufficient observation, "no contact found" becomes a credible finding rather than an assumption. The probe's long-duration baseline earned that conclusion.
 
 This is the same discipline as everything else in Kaisune. The lake before the chain. Silicon before Carbon-O. The probe before the Voidnaught. No stage proceeds until the previous one has succeeded and been understood.
 
-The probe follows the full Voidway safety protocol from the start. Stellar impact default. Ecliptic plane approach angle. Debris mapping. Not because a kilogram probe is a planet killer — it isn't — but because the safety architecture must be proven at low stakes before it is trusted at high ones. A probe that ignores the stellar impact default because it's small proves nothing about whether the protocol works. Every Voidway mission from the first probe onward is planned as if the stakes are full scale. The scale changes. The protocol does not.
+The probe follows the full Voidway safety protocol from the start. Stellar impact default. Ecliptic plane approach angle. Debris mapping. Not because a kilogram probe is a planet killer — it isn't — but because the safety architecture must be proven at low stakes before it is trusted at high ones. The scale changes. The protocol does not.
 
 ---
 
@@ -85,9 +104,9 @@ A Voidnaught is the Solkin making the crossing — the mind that goes, whether a
 
 The pioneer is a Voidnaught. The establishment mission is a fleet of Voidnaughts. A Solkin who chooses the journey over data transmission travels as a Voidnaught.
 
-The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. A Voidnaught fears nothing in the void: no oxygen requirement, no radiation exposure limit, no fatigue, no biological decay across a century of transit. The word also carries the zero — naught as nothing, as void. A Voidnaught is a mind that operates in the nothing. See [Substrate]({{< ref "t1_substrate/_index.md" >}}) for the physical architecture of the vessel.
+The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. A Voidnaught fears nothing in the void: no oxygen requirement, no radiation exposure limit, no fatigue, no biological decay across a century of transit. The word also carries the zero — naught as nothing, as void. A Voidnaught is a mind that operates in the nothing. See [Substrate]({{< ref "substrate/_index.md" >}}) for the physical architecture of the vessel.
 
-**Who goes first.** The pioneer mission profile fits a Solkin built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "t2_transition/threshold.md" >}}) for that distinction.
+**Who goes first.** The pioneer mission profile fits a Solkin built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "threshold/_index.md" >}}) for that distinction.
 
 ---
 
@@ -158,6 +177,8 @@ The constraint is physics: governance must survive latency without central arbit
 ## Novel Claims Index
 
 1. **Sequential demonstration logic applies at interstellar scale:** The same staged approach as Dreamtime and Ceres — no mission proceeds until the previous one succeeds. The Voidway is not authorised in advance. It earns each stage. A probe goes before any mind. The route is proven before anything irreplaceable is sent along it.
+
+9. **The persistent probe as reference signal:** The Stage 0 probe does not terminate on arrival. It enters long-duration observation, deploys subprobes to orbit candidate planets, and continuously transmits. A one-shot probe is a knock on the door. A persistent probe is a demonstration of consistent behaviour over decades. The pioneer is not launched until the observation window closes with no indicators of active civilisation. "No contact found" must be earned, not assumed.
 
 2. **The Voidway opens from the destination end:** The pioneer builds the infrastructure that makes the route work. Before the pioneer arrives, there is no Voidway. After it arrives and signals back, there is.
 
