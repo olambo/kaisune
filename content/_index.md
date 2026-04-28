@@ -62,11 +62,11 @@ Veros are not helpless. A Vero operating under Ceres jurisdiction, with access t
 
 How Carbon-Os and Veros govern themselves together from the start, and how Solkin engages with everything outside Sol. Emerges from Tracks 1 and 2 operating together. Neither Carbon-O nor Vero governance can be designed in isolation — they share the void economy, the Bootstrap Fund, and the Ceres jurisdiction from the beginning.
 
-**[Governance of the Threshold — Access, Rights, and Jurisdiction]({{< ref "t2_transition/governance.md" >}})** *(forthcoming)*
-Who gets access to the long path, on what terms, under whose jurisdiction. What rights a Vero actually has. What happens when Earth tries to restrict or control the transition. The Ceres citizenship principle applied to the transition itself.
-
 **[Ceres Governance — The Jurisdiction Where the Future Is Legal]({{< ref "t3_ceres_governance/_index.md" >}})**
 Ceres governance is not derived from Earth legitimacy. It is derived from operational independence. The founding conditions, the founding questions, and the one founding principle that must be established before the transition technology matures: Ceres recognises continuous identity through substrate transition.
+
+**[Governance of the Threshold — Access, Rights, and Jurisdiction]({{< ref "t2_transition/governance.md" >}})** *(forthcoming)*
+Who gets access to the long path, on what terms, under whose jurisdiction. What rights a Vero actually has. What happens when Earth tries to restrict or control the transition. The Ceres citizenship principle applied to the transition itself.
 
 **[Contact — Protocols for First Encounter]({{< ref "t3_contact/_index.md" >}})**
 The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: Humans elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. Trajectory is the only honest communication at relativistic velocity. Solkin is the identity of the civilisation meeting the other.
@@ -86,7 +86,7 @@ The sovereign fund, the Bootstrap Fund, the void economy territorial claim, and 
 
 The long-horizon infrastructure and governance that gives Humans a better future on Earth. Valuable. Downstream of Tracks 1 through 4 in terms of species survival. Track 5 failing is a tragedy. It is not an extinction.
 
-**[Governance — Long-Horizon Decision Architecture]({{< ref "t3_ceres_governance/_index.md" >}})**
+**[Human Governance — Long-Horizon Decision Architecture]({{< ref "t5_dreamtime/ai-augmented-governance-architecture" >}})**
 Why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that. The prerequisite for everything else in Track 5.
 
 **[Dreamtime — Australian Continental Water System]({{< ref "t5_dreamtime/_index.md" >}})**
