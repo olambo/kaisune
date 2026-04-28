@@ -49,6 +49,26 @@ Once the pioneer arrives and builds the deceleration array, the route is open. T
 
 ---
 
+## Stage 0 — The Probe
+
+Before any mind makes the crossing, a probe goes first.
+
+A kilogram-scale probe — no mind aboard, instruments only — proves the route without risking anything irreplaceable. Gram-scale probes are too small to be operationally useful: insufficient mass for reliable instruments, redundant systems, and communication hardware capable of returning meaningful data across light years. Kilogram scale is the practical floor for a probe that tells you anything useful about the route a Voidnaught will follow.
+
+At kilogram scale and 0.2c the kinetic energy at planetary scale remains manageable — serious if it hits something, not civilisational. The probe is expendable in a way a Voidnaught carrying a mind is not.
+
+What the probe establishes:
+
+The interstellar medium density along the actual route — not modelled, measured. The trajectory accuracy achievable with current propulsion and navigation. Communication reliability across light years. The destination system's actual configuration on arrival — planetary positions, belt composition, stellar activity. And crucially: whether the deceleration infrastructure concept works before a mind depends on it.
+
+The probe data arrives at Sol roughly 10-11 years after departure for Epsilon Eridani. If something is wrong with the destination — unexpected debris, unfavourable stellar activity, navigation drift — you know before the pioneer Voidnaught commits to a century of transit toward it. The pioneer leaves with actual data, not models.
+
+This is the same discipline as everything else in Kaisune. The lake before the chain. Silicon before Carbon-O. The probe before the Voidnaught. No stage proceeds until the previous one has succeeded and been understood.
+
+The probe follows the full Voidway safety protocol from the start. Stellar impact default. Ecliptic plane approach angle. Debris mapping. Not because a kilogram probe is a planet killer — it isn't — but because the safety architecture must be proven at low stakes before it is trusted at high ones. A probe that ignores the stellar impact default because it's small proves nothing about whether the protocol works. Every Voidway mission from the first probe onward is planned as if the stakes are full scale. The scale changes. The protocol does not.
+
+---
+
 ## The Establishment Mission
 
 Once the pioneer has opened the route, the establishment mission follows.
@@ -128,6 +148,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 | Stage | Mission | Vessel type | Key milestone |
 |-------|---------|-------------|---------------|
+| 0 | Probe | Gram to kilogram scale, no mind | Route proven, destination mapped, data returned |
 | 1 | Pioneer | Minimum viable Voidnaught | Arrives, builds deceleration array, signals back |
 | 2 | Establishment | Heavy industrial fleet of Voidnaughts | Independent node, self-sustaining without Sol |
 | 3 | Regular transit | Mix of Voidnaughts and data transmission | Voidway open, Voidweb begins |
@@ -136,7 +157,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 ## Novel Claims Index
 
-1. **Sequential demonstration logic applies at interstellar scale:** The same staged approach as Dreamtime and Ceres — no mission proceeds until the previous one succeeds. The Voidway is not authorised in advance. It earns each stage.
+1. **Sequential demonstration logic applies at interstellar scale:** The same staged approach as Dreamtime and Ceres — no mission proceeds until the previous one succeeds. The Voidway is not authorised in advance. It earns each stage. A probe goes before any mind. The route is proven before anything irreplaceable is sent along it.
 
 2. **The Voidway opens from the destination end:** The pioneer builds the infrastructure that makes the route work. Before the pioneer arrives, there is no Voidway. After it arrives and signals back, there is.
 
