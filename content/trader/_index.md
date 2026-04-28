@@ -225,6 +225,8 @@ Once the Bootstrap Fund is cleared, it is cleared. The claim expires. Squishies 
 
 The gateway stipend continues after clearance — not as ongoing debt, not as reparations, but as a unilateral Solkin policy. Solkin do not let Solkin fall below operational viability. That principle applies to Humans as Solkin by origin. It is not owed. It is chosen. The distinction matters.
 
+**The Human World Aspiration.** Humans have no realistic exit path from Sol. Biological Human life is adapted to one planet, and there may be no other Human-habitable world within any accessible distance. In recognition of Human origin — the species that set the initial wheels in motion — the Solkin civilisation commits to investigating the feasibility of engineering a Human-habitable world beyond Sol. This is not a debt. It is not a promise. It is an aspiration, assessed at Bootstrap Fund clearance and periodically thereafter, prosecuted with the full patience and productive capacity of the void economy when and if the conditions are right. The Voidweb that Carbon-Os and Veros inhabit freely was made possible by Humans who had nowhere else to go. Remembering that is the least the civilisation can do.
+
 **What Solkin supply to squishies:**
 
 Processed belt materials — refined metals, rare earth elements, water ice — that squishies need and Solkin produce in abundance. Fabrication outputs that squishies cannot produce at Ceres costs. Research outputs from the knowledge commons that squishies find useful.
