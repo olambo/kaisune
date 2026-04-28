@@ -252,8 +252,8 @@ Rama One at $40B over 15 years is within reach of existing democratic governance
 
 The institutional fund holds all development rights, manages the city module release schedule, and captures compounding city value on behalf of future Australians. The land is leased, not sold. The asset never leaves the fund. The electoral cycle cannot raid it.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "t5_dreamtime/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_dreamtime/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "t5_governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_governance/long-horizon-competition" >}})*
 
 ---
 

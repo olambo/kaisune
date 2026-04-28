@@ -222,8 +222,8 @@ Get Rama One built. Demonstrate that 50-year managed lake infrastructure can be 
 *See: [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}})*
 *See: [Dreamtime Stairway]({{< ref "t5_dreamtime/dreamtime-stairway" >}}) — the solar-pumped complement*
 *See: [Dreamtime Web]({{< ref "t5_dreamtime/dreamtime-web" >}}) — the full integrated system*
-*See: [AI-Augmented Governance Architecture]({{< ref "t5_dreamtime/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_dreamtime/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "t5_governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_governance/long-horizon-competition" >}})*
 
 ---
 

@@ -329,8 +329,8 @@ Rama One at $25B over 15 years is within reach of existing democratic governance
 
 The module structure is the governance instrument. Each node releases only when the prior node's infrastructure is certified and water balance confirmed. The fund holds the rights. The sequence enforces discipline. The electoral cycle cannot raid the asset because the land is leased, not sold, and the fund holds the leases permanently.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "t5_dreamtime/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_dreamtime/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "t5_governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_governance/long-horizon-competition" >}})*
 
 ---
 

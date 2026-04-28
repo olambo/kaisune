@@ -80,7 +80,7 @@ The sovereign fund, the Bootstrap Fund, the void economy territorial claim, and 
 
 The long-horizon infrastructure and governance that gives Humans a better future on Earth. Valuable. Downstream of Tracks 1 through 4 in terms of species survival. Track 5 failing is a tragedy. It is not an extinction.
 
-**[Human Governance — Long-Horizon Decision Architecture]({{< ref "t5_dreamtime/ai-augmented-governance-architecture" >}})**
+**[Human Governance — Long-Horizon Decision Architecture]({{< ref "t5_governance/_index.md" >}})**
 Why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that. The prerequisite for everything else in Track 5.
 
 **[Dreamtime — Australian Continental Water System]({{< ref "t5_dreamtime/_index.md" >}})**
