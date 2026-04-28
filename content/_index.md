@@ -50,8 +50,8 @@ The pathway from Human to Vero. What actually survives the crossing. Runs in par
 **[Threshold — The Long Path]({{< ref "t2_transition/threshold.md" >}})**
 The pathway from Human to Vero. It begins with capability, not with transfer. It ends wherever the individual chooses. The gradient between the two has no clean crossing point. That is by design.
 
-**[Continuity — What Actually Survives]({{< ref "t2_transition/continuity.md" >}})** *(forthcoming)*
-The identity document. Causal continuity versus behavioural correlation. What the Ship of Theseus argument actually proves and what it doesn't. The philosophical foundation that the legal architecture of the transition rests on.
+**[Continuity — What Actually Survives]({{< ref "t2_transition/continuity.md" >}})**
+The argument the haters cannot answer. Biology erases you slowly and calls it natural. The guided enhancement preserves what biology destroys. A Vero at the end of the long path is more themselves — more continuous with who they were at peak — than an unenhanced Human at 80 with biological decay taking its toll. The name is not aspirational. It is accurate.
 
 ---
 
