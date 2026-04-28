@@ -210,9 +210,9 @@ Any civilisational-scale infrastructure project — continental water management
 
 The governance reform is therefore not an adjunct to civilisational-scale projects. It is the prerequisite without which no such project can proceed regardless of its merit.
 
-*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "thanda-one-synthesis" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
-*See: [Ceres Governance: The Jurisdiction Where the Future Is Legal]({{< ref "ceres-governance" >}})*
+*See: [Rama One: A Managed Reservoir Synthesis]({{< ref "t5_dreamtime/thanda-one-synthesis" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t3_governance/long-horizon-competition" >}})*
+*See: [Ceres Governance: The Jurisdiction Where the Future Is Legal]({{< ref "t3_governance/ceres-governance" >}})*
 
 
 ---

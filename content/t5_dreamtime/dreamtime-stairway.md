@@ -107,12 +107,12 @@ Rama One proves the principle under real Australian climate conditions. Every op
 - Solar irradiance data: Bureau of Meteorology Australian solar resource maps; CSIRO solar irradiance assessments
 - Pilbara autonomous industrial solar deployment: Rio Tinto operational data
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to Rama nodes (100 km², 50m average depth). Findings on precipitation suppression cannot be directly applied. The atmospheric effects of permanent deep-water reservoirs at this scale remain an open scientific question.
-- Rama One engineering: see [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})
-- The chain: see [Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "rama-reservoir-chain-synthesis" >}})
+- Rama One engineering: see [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}})
+- The chain: see [Rama Reservoir Chain: A Linear Node Synthesis]({{< ref "t5_dreamtime/rama-reservoir-chain-synthesis" >}})
 
 ---
 
 *Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. This version: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — hydraulic battery framing, "stairway of life" formulation; ChatGPT (OpenAI) — energy recovery via inline hydro-turbines. Revision note: document reframed from engineering proposal to design philosophy. The western arm (Kimberley) and Murray-Darling secondary arc were removed in prior revisions. With those gone, the remaining content was engineering already covered by the Rama Reservoir Chain synthesis. What the Stairway uniquely contributes is the design principle — maximum sustainable surface area, hydraulic battery, permanent versus ephemeral — that underlies every node in the Web. The engineering is the chain. The philosophy is the Stairway. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}}) — the gravity-fed foundation.*
-*See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the full integrated continental system.*
+*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "t5_dreamtime/dreamtime-spine-continental-restoration-synthesis" >}}) — the gravity-fed foundation.*
+*See: [Dreamtime Web]({{< ref "t5_dreamtime/dreamtime-web" >}}) — the full integrated continental system.*

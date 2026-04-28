@@ -85,9 +85,9 @@ A Voidnaught is the Solkin making the crossing — the mind that goes, whether a
 
 The pioneer is a Voidnaught. The establishment mission is a fleet of Voidnaughts. A Solkin who chooses the journey over data transmission travels as a Voidnaught.
 
-The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. A Voidnaught fears nothing in the void: no oxygen requirement, no radiation exposure limit, no fatigue, no biological decay across a century of transit. The word also carries the zero — naught as nothing, as void. A Voidnaught is a mind that operates in the nothing. See [Substrate]({{< ref "substrate/_index.md" >}}) for the physical architecture of the vessel.
+The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. A Voidnaught fears nothing in the void: no oxygen requirement, no radiation exposure limit, no fatigue, no biological decay across a century of transit. The word also carries the zero — naught as nothing, as void. A Voidnaught is a mind that operates in the nothing. See [Substrate]({{< ref "t1_substrate/_index.md" >}}) for the physical architecture of the vessel.
 
-**Who goes first.** The pioneer mission profile fits a Solkin built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "transition/threshold.md" >}}) for that distinction.
+**Who goes first.** The pioneer mission profile fits a Solkin built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "t2_transition/threshold.md" >}}) for that distinction.
 
 ---
 

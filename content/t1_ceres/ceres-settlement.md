@@ -179,5 +179,5 @@ No Stage 4 commitment without Stage 3 certification. The same discipline as the 
 
 *Document generated through human-AI collaborative synthesis. First draft: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [In-Situ Resource Utilisation: Living Off the Rock]({{< ref "ceres/ceres-isru" >}}) — the resource systems the settlement runs on.*
-*See: [The Pathway: Staged to Self-Sufficiency]({{< ref "ceres/ceres-pathway" >}}) — the staged sequence that delivers this settlement.*
+*See: [In-Situ Resource Utilisation: Living Off the Rock]({{< ref "t1_ceres/ceres-isru" >}}) — the resource systems the settlement runs on.*
+*See: [The Pathway: Staged to Self-Sufficiency]({{< ref "t1_ceres/ceres-pathway" >}}) — the staged sequence that delivers this settlement.*

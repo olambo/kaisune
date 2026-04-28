@@ -176,5 +176,5 @@ That challenge is solved by the staged pathway: each Stage demonstrates a subset
 
 *Document generated through human-AI collaborative synthesis. First draft: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [The Pathway: Staged to Self-Sufficiency]({{< ref "ceres/ceres-pathway" >}}) — the staged sequence this ISRU system supports.*
-*See: [The Settlement: Permanent Presence]({{< ref "ceres/ceres-settlement" >}}) — the settlement the ISRU system sustains.*
+*See: [The Pathway: Staged to Self-Sufficiency]({{< ref "t1_ceres/ceres-pathway" >}}) — the staged sequence this ISRU system supports.*
+*See: [The Settlement: Permanent Presence]({{< ref "t1_ceres/ceres-settlement" >}}) — the settlement the ISRU system sustains.*

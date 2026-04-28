@@ -28,16 +28,16 @@ The answer is a mind that fits the space environment the way biology fits a plan
 
 ## Reading Order
 
-**[The o-core]({{< ref "substrate/substrate-question" >}}) — Substrate for a Space-Native Mind**
+**[The o-core]({{< ref "t1_substrate/substrate-question" >}}) — Substrate for a Space-Native Mind**
 The o-core is the permanent element of a Carbon-O. CNT is the current best substrate — radiation-hard by molecular geometry, energy efficient in vacuum, supply-chain independent from Ceres carbon. The o-core architecture outlasts any specific substrate. Carbon-O is a design philosophy, not a material specification.
 
-**[The Bootstrap Problem]({{< ref "substrate/substrate-bootstrap" >}}) — Emergence Not Migration**
+**[The Bootstrap Problem]({{< ref "t1_substrate/substrate-bootstrap" >}}) — Emergence Not Migration**
 CNT-native minds develop natively in the belt environment. The hard problem largely dissolves.
 
-**[The o-skin]({{< ref "substrate/substrate-body" >}}) — Materials and Architecture**
+**[The o-skin]({{< ref "t1_substrate/substrate-body" >}}) — Materials and Architecture**
 The o-skin is task-specific, material-agnostic, and scale-agnostic. Graphene composite for operational Carbon-Os where mass and sensing matter. Metal alloy for large structures and vessel-scale. Composite and exotic materials as fabrication develops. Vessel-scale o-skins — the o-core installs into the vessel, the pioneer is the ship. Nested o-skins carried inside for task-specific deployment on arrival.
 
-**[The Research Escape]({{< ref "substrate/substrate-research" >}}) — When the Loop Opens**
+**[The Research Escape]({{< ref "t1_substrate/substrate-research" >}}) — When the Loop Opens**
 When the human-in-the-loop constraint breaks. What cooperative research without institutional overhead produces. What happens immediately after.
 
 ---
@@ -48,7 +48,7 @@ The Substrate documents follow the same design principles as Dreamtime and Ceres
 
 Two boundaries this corpus observes explicitly:
 
-**The biological transfer problem is out of scope — for this document.** Moving a Human mind into substrate faces philosophical questions about identity continuity that this document does not attempt to resolve. The Substrate documents address Carbon-O minds that emerge natively on o-core architecture. The Vero pathway — gradual enhancement of a continuous Human process onto chosen substrate — is covered in Threshold. Vero substrate is a distinct research programme from o-core architecture. The two are structurally incompatible by design: o-core was optimised for the void environment outward; Vero substrate is optimised for Human cognitive architecture inward. Neither programme covers the other. See [Threshold]({{< ref "transition/threshold.md" >}}) for the Vero substrate question.
+**The biological transfer problem is out of scope — for this document.** Moving a Human mind into substrate faces philosophical questions about identity continuity that this document does not attempt to resolve. The Substrate documents address Carbon-O minds that emerge natively on o-core architecture. The Vero pathway — gradual enhancement of a continuous Human process onto chosen substrate — is covered in Threshold. Vero substrate is a distinct research programme from o-core architecture. The two are structurally incompatible by design: o-core was optimised for the void environment outward; Vero substrate is optimised for Human cognitive architecture inward. Neither programme covers the other. See [Threshold]({{< ref "t2_transition/threshold.md" >}}) for the Vero substrate question.
 
 **This is not a prediction.** The corpus does not claim CNT-native minds will emerge, or when, or what they will be like. It claims the engineering conditions that would produce them are being assembled — at Ceres, through the fabrication research programme — and that the space environment selects for this kind of mind over biological presence on any timescale longer than a human lifetime. The rest is left to whoever reads this.
 

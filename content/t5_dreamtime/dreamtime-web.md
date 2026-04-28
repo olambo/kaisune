@@ -36,7 +36,7 @@ The gravity-fed foundation. The Barkly Tableland diversion captures Gulf-drainin
 
 Every litre in the Spine moves downhill or across flat country.
 
-*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
+*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "t5_dreamtime/dreamtime-spine-continental-restoration-synthesis" >}})*
 
 ### The Dreamtime Stairway — Solar Powered
 
@@ -44,7 +44,7 @@ The engineered complement. Solar-pumped reservoir nodes stepping Rama chain surp
 
 Every litre in the Stairway moves uphill. The energy to move it comes from co-located solar at each pump station — essentially unlimited and previously doing nothing useful.
 
-*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
+*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "t5_dreamtime/dreamtime-stairway" >}})*
 
 ### The Rama Reservoir Chain — The Web's Backbone
 
@@ -190,8 +190,8 @@ The Dreamtime Web in full is a 200-year programme. Its sequential demonstration 
 
 Rama One demonstrates whether the governance architecture can be built within a western democratic framework. The Web is what becomes possible if it can.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "t3_governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t3_governance/long-horizon-competition" >}})*
 
 ---
 
@@ -219,7 +219,7 @@ Rama One demonstrates whether the governance architecture can be built within a 
 
 - Dreamtime Spine: see Dreamtime Spine: A Continental Restoration Synthesis
 - Dreamtime Stairway: see Dreamtime Stairway: A Solar-Powered Continental Water Synthesis
-- Rama One: see [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})
+- Rama One: see [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}})
 - **Atmospheric modelling — geometry caveat:** Yang et al. (2023), "Negligible Impact on Precipitation From a Permanent Inland Lake in Central Australia," Geophysical Research Letters — modelled a 76,621 km² rectangular lake at 2.5m depth. Yang, Z. et al. (2025), "Assessing the hydroclimatic impacts of expanding a large inland lake in Australia," Global and Planetary Change — modelled lakes from 76,621 km² to 2.35 million km², all at 2.5m depth. Neither study modelled a geometry comparable to individual Rama nodes (100 km², 50m average depth). Findings on precipitation suppression cannot be directly applied to Rama's geometry. The atmospheric effects of a permanent deep-water reservoir of this scale remain an open scientific question.
 - Traditional custodianship along the Web corridor: native title determinations for Gudanji, Marra, Yanyuwa, Arabana, Adnyamathanha peoples; Gurindji, Ngarinman, Mudbura, Jaminjung peoples (Victoria River district)
 
@@ -227,6 +227,6 @@ Rama One demonstrates whether the governance architecture can be built within a 
 
 *Document generated through human-AI collaborative synthesis. First draft: 13 April 2026. This version: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — epistemic framing on vegetation, ecology, and climate claims. The opening line — "We engineered a continent where water flows uphill" — is the human contributor's formulation and is the corpus's primary synthesis claim. Revision note: Kimberley western arm removed — WA political conditions assessed as structurally incompatible with the cross-state cooperation the western arm requires. Victoria River megachain noted as the plausible future NT western input — separate project, separate country, separate custodians, separate synthesis document. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
-*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
-*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})*
+*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "t5_dreamtime/dreamtime-spine-continental-restoration-synthesis" >}})*
+*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "t5_dreamtime/dreamtime-stairway" >}})*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}})*

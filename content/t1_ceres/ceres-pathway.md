@@ -169,5 +169,5 @@ The pathway is long. The technology is real.
 
 *Document generated through human-AI collaborative synthesis. First draft: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Why Ceres: The Case for the Belt]({{< ref "ceres/why-ceres" >}}) — the engineering case for the destination.*
-*See: [In-Situ Resource Utilisation: Living Off the Rock]({{< ref "ceres/ceres-isru" >}}) — the resource extraction and manufacturing detail.*
+*See: [Why Ceres: The Case for the Belt]({{< ref "t1_ceres/why-ceres" >}}) — the engineering case for the destination.*
+*See: [In-Situ Resource Utilisation: Living Off the Rock]({{< ref "t1_ceres/ceres-isru" >}}) — the resource extraction and manufacturing detail.*

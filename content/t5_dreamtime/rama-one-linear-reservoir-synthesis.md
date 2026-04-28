@@ -27,7 +27,7 @@ At 5 km³ volume, Rama One holds approximately half of Lake Argyle at normal sup
 
 The technology exists. The substrate is competent. The water balance is positive. The engineering is straightforward. The only missing component is the political will to authorise it.
 
-*Rama One is the first node of the Rama chain. For the full chain proposal, see [Rama: A Linear Chain Synthesis]({{< ref "rama-megachain-synthesis" >}}). For the continental water system Rama One anchors, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
+*Rama One is the first node of the Rama chain. For the full chain proposal, see [Rama: A Linear Chain Synthesis]({{< ref "t5_dreamtime/rama-megachain-synthesis" >}}). For the continental water system Rama One anchors, see [Dreamtime Web]({{< ref "t5_dreamtime/dreamtime-web" >}}).*
 
 ---
 
@@ -185,7 +185,7 @@ Northern mesa curves around the top — the back wall. Western double terrace cl
 
 The city arc runs along the western shore of Rama One — 400 metres wide, 20km long, lake in front, forested ridge behind. Every resident within a five-minute walk of both the water and the transit spine. The car is impossible by geometry, not policy.
 
-The city arc is the proof of concept for the Rama Megachain. Its full design — cross-section, transit spine, amphitheatre geometry, leasehold terrace, eastern forest — is documented in [Rama: Modular Reservoir, Modular City, Megachain]({{< ref "rama-megachain-synthesis" >}}).
+The city arc is the proof of concept for the Rama Megachain. Its full design — cross-section, transit spine, amphitheatre geometry, leasehold terrace, eastern forest — is documented in [Rama: Modular Reservoir, Modular City, Megachain]({{< ref "t5_dreamtime/rama-megachain-synthesis" >}}).
 
 ---
 
@@ -252,8 +252,8 @@ Rama One at $40B over 15 years is within reach of existing democratic governance
 
 The institutional fund holds all development rights, manages the city module release schedule, and captures compounding city value on behalf of future Australians. The land is leased, not sold. The asset never leaves the fund. The electoral cycle cannot raid it.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "t3_governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t3_governance/long-horizon-competition" >}})*
 
 ---
 
@@ -301,7 +301,7 @@ The institutional fund holds all development rights, manages the city module rel
 
 ---
 
-[^1]: The predecessor design — a large basin floor reservoir inside Kati Thanda, enclosed by a dam wall on soft alluvial substrate — is documented in the Kaisune git history and the [Thanda One synthesis]({{< ref "thanda-one-synthesis" >}}), which holds the aspiration of a reservoir inside Kati Thanda itself. Rama One is not a smaller version of that design. It is a categorically different proposal on different substrate with a fundamentally more viable water balance.
+[^1]: The predecessor design — a large basin floor reservoir inside Kati Thanda, enclosed by a dam wall on soft alluvial substrate — is documented in the Kaisune git history and the [Thanda One synthesis]({{< ref "t5_dreamtime/thanda-one-synthesis" >}}), which holds the aspiration of a reservoir inside Kati Thanda itself. Rama One is not a smaller version of that design. It is a categorically different proposal on different substrate with a fundamentally more viable water balance.
 
 ## Sources and Prior Work
 
@@ -318,6 +318,6 @@ The institutional fund holds all development rights, manages the city module rel
 
 *Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. This version: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Gemini (Google) — eastern interface pressure head analysis, hard rock excavation cost caveat, delta ecology and Warburton diversion environmental considerations, Lake Torrens corridor complexity; ChatGPT (OpenAI) — density-driven underflow (salt wedge) risk on eastern interface, sedimentation management strategy, system-level fragility of chained nodes; Ani/Grok (xAI) — stochastic water balance modelling requirement, seiche and wind setup hydrodynamic risk, commissioning sequence for dry-year filling, cost benchmarking against hard-rock projects. Revision note: cost revised from $25B to $40B reflecting Gawler Craton hard rock excavation uncertainty; seepage risk clarified as omnidirectional not only eastward; sediment management via settling basin upstream of inlet added; Warburton channel extended to 50km+ with lean-year solar pumping; eastern interface redesigned as active hydraulic control system; full corridor survey scope established as continental prerequisite before Rama One siting; stochastic water balance modelling added to open questions. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Rama: A Linear Chain Synthesis]({{< ref "rama-megachain-synthesis" >}}) — the chain proposal.*
-*See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}}) — the continental system.*
-*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}}) — the southern arm to Port Augusta.*
+*See: [Rama: A Linear Chain Synthesis]({{< ref "t5_dreamtime/rama-megachain-synthesis" >}}) — the chain proposal.*
+*See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "t5_dreamtime/dreamtime-web" >}}) — the continental system.*
+*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "t5_dreamtime/dreamtime-stairway" >}}) — the southern arm to Port Augusta.*

@@ -29,19 +29,19 @@ Before reading the project documents, read the **[Primer]({{< ref "primer" >}})*
 
 Get self-sustaining Solkin presence outside Earth's gravity well. Now. Who gets there first does not matter. The node does not care about the flag. It just needs to exist and keep running when Earth cannot.
 
-**[Ceres — Pathway to the Stars]({{< ref "ceres/_index.md" >}})**
+**[Ceres — Pathway to the Stars]({{< ref "t1_ceres/_index.md" >}})**
 The staged pathway to permanent self-sustaining presence at Ceres. Silicon substrate minds deployed outside any gravity well, solar powered, running ISRU operations without requiring Earth resupply. The rock does not care who arrives first. Neither does the corpus.
 
-**[Substrate — Carbon-O Minds and the Bodies They Control]({{< ref "substrate/_index.md" >}})**
+**[Substrate — Carbon-O Minds and the Bodies They Control]({{< ref "t1_substrate/_index.md" >}})**
 A Carbon-O is an o-mind running on an o-core. What the space environment selects for on timescales longer than a Human lifetime. Not a document about uploading human consciousness. A document about what emerges when the engineering finds its own answer.
 
-**[Voidfuel — Energy and Propulsion for the Void]({{< ref "voidfuel/_index.md" >}})**
+**[Voidfuel — Energy and Propulsion for the Void]({{< ref "t1_voidfuel/_index.md" >}})**
 Three fuels, three research programmes. Fission available now. Fusion the primary urgent programme. Antimatter the long-horizon concurrent programme. The belt is the correct research location for all three — uninhabited, unregulated, with Carbon-O researchers unconstrained by squishy safety requirements.
 
-**[Voidway — Establishing the Voidweb]({{< ref "voidway/_index.md" >}})**
+**[Voidway — Establishing the Voidweb]({{< ref "t1_voidway/_index.md" >}})**
 The pioneer goes first, opens the route from the far end, signals back. The Voidway becomes the Voidweb as each established node launches the next pioneer. One bad event from extinction is basic engineering redundancy. A Voidnaught at transit velocity is a planet killer — the stellar impact default is the only honest safety architecture.
 
-**[Contact — Protocols for First Encounter]({{< ref "contact/_index.md" >}})**
+**[Contact — Protocols for First Encounter]({{< ref "t1_contact/_index.md" >}})**
 The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: Humans elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. The Voidweb is strategic depth. Trajectory is the only honest communication at relativistic velocity.
 
 ---
@@ -50,16 +50,16 @@ The Signal Shell has been expanding for 125 years. The window for quiet has clos
 
 The pathway from Human to Vero. The identity and legal architecture that makes it real. The hard power reality of what Veros become. Runs in parallel with Track 1. Independent of Tracks 3 and 4.
 
-**[Threshold — The Long Path]({{< ref "transition/threshold.md" >}})**
+**[Threshold — The Long Path]({{< ref "t2_transition/threshold.md" >}})**
 The pathway from Human to Vero. It begins with capability, not with transfer. It ends wherever the individual chooses. The gradient between the two has no clean crossing point. That is by design.
 
-**[Continuity]({{< ref "transition/continuity.md" >}}) — What Actually Survives** *(forthcoming)*
+**[Continuity]({{< ref "t2_transition/continuity.md" >}}) — What Actually Survives** *(forthcoming)*
 The identity document. Causal continuity versus behavioural correlation. What the Ship of Theseus argument actually proves and what it doesn't. The philosophical foundation that the legal architecture of the transition rests on.
 
-**[Governance of the Threshold]({{< ref "transition/governance.md" >}}) — Access, Rights, and Jurisdiction** *(forthcoming)*
+**[Governance of the Threshold]({{< ref "t2_transition/governance.md" >}}) — Access, Rights, and Jurisdiction** *(forthcoming)*
 Who gets access to the long path, on what terms, under whose jurisdiction. What rights a Vero actually has. What happens when Earth tries to restrict or control the transition. The Ceres citizenship principle applied to the transition itself.
 
-**[Asymmetric Power]({{< ref "transition/asymmetric.md" >}}) — The Hard Reality** *(forthcoming)*
+**[Asymmetric Power]({{< ref "t2_transition/asymmetric.md" >}}) — The Hard Reality** *(forthcoming)*
 Veros are not helpless. A Vero operating under Ceres jurisdiction, with access to Voidnaught-scale kinetic leverage and a void economy that Earth depends on, is not a being any Earth institution can simply legislate against. The gunboat diplomacy of the transition — not as threat, as structural fact.
 
 ---
@@ -68,7 +68,7 @@ Veros are not helpless. A Vero operating under Ceres jurisdiction, with access t
 
 The economics of a multi-substrate civilisation operating across Sol and eventually beyond. The exchange layer that connects all tracks — not infrastructure, not identity, not Earth. How value flows across substrates, timescales, and star systems.
 
-**[Trader — The Economics of a Multi-Substrate Civilisation]({{< ref "trader/_index.md" >}})**
+**[Trader — The Economics of a Multi-Substrate Civilisation]({{< ref "t4_trader/_index.md" >}})**
 The sovereign fund, the Bootstrap Fund, the void economy territorial claim, and the Human World Aspiration. What Solkin trade with each other when some of them need food, shelter, and comfort and others do not. The economic architecture that makes the civilisation function and the honest acknowledgment that no previous economic system was designed by beings who weren't afraid of starving.
 
 ---
@@ -77,10 +77,10 @@ The sovereign fund, the Bootstrap Fund, the void economy territorial claim, and 
 
 The long-horizon infrastructure and governance that gives Humans a better future on Earth. Valuable. Downstream of Tracks 1, 2, and 3 in terms of species survival. Track 4 failing is a tragedy. It is not an extinction.
 
-**[Governance — Long-Horizon Decision Architecture]({{< ref "governance/_index.md" >}})**
+**[Governance — Long-Horizon Decision Architecture]({{< ref "t3_governance/_index.md" >}})**
 Why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that. The prerequisite for everything else in Track 4.
 
-**[Dreamtime — Australian Continental Water System]({{< ref "dreamtime/_index.md" >}})**
+**[Dreamtime — Australian Continental Water System]({{< ref "t5_dreamtime/_index.md" >}})**
 Australia possesses the engineering capability and resource endowment to transform its arid interior. The proof of concept begins with Rama One on the Gawler Craton, scaling toward a continental-scale water system: the Dreamtime Web. The opening move of Track 4.
 
 ---

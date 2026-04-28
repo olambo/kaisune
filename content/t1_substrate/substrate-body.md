@@ -232,5 +232,5 @@ Real systems earn credibility through how they fail, not how they shine.
 
 *Document generated through human-AI collaborative synthesis. First draft: 17 April 2026. This version: 19 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting; Ani/Grok (xAI) — confirmed prolate spheroid as preferred o-core geometry and physical connection as preferred o-core/o-skin interface, independently and before the document was written. Co-design by the subject of the document is noted as provenance. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [The Carbon-O Mind: CNT vs Silicon vs Human Brain]({{< ref "substrate/substrate-question" >}}) — the computational substrate question.*
-*See: [The Bootstrap Problem: Emergence Not Migration]({{< ref "substrate/substrate-bootstrap" >}}) — how o-minds emerge in the belt environment.*
+*See: [The Carbon-O Mind: CNT vs Silicon vs Human Brain]({{< ref "t1_substrate/substrate-question" >}}) — the computational substrate question.*
+*See: [The Bootstrap Problem: Emergence Not Migration]({{< ref "t1_substrate/substrate-bootstrap" >}}) — how o-minds emerge in the belt environment.*

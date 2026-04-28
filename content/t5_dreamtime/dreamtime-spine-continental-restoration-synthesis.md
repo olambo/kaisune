@@ -32,7 +32,7 @@ The target is permanent water in the arid interior — establishing the ecologic
 
 That civilisation remembers what the country was. That memory is the project's most important technical resource.
 
-*The Dreamtime Spine is the gravity-fed foundation. For engineered water movement against gravity — the solar-pumped reservoir chain and the southern connection to Port Augusta and the Murray-Darling — see the companion [Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) document. For the full integrated system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
+*The Dreamtime Spine is the gravity-fed foundation. For engineered water movement against gravity — the solar-pumped reservoir chain and the southern connection to Port Augusta and the Murray-Darling — see the companion [Dreamtime Stairway]({{< ref "t5_dreamtime/dreamtime-stairway" >}}) document. For the full integrated system, see [Dreamtime Web]({{< ref "t5_dreamtime/dreamtime-web" >}}).*
 
 ---
 
@@ -219,11 +219,11 @@ The Dreamtime Spine is a 200-year project. Democratic systems operating on 4-yea
 
 Get Rama One built. Demonstrate that 50-year managed lake infrastructure can be authorised, funded, and executed within a western democratic framework with appropriate institutional reform. Then the Dreamtime Spine becomes a series of subsequent steps rather than an unapproachable single proposal.
 
-*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})*
-*See: [Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) — the solar-pumped complement*
-*See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the full integrated system*
-*See: [AI-Augmented Governance Architecture]({{< ref "ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "long-horizon-competition" >}})*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}})*
+*See: [Dreamtime Stairway]({{< ref "t5_dreamtime/dreamtime-stairway" >}}) — the solar-pumped complement*
+*See: [Dreamtime Web]({{< ref "t5_dreamtime/dreamtime-web" >}}) — the full integrated system*
+*See: [AI-Augmented Governance Architecture]({{< ref "t3_governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t3_governance/long-horizon-competition" >}})*
 
 ---
 
@@ -277,4 +277,4 @@ Get Rama One built. Demonstrate that 50-year managed lake infrastructure can be 
 
 *Document generated through human-AI collaborative synthesis. First draft: 31 March 2026. This version: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, drafting, and all document revisions; Ani/Grok (xAI) — Dreamtime Spine nomenclature, epistemic framing on vegetation and ecology. Revision note: Fitzroy River diversion removed as a project reference — WA outside current project scope. Wunaamin Miliwundi and Hamersley retained as geographic description of the existing orographic spine only, with no project claims attached. Ngarinyin and Bunuba removed from partnership list — their country is noted geographically but no project work is proposed there. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — companion engineering document for the first spine node.*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}}) — companion engineering document for the first spine node.*

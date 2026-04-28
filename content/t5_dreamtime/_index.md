@@ -15,30 +15,30 @@ The continent where water flows uphill. The first engine is the Rama Reservoir C
 ## Reading Order
 The documents form a system. Read in this order:
 
-**[Rama One]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — Proof of Concept**  
+**[Rama One]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}}) — Proof of Concept**  
 A 20 km × 5 km × 50 m permanent freshwater reservoir to the west of Kati Thanda (Lake Eyre) on the Gawler Craton. No dam wall — only natural terrain containment on competent substrate. Here the Rama Standard is proven on ground that does not fight back.  
 
 Built at an approximate cost of $40 billion over 15 years, Rama One is the first node of the megachain.
 
-**[Rama Reservoir Chain]({{< ref "rama-reservoir-chain-synthesis" >}})**  
+**[Rama Reservoir Chain]({{< ref "t5_dreamtime/rama-reservoir-chain-synthesis" >}})**  
 Sixteen nodes stepping 400 km south along the Gawler Craton. 1,600 km² of water surface, 80 km³ of volume. Gravity feeds the north. Solar pumps the south. A gravity pipeline delivers water to Port Augusta.
 
-**[Rama]({{< ref "rama-megachain-synthesis" >}})**  
+**[Rama]({{< ref "t5_dreamtime/rama-megachain-synthesis" >}})**  
 1.8 million people along the western shore of the chain. No fossil fuels. No private vehicles — the geometry makes them impossible. The longest purpose-built linear city on Earth, built one proven node at a time.
 
-**[Thanda One]({{< ref "thanda-one-synthesis" >}}) — An aspiration**  
+**[Thanda One]({{< ref "t5_dreamtime/thanda-one-synthesis" >}}) — An aspiration**  
 A permanent freshwater reservoir inside the northwestern corner of Kati Thanda — the dead lake brought back to life. Wall anchored in Gawler Craton Precambrian basement. Shape, depth, and size all survey-determined — no fixed geometry imposed on unmapped ground. Built if and when the geology earns it. The story that makes people feel something.
 
-**[Dreamtime Web]({{< ref "dreamtime-web" >}}) — The continental system**  
+**[Dreamtime Web]({{< ref "t5_dreamtime/dreamtime-web" >}}) — The continental system**  
 The broader context in which Rama sits. The Web is the full continental water redistribution system — the Barkly diversion feeding the chain from the north, the chain distributing water south, the gravity pipeline delivering surplus to Port Augusta, and a future Victoria River megachain on NT country as the plausible western input when survey and partnership support it.
 
-**[Dreamtime Spine]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}}) — The gravity-fed foundation**  
+**[Dreamtime Spine]({{< ref "t5_dreamtime/dreamtime-spine-continental-restoration-synthesis" >}}) — The gravity-fed foundation**  
 The Barkly Tableland diversion redirecting Gulf-draining flood flows into the interior without pumping, feeding the Rama chain from the north. Australia is not naturally a desert continent. The Spine is the gravity-fed component of its restoration.
 
-**[Dreamtime Stairway]({{< ref "dreamtime-stairway" >}}) — The design philosophy**  
+**[Dreamtime Stairway]({{< ref "t5_dreamtime/dreamtime-stairway" >}}) — The design philosophy**  
 The principle underlying every node in the Dreamtime Web. Maximum sustainable surface area from permanent deep water. Each reservoir sized at the maximum area the depth and inflow can sustain permanently — not minimising evaporation but optimising for the surface area evaporation implies. The engineering is the chain. The philosophy is the Stairway.
 
-*The governance framework: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}}) and [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}}).*
+*The governance framework: [AI-Augmented Governance Architecture]({{< ref "t3_governance/ai-augmented-governance-architecture" >}}) and [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t3_governance/long-horizon-competition" >}}).*
 
 ---
 ## On the Corpus Design

@@ -31,9 +31,9 @@ NEOM is a mirrored wall in a desert with no water. Rama is a forest and a lake a
 
 *Rama is the unified entity. Each node — Rama One, Rama Two... Rama Sixteen — is both a reservoir and a city. The chain is the megastructure. Kati Thanda remains the Arabana name for the natural salt lake to the east, undisturbed. The Rama name is proposed subject to Arabana agreement.*
 
-*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — the proof of concept node.*
-*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}}) — the southern arm to Port Augusta.*
-*See: [Dreamtime Web]({{< ref "dreamtime-web" >}}) — the full continental system.*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}}) — the proof of concept node.*
+*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "t5_dreamtime/dreamtime-stairway" >}}) — the southern arm to Port Augusta.*
+*See: [Dreamtime Web]({{< ref "t5_dreamtime/dreamtime-web" >}}) — the full continental system.*
 
 ---
 
@@ -329,8 +329,8 @@ Rama One at $25B over 15 years is within reach of existing democratic governance
 
 The module structure is the governance instrument. Each node releases only when the prior node's infrastructure is certified and water balance confirmed. The fund holds the rights. The sequence enforces discipline. The electoral cycle cannot raid the asset because the land is leased, not sold, and the fund holds the leases permanently.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "governance/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "governance/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "t3_governance/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t3_governance/long-horizon-competition" >}})*
 
 ---
 
@@ -389,13 +389,13 @@ The module structure is the governance instrument. Each node releases only when 
 - Adnyamathanha traditional custodianship (Flinders corridor): native title determinations and ethnographic literature
 - Arabana traditional custodianship (Kati Thanda): native title determinations and ethnographic literature
 - NEOM The Line: publicly available project documentation and engineering critiques
-- Rama One engineering foundation: see [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})
+- Rama One engineering foundation: see [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}})
 
 ---
 
 *Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document emerged from a single session of topographic map analysis and engineering reasoning that began at approximately 2am Osaka time on 15 April 2026. The western shore modular chain design, the Gawler Craton corridor to Port Augusta, the amphitheatre geometry, the 15-node megachain, and the recognition that Rama is a river — all emerged from that session. The six words hold: we built a continent where water flows uphill. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})*
-*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})*
-*See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}})*
-*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "dreamtime-spine-continental-restoration-synthesis" >}})*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}})*
+*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "t5_dreamtime/dreamtime-stairway" >}})*
+*See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "t5_dreamtime/dreamtime-web" >}})*
+*See: [Dreamtime Spine: A Continental Restoration Synthesis]({{< ref "t5_dreamtime/dreamtime-spine-continental-restoration-synthesis" >}})*

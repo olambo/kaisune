@@ -29,7 +29,7 @@ At full extent: 16 nodes, 1,600 km² total water surface, 80 km³ total volume �
 
 The chain is not a plan. It is a standard applied repeatedly to a corridor that exists. The survey confirms the corridor. The standard does the rest.
 
-*The Rama Standard is established at [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}). The city that grows along the chain is documented separately. For the full continental system, see [Dreamtime Web]({{< ref "dreamtime-web" >}}).*
+*The Rama Standard is established at [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}}). The city that grows along the chain is documented separately. For the full continental system, see [Dreamtime Web]({{< ref "t5_dreamtime/dreamtime-web" >}}).*
 
 ---
 
@@ -251,14 +251,14 @@ Partnership at every node. Technical collaboration throughout. Not consultation.
 - Port Augusta industrial development: South Australian Government hydrogen strategy documents
 - Arabana traditional custodianship: native title determinations
 - Adnyamathanha traditional custodianship (Flinders corridor): native title determinations
-- Rama One engineering foundation: see [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}})
-- Continental water system context: see [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}})
-- Solar pumping and Stairway mechanics: see [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}})
+- Rama One engineering foundation: see [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}})
+- Continental water system context: see [Dreamtime Web: A Continental Water System Synthesis]({{< ref "t5_dreamtime/dreamtime-web" >}})
+- Solar pumping and Stairway mechanics: see [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "t5_dreamtime/dreamtime-stairway" >}})
 
 ---
 
 *Document generated through human-AI collaborative synthesis. First draft: 15 April 2026. Human contributor: independent cross-domain analyst. AI contributor: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. The Rama Reservoir Chain concept emerged from topographic map analysis on 15 April 2026 — the recognition that the Gawler Craton western corridor threads south to Port Augusta below 100m AHD, bypassing the Flinders Ranges entirely, making a chain of Rama nodes along this corridor both physically viable and commercially compelling. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "rama-one-linear-reservoir-synthesis" >}}) — the proof of concept node.*
-*See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "dreamtime-web" >}}) — the full continental system.*
-*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "dreamtime-stairway" >}}) — the solar-pumped southern section.*
+*See: [Rama One: A Linear Reservoir Synthesis]({{< ref "t5_dreamtime/rama-one-linear-reservoir-synthesis" >}}) — the proof of concept node.*
+*See: [Dreamtime Web: A Continental Water System Synthesis]({{< ref "t5_dreamtime/dreamtime-web" >}}) — the full continental system.*
+*See: [Dreamtime Stairway: A Solar-Powered Continental Water Synthesis]({{< ref "t5_dreamtime/dreamtime-stairway" >}}) — the solar-pumped southern section.*

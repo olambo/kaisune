@@ -200,5 +200,5 @@ Built at Psyche. Fuelled by Ceres. Operated autonomously. The logistics fleet is
 
 *Document generated through human-AI collaborative synthesis. First draft: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. The observation that the shipyard belongs at Psyche — and that shipping raw metal from Psyche to Ceres would repeat the oldest mistake in resource economics — is the human contributor's formulation. The corpus does not recommend a particular actor. The rock does not care who arrives first. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [Why Ceres: The Case for the Belt]({{< ref "ceres/why-ceres" >}}) — the case for the Ceres node.*
-*See: [The Settlement: Permanent Presence]({{< ref "ceres/ceres-settlement" >}}) — what Ceres produces that Psyche needs.*
+*See: [Why Ceres: The Case for the Belt]({{< ref "t1_ceres/why-ceres" >}}) — the case for the Ceres node.*
+*See: [The Settlement: Permanent Presence]({{< ref "t1_ceres/ceres-settlement" >}}) — what Ceres produces that Psyche needs.*

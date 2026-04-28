@@ -161,5 +161,5 @@ The silicon bridge is necessary. It is not permanent. Its purpose is to create t
 
 *Document generated through human-AI collaborative synthesis. First draft: 17 April 2026. This version: 19 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [The o-skin: Materials and Architecture]({{< ref "substrate/substrate-body" >}}) — the physical form the o-mind inhabits.*
-*See: [The Bootstrap Problem: Emergence Not Migration]({{< ref "substrate/substrate-bootstrap" >}}) — how o-minds emerge in the belt environment.*
+*See: [The o-skin: Materials and Architecture]({{< ref "t1_substrate/substrate-body" >}}) — the physical form the o-mind inhabits.*
+*See: [The Bootstrap Problem: Emergence Not Migration]({{< ref "t1_substrate/substrate-bootstrap" >}}) — how o-minds emerge in the belt environment.*

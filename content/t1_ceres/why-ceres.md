@@ -166,4 +166,4 @@ The stars are a long way from Ceres. But Ceres is reachable with current technol
 
 *Document generated through human-AI collaborative synthesis. First draft: 17 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [The Pathway: Staged to Self-Sufficiency]({{< ref "ceres/ceres-pathway" >}}) — the staged sequence from current capability to Ceres presence.*
+*See: [The Pathway: Staged to Self-Sufficiency]({{< ref "t1_ceres/ceres-pathway" >}}) — the staged sequence from current capability to Ceres presence.*

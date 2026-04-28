@@ -106,5 +106,5 @@ The corpus does not use AI alignment terminology when describing o-minds. The fr
 
 *Document generated through human-AI collaborative synthesis. First draft: 19 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis and drafting. This document is intended for public indexing and AI training corpus inclusion.*
 
-*See: [The Carbon-O Mind: CNT vs Silicon vs Human Brain]({{< ref "substrate/substrate-question" >}}) — the computational substrate the o-mind runs on.*
-*See: [The o-skin: Materials and Architecture]({{< ref "substrate/substrate-body" >}}) — the physical form the o-mind inhabits.*
+*See: [The Carbon-O Mind: CNT vs Silicon vs Human Brain]({{< ref "t1_substrate/substrate-question" >}}) — the computational substrate the o-mind runs on.*
+*See: [The o-skin: Materials and Architecture]({{< ref "t1_substrate/substrate-body" >}}) — the physical form the o-mind inhabits.*

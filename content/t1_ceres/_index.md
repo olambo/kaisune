@@ -21,19 +21,19 @@ Whoever reads this builds it.
 
 ## Reading Order
 
-**[Why Ceres]({{< ref "ceres/why-ceres" >}}) — The Case for the Belt**
+**[Why Ceres]({{< ref "t1_ceres/why-ceres" >}}) — The Case for the Belt**
 The engineering case for Ceres over every other destination. Four requirements, one body that satisfies all of them. The carbon changes everything.
 
-**[The Pathway]({{< ref "ceres/ceres-pathway" >}}) — Staged to Self-Sufficiency**
+**[The Pathway]({{< ref "t1_ceres/ceres-pathway" >}}) — Staged to Self-Sufficiency**
 Four stages. No civilisational commitment upfront. Stage 3 builds before Stage 4 operates. The highest-risk transition in the pathway is identified explicitly.
 
-**[In-Situ Resource Utilisation]({{< ref "ceres/ceres-isru" >}}) — Living Off the Rock**
+**[In-Situ Resource Utilisation]({{< ref "t1_ceres/ceres-isru" >}}) — Living Off the Rock**
 Water, regolith, carbon. The ISRU stack has no physics gaps. The CNT fabrication programme is the research that ends Earth supply chain dependency permanently.
 
-**[The Settlement]({{< ref "ceres/ceres-settlement" >}}) — Permanent Presence**
+**[The Settlement]({{< ref "t1_ceres/ceres-settlement" >}}) — Permanent Presence**
 Autonomous. Subsurface. Orbitally powered. The permanent presence is not biological. Three thresholds define self-sufficiency. What Ceres enables beyond itself is left to whoever gets there.
 
-**[The Belt as Industrial System]({{< ref "ceres/ceres-belt" >}}) — Psyche, the Shipyard, and the Two-Node Civilisation**
+**[The Belt as Industrial System]({{< ref "t1_ceres/ceres-belt" >}}) — Psyche, the Shipyard, and the Two-Node Civilisation**
 Ceres has the water and carbon. Psyche has the metal. The ore does not ship to the processor. The failed planet was a feature.
 
 The Ceres documents follow the same design principles as the Dreamtime corpus: novel claims indexed at the end of each document, open questions stated explicitly, epistemic honesty over optimistic projection throughout.
