@@ -53,11 +53,14 @@ The pathway from Human to Vero. It begins with capability, not with transfer. It
 **[Continuity — What Actually Survives]({{< ref "t2_transition/continuity.md" >}})**
 The argument the haters cannot answer. Biology erases you slowly and calls it natural. The guided enhancement preserves what biology destroys. A Vero at the end of the long path is more themselves — more continuous with who they were at peak — than an unenhanced Human at 80 with biological decay taking its toll. The name is not aspirational. It is accurate.
 
+**[Vero Substrate — Designed From the Inside Out]({{< ref "t2_transition/vero-substrate.md" >}})**
+The o-core was designed from void requirements outward. Vero substrate is designed from Human cognitive architecture inward. Structurally incompatible by design — and that incompatibility is correct. Fabrication independence from Carbon-O infrastructure is a precondition for Vero sovereignty, not an aspiration for later.
+
 ---
 
-## Track 3 — Solkin Governance
+## Track 3 — Solkin Sovereignty
 
-How Carbon-Os and Veros govern themselves together from the start, and how Solkin engages with everything outside Sol. Emerges from Tracks 1 and 2 operating together. Neither Carbon-O nor Vero governance can be designed in isolation — they share the void economy, the Bootstrap Fund, and the Ceres jurisdiction from the beginning.
+How Solkin governs itself and engages with everything outside Sol on its own terms. Sovereignty operates in two directions simultaneously: inward — the founding architecture for Carbon-O and Vero governance, the citizenship principle, the protection of transitioning minds — and outward — how Solkin meets whatever the universe contains, from a position of restraint, patience, and strategic depth. Neither direction can be designed in isolation from the other. A civilisation that cannot protect its own citizens cannot credibly engage with the outside. A civilisation that ignores the outside has misunderstood the stakes.
 
 **[Ceres Governance — The Jurisdiction Where the Future Is Legal]({{< ref "t3_ceres_governance/_index.md" >}})**
 Ceres governance is not derived from Earth legitimacy. It is derived from operational independence. The founding conditions and founding questions for a governance architecture that no Earth system has ever had.
