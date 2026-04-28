@@ -212,7 +212,7 @@ The governance reform is therefore not an adjunct to civilisational-scale projec
 
 *See: [Rama One: A Managed Reservoir Synthesis]({{< ref "t5_dreamtime/thanda-one-synthesis" >}})*
 *See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_dreamtime/long-horizon-competition" >}})*
-*See: [Ceres Governance: The Jurisdiction Where the Future Is Legal]({{< ref "t3_governance/ceres-governance" >}})*
+*See: [Ceres Governance: The Jurisdiction Where the Future Is Legal]({{< ref "t3_ceres_governance/_index.md" >}})*
 
 
 ---
