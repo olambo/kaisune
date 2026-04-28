@@ -1,7 +1,7 @@
 ---
 title: "Continuity: What Actually Survives"
 date: 2026-04-27
-draft: true
+draft: false
 ---
 
 Stub. Synthesis forthcoming.
