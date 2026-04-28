@@ -46,8 +46,8 @@ What Carbon-Os trade with each other and with squishies across Sol. The exchange
 **[Voidfuel — Energy and Propulsion for the Void]({{< ref "voidfuel/_index.md" >}})**
 Three fuels, three research programmes. Fission available now — adequate for Sol and early Voidway. Fusion the primary urgent programme. Antimatter the long-horizon concurrent programme — the correct fuel for a mature Voidway, century-scale, the Solkin research field of choice. The belt is the correct research location for all three.
 
-**[Voidway — The Staged Pathway to the Stars]({{< ref "voidway/_index.md" >}})**
-The pioneer goes first on the best available drive, builds deceleration infrastructure at the destination, signals back. The Voidway opens from the destination end. The establishment mission follows — full bootstrap payload, independent node, self-sustaining without Sol resupply. Regular transit after that, physical and data both. Multiple Voidways form the Voidweb — the full interstellar network as each node launches the next pioneer. One bad event from extinction is basic engineering redundancy. The same sequential demonstration logic as Dreamtime and Ceres, applied to interstellar distance.
+**[Voidway — Establishing the Voidweb]({{< ref "voidway/_index.md" >}})**
+The pioneer goes first, opens the route from the far end, signals back. The Voidway becomes the Voidweb as each established node launches the next pioneer. One bad event from extinction is basic engineering redundancy.
 
 **[Contact — Protocols for First Encounter]({{< ref "contact/_index.md" >}})**
 The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: squishies elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. The Voidway is strategic depth. Solkin is the identity of the civilisation meeting the other.
