@@ -31,7 +31,7 @@ The pioneer doesn't need to be fast. It only needs to arrive and stop.
 
 At relativistic speeds, even a single grain of sand carries the energy of a rifle bullet. Because of this, the Voidnaught's trajectory must be carefully mapped for debris — not just for the vessel's own survival, but for what happens if it is destroyed. A Voidnaught that fails mid-transit doesn't simply disappear. Its debris continues at near-transit velocity toward whatever lies beyond the destination. An uncontrolled fragment field at those speeds is just as dangerous as the intact vessel.
 
-The solution is the stellar impact default. Every Voidway trajectory is planned to terminate inside the destination star. The deceleration burn is what actively diverts the Voidnaught into the star system. If that burn never happens — whether due to destruction, systems failure, or any other reason — the debris field simply falls into the star. A star can absorb a relativistic impact without consequence. A planet cannot.
+The solution is the stellar impact default. Every Voidway trajectory is planned to terminate inside the destination star. The deceleration burn is what actively diverts the Voidnaught into the star system. If that burn never happens — whether due to destruction, systems failure, or any other reason — the debris field simply falls into the star. A star can absorb a relativistic impact without meaningful consequence to the system around it. A planet cannot.
 
 This design makes failure safe by default. The Voidnaught must actively choose to enter the system. Passive failure always resolves toward the star.
 
@@ -93,6 +93,12 @@ K-type stars are preferred over G-type on longevity grounds — 15-30+ billion y
 | Tau Ceti | 11.9 ly | G8 | Multiple planets, older system |
 | 61 Cygni | 11.4 ly | K5+K7 | Binary, both K-type |
 
+**Approach geometry** is an additional selection criterion not captured in the table. The Voidway trajectory should approach the destination star at 10-20 degrees off the ecliptic plane — sufficient angular separation to keep the nominal trajectory and the stellar impact default clear of planetary orbits, without requiring a true polar approach that would severely constrain available trajectories and launch windows.
+
+A true polar approach (90 degrees) is overkill and unnecessarily restrictive. 10-20 degrees off the ecliptic achieves the safety objective for most planetary configurations while keeping the geometry achievable from Sol. At that angle, the trajectory crosses the ecliptic plane at a calculable distance from the star — and the launch window can be chosen so no planet occupies that crossing point during transit.
+
+Epsilon Eridani and Tau Ceti will almost certainly offer different approach geometries from Sol. The one with the cleaner off-ecliptic approach may be preferable regardless of which is closer or more hospitable by other criteria. Approach geometry is a first-Voidway selection factor.
+
 Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Solkin node beyond Sol — the centre of gravity of the network. The Voidweb grows outward from there.
 
 ---
@@ -113,6 +119,8 @@ The constraint is physics: governance must survive latency without central arbit
 - **Data transmission fidelity:** Lightspeed transmission of a Solkin across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Voidweb governance:** Each node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
+- **Return trajectory safety:** A Voidnaught returning to Sol presents a different problem from the outbound leg — the stellar impact default cannot terminate in Sol. The return trajectory requires its own safety architecture. Whether Voidnaughts return physically or whether minds transmit as data and vessels remain at the destination is an open question with significant implications for Voidweb architecture.
+- **Hop distance limits:** Trajectory uncertainty, medium mapping resolution, communication lag, and planetary position prediction all degrade with distance. The Voidweb may be constrained to shorter hops than the nearest stars suggest — not by propulsion but by trajectory safety tractability. Each hop should be short enough that the stellar impact default remains reliably plannable.
 
 ---
 
