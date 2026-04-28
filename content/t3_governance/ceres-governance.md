@@ -3,7 +3,7 @@ title: "Ceres Governance: The Jurisdiction Where the Future Is Legal"
 date: 2026-04-27
 lastmod: 2026-04-27
 draft: false
-weight: 3
+weight: 1
 tags:
   - governance
   - ceres

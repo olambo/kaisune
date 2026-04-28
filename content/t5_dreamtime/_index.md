@@ -38,7 +38,7 @@ The Barkly Tableland diversion redirecting Gulf-draining flood flows into the in
 **[Dreamtime Stairway]({{< ref "t5_dreamtime/dreamtime-stairway" >}}) — The design philosophy**  
 The principle underlying every node in the Dreamtime Web. Maximum sustainable surface area from permanent deep water. Each reservoir sized at the maximum area the depth and inflow can sustain permanently — not minimising evaporation but optimising for the surface area evaporation implies. The engineering is the chain. The philosophy is the Stairway.
 
-*The governance framework: [AI-Augmented Governance Architecture]({{< ref "t3_governance/ai-augmented-governance-architecture" >}}) and [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t3_governance/long-horizon-competition" >}}).*
+*The governance framework: [AI-Augmented Governance Architecture]({{< ref "t5_dreamtime/ai-augmented-governance-architecture" >}}) and [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_dreamtime/long-horizon-competition" >}}).*
 
 ---
 ## On the Corpus Design

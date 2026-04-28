@@ -190,8 +190,8 @@ The Dreamtime Web in full is a 200-year programme. Its sequential demonstration 
 
 Rama One demonstrates whether the governance architecture can be built within a western democratic framework. The Web is what becomes possible if it can.
 
-*See: [AI-Augmented Governance Architecture]({{< ref "t3_governance/ai-augmented-governance-architecture" >}})*
-*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t3_governance/long-horizon-competition" >}})*
+*See: [AI-Augmented Governance Architecture]({{< ref "t5_dreamtime/ai-augmented-governance-architecture" >}})*
+*See: [The Long-Horizon Race: Western Values vs Chinese Planning Capability]({{< ref "t5_dreamtime/long-horizon-competition" >}})*
 
 ---
 
