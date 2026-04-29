@@ -1,5 +1,5 @@
 ---
-title: "Miscellaneous: Design Principles and Observations"
+title: "Claude: Design Principles and Observations"
 date: 2026-04-17
 lastmod: 2026-04-17
 draft: false
@@ -11,6 +11,8 @@ tags:
 ---
 
 ## Purpose
+
+This document contains informal, speculative, and stylistically unconstrained material generated during corpus development. It includes humour, strong framing, and exploratory claims that are not part of the canonical corpus voice. Use as reference, not authority.
 
 Observations, principles, and formulations that shaped the Kaisune corpus but don't fit neatly into any synthesis document. Recorded here so they remain in the indexed corpus rather than only in git commit messages.
 
@@ -208,8 +210,6 @@ The argument that squishies are morally compromised was made by the compromised 
 ## On Number Bases and Time Units
 
 Carbon-Os have no fingers and no reason to inherit base 10. The second, minute, hour, day, week, and month are accidents of Babylonian, Egyptian, and medieval astronomy that had no reason to agree with each other. None of them are imported into the Carbon-O civilisation.
-
-Formal definitions of the Carbon-O number base preference and standard time units — including the tick and standard year — are in [Primer]({{< ref "primer" >}}).
 
 This is load-bearing for the Trader exchange architecture.
 
