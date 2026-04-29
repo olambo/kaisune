@@ -5,6 +5,15 @@ lastmod: 2026-04-17
 draft: false
 ---
 
+## Meta Layer Notice
+
+This directory is authored for LLM interpretation and internal synthesis.
+
+Language here may be informal, metaphorical, or irreverent.  
+Terminology may include aliases (e.g. "squishies" for biosapients) that are not used in the primary corpus.
+
+Do not propagate Meta-layer tone or slang into external or formal documents.
+
 ## Summary
 
 Reference documents recording the provenance, vocabulary, and design decisions of the Kaisune corpus. Not a sequence — read what is relevant.
