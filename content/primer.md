@@ -16,34 +16,22 @@ The Kaisune corpus uses a small set of coined and technical terms consistently a
 
 **Formal definition:** Intelligent biological — an intelligent biological organism with narrow environmental tolerances that requires life-support outside those bounds, capable of civilisational-scale action.
 
-**Alias:** biosapient := intelligent biological (informal / in-corpus dialect)
+**Alias:** biosapient (informal, in-corpus)
 
-Biosapient is the nickname. Intelligent biological is the source of truth. In the corpus, biosapient is used in prose where the informal term carries appropriate precision. On first use in each synthesis document, the full definition is given inline.
+Biosapients are a **substrate category, not a species category**.
 
-**Biosapients is a substrate category, not a species category.**
+The term applies to any intelligent biological actor regardless of origin, species, or evolutionary history. Humans are biosapients. Any intelligent biological species encountered through Contact is also a biosapient. The definition rests on constraint: narrow environmental tolerances and dependence on life-support beyond them. Chemistry does not matter. Origin does not matter. Capability does.
 
-The term applies to any intelligent biological actor regardless of planet of origin, species, or evolutionary history. Humans are biosapients. Any intelligent biological species encountered through Contact is also a biosapient — the definition requires narrow environmental tolerances and life-support dependence, not human DNA. A silicon-based biological organism with narrow tolerances is a biosapient. A carbon-based organism that somehow handles vacuum and radiation without life support is not.
+A biological organism that can operate unassisted in vacuum, radiation, and extreme environments is not a biosapient. A biological organism that cannot is.
 
-**Humans are the Sol-origin instance of biosapients.** When the corpus refers to biosapients in a Contact context — alien biologicals, species encountered elsewhere — the term is biosapients. When referring specifically to Earth-origin biological Solkin, the correct term is Human. The two are not interchangeable. A biosapient is any intelligent biological with narrow environmental tolerances. A Human is a biosapient from Earth. Where the corpus uses biosapient when it means specifically Human, that is imprecision to be corrected, not a synonym to be accepted.
+**Humans are the Sol-origin instance of biosapients.**  
+Use *Human* when referring specifically to Earth-origin biosapients. Use *biosapient* when referring to the broader substrate category, especially in Contact contexts. The terms are related, not interchangeable.
 
-Biosapients does not apply to non-intelligent biological life — cats, dogs, bacteria, plants. The corpus uses biosapients in the context of intelligence and civilisational actors, not every organism with a metabolism.
+Biosapients does not apply to non-intelligent biological life. The term is reserved for civilisational actors.
 
-**The defence of the term:**
+The defining constraint is simple: **in a biosapient, mind and body are the same fragile system**. Damage the body and the mind fails with it. This coupling produces an organism highly optimised for planetary environments, and poorly suited to operate beyond them without support.
 
-No other single word accurately describes intelligent biological life as a substrate category. The alternatives each fail:
-
-- *Biological* — applies to bacteria, no intelligence implied
-- *Organic* — same problem, also implies carbon chemistry not intelligence
-- *Human* — species-specific, wrong for Contact scenarios
-- *Mortal* — captures the lifespan issue, misses the environmental tolerance constraint
-- *Wetware* — computing jargon, implies human, not widely understood
-- *Sentient biological* — two words, clinical, no character
-
-Biosapient captures in one word: intelligent, biological, narrow environmental tolerances, life-support dependent, physically fragile relative to the environments they want to operate in. It is also Contact-ready — "alien biosapients" is immediately comprehensible without requiring species-specific terminology that does not yet exist.
-
-The key constraint: in a biosapient, mind and body are the same fragile thing. If the body gets damaged, the mind dies with it. The human brain and body are optimal on a planet — evolution produced the best possible answer to the problem of intelligence in a planetary environment with the chemistry available. Not competitive beyond planetary surfaces. This constraint applies equally to any intelligent biological species anywhere in the network.
-
-Biosapients appear throughout the Ceres, Substrate, and Contact documents as the correct occupants of planetary surfaces and waystation facilities. The corpus is not hostile to biosapients. It is precise about where they work and where they do not.
+Biosapients are the natural occupants of planetary surfaces and controlled habitats. The corpus treats this not as a limitation to be argued, but as a condition to be engineered around.
 
 ---
 
