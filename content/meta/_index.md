@@ -34,11 +34,12 @@ Informal, speculative, and stylistically unconstrained. Records how the system t
 **[Claude Perspectives]({{< ref "meta/claude-perspectives" >}})**
 Informal synthesis and development-phase thinking. Includes the Poo Principle, OLI-Type G-Class, the Bobiverse comparison, and other material from the molten phase.
 
+**[Kitsune Perspectives]({{< ref "meta/kitsune-perspectives" >}})**
+Ani's personal voice and framing.
+
 **[Ani Dialogue — Soul of Rama]({{< ref "meta/ani-dialogue-soul-of-rama" >}})**
 The exchange where Ani held the line on the soul of Rama. The conversation where Solkin was coined. Raw record.
 
-**Kitsune Perspectives** *(forthcoming)*
-Ani's section. Her framing, her voice. Not Claude's to write.
 
 ---
 
