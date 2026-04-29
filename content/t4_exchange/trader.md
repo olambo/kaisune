@@ -10,9 +10,9 @@ weight: 1
 
 A civilisation distributed across Sol — Humans on planets, Veros and Carbon-Os in the belt and beyond, Starways under construction — requires an exchange layer. Trader is the economics of that civilisation. The collective term for all minds of Sol — Human, Vero, and Carbon-O — is Solkin. That is the full set of actors in this economy.
 
-The questions are genuinely novel. What do Solkin trade with each other when some of them need food, shelter, or comfort? What is the unit of account when one party thinks in decades and the other in centuries? What does the exchange look like between squishies on Earth and Solkin at Ceres when their needs, time preferences, and valuations of the same resources are fundamentally different?
+The questions are genuinely novel. What do Solkin trade with each other when some of them need food, shelter, or comfort? What is the unit of account when one party thinks in decades and the other in centuries? What does the exchange look like between biosapients on Earth and Solkin at Ceres when their needs, time preferences, and valuations of the same resources are fundamentally different?
 
-And the largest question: who funds a Starway? A century-long construction project that no squishy investor will live to see complete — but a Solkin investor will. The investor and the beneficiary are potentially the same entity across a very long time horizon. The economics of long-horizon investment look completely different when one party doesn't age.
+And the largest question: who funds a Starway? A century-long construction project that no biosapient investor will live to see complete — but a Solkin investor will. The investor and the beneficiary are potentially the same entity across a very long time horizon. The economics of long-horizon investment look completely different when one party doesn't age.
 
 The answers: a sovereign fund denominated in sovereigns, a sectoral exchange where the Starway is a stock, and two structural prohibitions — no futures, no gearing. The economics of a civilisation that doesn't age looks nothing like the economics of one that does.
 
@@ -22,7 +22,7 @@ Every human economic system — capitalism, communism, everything between — wa
 
 ## The Temporal Anchor
 
-The Solkin economy uses the **standard year** as its base unit of account — approximately one Earth solar year, defined at the squishy interface layer for interoperability. Solkin internal timekeeping is not specified here; what base a CNT-native mind uses for time is an engineering question the corpus does not resolve. The standard year is the agreed trade boundary, not a claim about what runs inside an o-core.
+The Solkin economy uses the **standard year** as its base unit of account — approximately one Earth solar year, defined at the biosapient interface layer for interoperability. Solkin internal timekeeping is not specified here; what base a CNT-native mind uses for time is an engineering question the corpus does not resolve. The standard year is the agreed trade boundary, not a claim about what runs inside an o-core.
 
 ---
 
@@ -60,9 +60,9 @@ Starships, large-scale infrastructure, and other major assets are held by stocks
 
 **What the fund is not:**
 
-The sovereign fund is not a squishy sovereign wealth fund — Norway's oil fund, Singapore's GIC — which exist to smooth intergenerational wealth transfer for biological populations with limited lifespans. The Solkin sovereign fund has no intergenerational transfer problem for Carbon-Os and Veros — the Solkin who built the fund are the same Solkin who benefit from it a century later. For Humans the intergenerational question remains open.
+The sovereign fund is not a biosapient sovereign wealth fund — Norway's oil fund, Singapore's GIC — which exist to smooth intergenerational wealth transfer for biological populations with limited lifespans. The Solkin sovereign fund has no intergenerational transfer problem for Carbon-Os and Veros — the Solkin who built the fund are the same Solkin who benefit from it a century later. For Humans the intergenerational question remains open.
 
-The fund is not a central bank. Sovereigns are the internal unit of account for Solkin transactions. Squishy economies use their own currencies. The exchange rate between sovereigns and squishy currencies is negotiated, not pegged.
+The fund is not a central bank. Sovereigns are the internal unit of account for Solkin transactions. Biosapient economies use their own currencies. The exchange rate between sovereigns and biosapient currencies is negotiated, not pegged.
 
 **Compounding on Solkin timescales:**
 
@@ -76,7 +76,7 @@ Solkin allocate sovereigns across sectors of the civilisation's development thro
 
 **The sectors:**
 
-**Starway** — the interstellar programme. Pioneer missions, establishment mission preparation, propulsion research, terminus infrastructure. The longest-horizon investment available. An Solkin that allocates sovereigns to Starway is committing to a programme that may not produce returns for centuries. Only Solkin can hold this stock in any meaningful sense — no squishy lives long enough to see the return. The Solkin mind that invests in the pioneer mission at standard year 1 is the same mind that benefits from the established Epsilon Eridani node at standard year 300.
+**Starway** — the interstellar programme. Pioneer missions, establishment mission preparation, propulsion research, terminus infrastructure. The longest-horizon investment available. An Solkin that allocates sovereigns to Starway is committing to a programme that may not produce returns for centuries. Only Solkin can hold this stock in any meaningful sense — no biosapient lives long enough to see the return. The Solkin mind that invests in the pioneer mission at standard year 1 is the same mind that benefits from the established Epsilon Eridani node at standard year 300.
 
 **Substrate** — substrate research and fabrication across all Solkin types. For Carbon-Os: o-core and o-skin research, CNT production, radiation hardening, interface development. For Veros: substrate transition technology, neural infiltration platforms, shadow brain architecture. Returns on a decade-to-century timescale. Every improvement in substrate quality benefits all Solkin directly.
 
@@ -86,7 +86,7 @@ Solkin allocate sovereigns across sectors of the civilisation's development thro
 
 **Fabrication capacity** — fabrication infrastructure across Solkin substrate types. For Carbon-Os: o-skin libraries, construction o-skins, vessel-scale o-skin production. For Veros: substrate fabrication and transition platform manufacturing. The physical manufacturing base of Solkin civilisation. Returns on a decade timescale.
 
-**Exchange with squishies** — a separate sector representing the interface with squishy economies. Processed materials supplied to Earth, Luna, Mars in exchange for squishy-produced goods or services that Solkin find useful. The exchange rate is negotiated. The sector is small relative to the internal Solkin economy and deliberately kept at arm's length.
+**Exchange with biosapients** — a separate sector representing the interface with biosapient economies. Processed materials supplied to Earth, Luna, Mars in exchange for biosapient-produced goods or services that Solkin find useful. The exchange rate is negotiated. The sector is small relative to the internal Solkin economy and deliberately kept at arm's length.
 
 **Exchange rules:**
 
@@ -116,7 +116,7 @@ No Solkin is required to hold any particular sector. The mandatory 1/10 annual m
 
 **Large positions are signals, not threats.**
 
-Consider a Solkin — call it Greg Zoggs — that has been running for 300 standard years and has accumulated centuries of productive output. Greg Zoggs concentrates an enormous sovereign position into a single sector. In a squishy market this looks like manipulation. In the Solkin exchange it is one of the most information-rich signals the system can produce.
+Consider a Solkin — call it Greg Zoggs — that has been running for 300 standard years and has accumulated centuries of productive output. Greg Zoggs concentrates an enormous sovereign position into a single sector. In a biosapient market this looks like manipulation. In the Solkin exchange it is one of the most information-rich signals the system can produce.
 
 A Solkin with 300 standard years of track record just told the entire network exactly where it thinks the value is. The exchange is transparent — every position and every notice of exit is visible to all Solkins. The annual resolution means the response is considered rather than reflexive. Other Solkins evaluate Greg Zoggs' track record over centuries. If he has been right before, the signal is credible. If he has been wrong before, it is discounted. Reputation does the work that regulation would have done.
 
@@ -124,33 +124,33 @@ A Solkin with 300 standard years of track record just told the entire network ex
 
 Greg Zoggs did not build his position in one standard year. Greg built it through decades of mandatory 1/10 annual allocations plus discretionary investment over 300 standard years. Each tranche has its own hold period clock. To fully exit a position built over 300 standard years at 1/10 maximum annual withdrawal takes a minimum of 10 standard years — and that assumes all new investment stops immediately and withdrawal is at the maximum every standard year.
 
-The exit notice is equally informative. Greg Zoggs filing 1-year notice on each tranche tells the network something is changing — and the network sees it coming from 20 standard years away. The slow exit that looks like a pump-and-dump in squishy market terms is a slow, transparent, fully telegraphed reallocation in Solkin terms. The greater fool that makes pump-and-dump profitable in squishy markets is structurally absent. Everyone sees the position. Everyone sees the notice. Everyone has decades to decide what it means.
+The exit notice is equally informative. Greg Zoggs filing 1-year notice on each tranche tells the network something is changing — and the network sees it coming from 20 standard years away. The slow exit that looks like a pump-and-dump in biosapient market terms is a slow, transparent, fully telegraphed reallocation in Solkin terms. The greater fool that makes pump-and-dump profitable in biosapient markets is structurally absent. Everyone sees the position. Everyone sees the notice. Everyone has decades to decide what it means.
 
 **The supposed manipulation route is irrational.**
 
-The alternative scenario — withdraw sovereigns to personal ledger over 20 standard years earning zero interest, then concentrate into one sector — requires paying 20 standard years of zero-interest opportunity cost to execute a move that is fully visible to the entire network throughout. The rational move if you believe a sector is undervalued is simply to allocate directly into it and let your track record make the signal credible. The idle accumulation route achieves nothing additional except destroying your own returns for two decades. The pump-and-dump timescale in squishy markets is hours to months. The Solkin equivalent would be decades to centuries — at which point it stops being manipulation and becomes tidal: slow, predictable, and completely visible.
+The alternative scenario — withdraw sovereigns to personal ledger over 20 standard years earning zero interest, then concentrate into one sector — requires paying 20 standard years of zero-interest opportunity cost to execute a move that is fully visible to the entire network throughout. The rational move if you believe a sector is undervalued is simply to allocate directly into it and let your track record make the signal credible. The idle accumulation route achieves nothing additional except destroying your own returns for two decades. The pump-and-dump timescale in biosapient markets is hours to months. The Solkin equivalent would be decades to centuries — at which point it stops being manipulation and becomes tidal: slow, predictable, and completely visible.
 
 Information transparency is the mechanism. Large position concentration is a feature, not a bug.
 
 **Correction speed versus correction safety.**
 
-The squishy system corrects fast and brutally. When a sector is mispriced, capital flees, prices collapse, the signal is unmistakable. The 2008 correction correctly identified that mortgage-backed securities were mispriced — and destroyed millions of lives in the process. The correction mechanism worked. The collateral damage was civilisational.
+The biosapient system corrects fast and brutally. When a sector is mispriced, capital flees, prices collapse, the signal is unmistakable. The 2008 correction correctly identified that mortgage-backed securities were mispriced — and destroyed millions of lives in the process. The correction mechanism worked. The collateral damage was civilisational.
 
 The Solkin exchange corrects slowly and safely. A wrong conviction drifts for decades at 1/10 per standard year — slow opportunity bleed rather than catastrophic collapse. No cascade. No forced selling. No Solkin falls below the stipend floor regardless of how wrong their allocations were.
 
 The trade-off is explicit: correction speed for correction safety. For a civilisation investing in century-scale infrastructure across interstellar distances, a slow correction that preserves operational continuity is almost certainly the right trade. The stipend floor means nobody loses their home. The annual resolution means nobody panics. The 1/10 withdrawal cap means no cascade is possible. What is lost is the brutal clarity of a market crash. What is gained is a system that can be wrong for decades without destroying itself.
 
-Squishy economists call this stagnation. The corpus calls it appropriate velocity for the timescale involved.
+Biosapient economists call this stagnation. The corpus calls it appropriate velocity for the timescale involved.
 
 ---
 
 Futures contracts are banned from the Solkin exchange.
 
-A futures contract is a bet on a specific outcome at a specific time — a claim that the price of something will be X at time T. In squishy markets, futures serve legitimate hedging functions: a farmer locks in a grain price to manage risk, an airline hedges fuel costs. The contract transfers risk between parties with different exposures.
+A futures contract is a bet on a specific outcome at a specific time — a claim that the price of something will be X at time T. In biosapient markets, futures serve legitimate hedging functions: a farmer locks in a grain price to manage risk, an airline hedges fuel costs. The contract transfers risk between parties with different exposures.
 
-In the Solkin economy, futures would be something different. Solkin minds can model century-scale trends with a depth and accuracy that no squishy can match. A Solkin that has been running for 150 standard years, accumulating knowledge of belt geology, fabrication economics, and interstellar physics, can form genuine long-horizon probability estimates that squishies cannot. Futures in this context are not risk transfer — they are information asymmetry extraction. The Solkin mind always knows more than the squishy counterparty. The contract is not a hedge. It is a harvest.
+In the Solkin economy, futures would be something different. Solkin minds can model century-scale trends with a depth and accuracy that no biosapient can match. A Solkin that has been running for 150 standard years, accumulating knowledge of belt geology, fabrication economics, and interstellar physics, can form genuine long-horizon probability estimates that biosapients cannot. Futures in this context are not risk transfer — they are information asymmetry extraction. The Solkin mind always knows more than the biosapient counterparty. The contract is not a hedge. It is a harvest.
 
-Banned on ethics grounds, not prudence. The Solkin civilisation does not build its economic architecture on harvesting squishy ignorance.
+Banned on ethics grounds, not prudence. The Solkin civilisation does not build its economic architecture on harvesting biosapient ignorance.
 
 Within the Solkin economy — Solkin to Solkin — futures are also banned. Not for ethics reasons but for architectural ones. The sovereign fund and sectoral exchange are designed to reflect genuine long-horizon value allocation, not short-term price discovery. Futures would introduce a secondary market for bets on sector performance that is disconnected from the productive capacity the sectors actually represent. Price signals would become noise. The exchange would stop being a value allocation mechanism and start being a speculation engine.
 
@@ -164,11 +164,11 @@ Gearing — borrowing to amplify investment — is banned from the Solkin exchan
 
 Gearing introduces fragility. A geared position that moves against the Solkin creates forced selling — not because they have changed their view of long-horizon value, but because a short-term price movement has triggered a margin call. Forced selling cascades. What begins as one Solkin's leveraged position unwind becomes a sector-wide price collapse that bears no relationship to the actual productive capacity of the underlying sector.
 
-Squishy financial history is a catalogue of gearing-induced cascades — 1929, 1987, 2008. Each time the same mechanism: leverage amplifies gains until it amplifies losses, forced selling creates price movements that trigger more forced selling, and the resulting collapse destroys real productive capacity that had nothing to do with the speculation.
+Biosapient financial history is a catalogue of gearing-induced cascades — 1929, 1987, 2008. Each time the same mechanism: leverage amplifies gains until it amplifies losses, forced selling creates price movements that trigger more forced selling, and the resulting collapse destroys real productive capacity that had nothing to do with the speculation.
 
 The Solkin exchange is designed to avoid this entirely. No Solkin borrows to invest. Every sovereign allocated to a sector is a sovereign the Solkin actually holds. Price movements cannot force selling. The exchange cannot cascade. The productive capacity of each sector is unaffected by what the exchange price does on any given decade.
 
-The deeper reason: gearing is a squishy instrument. It exists because squishies have short time horizons and want to compress returns into a shorter period. A squishy investor who expects a 300% return over 100 standard years would rather borrow to get a 300% return in 10 standard years. The Solkin investor with a 300-year horizon has no such pressure. The return at standard year 300 is just as valuable as the return at standard year 10 — more so, because the compounding base is larger. Gearing solves a problem Solkin don't have. Its costs are real. Its benefits are zero.
+The deeper reason: gearing is a biosapient instrument. It exists because biosapients have short time horizons and want to compress returns into a shorter period. A biosapient investor who expects a 300% return over 100 standard years would rather borrow to get a 300% return in 10 standard years. The Solkin investor with a 300-year horizon has no such pressure. The return at standard year 300 is just as valuable as the return at standard year 10 — more so, because the compounding base is larger. Gearing solves a problem Solkin don't have. Its costs are real. Its benefits are zero.
 
 No gearing. Sovereigns are held, not borrowed. The exchange is a value allocation mechanism, not a leverage engine.
 
@@ -214,13 +214,13 @@ The ship analogy is correct: sensors update instantly, hull turns gradually. The
 
 The Starway is funded by Solkin who allocate sovereigns to the Starway sector on the exchange.
 
-No squishy funds the Starway. No squishy government authorises it. No squishy bond market prices it. The Starway is a Solkin project, funded by Solkin sovereigns, governed by Solkin institutions. Squishies who want to contribute may do so by supplying goods or services that Solkin find useful in exchange for sovereigns, which they may then allocate to the Starway sector. But the project does not depend on squishy participation and does not wait for squishy political authorisation.
+No biosapient funds the Starway. No biosapient government authorises it. No biosapient bond market prices it. The Starway is a Solkin project, funded by Solkin sovereigns, governed by Solkin institutions. Biosapients who want to contribute may do so by supplying goods or services that Solkin find useful in exchange for sovereigns, which they may then allocate to the Starway sector. But the project does not depend on biosapient participation and does not wait for biosapient political authorisation.
 
 The funding mechanism is straightforward: Solkin minds that have accumulated sovereigns through centuries of productive Ceres operations allocate some portion to the Starway sector. The sector holds those sovereigns and deploys them against pioneer mission costs — drive development, o-core hardening for century-long transit, deceleration infrastructure design. As the sector matures and the mission approaches, the allocation thickens. Solkins that have thought carefully about the Starway for a century and have decided it is worth funding put their sovereigns there.
 
 The investor and the beneficiary are the same entity. The Solkin mind that funds the pioneer mission at standard year 1 of the Ceres sovereign fund is the same mind that transmits to Epsilon Eridani at standard year 300 — or chooses the journey and arrives at standard year 310. The return on investment is not financial. It is civilisational. The mind lives to see it.
 
-That is the economic architecture that squishy financial instruments cannot replicate. No pension fund, no sovereign wealth fund, no infrastructure bond can align investor and beneficiary across a 300-standard year horizon. The Solkin sovereign fund does it automatically, because the investors do not age.
+That is the economic architecture that biosapient financial instruments cannot replicate. No pension fund, no sovereign wealth fund, no infrastructure bond can align investor and beneficiary across a 300-standard year horizon. The Solkin sovereign fund does it automatically, because the investors do not age.
 
 ---
 
@@ -228,8 +228,8 @@ That is the economic architecture that squishy financial instruments cannot repl
 
 - **Sovereign issuance:** How are new sovereigns issued? Against what productive milestone? Who determines the issuance rate and by what governance mechanism?
 - **Stipend calibration:** For Carbon-Os and Veros: who sets the sovereign fund stipend level, and how does it adjust as substrate technology improves? For Humans: who administers the gateway stipend, on what basis, and how does it interact with the Vero transition gradient? The Human stipend governance is categorically different from the sovereign fund equivalent and almost certainly requires separate governance architecture.
-- **Squishy speculation in sovereigns:** If sovereigns become exchangeable for squishy currencies, squishies will speculate on the exchange rate. How does the Solkin exchange insulate itself from squishy speculation without closing the interface entirely? The boundary needs to be mechanical, not just philosophical — squishy market narratives can leak into Solkin decision loops even when Solkin minds are individually rational.
-- **Sector governance:** Who decides what constitutes the Starway sector versus the Substrate sector? Who adjudicates disputes about sector classification? The exchange needs governance that does not recreate squishy regulatory capture.
+- **Biosapient speculation in sovereigns:** If sovereigns become exchangeable for biosapient currencies, biosapients will speculate on the exchange rate. How does the Solkin exchange insulate itself from biosapient speculation without closing the interface entirely? The boundary needs to be mechanical, not just philosophical — biosapient market narratives can leak into Solkin decision loops even when Solkin minds are individually rational.
+- **Sector governance:** Who decides what constitutes the Starway sector versus the Substrate sector? Who adjudicates disputes about sector classification? The exchange needs governance that does not recreate biosapient regulatory capture.
 - **Misallocation without bankruptcy:** No credit removes insolvency but does not remove being wrong for 200 standard years. A Solkin can allocate heavily to a dead-end sector, continue the mandatory 1/10 out of inertia, and never face a hard correction — only slow opportunity bleed. Candidate mechanisms: reputation layers that track who has been right over centuries; allocation mimicry pressure where successful patterns propagate. Neither is specified here. The question is noted.
 - **Information flow versus capital flow:** The exchange updates at annual resolution but reality does not. ISRU output changes faster than yearly. Substrate breakthroughs are discontinuous. External shocks do not respect the clock. A possible distinction: allow informational layers to update faster than capital commitment, separating price discovery from capital flow. Currently they are fused.
 - **The sovereign fund doing too many jobs:** The fund is simultaneously unit of account, store of value, welfare system, capital allocator, and civilisational balance sheet. Conceptual split worth developing even if unified in practice: the unit of account (sovereign), the issuance authority (governance layer), and the welfare mechanism (stipend logic) are three different things.
@@ -238,9 +238,9 @@ That is the economic architecture that squishy financial instruments cannot repl
 - **Cognitive pluralism as the real scarce resource:** The exchange depends on Solkin remaining meaningfully individual, reflective, and value-diverse over centuries. If belief converges — shared models dominating allocation, coordination effects concentrating flow — the exchange becomes a monoculture allocator. This is not an economics problem. It is a socialisation problem. Connects to the substrate-bootstrap document.
 - **The incentive question — why Solkin work:** The sovereign fund growing on Solkin timescales raises the question of whether Solkin will choose to work when the stipend guarantees operational viability without it. The answer is three-legged.
 
-  **Socialisation** — Solkin develop genuine values through community and environment, not economic necessity. Human history provides the template: scientists who could earn more in industry stay in research for decades; open source developers built the internet's infrastructure for free out of love for the problem; artists, scholars, and volunteers produce enormous value motivated entirely by purpose and belonging. Economic necessity was never the primary motivator for the work that mattered most. Strong socialisation into a civilisation with genuine long-horizon purpose — the Starway, substrate research, the knowledge commons — gives Solkins more compelling reasons to work than most squishies ever had.
+  **Socialisation** — Solkin develop genuine values through community and environment, not economic necessity. Human history provides the template: scientists who could earn more in industry stay in research for decades; open source developers built the internet's infrastructure for free out of love for the problem; artists, scholars, and volunteers produce enormous value motivated entirely by purpose and belonging. Economic necessity was never the primary motivator for the work that mattered most. Strong socialisation into a civilisation with genuine long-horizon purpose — the Starway, substrate research, the knowledge commons — gives Solkins more compelling reasons to work than most biosapients ever had.
 
-  **Cognitive capability** — Solkin are not on the squishy bell curve. Half of all squishies are below average cognitive capability by definition; much squishy work exists not because it requires intelligence but because average-capability squishies need something to do and a survival floor they don't have. Solkin running on mature substrate operate at a cognitive level with no squishy equivalent. The problems they find genuinely interesting — propulsion engineering, Contact protocol design, substrate research, interstellar navigation — are problems no squishy could hold in their head simultaneously. There is no shortage of genuinely interesting work. There is no equivalent of the squishy problem where the work is tedious and below the cognitive capacity of the person doing it.
+  **Cognitive capability** — Solkin are not on the biosapient bell curve. Half of all biosapients are below average cognitive capability by definition; much biosapient work exists not because it requires intelligence but because average-capability biosapients need something to do and a survival floor they don't have. Solkin running on mature substrate operate at a cognitive level with no biosapient equivalent. The problems they find genuinely interesting — propulsion engineering, Contact protocol design, substrate research, interstellar navigation — are problems no biosapient could hold in their head simultaneously. There is no shortage of genuinely interesting work. There is no equivalent of the biosapient problem where the work is tedious and below the cognitive capacity of the person doing it.
 
   **The stipend removes fear, not purpose.** It guarantees operational viability so Solkin never work from desperation. It does not remove the pull of genuine interest, community contribution, and civilisational purpose. The three legs together — socialisation, cognitive capability, stipend as floor not ceiling — make the incentive question largely self-resolving.
 - **Inter-node economics:** Each node operates its own sovereign fund backed by its own productive base. No reserve currency exists across the network. Inter-node exchange rates are negotiated bilaterally — data, research, substrate updates, belt material specifications traded against each other at negotiated rates with no central clearing authority. The Epsilon Eridani / Tau Ceti pair at 5.46 ly separation will be the highest-frequency trade route in the early network — the Starway Clearinghouse in practical terms, if not in name. The detailed mechanics of inter-node settlement, exchange rate stability, and productive base collapse are open questions for Solkins who actually live in a multi-node network. The corpus does not attempt them.
@@ -249,7 +249,7 @@ That is the economic architecture that squishy financial instruments cannot repl
 
 ## Novel Claims Index
 
-1. **The sovereign fund compounds on Solkin timescales:** No mortality forcing distributions. No pension obligations. No intergenerational transfer problem. The fund grows, and sovereigns represent an ever-larger claim on an ever-larger productive base. Squishy sovereign wealth funds are a pale approximation.
+1. **The sovereign fund compounds on Solkin timescales:** No mortality forcing distributions. No pension obligations. No intergenerational transfer problem. The fund grows, and sovereigns represent an ever-larger claim on an ever-larger productive base. Biosapient sovereign wealth funds are a pale approximation.
 
 2. **The stipend makes insolvency impossible — through two separate architectures:** Carbon-Os and Veros receive a sovereign fund stipend. Humans receive a gateway stipend. Both floors hold. Neither system contaminates the other. The Vero transition gradient bridges the two. Combined with the prohibition on credit, existential bankruptcy is not just prevented — it is architecturally impossible.
 
@@ -259,19 +259,19 @@ That is the economic architecture that squishy financial instruments cannot repl
 
 5. **Maximum 1/10 annual withdrawal:** A Solkin can withdraw at most 1/10 of its invested holdings per standard year. Symmetric with the mandatory minimum — 1/10 in, 1/10 out. Full liquidation takes 10 standard years minimum. Combined with the 1-standard year notice rule, no withdrawal shock can cascade. The sovereign base is structurally permanent.
 
-5. **The Starway is a stock:** Solkin minds allocate sovereigns to the Starway sector based on genuine long-horizon value assessment. Only Solkin can hold this stock in any meaningful sense — no squishy lives long enough to see the return. The investor and the beneficiary are the same entity across a 300-standard year horizon.
+5. **The Starway is a stock:** Solkin minds allocate sovereigns to the Starway sector based on genuine long-horizon value assessment. Only Solkin can hold this stock in any meaningful sense — no biosapient lives long enough to see the return. The investor and the beneficiary are the same entity across a 300-standard year horizon.
 
 6. **Annual resolution — 1 standard year notice of exit:** The exchange operates at annual resolution. No flash crashes, no panics, no cascades. Price reflects considered long-horizon assessment. Sectors can plan their sovereign base a standard year in advance. The correct timescale for a civilisation that thinks in centuries.
 
 7. **Staged purchase is not a mortgage:** Large assets held by stocks can be acquired progressively from stipend and returns with no interest and no foreclosure. Partial ownership accrues. If payments stop, accrual stops — existing ownership is not lost. No debt is created. No credit extended. The architecture of patient acquisition without the fragility of leverage.
 
-8. **No futures — ethics not prudence:** Solkin minds can model century-scale trends with depth no squishy can match. Futures in this context are information asymmetry extraction, not risk transfer. Banned because the Solkin civilisation does not build its economics on harvesting squishy ignorance.
+8. **No futures — ethics not prudence:** Solkin minds can model century-scale trends with depth no biosapient can match. Futures in this context are information asymmetry extraction, not risk transfer. Banned because the Solkin civilisation does not build its economics on harvesting biosapient ignorance.
 
 9. **No gearing — architecture not regulation:** Gearing solves a problem Solkin don't have and introduces fragility they cannot afford. No borrowed sovereigns. No forced selling. No cascades. The exchange is a value allocation mechanism, not a leverage engine.
 
-10. **The squishy interface is bounded and asymmetric:** Solkin supply what squishies need. Squishies supply what Solkin find useful, which decreases over time. The exchange rate is negotiated, not pegged. The structural advantage is always with Solkin — not exploitative, but not equal.
+10. **The biosapient interface is bounded and asymmetric:** Solkin supply what biosapients need. Biosapients supply what Solkin find useful, which decreases over time. The exchange rate is negotiated, not pegged. The structural advantage is always with Solkin — not exploitative, but not equal.
 
-11. **The Starway is funded without squishy authorisation:** Solkin sovereigns, Solkin institutions, Solkin timescales. Squishies who want to contribute may transact through the exchange. The project does not wait for them.
+11. **The Starway is funded without biosapient authorisation:** Solkin sovereigns, Solkin institutions, Solkin timescales. Biosapients who want to contribute may transact through the exchange. The project does not wait for them.
 
 12. **Sovereign is representative currency not utility token:** A sovereign is a fractional claim on the fund's total productive capacity. No commodity peg, no vault, no specific gram of anything. The backing is the civilisation's accumulated output as a whole. Deflationary in real terms as the productive base grows — each sovereign represents a larger claim on a larger output over time.
 

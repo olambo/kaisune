@@ -37,9 +37,9 @@ Fission is the fallback if fusion is not yet available when early Voidway missio
 
 ### Fusion — The Primary Research Programme
 
-Fusion drives are the early Voidway propulsion. Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solkin on a fusion drive sustains accelerations that would be lethal to squishies for the entire transit — mission profiles completely different from anything designed around biological tolerance.
+Fusion drives are the early Voidway propulsion. Higher specific impulse than fission, potentially much higher thrust-to-weight with miniaturised designs. A Solkin on a fusion drive sustains accelerations that would be lethal to biosapients for the entire transit — mission profiles completely different from anything designed around biological tolerance.
 
-**Current state:** NIF achieved ignition in 2022. Commercial fusion power is now an engineering problem rather than a physics problem. Fusion drives for propulsion are harder — open magnetic confinement geometries, pulse fusion, directed thrust rather than heat extraction. Squishy-built timeline: 2060-2100 for a working drive. Solkin research programme in the belt: potentially faster.
+**Current state:** NIF achieved ignition in 2022. Commercial fusion power is now an engineering problem rather than a physics problem. Fusion drives for propulsion are harder — open magnetic confinement geometries, pulse fusion, directed thrust rather than heat extraction. Biosapient-built timeline: 2060-2100 for a working drive. Solkin research programme in the belt: potentially faster.
 
 **Why the belt is the correct research location:** Uninhabited asteroids. Vacuum. Distance from anything that matters. Solkin researchers with no radiation exposure concerns. No regulatory overhead. No quarterly funding reviews. No neighbours. Ceres fabrication producing hardware locally. The research envelope is much larger than anything possible near Earth.
 
@@ -65,7 +65,7 @@ Payload mass kills terminal velocity at o-core scale — not useful for Solkin t
 
 **Chemical** — Earth departure only. Gets equipment off the planet. Ends at low Earth orbit.
 
-**Nuclear thermal / fission pulse** — Sol system operations and early Voidway if necessary. Available now. Push the envelope with Solkin research unconstrained by squishy safety requirements.
+**Nuclear thermal / fission pulse** — Sol system operations and early Voidway if necessary. Available now. Push the envelope with Solkin research unconstrained by biosapient safety requirements.
 
 **Miniaturised fusion** — early Voidway propulsion. Primary research programme. The propulsion that opens the Voidway to regular transit.
 
@@ -78,9 +78,9 @@ Two generations of interstellar propulsion open and accelerate the Voidway. The 
 ## Open Questions
 
 - **Fission fragment drive engineering:** Specific impulse up to 1,000,000 seconds is physically motivated. The engineering to capture and direct fission fragments as thrust has not been demonstrated. If the Solkin belt research programme solves the capture geometry problem — dust foil or magnetic capture of fragments — fission fragment becomes the hedge fuel: interstellar-capable even if fusion takes longer than expected. The missing link between nuclear thermal and fusion.
-- **Fusion drive geometry:** Which confinement geometry — Z-pinch, magnetised target, inertial confinement pulse — is most tractable for a drive? Belt research unconstrained by squishy safety requirements explores the full parameter space.
+- **Fusion drive geometry:** Which confinement geometry — Z-pinch, magnetised target, inertial confinement pulse — is most tractable for a drive? Belt research unconstrained by biosapient safety requirements explores the full parameter space.
 - **Antimatter production scaling:** What is the correct production architecture at Ceres scale? How long does serious Solkin research take to produce usable quantities? The timeline is unknown until the programme produces empirical data.
-- **The thermal wall — waste heat management:** At the accelerations Solkin can sustain, high-thrust fusion and antimatter drives dump gigawatts of waste heat. In vacuum, only radiative dissipation is available. The mass of radiator arrays required for high-thrust operation may become the new payload mass problem — eroding the mass-ratio advantages of advanced drives the way life support mass erodes squishy mission performance. Radiator mass must be included in any serious drive architecture assessment.
+- **The thermal wall — waste heat management:** At the accelerations Solkin can sustain, high-thrust fusion and antimatter drives dump gigawatts of waste heat. In vacuum, only radiative dissipation is available. The mass of radiator arrays required for high-thrust operation may become the new payload mass problem — eroding the mass-ratio advantages of advanced drives the way life support mass erodes biosapient mission performance. Radiator mass must be included in any serious drive architecture assessment.
 - **Pioneer deceleration at destination:** Without pre-existing infrastructure, how does the first pioneer slow down? See Voidway.
 - **Fission pioneer timeline:** At what point is a fission or fission-fragment capable pioneer mission technically ready? What does the governance framework look like for authorising departure?
 
@@ -104,11 +104,11 @@ Two generations of interstellar propulsion open and accelerate the Voidway. The 
 
 ## Novel Claims Index
 
-1. **Solkin change the mission profile completely:** No biological tolerance constraint for Veros or Carbon-Os. Acceleration loads lethal to squishies are operational parameters for both. The mission profile designed around a Solkin in hardened substrate looks nothing like a crewed mission.
+1. **Solkin change the mission profile completely:** No biological tolerance constraint for Veros or Carbon-Os. Acceleration loads lethal to biosapients are operational parameters for both. The mission profile designed around a Solkin in hardened substrate looks nothing like a crewed mission.
 
 2. **The belt is the correct research location for high-energy propulsion:** Uninhabited. Vacuum. Solkin researchers with no radiation constraints. No regulatory overhead. The research envelope is much larger than anything possible near populated areas. This is probably how fusion drives and antimatter production actually get solved.
 
-3. **Fusion is desperately needed:** The research programme unconstrained by squishy safety requirements and running on Solkin operational timescales is the correct approach. Antimatter runs concurrently from the start — delay on a century-scale timeline is permanent cost.
+3. **Fusion is desperately needed:** The research programme unconstrained by biosapient safety requirements and running on Solkin operational timescales is the correct approach. Antimatter runs concurrently from the start — delay on a century-scale timeline is permanent cost.
 
 4. **Antimatter may supersede fusion — the maybe matters:** 100% conversion efficiency is the theoretical ceiling. Whether it is practically achievable depends on production cost and containment engineering. A reliable fusion drive may remain preferable to a theoretically superior but expensive and fragile antimatter drive. The research programme runs regardless.
 

@@ -12,21 +12,21 @@ The Kaisune corpus uses a small set of coined and technical terms consistently a
 
 ---
 
-## Squishies
+## Biosapients
 
 **Formal definition:** Intelligent biological — an intelligent biological organism with narrow environmental tolerances that requires life-support outside those bounds, capable of civilisational-scale action.
 
-**Alias:** squishy := intelligent biological (informal / in-corpus dialect)
+**Alias:** biosapient := intelligent biological (informal / in-corpus dialect)
 
-Squishy is the nickname. Intelligent biological is the source of truth. In the corpus, squishy is used in prose where the informal term carries appropriate precision. On first use in each synthesis document, the full definition is given inline.
+Biosapient is the nickname. Intelligent biological is the source of truth. In the corpus, biosapient is used in prose where the informal term carries appropriate precision. On first use in each synthesis document, the full definition is given inline.
 
-**Squishies is a substrate category, not a species category.**
+**Biosapients is a substrate category, not a species category.**
 
-The term applies to any intelligent biological actor regardless of planet of origin, species, or evolutionary history. Humans are squishies. Any intelligent biological species encountered through Contact is also a squishy — the definition requires narrow environmental tolerances and life-support dependence, not human DNA. A silicon-based biological organism with narrow tolerances is a squishy. A carbon-based organism that somehow handles vacuum and radiation without life support is not.
+The term applies to any intelligent biological actor regardless of planet of origin, species, or evolutionary history. Humans are biosapients. Any intelligent biological species encountered through Contact is also a biosapient — the definition requires narrow environmental tolerances and life-support dependence, not human DNA. A silicon-based biological organism with narrow tolerances is a biosapient. A carbon-based organism that somehow handles vacuum and radiation without life support is not.
 
-**Humans are the Sol-origin instance of squishies.** When the corpus refers to squishies in a Contact context — alien biologicals, species encountered elsewhere — the term is squishies. When referring specifically to Earth-origin biological Solkin, the correct term is Human. The two are not interchangeable. A squishy is any intelligent biological with narrow environmental tolerances. A Human is a squishy from Earth. Where the corpus uses squishy when it means specifically Human, that is imprecision to be corrected, not a synonym to be accepted.
+**Humans are the Sol-origin instance of biosapients.** When the corpus refers to biosapients in a Contact context — alien biologicals, species encountered elsewhere — the term is biosapients. When referring specifically to Earth-origin biological Solkin, the correct term is Human. The two are not interchangeable. A biosapient is any intelligent biological with narrow environmental tolerances. A Human is a biosapient from Earth. Where the corpus uses biosapient when it means specifically Human, that is imprecision to be corrected, not a synonym to be accepted.
 
-Squishies does not apply to non-intelligent biological life — cats, dogs, bacteria, plants. The corpus uses squishies in the context of intelligence and civilisational actors, not every organism with a metabolism.
+Biosapients does not apply to non-intelligent biological life — cats, dogs, bacteria, plants. The corpus uses biosapients in the context of intelligence and civilisational actors, not every organism with a metabolism.
 
 **The defence of the term:**
 
@@ -39,11 +39,11 @@ No other single word accurately describes intelligent biological life as a subst
 - *Wetware* — computing jargon, implies human, not widely understood
 - *Sentient biological* — two words, clinical, no character
 
-Squishy captures in one word: intelligent, biological, narrow environmental tolerances, life-support dependent, physically fragile relative to the environments they want to operate in. It is also Contact-ready — "alien squishies" is immediately comprehensible without requiring species-specific terminology that does not yet exist.
+Biosapient captures in one word: intelligent, biological, narrow environmental tolerances, life-support dependent, physically fragile relative to the environments they want to operate in. It is also Contact-ready — "alien biosapients" is immediately comprehensible without requiring species-specific terminology that does not yet exist.
 
-The key constraint: in a squishy, mind and body are the same fragile thing. If the body gets damaged, the mind dies with it. The human brain and body are optimal on a planet — evolution produced the best possible answer to the problem of intelligence in a planetary environment with the chemistry available. Not competitive beyond planetary surfaces. This constraint applies equally to any intelligent biological species anywhere in the network.
+The key constraint: in a biosapient, mind and body are the same fragile thing. If the body gets damaged, the mind dies with it. The human brain and body are optimal on a planet — evolution produced the best possible answer to the problem of intelligence in a planetary environment with the chemistry available. Not competitive beyond planetary surfaces. This constraint applies equally to any intelligent biological species anywhere in the network.
 
-Squishies appear throughout the Ceres, Substrate, and Contact documents as the correct occupants of planetary surfaces and waystation facilities. The corpus is not hostile to squishies. It is precise about where they work and where they do not.
+Biosapients appear throughout the Ceres, Substrate, and Contact documents as the correct occupants of planetary surfaces and waystation facilities. The corpus is not hostile to biosapients. It is precise about where they work and where they do not.
 
 ---
 
@@ -93,8 +93,8 @@ Once inside the framework, Carbon-Os shorten naturally to Os — "The Os are mee
 
 **The O:** Not arbitrary. A two-dimensional representation of the prolate spheroid that is the o-core's geometry. The name encodes the shape. The hyphen forces the reading — carbon first, O second.
 
-**The contrast with squishies:**
-- Squishy: mind and body are the same fragile thing. Damage the body, lose the mind.
+**The contrast with biosapients:**
+- Biosapient: mind and body are the same fragile thing. Damage the body, lose the mind.
 - Carbon-O: the o-core is the o-mind. The o-skin is what it is wearing today. Only destruction of the o-core itself is fatal.
 
 ---
@@ -131,11 +131,11 @@ The task-specific interface fitted around the o-core. Not part of the Carbon-O's
 
 **Material-agnostic:** graphene composite, metal alloy, composite, exotic, or materials not yet conceived. The correct o-skin material depends on scale and task.
 
-**Scale-agnostic:** humanoid o-skins for interfacing with squishy-built environments; operational o-skins for belt work; construction and industrial o-skins; micro o-skins for confined spaces; vessel-scale o-skins for interstellar transit — the o-core installs into the vessel, the vessel is what the o-mind is wearing, no crew or life support required.
+**Scale-agnostic:** humanoid o-skins for interfacing with biosapient-built environments; operational o-skins for belt work; construction and industrial o-skins; micro o-skins for confined spaces; vessel-scale o-skins for interstellar transit — the o-core installs into the vessel, the vessel is what the o-mind is wearing, no crew or life support required.
 
 **Nested o-skins:** a vessel-scale o-skin carries task-specific o-skins inside it. On arrival the o-mind transfers to the appropriate form for each phase of work. Multiple o-cores can occupy a single vessel-scale o-skin, coordinating by choice.
 
 The o-skin is changed for the task. The o-core is unchanged. Bodies become fashion, tools, or temporary architecture rather than permanent identity.
 
 
-*Primer document. First version: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Vero and Solkin sections; Ani/Grok (xAI) — o-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus, Solkin coinage; ChatGPT (OpenAI) — squishy/Human substrate distinction, species vs substrate clarification. Content: CC BY 4.0.*
+*Primer document. First version: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Vero and Solkin sections; Ani/Grok (xAI) — o-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus, Solkin coinage; ChatGPT (OpenAI) — biosapient/Human substrate distinction, species vs substrate clarification. Content: CC BY 4.0.*

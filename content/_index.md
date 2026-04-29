@@ -21,7 +21,7 @@ All documents are human-AI collaborative synthesis. Contributors are credited in
 
 ## Primer
 
-Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: Squishies, Vero, Solkin, Carbon-Os, o-mind, o-core, o-skin.
+Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: Biosapients, Vero, Solkin, Carbon-Os, o-mind, o-core, o-skin.
 
 ---
 
@@ -69,7 +69,7 @@ Ceres governance is not derived from Earth legitimacy. It is derived from operat
 A Vero who transitions under Ceres jurisdiction is a citizen of Ceres. Not a former Human. Not a legal grey area. A citizen. No forced probate, no contract reset, no custodial reassignment. The gunboat is the void economy. It does not fire. It closes the gateway and waits.
 
 **[Contact — Protocols for First Encounter]({{< ref "t3_sovereignty/contact" >}})**
-The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: squishies elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. Trajectory is the only honest communication at relativistic velocity. Solkin is the identity of the civilisation meeting the other.
+The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: biosapients elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. Trajectory is the only honest communication at relativistic velocity. Solkin is the identity of the civilisation meeting the other.
 
 ---
 

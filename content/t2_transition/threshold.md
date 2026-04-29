@@ -34,7 +34,7 @@ For the question of what actually survives the transition — what continuity me
 
 ## Human and Human-Vero
 
-Human covers the full range of biological existence — from an unaugmented squishy with no external integration to a heavily enhanced Human at Stage 2 with neuron-level external access and a shadow brain running alongside. All of it is Human. The label is about substrate and origin, not capability level. Enhancement does not move you along a ladder toward Human-Vero. It builds infrastructure that makes the choice available.
+Human covers the full range of biological existence — from an unaugmented biosapient with no external integration to a heavily enhanced Human at Stage 2 with neuron-level external access and a shadow brain running alongside. All of it is Human. The label is about substrate and origin, not capability level. Enhancement does not move you along a ladder toward Human-Vero. It builds infrastructure that makes the choice available.
 
 Human-Vero is the transition completed, or underway past the point of return — not ex-Human. The continuity of identity that runs through the enhancement stages does not break at the transition. Human-Vero carries Human origin, Human memory, Human cognitive history. The substrate has changed. The lineage has not. A Human-Vero is not a Carbon-O. The lineage is Human. The substrate may vary.
 
