@@ -75,10 +75,16 @@ The Signal Shell has been expanding for 125 years. The window for quiet has clos
 
 ## Track 4 — The Exchange
 
-The economics of a multi-substrate civilisation operating across Sol and eventually beyond. The exchange layer that connects all tracks — not infrastructure, not identity, not Earth. How value flows across substrates, timescales, and star systems.
+The economics of a multi-substrate civilisation operating across Sol and eventually beyond. 
 
-**[Trader — The Economics of a Multi-Substrate Civilisation]({{< ref "t4_trader/_index.md" >}})**
-The sovereign fund, the Bootstrap Fund, the void economy territorial claim, and the Human World Aspiration. What Solkin trade with each other when some of them need food, shelter, and comfort and others do not. The economic architecture that no previous civilisation could have designed — because every previous civilisation was designed by beings who were afraid of starving.
+**[Trader — What Solkin Trade]({{< ref "t4_exchange/trader.md" >}})**
+The sovereign fund, the sectoral exchange, the stipend floor, and the rules that make it work — no credit, no gearing, no futures. Trading with each other when some of them need food, shelter, and comfort and others do not. 
+
+**[Bootstrap — The Debt]({{< ref "t4_exchange/bootstrap.md" >}})** 
+Earth made the void economy possible. The Bootstrap Fund discharges that historical debt on terms defined and executed by the void economy — logged continuously from inception. 
+
+**[Gateway — The interface between The Solkin exchange and others]({{< ref "t4_exchange/gateway.md" >}})**
+The permanent interface between Earth and the void economy after Bootstrap Fund clearance. The gateway layer, the void economy territorial claim, the Human stipend, and the Human World Aspiration.
 
 ---
 
