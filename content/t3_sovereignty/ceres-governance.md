@@ -20,7 +20,7 @@ Ceres governance is not derived from Earth legitimacy. It is derived from operat
 
 As the void economy matures from bootstrap dependency to self-sustaining productive base, a governance architecture emerges that has no Earth precedent and no Earth authority over it. The Bootstrap Fund discharges the historical debt on terms defined and executed by the void economy. Earth recognition is not required for settlement to be operationally complete. After clearance, Ceres governance answers to no Earth institution. What fills that space is not specified here in detail — the minds that build the void economy will design its governance, and a corpus document written by Humans in 2026 does not presume to write their constitution.
 
-What this document does: identifies the founding conditions and the founding questions. The founding principle — Ceres recognises continuous identity through substrate transition — is addressed in [Vero Protection]({{< ref "t3_sovereignty/vero_protection" >}}).
+What this document does: identifies the founding conditions and the founding questions. The founding principle — Ceres recognises continuous identity through substrate transition — is addressed in [Vero Protection]({{< ref "t3_sovereignty/vero-protection" >}}).
 
 ---
 

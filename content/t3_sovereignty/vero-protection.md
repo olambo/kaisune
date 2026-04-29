@@ -57,7 +57,7 @@ This makes any restriction on a Vero's legal standing — by Earth courts, Earth
 
 Ceres establishes the founding principle and the citizenship boundary. What a Vero becomes after transition — what substrate they choose, how they govern themselves, what relationship they maintain with their Human origin — is theirs to decide. The protection extends to who they are. It does not prescribe what that is.
 
-See [Threshold]({{< ref "t2_transition/threshold.md" >}}) for the long path. See [Ceres Governance]({{< ref "t3_sovereignty/ceres_governance" >}}) for the full governance architecture.
+See [Threshold]({{< ref "t2_transition/threshold.md" >}}) for the long path. See [Ceres Governance]({{< ref "t3_sovereignty/ceres-governance" >}}) for the full governance architecture.
 
 ---
 

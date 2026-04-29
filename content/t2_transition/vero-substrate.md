@@ -3,6 +3,7 @@ title: "Vero Substrate: Designed From the Inside Out"
 date: 2026-04-28
 lastmod: 2026-04-28
 draft: false
+weight: 3
 tags:
   - vero
   - substrate

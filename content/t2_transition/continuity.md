@@ -3,6 +3,7 @@ title: "Continuity: What Actually Survives"
 date: 2026-04-28
 lastmod: 2026-04-28
 draft: false
+weight: 2
 tags:
   - continuity
   - vero

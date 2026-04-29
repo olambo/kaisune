@@ -1,5 +1,5 @@
 ---
-title: "Transition: From Human to Vero"
+title: "Transition"
 date: 2026-04-27
 draft: false
 ---
