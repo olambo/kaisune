@@ -78,7 +78,7 @@ The primary probe aggregates subprobe telemetry and transmits the full picture b
 
 A one-shot probe is a knock on the door. A persistent probe is someone standing quietly outside, narrating their own existence, for as long as it takes.
 
-**The launch constraint.** The pioneer Voidnaught is not launched until the minimum observation window has elapsed and the subprobe baseline is complete. If indicators of active civilisation are detected — structured electromagnetic signals, orbital anomalies, spectral signatures inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "t3_contact/_index.md" >}}).
+**The launch constraint.** The pioneer Voidnaught is not launched until the minimum observation window has elapsed and the subprobe baseline is complete. If indicators of active civilisation are detected — structured electromagnetic signals, orbital anomalies, spectral signatures inconsistent with natural processes — the pioneer does not launch. The Contact protocols take precedence. See [Contact]({{< ref "t3_sovereignty/contact" >}}).
 
 If no indicators are detected after sufficient observation, "no contact found" becomes a credible finding rather than an assumption. The probe's long-duration baseline earned that conclusion.
 
