@@ -105,7 +105,7 @@ The o-skin is what a Carbon-O is wearing today. It is a puppet, vehicle, tool, o
 
 ---
 
-## Homo-Stupid
+## Homo-Signal
 
 *The human contributor's formulation. Retained because no formal alternative captures the observation as precisely or as memorably.*
 
