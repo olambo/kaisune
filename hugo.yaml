@@ -19,6 +19,25 @@ module:
           target: content/t5/dreamtime
         - source: _index.md
           target: content/t5/_index.md
+    - path: github.com/olambo/solan
+      mounts:
+        # paths INSIDE the solan module — preserve existing kaisune URLs
+        - source: primer.md
+          target: content/primer.md
+        - source: t1_ceres
+          target: content/t1_ceres
+        - source: t1_substrate
+          target: content/t1_substrate
+        - source: t1_voidfuel
+          target: content/t1_voidfuel
+        - source: t1_voidway
+          target: content/t1_voidway
+        - source: t2_transition
+          target: content/t2_transition
+        - source: t3_sovereignty
+          target: content/t3_sovereignty
+        - source: t4_exchange
+          target: content/t4_exchange
 
 paginate: 10
 enableRobotsTXT: true

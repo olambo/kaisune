@@ -33,6 +33,14 @@ jobs:
           # If tellus is private, replace the line above with a PAT:
           # token: ${{ secrets.TELLUS_PAT }}
 
+      - name: Checkout solan (sibling, so ../solan resolves)
+        uses: actions/checkout@v4
+        with:
+          repository: olambo/solan
+          path: solan
+          # If solan is private, replace the line above with a PAT:
+          # token: ${{ secrets.SOLAN_PAT }}
+
       - name: Setup Go
         uses: actions/setup-go@v5
         with:

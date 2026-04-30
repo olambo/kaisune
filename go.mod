@@ -2,6 +2,7 @@ module github.com/olambo/kaisune
 
 go 1.26.2
 
-require github.com/olambo/tellus v0.0.0-20260430205738-bff955802f21
-
-replace github.com/olambo/tellus => ../tellus
+require (
+	github.com/olambo/solan v0.0.0-20260430215635-59b919fa7767
+	github.com/olambo/tellus v0.0.0-20260430212307-db16af74b843
+)
