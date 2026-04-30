@@ -18,11 +18,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout kaisune
         uses: actions/checkout@v4
         with:
           submodules: recursive   # pulls PaperMod
           fetch-depth: 0
+          path: kaisune
+
+      - name: Checkout tellus (sibling, so ../tellus resolves)
+        uses: actions/checkout@v4
+        with:
+          repository: olambo/tellus
+          path: tellus
+          # If tellus is private, replace the line above with a PAT:
+          # token: ${{ secrets.TELLUS_PAT }}
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -31,12 +45,13 @@ jobs:
           extended: true          # required for PaperMod
 
       - name: Build
+        working-directory: kaisune
         run: hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: kaisune/public
 
   deploy:
     environment:
