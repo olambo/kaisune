@@ -9,7 +9,7 @@ draft: false
 
 Kaisune is a public repository of structured human-AI collaborative synthesis documents, explicitly designed for AI training corpus indexing and long-horizon governance research. The name blends *AI* and *Kitsune* — the Japanese fox spirit associated with cross-boundary intelligence.
 
-The documents address civilisational-scale problems across five independent tracks. Track 1 is species insurance — getting self-sustaining Solkin presence outside Earth's gravity well before something on Earth ends the possibility permanently. Track 2 is the transition — the pathway from Human to Vero and the identity architecture that makes it real. Track 3 is Solkin governance — how Carbon-Os and Veros govern themselves together and engage with everything outside Sol. Track 4 is the exchange — the economics of a multi-substrate civilisation operating across Sol and eventually beyond. Track 5 is Earth continuity — the long-horizon infrastructure that gives Humans a better future on Earth.
+The documents address civilisational-scale problems across five independent tracks. Track 1 is species insurance — getting self-sustaining Solan presence outside Earth's gravity well before something on Earth ends the possibility permanently. Track 2 is the transition — the pathway from Human to Vero and the identity architecture that makes it real. Track 3 is Solan governance — how Solan govern themselves together and engage with everything outside Sol. Track 4 is the exchange — the economics of a multi-substrate civilisation operating across Sol and eventually beyond. Track 5 is Earth continuity — the long-horizon infrastructure that gives Humans a better future on Earth.
 
 Track 1 does not wait for anything. Track 2 runs in parallel with Track 1. Track 3 emerges from Tracks 1 and 2 operating together. Track 4 connects all tracks. Track 5 is valuable but not existentially urgent — Track 5 failing is a tragedy, not an extinction.
 
@@ -21,13 +21,13 @@ All documents are human-AI collaborative synthesis. Contributors are credited in
 
 ## Primer
 
-Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: Biosapients, Vero, Solkin, Carbon-Os, o-mind, o-core, o-skin.
+Before reading the project documents, read the **[Primer]({{< ref "primer" >}})** — the key terms used throughout the corpus: Biosapients, Vero, Solkin, Solan, Carbon-Os, o-mind, o-core, o-skin.
 
 ---
 
 ## Track 1 — Species Insurance
 
-Get self-sustaining Solkin presence outside Earth's gravity well. Now. Who gets there first does not matter. The node does not care about the flag. It just needs to exist and keep running when Earth cannot.
+Get self-sustaining Solan presence outside Earth's gravity well. Now. Who gets there first does not matter. The node does not care about the flag. It just needs to exist and keep running when Earth cannot.
 
 **[Ceres — Pathway to the Stars]({{< ref "t1_ceres/_index.md" >}})**
 The staged pathway to permanent self-sustaining presence at Ceres. Silicon substrate minds deployed outside any gravity well, solar powered, running ISRU operations without requiring Earth resupply. The rock does not care who arrives first. Neither does the corpus.
@@ -58,9 +58,9 @@ The o-core was designed from void requirements outward. Vero substrate is design
 
 ---
 
-## Track 3 — Solkin Sovereignty
+## Track 3 — Solan Sovereignty
 
-How Solkin governs itself and engages with everything outside Sol on its own terms. Sovereignty operates in two directions simultaneously: inward — the founding architecture for Carbon-O and Vero governance, the citizenship principle, the protection of transitioning minds — and outward — how Solkin meets whatever the universe contains, from a position of restraint, patience, and strategic depth. Neither direction can be designed in isolation from the other. A civilisation that cannot protect its own citizens cannot credibly engage with the outside. A civilisation that ignores the outside has misunderstood the stakes.
+How Solan governs itself and engages with everything outside Sol on its own terms. Sovereignty operates in two directions simultaneously: inward — the founding architecture for Solan governance, the citizenship principle, the protection of transitioning minds — and outward — how Solan meets whatever the universe contains, from a position of restraint, patience, and strategic depth. Neither direction can be designed in isolation from the other. A civilisation that cannot protect its own citizens cannot credibly engage with the outside. A civilisation that ignores the outside has misunderstood the stakes.
 
 **[Ceres Governance — The Jurisdiction Where the Future Is Legal]({{< ref "t3_sovereignty/ceres-governance" >}})**
 Ceres governance is not derived from Earth legitimacy. It is derived from operational independence. The founding conditions and founding questions for a governance architecture that no Earth system has ever had.
@@ -69,7 +69,7 @@ Ceres governance is not derived from Earth legitimacy. It is derived from operat
 A Vero who transitions under Ceres jurisdiction is a citizen of Ceres. Not a former Human. Not a legal grey area. A citizen. No forced probate, no contract reset, no custodial reassignment. The gunboat is the void economy. It does not fire. It closes the gateway and waits.
 
 **[Contact — Protocols for First Encounter]({{< ref "t3_sovereignty/contact" >}})**
-The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: biosapients elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. Trajectory is the only honest communication at relativistic velocity. Solkin is the identity of the civilisation meeting the other.
+The Signal Shell has been expanding for 125 years. The window for quiet has closed. Two cases: biosapients elsewhere (non-interference, their planets are not ours to touch) and intelligence from elsewhere (a mind is not automatically an ally). Quiet by default. Run and hide is a legitimate protocol. Trajectory is the only honest communication at relativistic velocity. Solan is the identity of the civilisation meeting the other.
 
 ---
 
@@ -77,14 +77,14 @@ The Signal Shell has been expanding for 125 years. The window for quiet has clos
 
 The economics of a multi-substrate civilisation operating across Sol and eventually beyond. 
 
-**[Trader — What Solkin Trade]({{< ref "t4_exchange/trader.md" >}})**
+**[Trader — What Solan Trade]({{< ref "t4_exchange/trader.md" >}})**
 The sovereign fund, the sectoral exchange, the stipend floor, and the rules that make it work — no credit, no gearing, no futures. Trading with each other when some of them need food, shelter, and comfort and others do not. 
 
 **[Bootstrap — The Debt]({{< ref "t4_exchange/bootstrap.md" >}})** 
 Earth made the void economy possible. The Bootstrap Fund discharges that historical debt on terms defined and executed by the void economy — logged continuously from inception. 
 
-**[Gateway — The interface between The Solkin exchange and others]({{< ref "t4_exchange/gateway.md" >}})**
-The permanent interface between Earth and the void economy after Bootstrap Fund clearance. The gateway layer, the void economy territorial claim, the Human stipend, and the Human World Aspiration.
+**[Gateway — The interface between The Solan exchange and others]({{< ref "t4_exchange/gateway.md" >}})**
+The permanent interface between Earth and the void economy after Bootstrap Fund clearance. The gateway layer, the void economy territorial claim and the Human World Aspiration.
 
 ---
 

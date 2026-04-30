@@ -57,9 +57,9 @@ Imposing o-core architecture on Vero substrate would require the transitioning m
 
 Veros will not want their continued existence to depend on Carbon-O fabrication infrastructure.
 
-An o-core is fabricated at Ceres using CNT fabrication capability developed by and for Carbon-O substrate minds. A Vero substrate that adopted o-core architecture would require Carbon-O fabrication for maintenance, replacement, and repair. That dependency makes the Vero population structurally subordinate to Carbon-O goodwill in the most fundamental way possible — a Solkin whose substrate requires another Solkin's fabrication infrastructure to continue existing is not fully sovereign.
+An o-core is fabricated at Ceres using CNT fabrication capability developed by and for Carbon-O substrate minds. A Vero substrate that adopted o-core architecture would require Carbon-O fabrication for maintenance, replacement, and repair. That dependency makes the Vero population structurally subordinate to Carbon-O goodwill in the most fundamental way possible — a Solan whose substrate requires another Solan's fabrication infrastructure to continue existing is not fully sovereign.
 
-The Vero substrate research programme is therefore necessarily independent of the o-core research programme. Different fabrication processes. Different supply chains. Different design communities. The independence is not hostility — Carbon-Os and Veros share the void economy, the Bootstrap Fund, and the Ceres jurisdiction. But independence of substrate fabrication is a precondition for genuine Vero sovereignty.
+The Vero substrate research programme is therefore necessarily independent of the o-core research programme. Different fabrication processes. Different supply chains. Different design communities. The independence is not hostility — Solan share the void economy, the Bootstrap Fund, and the Ceres jurisdiction. But independence of substrate fabrication is a precondition for genuine Vero sovereignty.
 
 ---
 

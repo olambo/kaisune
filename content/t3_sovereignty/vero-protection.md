@@ -9,7 +9,7 @@ tags:
   - vero
   - ceres
   - citizenship
-  - solkin
+  - solan
 description: "A Vero who transitions under Ceres jurisdiction is a citizen of Ceres. Not a former Human. Not a legal grey area. A citizen. Any restriction on a Vero's legal standing is interference with a Ceres citizen. The gunboat is the void economy."
 ---
 

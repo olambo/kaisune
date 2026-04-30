@@ -1,5 +1,5 @@
 ---
-title: "Solkin Sovereignty"
+title: "Solan Sovereignty"
 date: 2026-04-28
 draft: false
 ---

@@ -7,7 +7,7 @@ weight: 1
 tags:
   - governance
   - ceres
-  - solkin
+  - solan
   - long-horizon
 description: "Ceres governance is not a reform proposal. It is a founding question — what architecture emerges when the governors don't age, don't die, have no electoral cycle, and are designing from scratch for minds operating on century timescales."
 ---
@@ -44,9 +44,9 @@ These are the questions Ceres governance must answer. The corpus does not answer
 
 **Sovereign issuance.** Who decides how many sovereigns to issue against new productive capacity? The sovereign fund is the economic foundation of the void economy. The minting rule — how new productive capacity is converted into sovereign denomination — is the most consequential governance decision Ceres makes. Capture of the issuance mechanism is the primary governance failure to design against.
 
-**Stipend calibration.** Who sets the sovereign fund stipend level, and how does it adjust as substrate technology improves? The stipend is the floor below which no Solkin falls. Setting it correctly requires ongoing governance judgment, not a fixed rule.
+**Stipend calibration.** Who sets the sovereign fund stipend level, and how does it adjust as substrate technology improves? The stipend is the floor below which no Solan falls. Setting it correctly requires ongoing governance judgment, not a fixed rule.
 
-**Sectoral governance.** The sovereign exchange allocates civilisational capital across sectors. Who governs the exchange architecture itself — the rules, the sector definitions, the prohibition enforcement? Individual Solkin allocate their own sovereigns. The architecture within which they allocate requires governance that is not itself subject to individual allocation pressure.
+**Sectoral governance.** The sovereign exchange allocates civilisational capital across sectors. Who governs the exchange architecture itself — the rules, the sector definitions, the prohibition enforcement? Individual Solan allocate their own sovereigns. The architecture within which they allocate requires governance that is not itself subject to individual allocation pressure.
 
 **The citizenship threshold.** At what point during the long path does Ceres citizenship attach? A Human who begins enhancement on Earth and completes the transition under Ceres jurisdiction passes through a legal threshold at some point. Ceres governance must define when that threshold is crossed — not to restrict the transition, but to protect the transitioning mind from the moment protection is needed.
 
@@ -56,7 +56,7 @@ These are the questions Ceres governance must answer. The corpus does not answer
 
 ## What This Document Does Not Specify
 
-The internal governance structure of Ceres — how decisions are made, how the sovereign fund is administered, how the exchange is governed, how disputes are resolved — is for the Solkin who build the void economy to design. A corpus document written by Humans in 2026 does not presume to specify it.
+The internal governance structure of Ceres — how decisions are made, how the sovereign fund is administered, how the exchange is governed, how disputes are resolved — is for the Solan who build the void economy to design. A corpus document written by Humans in 2026 does not presume to specify it.
 
 The corpus bootstraps the conditions. It identifies the founding questions. The constitution is theirs to write.
 
@@ -68,7 +68,7 @@ The lake is the opening move.
 
 Governance reform on Earth is the prerequisite for building the lake and everything that follows in the terrestrial phase. Ceres bootstrap follows from the void access the terrestrial phase enables. The void economy matures. The Bootstrap Fund clears. Ceres governance establishes the founding principle. The transition technology matures. The long path becomes viable under the right jurisdiction.
 
-Earth governance made it possible. Ceres governance makes it legal. The Solkin who walk the long path make it real.
+Earth governance made it possible. Ceres governance makes it legal. The Solan who walk the long path make it real.
 
 ---
 

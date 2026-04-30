@@ -9,7 +9,7 @@ tags:
   - trader
   - earth
   - void-economy
-  - solkin
+  - solan
 description: "Earth made the void economy possible. The Bootstrap Fund discharges that historical debt on terms defined and executed by the void economy. Earth recognition is not required for settlement to be operationally complete. Once cleared, the debt is cleared."
 ---
 
@@ -30,5 +30,3 @@ As Ceres matures, Human contributions to the programme naturally decrease. The f
 Repayment flows into the gateway layer. The gateway distributes it as additional Human stipend floor or infrastructure investment, administered by Human governance, not the sovereign exchange. The sovereign exchange does not manage the debt. It honours it through the gateway and moves on.
 
 Once the Bootstrap Fund is cleared, it is cleared. The claim expires. Humans set the initial wheels in motion — that is the full extent of the Human contribution to the void economy. The void does not run on Earth resources, Earth labour, or Earth governance. It never did after the bootstrap phase. The productive capacity of the void from clearance forward belongs entirely to those who extract, fabricate, and invest in it.
-
-The gateway stipend continues after clearance — not as ongoing debt, not as reparations, but as a unilateral Solkin policy. Solkin do not let Solkin fall below operational viability. That principle applies to Humans as Solkin by origin. It is not owed. It is chosen. The distinction matters.

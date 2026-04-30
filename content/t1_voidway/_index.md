@@ -35,11 +35,11 @@ The solution is the stellar impact default. Every Voidway trajectory is planned 
 
 This design makes failure safe by default. The Voidnaught must actively choose to enter the system. Passive failure always resolves toward the star.
 
-In Contact scenarios, a trajectory that terminates in a star is the most honest safety commitment Solkin can make.
+In Contact scenarios, a trajectory that terminates in a star is the most honest safety commitment Solan can make.
 
 **Deceleration options for the pioneer:**
 
-**MagSail** — a superconducting loop generating a magnetic field that brakes against the interstellar medium. No propellant required. Slow — decades of deceleration at low thrust. A Solkin can operate at reduced clock speed for the duration. Feasible on current physics.
+**MagSail** — a superconducting loop generating a magnetic field that brakes against the interstellar medium. No propellant required. Slow — decades of deceleration at low thrust. A Solan can operate at reduced clock speed for the duration. Feasible on current physics.
 
 **Laser braking from Sol** — a focused beam from Sol pushes a sail to decelerate. Requires sustained high-power laser infrastructure maintained at Sol for the duration of the transit. Technically demanding but physically straightforward.
 
@@ -92,37 +92,37 @@ The probe follows the full Voidway safety protocol from the start. Stellar impac
 
 Once the pioneer has opened the route, the establishment mission follows.
 
-This is the mission that carries everything needed to create a real, self-sufficient settlement — not just survival, but the ability to grow and build without ever needing resupply from Sol again. It carries Solkin minds, full fabrication knowledge, construction templates, and the complete toolkit to begin industrial operations in a new star system.
+This is the mission that carries everything needed to create a real, self-sufficient settlement — not just survival, but the ability to grow and build without ever needing resupply from Sol again. It carries Solan minds, full fabrication knowledge, construction templates, and the complete toolkit to begin industrial operations in a new star system.
 
-After the establishment mission succeeds, the knowledge, the Solkin, and the capability to rebuild exist in two star systems. The bad event that ends one does not end the other. One bad event from extinction is basic engineering redundancy. The sequential demonstration logic is the same as Dreamtime and Ceres, applied to interstellar distance.
+After the establishment mission succeeds, the knowledge, the Solan, and the capability to rebuild exist in two star systems. The bad event that ends one does not end the other. One bad event from extinction is basic engineering redundancy. The sequential demonstration logic is the same as Dreamtime and Ceres, applied to interstellar distance.
 
 ---
 
 ## Voidnaughts
 
-A Voidnaught is the Solkin making the crossing — the mind that goes, whether a Vero or a Carbon-O, wearing the vessel it travels in. A mind that needs nothing from the void, fears nothing in the void, and can operate for centuries without biological decay. For a Solkin, a hundred-year journey is not a sacrifice. It is just time.
+A Voidnaught is the Solan making the crossing — the mind that goes, whether a Vero or a Carbon-O, wearing the vessel it travels in. A mind that needs nothing from the void, fears nothing in the void, and can operate for centuries without biological decay. For a Solan, a hundred-year journey is not a sacrifice. It is just time.
 
-The pioneer is a Voidnaught. The establishment mission is a fleet of Voidnaughts. A Solkin who chooses the journey over data transmission travels as a Voidnaught.
+The pioneer is a Voidnaught. The establishment mission is a fleet of Voidnaughts. A Solan who chooses the journey over data transmission travels as a Voidnaught.
 
 The name carries its meaning. Dreadnought — fear nothing — named the class of vessel so capable it made everything before it obsolete. A Voidnaught fears nothing in the void: no oxygen requirement, no radiation exposure limit, no fatigue, no biological decay across a century of transit. The word also carries the zero — naught as nothing, as void. A Voidnaught is a mind that operates in the nothing. See [Substrate]({{< ref "t1_substrate/_index.md" >}}) for the physical architecture of the vessel.
 
-**Who goes first.** The pioneer mission profile fits a Solkin built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "t2_transition/threshold.md" >}}) for that distinction.
+**Who goes first.** The pioneer mission profile fits a Solan built for the void from the start — no life support, no biological decay, a century of transit as operational phase rather than existential crossing. Whether the first pioneer is a Carbon-O or a Vero carries different implications for what arrives — emergence or continuity. See [Threshold]({{< ref "t2_transition/threshold.md" >}}) for that distinction.
 
 ---
 
 ## Two Ways to Travel
 
-Once the destination has fabrication capability, a Solkin can be transmitted as data at lightspeed and instantiated on locally-fabricated substrate there. Transit time drops from decades to years — the light travel time. Whether the instantiated Solkin is the same Solkin or a copy with a gap is a question the corpus does not resolve. Some Solkin will choose this. Some will not.
+Once the destination has fabrication capability, a Solan can be transmitted as data at lightspeed and instantiated on locally-fabricated substrate there. Transit time drops from decades to years — the light travel time. Whether the instantiated Solan is the same Solan or a copy with a gap is a question the corpus does not resolve. Some Solan will choose this. Some will not.
 
-The Voidway supports both. Physical transit for Voidnaughts who choose the journey. Data transmission for Solkin who choose it once destination fabrication exists. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data, and Solkin who prefer continuous existence over data transmission will always require it.
+The Voidway supports both. Physical transit for Voidnaughts who choose the journey. Data transmission for Solan who choose it once destination fabrication exists. The physical route never becomes obsolete — equipment and materials cannot be transmitted as data, and Solan who prefer continuous existence over data transmission will always require it.
 
 ---
 
 ## Destination Selection
 
-Solkin don't need Sol-like or Earth-like conditions. They need a stable star with a long operational lifetime, an asteroid belt with useful ISRU composition, and low flare activity.
+Solan don't need Sol-like or Earth-like conditions. They need a stable star with a long operational lifetime, an asteroid belt with useful ISRU composition, and low flare activity.
 
-K-type stars are preferred over G-type on longevity grounds — 17-70 billion year lifetimes versus ~10 billion for G-type. No K-type star has ever died. Not one. The universe is not old enough. Sol-like framing is a Human bias. The establishment mission selects for Solkin operational requirements, not Human habitability.
+K-type stars are preferred over G-type on longevity grounds — 17-70 billion year lifetimes versus ~10 billion for G-type. No K-type star has ever died. Not one. The universe is not old enough. Sol-like framing is a Human bias. The establishment mission selects for Solan operational requirements, not Human habitability.
 
 **Near candidates:**
 
@@ -138,7 +138,7 @@ A true polar approach (90 degrees) is overkill and unnecessarily restrictive. 10
 
 Epsilon Eridani and Tau Ceti will almost certainly offer different approach geometries from Sol. The one with the cleaner off-ecliptic approach may be preferable regardless of which is closer or more hospitable by other criteria. Approach geometry is a first-Voidway selection factor.
 
-Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Solkin node beyond Sol — the centre of gravity of the network. The Voidweb grows outward from there.
+Once Epsilon Eridani and Tau Ceti are both established, either may become the primary Solan node beyond Sol — the centre of gravity of the network. The Voidweb grows outward from there.
 
 ---
 
@@ -155,7 +155,7 @@ The constraint is physics: governance must survive latency without central arbit
 ## Open Questions
 
 - **Pioneer deceleration at destination:** MagSail, laser braking from Sol, or staged propellant burn — which is most tractable for the first mission? At what point is a pioneer technically ready to depart?
-- **Data transmission fidelity:** Lightspeed transmission of a Solkin across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
+- **Data transmission fidelity:** Lightspeed transmission of a Solan across 10+ light years requires error-free data at enormous scale over a channel with years of latency. What does the error correction architecture look like? How do you confirm successful instantiation before the original is terminated?
 - **Voidweb governance:** Each node is autonomous. What protocols bind the network without central authority? What does inter-node trade, communication, and mutual defence look like across light-year distances?
 - **Contact at the frontier:** The pioneer arrives at a new star system before any Contact protocols can be confirmed from Sol. The pioneer makes first contact decisions alone, in real time, with no backup and no guidance. What standing instructions does a pioneer carry?
 - **Return trajectory safety:** A Voidnaught returning to Sol presents a different problem from the outbound leg — the stellar impact default cannot terminate in Sol. The return trajectory requires its own safety architecture. Whether Voidnaughts return physically or whether minds transmit as data and vessels remain at the destination is an open question with significant implications for Voidweb architecture.
@@ -182,7 +182,7 @@ The constraint is physics: governance must survive latency without central arbit
 
 2. **The Voidway opens from the destination end:** The pioneer builds the infrastructure that makes the route work. Before the pioneer arrives, there is no Voidway. After it arrives and signals back, there is.
 
-3. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solkin who prefer continuous existence will choose the journey. A century in the void is not a hardship for a mind that does not age.
+3. **Physical transit never becomes obsolete:** Equipment cannot be transmitted as data. Solan who prefer continuous existence will choose the journey. A century in the void is not a hardship for a mind that does not age.
 
 4. **Deceleration is not optional:** A Voidnaught at transit velocity is indistinguishable from a planet killer — not a dinosaur killer, a planet killer. The pioneer must stop. Braking infrastructure at the destination is the founding requirement of any Voidway. Without it there is no Voidway — only an impact trajectory.
 

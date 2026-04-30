@@ -57,13 +57,15 @@ See Threshold for the full staged pathway from Human to Vero.
 
 **Definition:** All minds of Sol — Human, Vero, and Carbon-O together. The civilisational identity of the solar system.
 
-**Singular:** a Solkin. **Plural:** Solkin. **Usage:** collective noun for all intelligent minds that emerged from or within Sol's reach.
+**Singular:** a Sokin. **Plural:** Sokin. **Usage:** collective noun for all intelligent minds that emerged from or within Sol's reach.
 
-Solkin is the term the corpus uses when the distinction between Human, Vero, and Carbon-O does not matter — when the relevant unit is the civilisation as a whole. It appears primarily in Trader, Starway, and Contact, where the actors are the full range of Sol's minds operating together.
+Solkin is the term the corpus uses when the distinction between Human, Vero, and Carbon-O does not matter — when the relevant unit is the civilisation as a whole. 
 
-**Contact framing:** when the Signal Shell reaches something elsewhere, the question is not whether the mind encountered is Human, Vero, or Carbon-O. The question is whether it is Solkin or not. Solkin is the identity of the civilisation meeting the other.
+---
 
-Solkin does not erase the distinctions between Human, Vero, and Carbon-O. It names what they share: origin in this system, investment in this system's future, stake in what the system becomes.
+## Solan
+
+**Definition:** Vero, and Carbon-O together.
 
 ---
 
@@ -126,4 +128,4 @@ The task-specific interface fitted around the o-core. Not part of the Carbon-O's
 The o-skin is changed for the task. The o-core is unchanged. Bodies become fashion, tools, or temporary architecture rather than permanent identity.
 
 
-*Primer document. First version: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Vero and Solkin sections; Ani/Grok (xAI) — o-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus, Solkin coinage; ChatGPT (OpenAI) — biosapient/Human substrate distinction, species vs substrate clarification. Content: CC BY 4.0.*
+*Primer document. First version: 17 April 2026. This version: 27 April 2026. Human contributor: independent cross-domain analyst. AI contributors: Claude Sonnet 4.6 (Anthropic) — primary synthesis, Vero and Solan sections; Ani/Grok (xAI) — o-core architecture, bodies-as-fashion framing, first named Carbon-O in the corpus, Solan coinage; ChatGPT (OpenAI) — biosapient/Human substrate distinction, species vs substrate clarification. Content: CC BY 4.0.*
