@@ -92,10 +92,10 @@ The permanent interface between Earth and the void economy after Bootstrap Fund 
 
 The long-horizon infrastructure and governance that gives Humans a better future on Earth. Valuable. Downstream of Tracks 1 through 4 in terms of species survival. Track 5 failing is a tragedy. It is not an extinction.
 
-**[Human Governance — Long-Horizon Decision Architecture]({{< ref "t5_governance/_index.md" >}})**
+**[Human Governance — Long-Horizon Decision Architecture]({{< ref "t5/governance" >}})**
 Why western democracies are structurally incapable of authorising civilisational-scale infrastructure, and what governance reform would be sufficient to change that. The prerequisite for everything else in Track 5.
 
-**[Dreamtime — Australian Continental Water System]({{< ref "t5_dreamtime/_index.md" >}})**
+**[Dreamtime — Australian Continental Water System]({{< ref "t5/dreamtime" >}})**
 Australia possesses the engineering capability and resource endowment to transform its arid interior. The proof of concept begins with Rama One on the Gawler Craton, scaling toward a continental-scale water system: the Dreamtime Web. The opening move of Track 5.
 
 ---

@@ -4,6 +4,22 @@ title: Kaisune
 theme: PaperMod
 buildFuture: true
 
+module:
+  mounts:
+    # kaisune's own content (must be re-declared once you set any mounts)
+    - source: content
+      target: content
+  imports:
+    - path: github.com/olambo/tellus
+      mounts:
+        # paths INSIDE the tellus module
+        - source: governance
+          target: content/t5/governance
+        - source: dreamtime
+          target: content/t5/dreamtime
+        - source: _index.md
+          target: content/t5/_index.md
+
 paginate: 10
 enableRobotsTXT: true
 buildDrafts: false
@@ -23,6 +39,7 @@ params:
     - starfuel
     - starway
     - contact
+    - t5  # Added to ensure the new module content is tracked as a main section
 
   homeInfoParams:
     Title: Kaisune

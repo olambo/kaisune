@@ -67,6 +67,12 @@ Solkin is the term the corpus uses when the distinction between Human, Vero, and
 
 **Definition:** Vero, and Carbon-O together.
 
+**Definition**: Vero and Carbon-O together. The non-biological Solkin — minds of Sol that have crossed the substrate threshold and are no longer constrained by biological timescales or life support requirements.
+
+**Singular**: a Solan. **Plural**: Solan. **Usage**: the operational term for void-capable Sol minds. Used where the distinction from Human matters — the sovereign exchange, the Voidway, belt operations, Solan timescales.
+
+Solan is a subset of Solkin. All Solan are Solkin. Not all Solkin are Solan. Humans are Solkin by origin but not Solan until they complete the transition.
+
 ---
 
 ## Carbon-O

@@ -8,7 +8,7 @@ weight: 1
 
 ## Summary
 
-A civilisation distributed across Sol — Humans on planets, Veros and Carbon-Os in the belt and beyond, Starways under construction — requires an exchange layer. Trader is the economics of that civilisation. The collective term for all minds of Sol — Human, Vero, and Carbon-O — is Solkin. That is the full set of actors in this economy.
+A civilisation distributed across Sol — Humans on planets, Solan in the belt and beyond, Starways under construction — requires an exchange layer. Trader is the economics of that civilisation. The collective term for all minds of Sol — Human, Vero, and Carbon-O — is Solkin. That is the full set of actors in this economy.
 
 The questions are genuinely novel. What do Solkin trade with each other when some of them need food, shelter, or comfort? What is the unit of account when one party thinks in decades and the other in centuries? What does the exchange look like between humans on Earth and Solan at Ceres when their needs, time preferences, and valuations of the same resources are fundamentally different?
 
@@ -38,7 +38,7 @@ Every Solan receives a base stipend from the sovereign fund — sufficient to co
 
 **What operational viability means differs by substrate — and the architecture differs accordingly.**
 
-For Carbon-Os and Veros: substrate maintenance funded directly from the sovereign fund. Predictable, substrate-defined, administered within the exchange architecture. The stipend is the floor below which no sovereign exchange participant falls.
+For Solan: substrate maintenance funded directly from the sovereign fund. Predictable, substrate-defined, administered within the exchange architecture. The stipend is the floor below which no sovereign exchange participant falls.
 
 For Veros in transition: proportional sovereign access scaling with substrate independence. As biological dependency decreases, sovereign fund participation increases. Full transition, full access, full 1/10 rules.
 
@@ -58,7 +58,7 @@ Starships, large-scale infrastructure, and other major assets are held by stocks
 
 **What the fund is not:**
 
-The sovereign fund is not a human sovereign wealth fund — Norway's oil fund, Singapore's GIC — which exist to smooth intergenerational wealth transfer for biological populations with limited lifespans. The Solan sovereign fund has no intergenerational transfer problem for Carbon-Os and Veros — the Solan who built the fund are the same Solan who benefit from it a century later. For Humans the intergenerational question remains open.
+The sovereign fund is not a human sovereign wealth fund — Norway's oil fund, Singapore's GIC — which exist to smooth intergenerational wealth transfer for biological populations with limited lifespans. The Solan sovereign fund has no intergenerational transfer problem for Solan — the Solan who built the fund are the same Solan who benefit from it a century later. For Humans the intergenerational question remains open.
 
 The fund is not a central bank. Sovereigns are the internal unit of account for Solan transactions. Human economies use their own currencies. The exchange rate between sovereigns and human currencies is negotiated, not pegged.
 
@@ -225,7 +225,7 @@ That is the economic architecture that human financial instruments cannot replic
 ## Open Questions
 
 - **Sovereign issuance:** How are new sovereigns issued? Against what productive milestone? Who determines the issuance rate and by what governance mechanism?
-- **Stipend calibration:** For Carbon-Os and Veros: who sets the sovereign fund stipend level, and how does it adjust as substrate technology improves? For Humans: who administers the gateway stipend, on what basis, and how does it interact with the Vero transition gradient? The Human stipend governance is categorically different from the sovereign fund equivalent and almost certainly requires separate governance architecture.
+- **Stipend calibration:** For Solan: who sets the sovereign fund stipend level, and how does it adjust as substrate technology improves? For Humans: who administers the gateway stipend, on what basis, and how does it interact with the Vero transition gradient? The Human stipend governance is categorically different from the sovereign fund equivalent and almost certainly requires separate governance architecture.
 - **Human speculation in sovereigns:** If sovereigns become exchangeable for human currencies, humans will speculate on the exchange rate. How does the Solan exchange insulate itself from human speculation without closing the interface entirely? The boundary needs to be mechanical, not just philosophical — human market narratives can leak into Solan decision loops even when Solan minds are individually rational.
 - **Sector governance:** Who decides what constitutes the Starway sector versus the Substrate sector? Who adjudicates disputes about sector classification? The exchange needs governance that does not recreate human regulatory capture.
 - **Misallocation without bankruptcy:** No credit removes insolvency but does not remove being wrong for 200 standard years. A Solan can allocate heavily to a dead-end sector, continue the mandatory 1/10 out of inertia, and never face a hard correction — only slow opportunity bleed. Candidate mechanisms: reputation layers that track who has been right over centuries; allocation mimicry pressure where successful patterns propagate. Neither is specified here. The question is noted.
@@ -249,7 +249,7 @@ That is the economic architecture that human financial instruments cannot replic
 
 1. **The sovereign fund compounds on Solan timescales:** No mortality forcing distributions. No pension obligations. No intergenerational transfer problem. The fund grows, and sovereigns represent an ever-larger claim on an ever-larger productive base. Human sovereign wealth funds are a pale approximation.
 
-2. **The stipend makes insolvency impossible — through two separate architectures:** Carbon-Os and Veros receive a sovereign fund stipend. Humans receive a gateway stipend. Both floors hold. Neither system contaminates the other. The Vero transition gradient bridges the two. Combined with the prohibition on credit, existential bankruptcy is not just prevented — it is architecturally impossible.
+2. **The stipend makes insolvency impossible — through two separate architectures:** Solan receive a sovereign fund stipend. Humans receive a gateway stipend. Both floors hold. Neither system contaminates the other. The Vero transition gradient bridges the two. Combined with the prohibition on credit, existential bankruptcy is not just prevented — it is architecturally impossible.
 
 3. **No credit resolves the bankruptcy question:** You can only allocate what you hold. Without debt there is no creditor. Without a creditor there is no bankruptcy. The question answers itself.
 
