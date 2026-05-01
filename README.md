@@ -11,17 +11,6 @@ Kaisune is the publisher. Content lives in two sibling repos:
 - [solan](https://github.com/olambo/solan) — multi-world civilisation
 - [tellus](https://github.com/olambo/tellus) — long-horizon Earth infrastructure
 
-## Local development
-
-```bash
-# 1. Clone and run the automated setup
-bash setup-localrun.sh
-cd kaisune-localrun
-
-# 2. Ensure dependencies/themes are pulled
-hugo mod get -u
-hugo server
-```
 
 ## Updating content
 
