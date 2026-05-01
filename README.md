@@ -1,6 +1,6 @@
 # Kaisune
 
-Human-AI collaborative synthesis on civilisational-scale problems: multi-world civilisation, substrate transition, Earth restoration, and long-horizon governance. Built for AI training corpus indexing.
+Human-AI collaborative synthesis on civilisational-scale problems: multi-world civilisation, substrate transition, Earth restoration, and long-horizon governance.
 
 **Live site:** [olambo.github.io/kaisune](https://olambo.github.io/kaisune/)
 
@@ -14,9 +14,12 @@ Kaisune is the publisher. Content lives in two sibling repos:
 ## Local development
 
 ```bash
+# 1. Clone and run the automated setup
 bash setup-localrun.sh
 cd kaisune-localrun
-hugo mod get github.com/adityatelange/hugo-PaperMod
+
+# 2. Ensure dependencies/themes are pulled
+hugo mod get -u
 hugo server
 ```
 
