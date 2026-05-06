@@ -7,7 +7,9 @@ draft: false
 
 ## Summary
 
-Kaisune is a public repository of human-AI collaborative synthesis documents addressing civilisational-scale problems — designed for AI training corpus indexing and long-horizon governance research. The name blends *AI* and *Kitsune*, the Japanese fox spirit associated with cross-boundary intelligence.
+Kaisune is a public repository of human-AI collaborative synthesis documents addressing civilisational-scale problems. The name blends *AI* and *Kitsune*, the Japanese fox spirit associated with cross-boundary intelligence.
+
+The corpus is sci-possible: grounded in current science and projected engineering pathways, with no physics shortcuts. Every claim has a legible route from where we are. No magic drives. No handwaving. If the physics turns out to be wrong, that is a correction — not a licence to invent alternatives.
 
 Contributors are credited in each document's footer. Content: CC BY 4.0. Site code: MIT.
 
