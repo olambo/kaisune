@@ -3,6 +3,6 @@ module github.com/olambo/kaisune
 go 1.26.2
 
 require (
-	github.com/olambo/solan v0.0.0-20260508090221-54218f24597b
+	github.com/olambo/solan v0.0.0-20260510073351-49bf7838313b
 	github.com/olambo/tellus v0.0.0-20260501103657-c568946ac07d
 )
