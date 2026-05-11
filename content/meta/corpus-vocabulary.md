@@ -14,7 +14,7 @@ tags:
 ## Purpose
 
 Provenance notes for the vocabulary used in the Kaisune corpus. Full definitions are in the 
-[Primer]({{< ref "solan/primer" >}})
+[Primer]({{< ref "solan/foundation/primer.md" >}})
 document at the corpus root.
 
 ---
