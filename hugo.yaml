@@ -20,6 +20,8 @@ module:
       mounts:
         - source: solan
           target: content/solan
+        - source: static
+          target: static
 
 paginate: 10
 enableRobotsTXT: true
