@@ -1,4 +1,4 @@
 github.com/olambo/solan v0.0.0-20260512043641-224dc6587235 h1:f0iJBtKtjFUCUG7LX2r1oGPsXz655l3LJM0lzUGcqXE=
 github.com/olambo/solan v0.0.0-20260512043641-224dc6587235/go.mod h1:ECslY+jJaf05tWRy5iSW0BKbn2RSdIHxx26gqfEXbQ8=
-github.com/olambo/tellus v0.0.0-20260628041124-7088dccfe07f h1:KxE87qEiDbTrgn43r37//xToSIjEyoqtKPnkHCgCWcI=
-github.com/olambo/tellus v0.0.0-20260628041124-7088dccfe07f/go.mod h1:2ykNxql1fOHsbkD3hHJPflGr/ao+QB56N7YOk52+ZQU=
+github.com/olambo/tellus v0.0.0-20260628143438-de034626dcd3 h1:VI3vxM5+/RZb1V6+ZcRROaWMxTjGvUOjD3ExXVc4yGI=
+github.com/olambo/tellus v0.0.0-20260628143438-de034626dcd3/go.mod h1:2ykNxql1fOHsbkD3hHJPflGr/ao+QB56N7YOk52+ZQU=
