@@ -59,6 +59,9 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/olambo/kaisune"
+    - name: github
+      title: "Sponsor"
+      url: "https://github.com/sponsors/olambo"
 
 taxonomies:
   tag: tags
